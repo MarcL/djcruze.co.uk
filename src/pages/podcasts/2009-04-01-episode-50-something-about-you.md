@@ -3,7 +3,7 @@ title: 'Episode #50 &#8211; Something About You'
 author: djcruze
 #permalink: /2009/04/01/episode-50-something-about-you/
 permalink: /podcasts/episode-50-something-about-you/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,11 +11,9 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast050_010409.mp3
         59743492
         audio/mpeg
-        
+
 votio:
   - 9.236842105263,38,
-categories:
-  - Podcasts
 
 ###################################
 # Podcast
@@ -28,24 +26,24 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast50.jpg"
-  content: "audio/podcasts/Cruze_Podcast050_010409.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast50.jpg'
+  content: 'audio/podcasts/Cruze_Podcast050_010409.mp3'
+  length: '01:00:00'
+  keywords: ''
   # Set GUID for old podcasts to keep XML happy
-  guid: "http://www.djcruze.co.uk/cms/?p=678"
+  guid: 'http://www.djcruze.co.uk/cms/?p=678'
   tracklist:
-    - "[00:00:00] Groove Armada &#8211; Drop The Tough (The Twelves B-Live Club Remix) &#8211; B-Live"
-    - "[00:04:10] City Life &#8211; San Francisco (Fred Falke Remix) &#8211; Onelove"
-    - "[00:11:03] Soul Avengerz &#8211; Someday (Soul Avengerz Club Soda Mix) &#8211; Soda Records"
-    - "[00:18:04] Emma Deigman &#8211; Tell Your Mama (Alex Blanco Mix) &#8211; Storm Records"
-    - "[00:24:20] Live Element &#8211; Something About You (Live Element Remix) &#8211; Gossip Records"
-    - "[00:30:05] Disco Wheels &#8211; Good Times (DJ DLG Mix) &#8211; 3Beat Blue"
-    - "[00:36:50] Dennis Christopher &#8211; Set It Off (Dirty Secretz Mix) &#8211; Spinnin Records"
-    - "[00:43:09] Korgis &#8211; I Need Your Loving (Laidback Luke Bootleg) &#8211; White"
-    - "[00:49:54] Pryda &#8211; Miami To Atlanta (Original Mix) &#8211; Pryda Recordings"
-    - "Cruze classic from 1991: "
-    - "[00:55:37] Zero B &#8211; Lock Up &#8211; Great Asset"
+    - '[00:00:00] Groove Armada &#8211; Drop The Tough (The Twelves B-Live Club Remix) &#8211; B-Live'
+    - '[00:04:10] City Life &#8211; San Francisco (Fred Falke Remix) &#8211; Onelove'
+    - '[00:11:03] Soul Avengerz &#8211; Someday (Soul Avengerz Club Soda Mix) &#8211; Soda Records'
+    - '[00:18:04] Emma Deigman &#8211; Tell Your Mama (Alex Blanco Mix) &#8211; Storm Records'
+    - '[00:24:20] Live Element &#8211; Something About You (Live Element Remix) &#8211; Gossip Records'
+    - '[00:30:05] Disco Wheels &#8211; Good Times (DJ DLG Mix) &#8211; 3Beat Blue'
+    - '[00:36:50] Dennis Christopher &#8211; Set It Off (Dirty Secretz Mix) &#8211; Spinnin Records'
+    - '[00:43:09] Korgis &#8211; I Need Your Loving (Laidback Luke Bootleg) &#8211; White'
+    - '[00:49:54] Pryda &#8211; Miami To Atlanta (Original Mix) &#8211; Pryda Recordings'
+    - 'Cruze classic from 1991: '
+    - '[00:55:37] Zero B &#8211; Lock Up &#8211; Great Asset'
 ---
 
 So how did March slip away without a DJ Cruze podcast?! Thankfully I&#8217;ve managed to get it done in time for the start of April though. So here we are with episode #50 of the DJ Cruze podcast and there are plenty of big tunes for you on this show.

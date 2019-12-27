@@ -3,7 +3,7 @@ title: 'Episode #52 &#8211; In The Moment'
 author: djcruze
 #permalink: /2009/06/16/episode-52-in-the-moment/
 permalink: /podcasts/episode-52-in-the-moment/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,11 +11,9 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast052_160609.mp3
         57482287
         audio/mpeg
-        
+
 votio:
   - 9.4285714285715,28,
-categories:
-  - Podcasts
 
 ###################################
 # Podcast
@@ -28,25 +26,25 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast52.jpg"
-  content: "audio/podcasts/Cruze_Podcast052_160609.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast52.jpg'
+  content: 'audio/podcasts/Cruze_Podcast052_160609.mp3'
+  length: '01:00:00'
+  keywords: ''
   # Set GUID for old podcasts to keep XML happy
-  guid: "http://www.djcruze.co.uk/cms/?p=705"
+  guid: 'http://www.djcruze.co.uk/cms/?p=705'
   tracklist:
-    - "[00:00:00] Spencer &#038; Hill &#8211; Cool (Cool Mix) &#8211; Tiger Records"
-    - "[00:05:12] Fedde Le Grande feat Mitch Crowne &#8211; Scared Of Me (Extended Mix) &#8211; Flamingo Recordings"
-    - "[00:08:12] Michael Gray &#038; Danism feat. Lisa Millet &#8211; Say Yes (Original Mix) &#8211; Defected"
-    - "[00:14:19] The Viron Ltd. feat. Max C &#8211; Wanna Be Happy (Thomas Gold Remix) &#8211; Milk &#038; Sugar"
-    - "[00:19:42] Haji &#038; Emanuel feat. Roachford &#8211; In The Moment (DBN Remix) &#8211; Big Love"
-    - "[00:24:42] Jean Elan &#8211; Killer (Jean Elan Mix) &#8211; Shake Me Please!"
-    - "[00:30:38] Timofey and Bartosz Brenes feat. Jerique &#8211; Don&#8217;t You Know (Club Mix) &#8211; Vector Records"
-    - "[00:35:25] Don Diablo &#8211; Disco Disco Disco (Riva Starr Snatch Remix) &#8211; Sellout Sessions"
-    - "[00:40:25] Wolfgang Gartner &#8211; Wolfgang&#8217;s 5th Symphony (Original Mix) &#8211; Kindergarten"
-    - "[00:46:40] Lambda &#8211; Hold On Tight (PhonJaxx Remix) &#8211; Black Plastic"
-    - "Cruze classic from 2002: "
-    - "[00:52:29] Archigram &#8211; Carnavale &#8211; Crydamoure"
+    - '[00:00:00] Spencer &#038; Hill &#8211; Cool (Cool Mix) &#8211; Tiger Records'
+    - '[00:05:12] Fedde Le Grande feat Mitch Crowne &#8211; Scared Of Me (Extended Mix) &#8211; Flamingo Recordings'
+    - '[00:08:12] Michael Gray &#038; Danism feat. Lisa Millet &#8211; Say Yes (Original Mix) &#8211; Defected'
+    - '[00:14:19] The Viron Ltd. feat. Max C &#8211; Wanna Be Happy (Thomas Gold Remix) &#8211; Milk &#038; Sugar'
+    - '[00:19:42] Haji &#038; Emanuel feat. Roachford &#8211; In The Moment (DBN Remix) &#8211; Big Love'
+    - '[00:24:42] Jean Elan &#8211; Killer (Jean Elan Mix) &#8211; Shake Me Please!'
+    - '[00:30:38] Timofey and Bartosz Brenes feat. Jerique &#8211; Don&#8217;t You Know (Club Mix) &#8211; Vector Records'
+    - '[00:35:25] Don Diablo &#8211; Disco Disco Disco (Riva Starr Snatch Remix) &#8211; Sellout Sessions'
+    - '[00:40:25] Wolfgang Gartner &#8211; Wolfgang&#8217;s 5th Symphony (Original Mix) &#8211; Kindergarten'
+    - '[00:46:40] Lambda &#8211; Hold On Tight (PhonJaxx Remix) &#8211; Black Plastic'
+    - 'Cruze classic from 2002: '
+    - '[00:52:29] Archigram &#8211; Carnavale &#8211; Crydamoure'
 ---
 
 Here you go. Another hour of funky house, twisted disco and electro beats all served up in a handy little package we call the DJ Cruze Podcast Episode #52. I&#8217;ve thankfully managed to get it done in a month too which is always good!

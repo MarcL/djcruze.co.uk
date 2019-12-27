@@ -3,7 +3,7 @@ title: 'Episode #49 &#8211; Flashback'
 author: djcruze
 #permalink: /2009/02/12/episode-49-flashback/
 permalink: /podcasts/episode-49-flashback/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,11 +11,9 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast049_120209.mp3
         57550444
         audio/mpeg
-        
+
 votio:
   - 9.1034482758621,29,
-categories:
-  - Podcasts
 
 ###################################
 # Podcast
@@ -28,25 +26,25 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast49.jpg"
-  content: "audio/podcasts/Cruze_Podcast049_120209.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast49.jpg'
+  content: 'audio/podcasts/Cruze_Podcast049_120209.mp3'
+  length: '01:00:00'
+  keywords: ''
   # Set GUID for old podcasts to keep XML happy
-  guid: "http://www.djcruze.co.uk/cms/?p=628"
+  guid: 'http://www.djcruze.co.uk/cms/?p=628'
   tracklist:
-    - "[00:00:00] Jimmy D Robinson &#8211; A Tiny Shoe (Josh Harris Vocal Mix) &#8211; J Music Group"
-    - "[00:05:54] Kid Cudi vs Crookers &#8211; Day N Night (Bimbo Jones Mix) &#8211; Fools Gold"
-    - "[00:12:48] Doman &#038; Gooding feat Dru &#038; Lincoln &#8211; Runnin (Ian Carey Remix) &#8211; Positiva"
-    - "[00:17:43] Rudenko &#8211; Everybody (Morjac Remix) &#8211; Data"
-    - "[00:22:46] Steve Angello &#038; Laidback Luke feat Robin S &#8211; Show Me Love (AC Slater Vocal Mix) &#8211; Data"
-    - "[00:27:56] Super Mal &#8211; Dow Dow (Original Mix) &#8211; Bandito Records"
-    - "[00:32:36] Wolfgang Gartner &#8211; Flashback (Original Mix) &#8211; Kindergarten"
-    - "[00:37:32] Carlo Dall&#8217;Anese &#038; Fabio Castro &#8211; Monday (Henry John Morgan Remix) &#8211; Oxyd"
-    - "[00:43:34] Disco 12 &#8211; Maybe It&#8217;s Me (Original Mix) &#8211; Used And Abused"
-    - "[00:48:36] Bimbo Jones &#8211; Come On (Up) &#8211; CDR"
-    - "Cruze classic from 1993: "
-    - "[00:55:37] Helicopter &#8211; On Ya Way &#8211; Tic Tac Toe"
+    - '[00:00:00] Jimmy D Robinson &#8211; A Tiny Shoe (Josh Harris Vocal Mix) &#8211; J Music Group'
+    - '[00:05:54] Kid Cudi vs Crookers &#8211; Day N Night (Bimbo Jones Mix) &#8211; Fools Gold'
+    - '[00:12:48] Doman &#038; Gooding feat Dru &#038; Lincoln &#8211; Runnin (Ian Carey Remix) &#8211; Positiva'
+    - '[00:17:43] Rudenko &#8211; Everybody (Morjac Remix) &#8211; Data'
+    - '[00:22:46] Steve Angello &#038; Laidback Luke feat Robin S &#8211; Show Me Love (AC Slater Vocal Mix) &#8211; Data'
+    - '[00:27:56] Super Mal &#8211; Dow Dow (Original Mix) &#8211; Bandito Records'
+    - '[00:32:36] Wolfgang Gartner &#8211; Flashback (Original Mix) &#8211; Kindergarten'
+    - '[00:37:32] Carlo Dall&#8217;Anese &#038; Fabio Castro &#8211; Monday (Henry John Morgan Remix) &#8211; Oxyd'
+    - '[00:43:34] Disco 12 &#8211; Maybe It&#8217;s Me (Original Mix) &#8211; Used And Abused'
+    - '[00:48:36] Bimbo Jones &#8211; Come On (Up) &#8211; CDR'
+    - 'Cruze classic from 1993: '
+    - '[00:55:37] Helicopter &#8211; On Ya Way &#8211; Tic Tac Toe'
 ---
 
 As always it&#8217;s been far too long since the last podcast. After making two best of mixes (part 1 and part 2) for you I decided to not publish a podcast in January to give me a brief rest! But I&#8217;m back now with another hour of funky and chunky house music for 2009.

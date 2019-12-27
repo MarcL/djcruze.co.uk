@@ -1,10 +1,9 @@
 ---
 title: 'Episode #47 &#8211; The Best Of 2008 Mix Part 1 &#8211; The House Mix'
 author: djcruze
-layout: post
 #permalink: /2009/01/02/episode-47-the-best-of-2008-mix-part-1-the-house-mix/
 permalink: /podcasts/episode-47-the-best-of-2008-mix-part-1-the-house-mix/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -12,7 +11,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast047_010109.mp3
         72540405
         audio/mpeg
-        
+
 votio:
   - 9.1562500000001,32,
 
@@ -27,24 +26,25 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast47.jpg"
-  content: "audio/podcasts/Cruze_Podcast047_010109.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast47.jpg'
+  content: 'audio/podcasts/Cruze_Podcast047_010109.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] The Ting Tings &#8211; Great DJ (Calvin Harris Remix) &#8211; Columbia"
-    - "[00:06:18] Harris &#038; Spoon feat Sam Obernik &#8211; Baditude (Club Mix) &#8211; Toolroom Records"
-    - "[00:12:07] Tim Deluxe &#8211; You Got Tha Touch (Original) &#8211; Skint"
-    - "[00:18:22] The Whitest Boy Alive &#8211; Golden Cage (Fred Falke Mix) &#8211; Modular"
-    - "[00:24:52] Machines Don&#8217;t Care &#8211; Afrojacker &#8211; White"
-    - "[00:29:56] Till West &#038; Eddie Thoneick &#8211; Hi N Bye (Smax &#038; Gold Remix) &#8211; Phunkwerk"
-    - "[00:37:11] Rihanna &#8211; Take A Bow (Seamus Haji Remix) &#8211; Mercury"
-    - "[00:44:56] Adele &#8211; Hometown Glory (Axwell Club Mix) &#8211; XL"
-    - "[00:49:20] Axwell &#038; Bob Sinclar feat Ron Carroll &#8211; What A Wonderful World (Club Mix) &#8211; Defected Records"
-    - "[00:55:22] Max Linen &#8211; Neon Lights (Original Full Vocal Mix) &#8211; Phonetic"
-    - "[01:02:07] The Montanas &#038; DJ Roland Clark &#8211; Music Talking (Fred Falke Remix) &#8211; Strictly"
-    - "[01:08:00] Eric Prydz &#8211; Pjanoo &#8211; Pryda"
+    - '[00:00:00] The Ting Tings &#8211; Great DJ (Calvin Harris Remix) &#8211; Columbia'
+    - '[00:06:18] Harris &#038; Spoon feat Sam Obernik &#8211; Baditude (Club Mix) &#8211; Toolroom Records'
+    - '[00:12:07] Tim Deluxe &#8211; You Got Tha Touch (Original) &#8211; Skint'
+    - '[00:18:22] The Whitest Boy Alive &#8211; Golden Cage (Fred Falke Mix) &#8211; Modular'
+    - '[00:24:52] Machines Don&#8217;t Care &#8211; Afrojacker &#8211; White'
+    - '[00:29:56] Till West &#038; Eddie Thoneick &#8211; Hi N Bye (Smax &#038; Gold Remix) &#8211; Phunkwerk'
+    - '[00:37:11] Rihanna &#8211; Take A Bow (Seamus Haji Remix) &#8211; Mercury'
+    - '[00:44:56] Adele &#8211; Hometown Glory (Axwell Club Mix) &#8211; XL'
+    - '[00:49:20] Axwell &#038; Bob Sinclar feat Ron Carroll &#8211; What A Wonderful World (Club Mix) &#8211; Defected Records'
+    - '[00:55:22] Max Linen &#8211; Neon Lights (Original Full Vocal Mix) &#8211; Phonetic'
+    - '[01:02:07] The Montanas &#038; DJ Roland Clark &#8211; Music Talking (Fred Falke Remix) &#8211; Strictly'
+    - '[01:08:00] Eric Prydz &#8211; Pjanoo &#8211; Pryda'
 ---
+
 Happy new year to all of the DJ Cruze podcast listeners!
 
 It&#8217;s that time of the year when I give you the &#8220;Best Of&#8230;&#8221; mix for the year that has just gone and apologies that it&#8217;s a day late. The main reason for this has been trying to choose all of the fantastic tunes to put into the mix. It took me about 4 hours of listening to the great house tracks from 2008 to whittle it down to around 60 tracks which I wanted to use. There&#8217;s obviously no way I can get these into a 1 hour house mix so I have decided to do two &#8220;Best Of 2008&#8243; house music mixes. This one is the first and it features the best house tracks from 2008 into one CD-length mix with no talking. Hopefully I&#8217;ve chosen some of the tracks you love too!
@@ -101,8 +101,8 @@ What can I say about this track. It originally came out at the start of the year
 
 Right, I hope you&#8217;ve enjoyed part 1 of the &#8220;Best Of 2008 Mix&#8221; and I&#8217;ll be compiling and mixing part 2 &#8220;The Electro House Mix&#8221; in the next week. It should be online next Sunday (11th January 2009) with any luck!
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/01/podcast47.jpg
- [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast047_010109.mp3
- [4]: http://www.last.fm/user/DJCruze
- [5]: http://www.djcruze.co.uk/cms/2008/07/23/july-2008-mix-ibiza-sunset/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/01/podcast47.jpg
+[2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast047_010109.mp3
+[4]: http://www.last.fm/user/DJCruze
+[5]: http://www.djcruze.co.uk/cms/2008/07/23/july-2008-mix-ibiza-sunset/

@@ -1,7 +1,6 @@
 ---
 title: 'Episode #49 &#8211; Flashback'
 author: djcruze
-layout: post
 #permalink: /2009/02/12/episode-49-flashback/
 permalink: /podcasts/episode-49-flashback/
 "itunes:category":
@@ -62,9 +61,9 @@ So I hope you enjoy this week&#8217;s DJ Cruze podcast and I&#8217;ll be back in
 
 Original [Flashback picture][5] by [Ewan-M][6], used under Creative Commons licence.
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/02/podcast49.jpg
- [2]: http://www.saschalupeski.com/
- [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast049_120209.mp3
- [5]: http://www.flickr.com/photos/55935853@N00/2432815403/
- [6]: http://www.flickr.com/photos/55935853@N00/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/02/podcast49.jpg
+[2]: http://www.saschalupeski.com/
+[3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast049_120209.mp3
+[5]: http://www.flickr.com/photos/55935853@N00/2432815403/
+[6]: http://www.flickr.com/photos/55935853@N00/

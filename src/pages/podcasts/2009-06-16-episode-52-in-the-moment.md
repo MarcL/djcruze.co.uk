@@ -1,7 +1,6 @@
 ---
 title: 'Episode #52 &#8211; In The Moment'
 author: djcruze
-layout: post
 #permalink: /2009/06/16/episode-52-in-the-moment/
 permalink: /podcasts/episode-52-in-the-moment/
 "itunes:category":
@@ -62,9 +61,9 @@ So enjoy this month&#8217;s show and don&#8217;t forget to comment below and tel
 
 Original [picture][5] by [Sera Leaving][6], used under Creative Commons licence.
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/06/podcast52.jpg
- [2]: http://www.philipp-lehberger.de/
- [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast052_160609.mp3
- [5]: http://www.flickr.com/photos/sera_leaving/3612961678/
- [6]: http://www.flickr.com/photos/sera_leaving/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/06/podcast52.jpg
+[2]: http://www.philipp-lehberger.de/
+[3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast052_160609.mp3
+[5]: http://www.flickr.com/photos/sera_leaving/3612961678/
+[6]: http://www.flickr.com/photos/sera_leaving/

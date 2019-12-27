@@ -1,10 +1,9 @@
 ---
 title: 'Episode #51 &#8211; Melo'
 author: djcruze
-layout: post
 #permalink: /2009/05/14/episode-51-melo/
 permalink: /podcasts/episode-51-melo/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -12,7 +11,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast051_140509.mp3
         59595253
         audio/mpeg
-        
+
 votio:
   - 8.5757575757576,33,
 
@@ -27,24 +26,24 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast51.jpg"
-  content: "audio/podcasts/Cruze_Podcast051_140509.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast51.jpg'
+  content: 'audio/podcasts/Cruze_Podcast051_140509.mp3'
+  length: '01:00:00'
+  keywords: ''
   # Set GUID for old podcasts to keep XML happy
-  guid: "http://www.djcruze.co.uk/cms/?p=688"
+  guid: 'http://www.djcruze.co.uk/cms/?p=688'
   tracklist:
-    - "[00:00:00] Calvin Harris &#8211; I&#8217;m Not Alone (Deadmau5 Remix) &#8211; Fly Eye Records"
-    - "[00:06:30] Steve Angello, Axwell, Sebastian Ingrosso and Laidback Luke &#8211; Leave The World Behind (Original Mix) &#8211; Axtone Records"
-    - "[00:11:45] Pryda &#8211; Lift (Original Mix) &#8211; Pryda Recordings"
-    - "[00:18:37] Vandalism &#8211; Bucci Bag (Ian Carey Remix) &#8211; Vicious Grooves"
-    - "[00:23:52] DJ D &#038; Will Dawson &#8211; Do It Tonight (Funkfinders Electroid Remix) &#8211; Metrogroove Records"
-    - "[00:29:38] David Guetta feat Kelly Rowland &#8211; When Love Takes Over (Electro Extended Mix) &#8211; F*** Me I&#8217;m Famous"
-    - "[00:37:03] Wolfgang Gartner &#8211; Push &#038; Rise (Original Mix) &#8211; Kindergarten"
-    - "[00:42:17] Phonat &#8211; Set Me Free (Original Mix) &#8211; Mofo Hifi"
-    - "[00:48:10] Pryda &#8211; Melo (Original Mix) &#8211; Pryda Recordings"
-    - "Cruze classic from 1993: "
-    - "[00:55:18] Deadly Sins &#8211; We Are Going On Down (Bottom Dollar Club Mix) &#8211; Ffrreedom"
+    - '[00:00:00] Calvin Harris &#8211; I&#8217;m Not Alone (Deadmau5 Remix) &#8211; Fly Eye Records'
+    - '[00:06:30] Steve Angello, Axwell, Sebastian Ingrosso and Laidback Luke &#8211; Leave The World Behind (Original Mix) &#8211; Axtone Records'
+    - '[00:11:45] Pryda &#8211; Lift (Original Mix) &#8211; Pryda Recordings'
+    - '[00:18:37] Vandalism &#8211; Bucci Bag (Ian Carey Remix) &#8211; Vicious Grooves'
+    - '[00:23:52] DJ D &#038; Will Dawson &#8211; Do It Tonight (Funkfinders Electroid Remix) &#8211; Metrogroove Records'
+    - '[00:29:38] David Guetta feat Kelly Rowland &#8211; When Love Takes Over (Electro Extended Mix) &#8211; F*** Me I&#8217;m Famous'
+    - '[00:37:03] Wolfgang Gartner &#8211; Push &#038; Rise (Original Mix) &#8211; Kindergarten'
+    - '[00:42:17] Phonat &#8211; Set Me Free (Original Mix) &#8211; Mofo Hifi'
+    - '[00:48:10] Pryda &#8211; Melo (Original Mix) &#8211; Pryda Recordings'
+    - 'Cruze classic from 1993: '
+    - '[00:55:18] Deadly Sins &#8211; We Are Going On Down (Bottom Dollar Club Mix) &#8211; Ffrreedom'
 ---
 
 Back once again with the renegade master DJ Cruze! Episode #51 of the DJ Cruze Podcast finally drops onto your iPod (or other MP3 player obviously!) How did I manage to let this one slip so late into May? Life gets in the way sometimes! Sorry about that.
@@ -63,8 +62,8 @@ So enjoy this month&#8217;s show and don&#8217;t forget to comment below and tel
 
 Original [picture][4] by [Sheila Blige][5], used under Creative Commons licence.
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/05/podcast51.jpg
- [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast051_140509.mp3
- [4]: http://www.flickr.com/photos/sheila_blige/3055725835/
- [5]: http://www.flickr.com/photos/sheila_blige/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/05/podcast51.jpg
+[2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast051_140509.mp3
+[4]: http://www.flickr.com/photos/sheila_blige/3055725835/
+[5]: http://www.flickr.com/photos/sheila_blige/

@@ -1,7 +1,6 @@
 ---
 title: 'Episode #50 &#8211; Something About You'
 author: djcruze
-layout: post
 #permalink: /2009/04/01/episode-50-something-about-you/
 permalink: /podcasts/episode-50-something-about-you/
 "itunes:category":
@@ -63,8 +62,8 @@ So enjoy this month&#8217;s show and don&#8217;t forget to comment below and tel
 
 Original [picture][4] by [Thomas Hawk][5], used under Creative Commons licence.
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/03/podcast50.jpg
- [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast050_010409.mp3
- [4]: http://www.flickr.com/photos/thomashawk/3302621776/
- [5]: http://www.flickr.com/photos/thomashawk/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/03/podcast50.jpg
+[2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast050_010409.mp3
+[4]: http://www.flickr.com/photos/thomashawk/3302621776/
+[5]: http://www.flickr.com/photos/thomashawk/

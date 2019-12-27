@@ -1,10 +1,9 @@
 ---
 title: 'Episode #54 &#8211; Way In My Brain'
 author: djcruze
-layout: post
 #permalink: /2009/09/26/episode-54-way-in-my-brain/
 permalink: /podcasts/episode-54-way-in-my-brain/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -12,7 +11,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast054_260909.mp3
         58518554
         audio/mpeg
-        
+
 votio:
   - 9.0967741935482,31,
 
@@ -27,26 +26,26 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast54.jpg"
-  content: "audio/podcasts/Cruze_Podcast054_260909.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast54.jpg'
+  content: 'audio/podcasts/Cruze_Podcast054_260909.mp3'
+  length: '01:00:00'
+  keywords: ''
   # Set GUID for old podcasts to keep XML happy
-  guid: "http://www.djcruze.co.uk/cms/?p=748"
+  guid: 'http://www.djcruze.co.uk/cms/?p=748'
   tracklist:
-    - "[00:00:00] Boy 8-Bit &#8211; Baltic Pine (Original Mix) &#8211; This Is Music Ltd."
-    - "[00:05:39] Fake Blood &#8211; Fix Your Accent (Original Mix) &#8211; Cheap Thrills"
-    - "[00:09:50] Duck Sauce &#8211; Anyway &#8211; Fools Gold Records"
-    - "[00:14:38] Fake Blood &#8211; I Think I Like It (Original Mix) &#8211; Cheap Thrills"
-    - "[00:19:19] Tee Ski &#038; Shab Ruffcut &#8211; Iran (His Majesty Andre Is Very Lazy Mix) &#8211; ESP Records"
-    - "[00:23:15] Ou Est Le Swimming Pool &#8211; Dance The Way I Feel (Armand Van Helden Club Mix) &#8211; Stiff Records"
-    - "[00:28:03] Wolfgang Gartner &#8211; Fire Power (Original Mix) &#8211; Kindergarten"
-    - "[00:33:46] Eddie Thoneick feat. Andy P &#8211; Love Under Pressure (Eddie Thoneick Remix) &#8211; Tonik Recordings"
-    - "[00:38:09] David Guetta, Sebastian Ingrosso and Dirty South feat. Julie McKnight &#8211; How Soon Is Now (Extended Version) &#8211; Fk Me I&#8217;m Famous"
-    - "[00:44:18] Lys feat. Mooli &#8211; San Francisco Rain (Chris Lake Remix) &#8211; Rising Music"
-    - "[00:51:04] Sharooz &#8211; Adrenalize (Phonat Deconstructive Mix) &#8211; Mofo Hifi Records"
-    - "Cruze classic from 1991:"
-    - "[00:56:00] SL2 &#8211; Way In My Brain &#8211; XL Recordings"
+    - '[00:00:00] Boy 8-Bit &#8211; Baltic Pine (Original Mix) &#8211; This Is Music Ltd.'
+    - '[00:05:39] Fake Blood &#8211; Fix Your Accent (Original Mix) &#8211; Cheap Thrills'
+    - '[00:09:50] Duck Sauce &#8211; Anyway &#8211; Fools Gold Records'
+    - '[00:14:38] Fake Blood &#8211; I Think I Like It (Original Mix) &#8211; Cheap Thrills'
+    - '[00:19:19] Tee Ski &#038; Shab Ruffcut &#8211; Iran (His Majesty Andre Is Very Lazy Mix) &#8211; ESP Records'
+    - '[00:23:15] Ou Est Le Swimming Pool &#8211; Dance The Way I Feel (Armand Van Helden Club Mix) &#8211; Stiff Records'
+    - '[00:28:03] Wolfgang Gartner &#8211; Fire Power (Original Mix) &#8211; Kindergarten'
+    - '[00:33:46] Eddie Thoneick feat. Andy P &#8211; Love Under Pressure (Eddie Thoneick Remix) &#8211; Tonik Recordings'
+    - '[00:38:09] David Guetta, Sebastian Ingrosso and Dirty South feat. Julie McKnight &#8211; How Soon Is Now (Extended Version) &#8211; Fk Me I&#8217;m Famous'
+    - '[00:44:18] Lys feat. Mooli &#8211; San Francisco Rain (Chris Lake Remix) &#8211; Rising Music'
+    - '[00:51:04] Sharooz &#8211; Adrenalize (Phonat Deconstructive Mix) &#8211; Mofo Hifi Records'
+    - 'Cruze classic from 1991:'
+    - '[00:56:00] SL2 &#8211; Way In My Brain &#8211; XL Recordings'
 ---
 
 Time for another hour of funky and chunky house music from the crates of the DJ Cruze studio with episode #54 of the DJ Cruze Podcast. This show is another great one and this month I&#8217;ve gone on more of a disco tip to start off. It seems like the disco cut-up is back in fashion with some awesome tunes from the likes of Fake Blood (aka DJ Touche), Duck Sauce (aka Armand Van Helden and ex DMC World Champion DJ A-Trak), Tee Sky and Ou Est La Swimming Pool.
@@ -63,8 +62,8 @@ I hope you like the tracks on this month&#8217;s show and don&#8217;t forget to 
 
 Original [picture][4] by [Julien][5], used under Creative Commons licence.
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/09/podcast54.jpg
- [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast054_260909.mp3
- [4]: http://www.flickr.com/photos/spidey-man/228168488/
- [5]: http://www.flickr.com/photos/spidey-man/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/09/podcast54.jpg
+[2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast054_260909.mp3
+[4]: http://www.flickr.com/photos/spidey-man/228168488/
+[5]: http://www.flickr.com/photos/spidey-man/

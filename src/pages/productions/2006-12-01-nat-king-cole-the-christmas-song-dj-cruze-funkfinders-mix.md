@@ -2,12 +2,14 @@
 title: 'Nat King Cole &#8211; The Christmas Song (DJ Cruze Funkfinders Mix)'
 author: djcruze
 layout: post
-permalink: /2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
-"itunes:category":
+# permalink: /2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
+permalink: /productions/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
+'itunes:category':
   - Music
 categories:
   - Studio
 ---
+
 <img src='/cms/wp-content/natkingcole.gif' alt='Nat King Cole - The Christmas Song' class="normal" />
 
 <div class="download">
@@ -62,4 +64,4 @@ It was a pretty simple bootleg that I did in Ableton Live so don&#8217;t expect 
 
 I should have posted it up for you earlier in the year (or at the end of last year) but I thought I&#8217;d give it to you now for a bit of festive fun for your office Christmas party. If anyone manages to get their boss to dance to it then I&#8217;d like to see photos!
 
- [1]: http://www.djcruze.co.uk/cms/2005/12/22/episode-7-merry-christmas/
+[1]: http://www.djcruze.co.uk/cms/2005/12/22/episode-7-merry-christmas/

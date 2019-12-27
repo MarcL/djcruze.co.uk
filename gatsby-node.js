@@ -3,8 +3,14 @@ const { createFilePath } = require(`gatsby-source-filesystem`);
 
 exports.onCreateNode = ({ node, getNode, actions }) => {
   if (node.internal.type === `MarkdownRemark`) {
+    const { frontmatter } = node;
     const { createNodeField } = actions;
-    const slug = createFilePath({ node, getNode, basePath: `pages` });
+
+    // Create slug from YAML frontmatter permalink if it exists
+    // Otherwise, create it using the file system
+    let slug = frontmatter.permalink
+      ? frontmatter.permalink
+      : createFilePath({ node, getNode, basePath: `pages` });
 
     createNodeField({
       node,

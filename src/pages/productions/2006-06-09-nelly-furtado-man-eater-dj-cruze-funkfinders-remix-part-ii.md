@@ -2,12 +2,14 @@
 title: 'Nelly Furtado &#8211; Man Eater (DJ Cruze Funkfinders Remix) Part II'
 author: djcruze
 layout: post
-permalink: /2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/
-"itunes:category":
+# permalink: /2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/
+permalink: /productions/nelly-furtado-man-eater-dj-cruze-funkfinders-remix/
+'itunes:category':
   - Music
 categories:
   - Studio
 ---
+
 <div class="download">
   <table summary="Details of this mix" cellspacing="0">
     <tr>
@@ -60,8 +62,8 @@ Just right click on the link and do &#8220;save target as&#8221; or &#8220;save 
 
 I&#8217;d like to give big love to Bluethumb and all of the guys and girls on the [Nelly Furtado official forums][2]. He found my remix in my podcast and posted a [link][3] up to the site. They love the remix so that&#8217;s made me happy! If the Nelly Furtado fans like it then I must be doing something right. Thanks for all of their support and I hope I&#8217;ve done her justice.
 
-*This remix is used as a promotional item only to showcase the funky house production of DJ Cruze. The download will be removed if it causes any problems with the artist, publisher or record company. Please contact me if you feel your copyright is being infringed in any way.*
+_This remix is used as a promotional item only to showcase the funky house production of DJ Cruze. The download will be removed if it causes any problems with the artist, publisher or record company. Please contact me if you feel your copyright is being infringed in any way._
 
- [1]: /cms/contact/
- [2]: http://burninthespotlight.com/forum/index.php
- [3]: http://burninthespotlight.com/forum/showthread.php?t=6136
+[1]: /cms/contact/
+[2]: http://burninthespotlight.com/forum/index.php
+[3]: http://burninthespotlight.com/forum/showthread.php?t=6136

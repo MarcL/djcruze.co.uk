@@ -2,12 +2,14 @@
 title: 'Empire Of The Sun &#8211; Walking On A Dream (Funkfinders Discoid Remix)'
 author: djcruze
 layout: post
-permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
-"itunes:category":
+# permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
+permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
+'itunes:category':
   - Music
 categories:
   - Studio
 ---
+
 [<img src="http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix-300x300.jpg" alt="Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix)" title="Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix)" width="300" height="300" class="size-medium wp-image-559 normal" />][1]
 
 Every now and again I come across a song which really moves me. So I was trawling through the music news on the internet last month and I came across an awesome new tune by Empire Of The Sun called &#8220;Walking On A Dream&#8221;. It&#8217;s a collaboration between Nick Littlemore (no relation to me!) from the awesome Australian band [Pnau][2] and Luke Steele from another great Australian band [The Sleepy Jackson][3]. It had a cool 80s vibe about it and I just couldn&#8217;t get the chorus out of my head. As I had been listening to a lot of French filtered house tracks and remixes I started thinking what a great house track it would make if it was looped up and played around with. So I started doing it.
@@ -23,13 +25,11 @@ Here you&#8217;ll find the Funkfinders Discoid remix of Walking On A Dream. I&#8
 
 Listen to the original song and see the video on YouTube:
 
-
-
 P.S. Sorry it&#8217;s a bit late. I meant to post it last weekend! Oh and it probably needs a bit of an edit as it&#8217;s a bit too long but I&#8217;ll leave that for you guys to do as I&#8217;ve heard it too many times now! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix.jpg
- [2]: http://www.myspace.com/pnaupnau
- [3]: http://www.myspace.com/thesleepyjackson
- [4]: /cms/contact
- [5]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [6]: http://djcruzeaudio.co.uk/productions/Empire%20Of%20The%20Sun%20-%20Walking%20On%20A%20Dream%20(Funkfinders%20Discoid%20Remix).mp3
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix.jpg
+[2]: http://www.myspace.com/pnaupnau
+[3]: http://www.myspace.com/thesleepyjackson
+[4]: /cms/contact
+[5]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[6]: http://djcruzeaudio.co.uk/productions/Empire%20Of%20The%20Sun%20-%20Walking%20On%20A%20Dream%20(Funkfinders%20Discoid%20Remix).mp3

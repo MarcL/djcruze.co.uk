@@ -33,7 +33,7 @@ const NavigationItem = ({ to, title }) => (
 );
 
 const HorizontalNavigationMenu = () => (
-  <div className="w-75 fr tr dn db-l">
+  <div className="w-100 fr tc dn db-l">
     {navigationLinks.map(navigationLink => {
       const { to, title } = navigationLink;
       const keyName = `${to}-${title}`;
@@ -75,8 +75,8 @@ const VerticalNavigationMenu = ({ collapsed }) => {
 };
 
 const HomepageLogo = () => (
-  <div className="db dtc-l v-mid link dim w-75 w-25-l tl mb2 mb0-l fl pl2 pl2-m pl0-ns">
-    <Link to="/" className="f3 dib pa2 no-underline hover-white-60 white ttu">
+  <div className="db w-100 center tc">
+    <Link to="/" className="f2 dib pa2 no-underline hover-white-60 white ttu">
       <span className="fw3 dib">DJ&nbsp;</span>
       <span className="fw6 dib">Cruze</span>
     </Link>
@@ -98,8 +98,10 @@ const NavigationMenu = () => {
         <div className="w-100">
           <HomepageLogo />
         </div>
-        <HorizontalNavigationMenu />
-        <MenuButton onClick={toggleCollapsed} />
+        <div className="w-100">
+          <HorizontalNavigationMenu />
+          <MenuButton onClick={toggleCollapsed} />
+        </div>
       </nav>
       <VerticalNavigationMenu collapsed={collapsed} />
     </>

@@ -8,7 +8,6 @@ const NewsletterThankYouPage = ({ location }) => {
       location={location}
       imageUrl="https://media.giphy.com/media/Y1XrxoBKZHTHeky1Wy/giphy.gif"
       imageTitle="Thank you"
-      showBanner={false}
     >
       <p className="f4 lh-copy">
         I love connecting with my readers, and I look forward to getting to know

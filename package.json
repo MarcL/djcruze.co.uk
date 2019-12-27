@@ -1,6 +1,6 @@
 {
-  "name": "clarelittlemore.com",
-  "description": "Clare Littlemore website",
+  "name": "djcruze.co.uk",
+  "description": "DJ Cruze website",
   "version": "1.0.0",
   "author": "Marc Littlemore <marc.littlemore@gmail.com>",
   "dependencies": {
@@ -42,6 +42,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@bitbucket.org:MarcL/clarelittlemore.com.git"
+    "url": "git@bitbucket.org:MarcL/djcruze.co.uk.git"
   }
 }

@@ -4,7 +4,7 @@ date: '2019-12-08T10:42:00.00Z'
 template: 'page'
 ---
 
-This is the Cookie Policy for Clare Littlemore, accessible from https://clarelittlemore.com
+This is the Cookie Policy for DJ Cruze, accessible from https://djcruze.co.uk
 
 ### What Are Cookies
 

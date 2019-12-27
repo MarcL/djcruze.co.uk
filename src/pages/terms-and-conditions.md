@@ -4,9 +4,9 @@ date: '2018-10-17T20:00:00.00Z'
 template: 'page'
 ---
 
-Welcome to clarelittlemore.com. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern Clare Littlemore's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
+Welcome to clarelittlemore.com. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern DJ Cruze's relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
 
-The term 'Clare Littlemore' or 'us' or 'we' refers to the owner of the website whose registered office is:
+The term 'DJ Cruze' or 'us' or 'we' refers to the owner of the website whose registered office is:
 
 **Unit 12144, PO Box 4336**  
 **Manchester**  

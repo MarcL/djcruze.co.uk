@@ -54,10 +54,10 @@ const VerticalNavigationItem = ({ to, title }) => (
 
 const VerticalNavigationMenu = ({ collapsed }) => {
   const hideNavigation = collapsed ? ' dn' : '';
-  const navigationClass = `list tr ${hideNavigation}`;
+  const navigationClass = `list tc ${hideNavigation}`;
 
   return (
-    <div className="dt w-100 center">
+    <div className="dt w-80 center">
       <ul className={navigationClass}>
         {navigationLinks.map(navigationLink => {
           const { to, title } = navigationLink;

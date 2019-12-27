@@ -2,15 +2,8 @@ import React from 'react';
 import Page from '../page';
 import FlowBookSeries from '../books/flowBookSeries';
 
-const ImagePage = ({
-  location,
-  imageUrl,
-  title,
-  imageTitle,
-  children,
-  showBanner = true,
-}) => (
-  <Page title={title} location={location} showBanner={showBanner}>
+const ImagePage = ({ location, imageUrl, title, imageTitle, children }) => (
+  <Page title={title} location={location}>
     <div className="cf w-100">
       <div className="fl w-100 w-40-ns ph2">
         <img

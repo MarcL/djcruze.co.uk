@@ -4,7 +4,7 @@ module.exports = {
     titleTemplate: '%s | DJ Cruze : Manchester Is In The House',
     description: 'Needs a DJ Cruze description here.',
     siteUrl: 'https://djcruze.co.uk',
-    twitterUsername: '@clarelittlemore',
+    twitterUsername: '@djcruze',
     image: '/clare-littlemore-flow-series.jpg',
     facebookAppId: '',
     footerIcons: [
@@ -24,7 +24,7 @@ module.exports = {
         iconName: 'FaFacebookMessenger',
       },
       // {
-      //   link: 'https://instagram.com/clarelittlemore',
+      //   link: 'https://instagram.com/housedjcruze',
       //   title: 'Instagram',
       //   iconName: 'FaInstagram',
       // },
@@ -35,7 +35,7 @@ module.exports = {
       },
     ],
     mailchimp: {
-      baseUrl: '//clarelittlemore.us8.list-manage.com/subscribe/post',
+      baseUrl: '//djcruze.us8.list-manage.com/subscribe/post',
       uuid: '437e287661b4218f78d9bfaa3',
       listId: 'b2b165b750',
       botValue: 'b_437e287661b4218f78d9bfaa3_b2b165b750',

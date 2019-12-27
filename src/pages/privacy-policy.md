@@ -4,7 +4,7 @@ date: '2018-10-17T20:00:00.00Z'
 template: 'page'
 ---
 
-It is Clare Littlemore’s policy to respect your privacy regarding any information we may collect from you or which you may provide to us, in the circumstances set out below. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose, safeguard and otherwise make use of your personally identifiable information (“Personal Data”).
+It is DJ Cruze’s policy to respect your privacy regarding any information we may collect from you or which you may provide to us, in the circumstances set out below. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose, safeguard and otherwise make use of your personally identifiable information (“Personal Data”).
 
 We will only collect and use your Personal Data where:
 
@@ -12,7 +12,7 @@ We will only collect and use your Personal Data where:
 - we are performing a contract with you for our services; and
 - we have legitimate interests in using your Personal Data and your interests and fundamental rights do not override those interests.
 
-For the purposes of the EU General Data Protection Regulation ((EU) 2016/679) (“GDPR”), I, Clare Littlemore, am the “data controller”. If you have any questions about this policy or about how we use your Personal Data, please contact us via our contact details at the end of this policy. This policy is effective as of 01/09/2018. We review our privacy practices on an ongoing basis, and as such we may change this privacy policy from time to time. Please check this page frequently to ensure you are familiar with its current content.
+For the purposes of the EU General Data Protection Regulation ((EU) 2016/679) (“GDPR”), I, DJ Cruze, am the “data controller”. If you have any questions about this policy or about how we use your Personal Data, please contact us via our contact details at the end of this policy. This policy is effective as of 01/09/2018. We review our privacy practices on an ongoing basis, and as such we may change this privacy policy from time to time. Please check this page frequently to ensure you are familiar with its current content.
 
 ### 1. Personal Data we collect via my website clarelittlemore.com (the “Website”)
 
@@ -78,8 +78,8 @@ If we need to use your Personal Data for an unrelated purpose, we will notify yo
 
 ### 9. Contact Us
 
-Our full details are: Clare Littlemore
+Our full details are: DJ Cruze
 
-Email for Privacy Questions: clare@clarelittlemore.com
+Email for Privacy Questions: marc.littlemore@gmail.com
 
 Postal Address: Unit 12144, PO Box 4336, Manchester, Lancashire, M61 0BW, United Kingdom

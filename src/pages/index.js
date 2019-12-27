@@ -16,8 +16,8 @@ const IndexPage = ({ data, location }) => {
       <div className="pv0 mv0 mw-100 center">
         <Img
           fluid={data.image.childImageSharp.fluid}
-          alt="Clare Littlemore's books for The Flow Series"
-          title="The Flow Series"
+          alt="Picture of DJ Cruze"
+          title="DJ Cruze: Manchester Is In The House"
         />
       </div>
       <FlowBookSeries />
@@ -29,7 +29,9 @@ export default IndexPage;
 
 export const query = graphql`
   query HomepageQuery {
-    image: file(relativePath: { eq: "flow-series-header.jpg" }) {
+    image: file(
+      relativePath: { eq: "djcruze/headers/djcruze-blue-door-small.jpg" }
+    ) {
       childImageSharp {
         fluid(maxWidth: 1000) {
           ...GatsbyImageSharpFluid

@@ -16,8 +16,8 @@ const ProductionsPage = ({ data, location }) => {
       <div className="pv0 mv0 mw-100 center">
         <Img
           fluid={data.image.childImageSharp.fluid}
-          alt="Clare Littlemore's books for The Flow Series"
-          title="The Flow Series"
+          alt="Touchpad controller"
+          title="DJ Cruze productions"
         />
       </div>
       <FlowBookSeries />
@@ -29,7 +29,7 @@ export default ProductionsPage;
 
 export const query = graphql`
   query ProductionsQuery {
-    image: file(relativePath: { eq: "flow-series-header.jpg" }) {
+    image: file(relativePath: { eq: "djcruze/headers/touchpad.jpg" }) {
       childImageSharp {
         fluid(maxWidth: 1000) {
           ...GatsbyImageSharpFluid

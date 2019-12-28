@@ -87,19 +87,21 @@ module.exports = {
         path: `${__dirname}/src/pages`,
       },
     },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: 'UA-810717-20',
-        head: true,
-      },
-    },
-    {
-      resolve: `gatsby-plugin-facebook-pixel`,
-      options: {
-        pixelId: '978099215894829',
-      },
-    },
+    // Enable these when ready to go live
+    // DJ Cruze ID: UA-810717-1
+    // {
+    //   resolve: `gatsby-plugin-google-analytics`,
+    //   options: {
+    //     trackingId: 'UA-810717-20',
+    //     head: true,
+    //   },
+    // },
+    // {
+    //   resolve: `gatsby-plugin-facebook-pixel`,
+    //   options: {
+    //     pixelId: '290377285027331',
+    //   },
+    // },
     'gatsby-plugin-catch-links',
   ],
 };

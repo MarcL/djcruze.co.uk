@@ -6,6 +6,7 @@ import * as FontAwesome from 'react-icons/fa';
 
 const iconSize = '2em';
 
+const FIRST_YEAR = 2003;
 const yearNow = new Date().getFullYear();
 
 const StyledLink = ({ to, title }) => (
@@ -25,8 +26,7 @@ const footerStyle = {
 
 const Copyright = () => (
   <div className="pt2 pb2 f6 fw4 db ttu">
-    All rights reserved &copy; DJ Cruze 2005-
-    {yearNow}
+    All rights reserved &copy; DJ Cruze {FIRST_YEAR} - {yearNow}
   </div>
 );
 

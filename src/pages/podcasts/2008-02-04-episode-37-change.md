@@ -47,7 +47,7 @@ media:
 
 Original photo by [ VictoriaPeckham][1] – Photoshop skullduggery by [DJ Cruze][2]!
 
-At last. A new podcast! Yes, yes, I know. As always it's been far too long between podcasts but it's finally here. Episode #37 of the DJ Cruze podcast brings you another hour of the slammingest (&#8230;that's not a real word&#8230;) club tunes from the world of funky, chunky house and electro house. Also included is a DJ Cruze exclusive. On tonight's show you'll find the world exclusive play of my remix (known as the Funkfinders Remix) of World Of Colour's new track &#8220;Change&#8221;. It's a funky house remix in the Haji &#038; Emanuel or Simmons &#038; Christopher style and it's got a big old string breakdown. Let me know what you thing of it in the comments below. It should be coming out as part of a remix package on Metrogroove Records so watch this space for more details.
+At last. A new podcast! Yes, yes, I know. As always it's been far too long between podcasts but it's finally here. Episode #37 of the DJ Cruze podcast brings you another hour of the slammingest (&#8230;that's not a real word&#8230;) club tunes from the world of funky, chunky house and electro house. Also included is a DJ Cruze exclusive. On tonight's show you'll find the world exclusive play of my remix (known as the Funkfinders Remix) of World Of Colour's new track &"Change". It's a funky house remix in the Haji &#038; Emanuel or Simmons &#038; Christopher style and it's got a big old string breakdown. Let me know what you thing of it in the comments below. It should be coming out as part of a remix package on Metrogroove Records so watch this space for more details.
 
 Enjoy the show and [get in touch][3] if you want a shout out.
 

@@ -65,7 +65,7 @@ As always, here is the tracklisting for the show:
   * **Cruze classic from 1995:** 
       * Medium High – The Pleasure (Chris &#038; James Mix) – Impulse
 
-Nuff respect to my good friend Kevin who this week's &#8220;Cruze Classic&#8221; is dedicated to. I know I promised everyone a tune on the Vinyl Addiction label in an earlier post but I completely forgot that I promised Kev that I would play this tune for him. And a promise is a promise however you look at it! Enjoy!
+Nuff respect to my good friend Kevin who this week's &"Cruze Classic" is dedicated to. I know I promised everyone a tune on the Vinyl Addiction label in an earlier post but I completely forgot that I promised Kev that I would play this tune for him. And a promise is a promise however you look at it! Enjoy!
 
 As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes then I'll play them.
 

@@ -29,33 +29,33 @@ media:
   length: "01:14:16"
   keywords: ""
   tracklist:
-    - "The Loose Cannons – &#8220;I Like It When Ya (Moto Blanco Vocal Mix)&#8221;"
-    - "Tube6 – &#8220;Funkadelic&#8221;"
-    - "The Attic – &#8220;Destiny (Laid Dub Remix)&#8221;"
-    - "Javine – &#8220;Don't Walk Away (AVH Club Mix)&#8221;"
-    - "The Show – &#8220;The Party (Steve Mac's High Skool Disko Re-union Mix)&#8221;"
-    - "Freestylers – &#8220;Push Up (DJ Bomba &#038; J Paolo Remix)&#8221;"
-    - "ATFC – &#8220;Transparent&#8221;"
-    - "Scent – &#8220;Up &#038; Down (Hott 22 Remix)&#8221;"
-    - "Lee Cabrera – &#8220;Voodoo Love (Steve Angello Remix)&#8221;"
-    - "Ian Pooley – &#8220;Heaven (Tonka's High Pass Mix)&#8221;"
-    - "Shapeshifters – &#8220;Lola's Theme (Eric Prydz Mix)&#8221;"
-    - "Kujay Da Da – &#8220;Everything&#8221;"
-    - "Marly – &#8220;You Never Know (Morjac Remix)&#8221;"
+    - "The Loose Cannons – &"I Like It When Ya (Moto Blanco Vocal Mix)""
+    - "Tube6 – &"Funkadelic""
+    - "The Attic – &"Destiny (Laid Dub Remix)""
+    - "Javine – &"Don't Walk Away (AVH Club Mix)""
+    - "The Show – &"The Party (Steve Mac's High Skool Disko Re-union Mix)""
+    - "Freestylers – &"Push Up (DJ Bomba &#038; J Paolo Remix)""
+    - "ATFC – &"Transparent""
+    - "Scent – &"Up &#038; Down (Hott 22 Remix)""
+    - "Lee Cabrera – &"Voodoo Love (Steve Angello Remix)""
+    - "Ian Pooley – &"Heaven (Tonka's High Pass Mix)""
+    - "Shapeshifters – &"Lola's Theme (Eric Prydz Mix)""
+    - "Kujay Da Da – &"Everything""
+    - "Marly – &"You Never Know (Morjac Remix)""
 ---
 
 **Tracklisting:**
 
-  1. The Loose Cannons – &#8220;I Like It When Ya (Moto Blanco Vocal Mix)&#8221;
-  2. Tube6 – &#8220;Funkadelic&#8221;
-  3. The Attic – &#8220;Destiny (Laid Dub Remix)&#8221;
-  4. Javine – &#8220;Don't Walk Away (AVH Club Mix)&#8221;
-  5. The Show – &#8220;The Party (Steve Mac's High Skool Disko Re-union Mix)&#8221;
-  6. Freestylers – &#8220;Push Up (DJ Bomba &#038; J Paolo Remix)&#8221;
-  7. ATFC – &#8220;Transparent&#8221;
-  8. Scent – &#8220;Up &#038; Down (Hott 22 Remix)&#8221;
-  9. Lee Cabrera – &#8220;Voodoo Love (Steve Angello Remix)&#8221;
- 10. Ian Pooley – &#8220;Heaven (Tonka's High Pass Mix)&#8221;
- 11. Shapeshifters – &#8220;Lola's Theme (Eric Prydz Mix)&#8221;
- 12. Kujay Da Da – &#8220;Everything&#8221;
- 13. Marly – &#8220;You Never Know (Morjac Remix)&#8221;
+  1. The Loose Cannons – &"I Like It When Ya (Moto Blanco Vocal Mix)"
+  2. Tube6 – &"Funkadelic"
+  3. The Attic – &"Destiny (Laid Dub Remix)"
+  4. Javine – &"Don't Walk Away (AVH Club Mix)"
+  5. The Show – &"The Party (Steve Mac's High Skool Disko Re-union Mix)"
+  6. Freestylers – &"Push Up (DJ Bomba &#038; J Paolo Remix)"
+  7. ATFC – &"Transparent"
+  8. Scent – &"Up &#038; Down (Hott 22 Remix)"
+  9. Lee Cabrera – &"Voodoo Love (Steve Angello Remix)"
+ 10. Ian Pooley – &"Heaven (Tonka's High Pass Mix)"
+ 11. Shapeshifters – &"Lola's Theme (Eric Prydz Mix)"
+ 12. Kujay Da Da – &"Everything"
+ 13. Marly – &"You Never Know (Morjac Remix)"

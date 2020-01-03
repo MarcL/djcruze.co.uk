@@ -42,7 +42,7 @@ media:
     - "Cruze classic from 1994:"
     - "The Brand New Heavies – Back To Love (Graeme Park Club Mix) – FFRR"
 ---
-Evening all. I've managed to find another couple of hours to get an official podcast done rather than just a mix which I put out a couple of weeks ago. It's got plenty of new funky tunes on there and an absolutely classic Cruze classic! If you've never heard the Graeme Park mix of The Brand New Heavies track &#8220;Back To Love&#8221; played **LOUD** in a club then you've never lived. It's a quality feel good house tune with a stonking piano remix by the ex-Hacienda DJ Graeme Park. An absolutely amazing tune!
+Evening all. I've managed to find another couple of hours to get an official podcast done rather than just a mix which I put out a couple of weeks ago. It's got plenty of new funky tunes on there and an absolutely classic Cruze classic! If you've never heard the Graeme Park mix of The Brand New Heavies track &"Back To Love" played **LOUD** in a club then you've never lived. It's a quality feel good house tune with a stonking piano remix by the ex-Hacienda DJ Graeme Park. An absolutely amazing tune!
 
 Also on the podcast are some other great funky tracks remixed by men of the moment, [Wawa][3], and the new kid on the dirty house block, [Deadmau5][4]. Hopefully I'll have more time to do a podcast each month again as well as a monthly mix. That's the plan anyway! Enjoy the tunes.
 

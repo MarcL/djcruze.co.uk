@@ -35,35 +35,35 @@ media:
   length: "00:47:36"
   keywords: ""
   tracklist:
-    - "Rising High Collective – &#8220;Fever Called Love&#8221; (Rising High Records)"
-    - "Hoof – &#8220;Detroit&#8221; (Beeswax Records)"
-    - "Delta Lady – &#8220;Anything You Want&#8221; (Hard Hands)"
-    - "Ricky Rouge – &#8220;Strange Love&#8221; (Fresh Fruit Records)"
-    - "?? – &#8220;Get Down To The Funky Beat&#8221; (??)"
-    - "?? – &#8220;Ya Mama&#8221; (??)"
-    - "Aquarius – &#8220;Let's Get Down&#8221; (Spirit Recordings)"
-    - "?? – &#8220;??&#8221; (??)"
-    - "?? – &#8220;The Power&#8221;(??) – *I know what it is called but I'll have to find it first!*"
-    - "Direckt – &#8220;Two Fatt Guitars (Skankin' Mix)&#8221; (U.F.G.)"
-    - "Gwen Guthrie – &#8220;Nothing Going On But The Rent&#8221;"
-    - "Luvdup – &#8220;Goodtimes&#8221; (U.F.G.)"
-    - "?? – &#8220;??&#8221; (??)"
-    - "?? – &#8220;??&#8221; (??)"
+    - "Rising High Collective – &"Fever Called Love" (Rising High Records)"
+    - "Hoof – &"Detroit" (Beeswax Records)"
+    - "Delta Lady – &"Anything You Want" (Hard Hands)"
+    - "Ricky Rouge – &"Strange Love" (Fresh Fruit Records)"
+    - "?? – &"Get Down To The Funky Beat" (??)"
+    - "?? – &"Ya Mama" (??)"
+    - "Aquarius – &"Let's Get Down" (Spirit Recordings)"
+    - "?? – &"??" (??)"
+    - "?? – &"The Power"(??) – *I know what it is called but I'll have to find it first!*"
+    - "Direckt – &"Two Fatt Guitars (Skankin' Mix)" (U.F.G.)"
+    - "Gwen Guthrie – &"Nothing Going On But The Rent""
+    - "Luvdup – &"Goodtimes" (U.F.G.)"
+    - "?? – &"??" (??)"
+    - "?? – &"??" (??)"
 ---
 
 **Tracklisting:**
 
-  1. Rising High Collective – &#8220;Fever Called Love&#8221; (Rising High Records)
-  2. Hoof – &#8220;Detroit&#8221; (Beeswax Records)
-  3. Delta Lady – &#8220;Anything You Want&#8221; (Hard Hands)
-  4. Ricky Rouge – &#8220;Strange Love&#8221; (Fresh Fruit Records)
-  5. ?? – &#8220;Get Down To The Funky Beat&#8221; (??)
-  6. ?? – &#8220;Ya Mama&#8221; (??)
-  7. Aquarius – &#8220;Let's Get Down&#8221; (Spirit Recordings)
-  8. ?? – &#8220;??&#8221; (??)
-  9. ?? – &#8220;The Power&#8221;(??) – *I know what it is called but I'll have to find it first!*
- 10. Direckt – &#8220;Two Fatt Guitars (Skankin' Mix)&#8221; (U.F.G.)
- 11. Gwen Guthrie – &#8220;Nothing Going On But The Rent&#8221;
- 12. Luvdup – &#8220;Goodtimes&#8221; (U.F.G.)
- 13. ?? – &#8220;??&#8221; (??)
- 14. ?? – &#8220;??&#8221; (??)
+  1. Rising High Collective – &"Fever Called Love" (Rising High Records)
+  2. Hoof – &"Detroit" (Beeswax Records)
+  3. Delta Lady – &"Anything You Want" (Hard Hands)
+  4. Ricky Rouge – &"Strange Love" (Fresh Fruit Records)
+  5. ?? – &"Get Down To The Funky Beat" (??)
+  6. ?? – &"Ya Mama" (??)
+  7. Aquarius – &"Let's Get Down" (Spirit Recordings)
+  8. ?? – &"??" (??)
+  9. ?? – &"The Power"(??) – *I know what it is called but I'll have to find it first!*
+ 10. Direckt – &"Two Fatt Guitars (Skankin' Mix)" (U.F.G.)
+ 11. Gwen Guthrie – &"Nothing Going On But The Rent"
+ 12. Luvdup – &"Goodtimes" (U.F.G.)
+ 13. ?? – &"??" (??)
+ 14. ?? – &"??" (??)

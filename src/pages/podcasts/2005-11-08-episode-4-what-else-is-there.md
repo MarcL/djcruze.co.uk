@@ -47,7 +47,7 @@ media:
     - "Deep Dish – Sacramento (Raul Rincon Remix) - Positiva"
     - "Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound"
     - "Cruze classic from 1995: "
-    - "The Flavour – Superfly (So Damn Tuff Mix) (from the &#8220;2 Damn Hot EP&#8221;) – Jive"
+    - "The Flavour – Superfly (So Damn Tuff Mix) (from the &"2 Damn Hot EP") – Jive"
 ---
 Back once again with the Podcast master:
 
@@ -65,7 +65,7 @@ Here is the tracklisting for this week's show:
       * Deep Dish – Sacramento (Raul Rincon Remix) -[ Positiva][9]
       * Royksopp – What Else Is There? ([Thin White Duke][10] Mix) – [Wall Of Sound][11]
   * **Cruze classic from 1995:** 
-      * The Flavour – Superfly (So Damn Tuff Mix) (from the &#8220;2 Damn Hot EP&#8221;) – Jive
+      * The Flavour – Superfly (So Damn Tuff Mix) (from the &"2 Damn Hot EP") – Jive
 
 As always I love to hear your feed back on the show. [Contact me][12] using the form provided and I'll get back to you as soon as I can. If you're an up and coming producer and you'd like to get some exposure on the show then make sure you get in touch and we'll arrange to get your tunes on the show.
 

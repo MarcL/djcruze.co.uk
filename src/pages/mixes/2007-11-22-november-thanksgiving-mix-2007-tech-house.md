@@ -44,11 +44,11 @@ media:
     - "[01:00:27] – H2 – Somethin' Sik – JFunk"
 ---
 
-Ok I'm the first to admit that I'm a bit crap at updating the website. I whipped up a mix for you at the end of October and it has taken me until mid November to find the time to upload it to my webserver. Too many things for Mr. Cruze to do and not enough time to do them in! So without further ado I give you the &#8220;Tech House&#8221; mix for November 2007.
+Ok I'm the first to admit that I'm a bit crap at updating the website. I whipped up a mix for you at the end of October and it has taken me until mid November to find the time to upload it to my webserver. Too many things for Mr. Cruze to do and not enough time to do them in! So without further ado I give you the &"Tech House" mix for November 2007.
 
 Although I don't play a lot of tech and progressive house in clubs, I do have a genuine love of most styles of dance music. In fact, I love almost all styles of music (except country and western and soft rock but don't hold that against me!) I've been really getting into producers like Deadmau5 and Coburn and I've been listening to a lot of the darker, tech-house tunes out there. So I thought I'd get some of my favourite tech, progressive and electro house tunes together for you and mix them into a tougher, more progressive mix.
 
-My personal favourites are the the new Splittr tune &#8220;All Alone&#8221; with its haunting breakdown, the Thom York &#8220;Eraser&#8221; remix by Stretch and Vern which I've been after for ages and the awesome &#8220;Jaded&#8221; by man-of-the-moment Deadmau5. I get get that track out of my head! I've also stuck a bootleg version of &#8220;Can't Stop&#8221; by Razorlight in the middle as I can't stop listening to Pete Tong and Dave Spoon's cheeky Pacha mix of it. A wicked vibe for the end of autumn.
+My personal favourites are the the new Splittr tune &"All Alone" with its haunting breakdown, the Thom York &"Eraser" remix by Stretch and Vern which I've been after for ages and the awesome &"Jaded" by man-of-the-moment Deadmau5. I get get that track out of my head! I've also stuck a bootleg version of &"Can't Stop" by Razorlight in the middle as I can't stop listening to Pete Tong and Dave Spoon's cheeky Pacha mix of it. A wicked vibe for the end of autumn.
 
 Last, but not least, a big happy Thanksgiving to all of my American listeners. We don't celebrate it here in the UK but I'm sure you guys and girls in the US will be tucking into your turkey and having a fun weekend with your families. So eat well and party hard!
 

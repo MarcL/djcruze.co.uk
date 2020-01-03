@@ -47,9 +47,9 @@ media:
     - "Jam and Spoon – Stella – R&#038;S Records"
 ---
 <img src="http://www.djcruze.co.uk/cms/wp-content/matt_brooks.jpg" alt="Guest mix by Matt Brooks from A&E" class="right" />  
-Happy new year and welcome to the first podcast for 2006. Podcast episode #9 features a special guest mix from my good friend and fellow DJ, Matthew Brooks. Matt is a DJ and promoter of the excellent [Accident and Emergency][1] collective. It&#8217;s something a bit different for the podcast as it flows from dirty electro house and filthy acid madness, right up to some drum and bass but as always it&#8217;s damn funky! Download it here:
+Happy new year and welcome to the first podcast for 2006. Podcast episode #9 features a special guest mix from my good friend and fellow DJ, Matthew Brooks. Matt is a DJ and promoter of the excellent [Accident and Emergency][1] collective. It's something a bit different for the podcast as it flows from dirty electro house and filthy acid madness, right up to some drum and bass but as always it's damn funky! Download it here:
 
-Here is the tracklisting for this week&#8217;s show:
+Here is the tracklisting for this week's show:
 
   * **DJ Cruze chart rundown:** 
       * The Egg – Walking Away (Tocadisco Mix) – [CR2 Records][4]
@@ -65,7 +65,7 @@ Here is the tracklisting for this week&#8217;s show:
   * **Cruze classic from 1992:** 
       * Jam and Spoon – Stella – R&#038;S Records
 
-As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I&#8217;ll get back to you as soon as I can. Big thanks to Matt for his mix and if you want to check out what the A&#038;E crew are up to then go and check the [website][1].
+As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I'll get back to you as soon as I can. Big thanks to Matt for his mix and if you want to check out what the A&#038;E crew are up to then go and check the [website][1].
 
  [1]: http://www.accidentandemergency.info/
  [2]: http://ripple.radiotail.com/211/Cruze_Podcast009_140106.mp3

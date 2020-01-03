@@ -45,7 +45,7 @@ media:
     - "Cruze classic from 1995: "
     - "Medium High – The Pleasure (Chris &#038; James Mix) – Impulse"
 ---
-It took a bloody long time to get this episode out didn&#8217;t it? Battling the PC of doom and a cold which knocked me out for a week I bring you Episode #11 of the DJ Cruze podcast.
+It took a bloody long time to get this episode out didn't it? Battling the PC of doom and a cold which knocked me out for a week I bring you Episode #11 of the DJ Cruze podcast.
 
 ***Listening advice:** Play loud and with friends and shake your collective booty!*
 
@@ -65,9 +65,9 @@ As always, here is the tracklisting for the show:
   * **Cruze classic from 1995:** 
       * Medium High – The Pleasure (Chris &#038; James Mix) – Impulse
 
-Nuff respect to my good friend Kevin who this week&#8217;s &#8220;Cruze Classic&#8221; is dedicated to. I know I promised everyone a tune on the Vinyl Addiction label in an earlier post but I completely forgot that I promised Kev that I would play this tune for him. And a promise is a promise however you look at it! Enjoy!
+Nuff respect to my good friend Kevin who this week's &#8220;Cruze Classic&#8221; is dedicated to. I know I promised everyone a tune on the Vinyl Addiction label in an earlier post but I completely forgot that I promised Kev that I would play this tune for him. And a promise is a promise however you look at it! Enjoy!
 
-As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes then I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes then I'll play them.
 
  [1]: http://ripple.radiotail.com/211/Cruze_Podcast011_190206.mp3
  [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

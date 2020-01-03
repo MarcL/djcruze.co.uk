@@ -32,14 +32,14 @@ media:
     - "The Loose Cannons – &#8220;I Like It When Ya (Moto Blanco Vocal Mix)&#8221;"
     - "Tube6 – &#8220;Funkadelic&#8221;"
     - "The Attic – &#8220;Destiny (Laid Dub Remix)&#8221;"
-    - "Javine – &#8220;Don&#8217;t Walk Away (AVH Club Mix)&#8221;"
-    - "The Show – &#8220;The Party (Steve Mac&#8217;s High Skool Disko Re-union Mix)&#8221;"
+    - "Javine – &#8220;Don't Walk Away (AVH Club Mix)&#8221;"
+    - "The Show – &#8220;The Party (Steve Mac's High Skool Disko Re-union Mix)&#8221;"
     - "Freestylers – &#8220;Push Up (DJ Bomba &#038; J Paolo Remix)&#8221;"
     - "ATFC – &#8220;Transparent&#8221;"
     - "Scent – &#8220;Up &#038; Down (Hott 22 Remix)&#8221;"
     - "Lee Cabrera – &#8220;Voodoo Love (Steve Angello Remix)&#8221;"
-    - "Ian Pooley – &#8220;Heaven (Tonka&#8217;s High Pass Mix)&#8221;"
-    - "Shapeshifters – &#8220;Lola&#8217;s Theme (Eric Prydz Mix)&#8221;"
+    - "Ian Pooley – &#8220;Heaven (Tonka's High Pass Mix)&#8221;"
+    - "Shapeshifters – &#8220;Lola's Theme (Eric Prydz Mix)&#8221;"
     - "Kujay Da Da – &#8220;Everything&#8221;"
     - "Marly – &#8220;You Never Know (Morjac Remix)&#8221;"
 ---
@@ -49,13 +49,13 @@ media:
   1. The Loose Cannons – &#8220;I Like It When Ya (Moto Blanco Vocal Mix)&#8221;
   2. Tube6 – &#8220;Funkadelic&#8221;
   3. The Attic – &#8220;Destiny (Laid Dub Remix)&#8221;
-  4. Javine – &#8220;Don&#8217;t Walk Away (AVH Club Mix)&#8221;
-  5. The Show – &#8220;The Party (Steve Mac&#8217;s High Skool Disko Re-union Mix)&#8221;
+  4. Javine – &#8220;Don't Walk Away (AVH Club Mix)&#8221;
+  5. The Show – &#8220;The Party (Steve Mac's High Skool Disko Re-union Mix)&#8221;
   6. Freestylers – &#8220;Push Up (DJ Bomba &#038; J Paolo Remix)&#8221;
   7. ATFC – &#8220;Transparent&#8221;
   8. Scent – &#8220;Up &#038; Down (Hott 22 Remix)&#8221;
   9. Lee Cabrera – &#8220;Voodoo Love (Steve Angello Remix)&#8221;
- 10. Ian Pooley – &#8220;Heaven (Tonka&#8217;s High Pass Mix)&#8221;
- 11. Shapeshifters – &#8220;Lola&#8217;s Theme (Eric Prydz Mix)&#8221;
+ 10. Ian Pooley – &#8220;Heaven (Tonka's High Pass Mix)&#8221;
+ 11. Shapeshifters – &#8220;Lola's Theme (Eric Prydz Mix)&#8221;
  12. Kujay Da Da – &#8220;Everything&#8221;
  13. Marly – &#8220;You Never Know (Morjac Remix)&#8221;

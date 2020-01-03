@@ -1,5 +1,5 @@
 ---
-title: 'Episode #55 – I&#8217;m Alive'
+title: 'Episode #55 – I'm Alive'
 author: djcruze
 #permalink: /2010/06/17/episode-55-im-alive/
 permalink: /podcasts/episode-55-im-alive/
@@ -50,17 +50,17 @@ media:
     - '[01:10:52] Rhyme Time Productions – You And Me (Hard Mix) – Cleveland City Records'
 ---
 
-Ok. So it&#8217;s been a while hasn&#8217;t it?!
+Ok. So it's been a while hasn't it?!
 
-I&#8217;m sorry that I&#8217;ve been on an 8 month hiatus but life just got the better of me. A new baby, lack of sleep, lots of children&#8217;s illnesses, my redundancy, job finding, new business set-up&#8230; you name it and I&#8217;ve done it in the past few months. In all honesty I lost my mojo and love of doing the podcast as I just couldn&#8217;t justify nor find the time to fit it in. But I missed doing it and I missed the love and enjoyment that it gives to all of the house music fans out there that love the tunes. So I&#8217;m back. For good this time. I promise!
+I'm sorry that I've been on an 8 month hiatus but life just got the better of me. A new baby, lack of sleep, lots of children's illnesses, my redundancy, job finding, new business set-up&#8230; you name it and I've done it in the past few months. In all honesty I lost my mojo and love of doing the podcast as I just couldn't justify nor find the time to fit it in. But I missed doing it and I missed the love and enjoyment that it gives to all of the house music fans out there that love the tunes. So I'm back. For good this time. I promise!
 
-Hopefully you&#8217;ll enjoy this mix as you&#8217;ve got over an hour of my trademark funky and chunky tunes from the past few months. I&#8217;ve not gone for a totally up-front track selection as there have been so many great tunes that you might have missed over the past 6 months so I thought I&#8217;d just go for some of my favourites. Disco is back in a big way again and I&#8217;m loving some of the disco-looped productions that are coming out of Italy especially with hot producers like Marco Lys and Riva Starr hitting the spot. I&#8217;m also feeling the big room tunes from the likes of Axwell and the Swedish House Mafia guys, Dirty South and Max Vangeli. All of those guys are creating hot tracks for this year&#8217;s summer season.
+Hopefully you'll enjoy this mix as you've got over an hour of my trademark funky and chunky tunes from the past few months. I've not gone for a totally up-front track selection as there have been so many great tunes that you might have missed over the past 6 months so I thought I'd just go for some of my favourites. Disco is back in a big way again and I'm loving some of the disco-looped productions that are coming out of Italy especially with hot producers like Marco Lys and Riva Starr hitting the spot. I'm also feeling the big room tunes from the likes of Axwell and the Swedish House Mafia guys, Dirty South and Max Vangeli. All of those guys are creating hot tracks for this year's summer season.
 
-The Cruze Classic this month is a slice of UK house music from back in 1994. It&#8217;s a classic Cleveland City Sound of tough synths and skippy drums with Rhyme Time Productions massive house track &#8220;You &#038; Me&#8221;. I still hammer that track and I&#8217;m sure you&#8217;ll love it if you&#8217;ve never heard it before.
+The Cruze Classic this month is a slice of UK house music from back in 1994. It's a classic Cleveland City Sound of tough synths and skippy drums with Rhyme Time Productions massive house track &#8220;You &#038; Me&#8221;. I still hammer that track and I'm sure you'll love it if you've never heard it before.
 
-I hope you like the tracks on this month&#8217;s show and don&#8217;t forget to comment below and tell me what you think of them. You can also get hold of me on [Twitter][2] and I&#8217;ve created an [official DJ Cruze Facebook fan page][3] too. Go and &#8220;Like&#8221; me! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I hope you like the tracks on this month's show and don't forget to comment below and tell me what you think of them. You can also get hold of me on [Twitter][2] and I've created an [official DJ Cruze Facebook fan page][3] too. Go and &#8220;Like&#8221; me! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
-Picture of me by my awesome photographer friend [Klaus Dieter &#8216;KDK&#8217; Kieslich][6].
+Picture of me by my awesome photographer friend [Klaus Dieter &#8216;KDK' Kieslich][6].
 
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2010/06/podcast55.jpg
 [2]: http://twitter.com/djcruze

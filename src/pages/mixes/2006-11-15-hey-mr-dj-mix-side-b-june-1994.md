@@ -41,9 +41,9 @@ media:
     - '??? – ???'
 ---
 
-As promised last week here is the b side of an old mix I did way back in 1994. You&#8217;ll find plenty of old tunes here and lots of cutting and scratch. I&#8217;ve tried to master the MP3 as best I could but it&#8217;s still a bit crackly with some heavy (i.e. distored!) bass in parts.
+As promised last week here is the b side of an old mix I did way back in 1994. You'll find plenty of old tunes here and lots of cutting and scratch. I've tried to master the MP3 as best I could but it's still a bit crackly with some heavy (i.e. distored!) bass in parts.
 
-There are plenty of classic house tunes on here and it&#8217;ll make you smile if you&#8217;re old enough to remember them. If you&#8217;re not, then make sure you still download it as the tunes are fantastic! Here&#8217;s a vague tracklisting for you too. I&#8217;ll fill in the tune names as I remember them and feel free to post some comments below if you remember the name of the tunes before I do. Enjoy!
+There are plenty of classic house tunes on here and it'll make you smile if you're old enough to remember them. If you're not, then make sure you still download it as the tunes are fantastic! Here's a vague tracklisting for you too. I'll fill in the tune names as I remember them and feel free to post some comments below if you remember the name of the tunes before I do. Enjoy!
 
 **Tracklisting:**
 

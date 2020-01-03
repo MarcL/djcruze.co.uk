@@ -62,12 +62,12 @@ As always, here is the tracklisting for the show:
   * **Cruze classic from 1991:** 
       * The House Crew – Keep The Fire Burning – Production House
 
-As I mentioned in the show I&#8217;ve been downloading some more podcasts for my iPod and here are two you should definitely check out if you like house music:
+As I mentioned in the show I've been downloading some more podcasts for my iPod and here are two you should definitely check out if you like house music:
 
-  * [Alex Harmony][12] – Der Harmonizer ist im Haus! Alex is rocking a funky tech-electro sound with a classic thrown in for good measure. Even if you don&#8217;t speak German it&#8217;s worth a download. He said he might do the next in English anyway so keep subscribed.
-  * [One Phat DJ][13] – He&#8217;s phat not fat! Funky tunes with a similar taste in music to me. A must have on your iPod.
+  * [Alex Harmony][12] – Der Harmonizer ist im Haus! Alex is rocking a funky tech-electro sound with a classic thrown in for good measure. Even if you don't speak German it's worth a download. He said he might do the next in English anyway so keep subscribed.
+  * [One Phat DJ][13] – He's phat not fat! Funky tunes with a similar taste in music to me. A must have on your iPod.
 
-As always I love to hear your feed back on the show. [Contact me][14] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes then I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][14] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes then I'll play them.
 
  [1]: http://ripple.radiotail.com/211/Cruze_Podcast010_290106.mp3
  [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

@@ -42,15 +42,15 @@ media:
     - "Eric Prydz vs Pink Floyd – Proper Education – Data Records"
     - "Freemasons – Raining Down Love (2006 Dub Vox) – Loaded Records"
     - "Cruze classic from 1992:"
-    - "M.A.N.I.C. – I&#8217;m Coming Hardcore (Original Mix) – Union City Recording"
+    - "M.A.N.I.C. – I'm Coming Hardcore (Original Mix) – Union City Recording"
 ---
 
-It has been a while since the last podcast but eventually episode #24 should be appearing in your podcatcher! Apologies for the delay but I don&#8217;t think it is my month. The hard drive crashed on my PC, my iPod has died, work has been crazily busy and I&#8217;ve managed to pick up a stomach infection. What fun!
+It has been a while since the last podcast but eventually episode #24 should be appearing in your podcatcher! Apologies for the delay but I don't think it is my month. The hard drive crashed on my PC, my iPod has died, work has been crazily busy and I've managed to pick up a stomach infection. What fun!
 
-Anyway, I hope you enjoy the tunes this week. There is plenty of funky house and dirty electro to keep you going for the next week or two. My PC is back up and running again so you should get another podcast before Christmas and it will contain the infamous DJ Cruze Christmas bootleg on there. Hopefully it&#8217;ll be phat and funky!
+Anyway, I hope you enjoy the tunes this week. There is plenty of funky house and dirty electro to keep you going for the next week or two. My PC is back up and running again so you should get another podcast before Christmas and it will contain the infamous DJ Cruze Christmas bootleg on there. Hopefully it'll be phat and funky!
 
-Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it&#8217;s terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
 
-As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes, I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 
  [1]: http://www.djcruze.co.uk/cms/contact/

@@ -37,16 +37,16 @@ media:
     - "Armand Van Helden – I Want Your Soul (Original Mix) – Southern Fried Records"
     - "Calvin Harris – Merrymaking At My Place (Deadmau5 Remix) – Fly Eye"
     - "Weekend Masters – I Found A Love (Dave Armstrong &#038; DJ DLG Mix) – Hit! Records"
-    - "NJoi – Can&#8217;t Get Enough (Club Mix) – New Black Records"
-    - "Hi_Tack – Let&#8217;s Dance (Dennis Christopher Dub) – Gusto"
+    - "NJoi – Can't Get Enough (Club Mix) – New Black Records"
+    - "Hi_Tack – Let's Dance (Dennis Christopher Dub) – Gusto"
     - "Cruze classic from 1994:"
     - "The Brand New Heavies – Back To Love (Graeme Park Club Mix) – FFRR"
 ---
-Evening all. I&#8217;ve managed to find another couple of hours to get an official podcast done rather than just a mix which I put out a couple of weeks ago. It&#8217;s got plenty of new funky tunes on there and an absolutely classic Cruze classic! If you&#8217;ve never heard the Graeme Park mix of The Brand New Heavies track &#8220;Back To Love&#8221; played **LOUD** in a club then you&#8217;ve never lived. It&#8217;s a quality feel good house tune with a stonking piano remix by the ex-Hacienda DJ Graeme Park. An absolutely amazing tune!
+Evening all. I've managed to find another couple of hours to get an official podcast done rather than just a mix which I put out a couple of weeks ago. It's got plenty of new funky tunes on there and an absolutely classic Cruze classic! If you've never heard the Graeme Park mix of The Brand New Heavies track &#8220;Back To Love&#8221; played **LOUD** in a club then you've never lived. It's a quality feel good house tune with a stonking piano remix by the ex-Hacienda DJ Graeme Park. An absolutely amazing tune!
 
-Also on the podcast are some other great funky tracks remixed by men of the moment, [Wawa][3], and the new kid on the dirty house block, [Deadmau5][4]. Hopefully I&#8217;ll have more time to do a podcast each month again as well as a monthly mix. That&#8217;s the plan anyway! Enjoy the tunes.
+Also on the podcast are some other great funky tracks remixed by men of the moment, [Wawa][3], and the new kid on the dirty house block, [Deadmau5][4]. Hopefully I'll have more time to do a podcast each month again as well as a monthly mix. That's the plan anyway! Enjoy the tunes.
 
-Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it&#8217;s terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
 
  [1]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
  [2]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast032_280807.mp3

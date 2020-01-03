@@ -41,10 +41,10 @@ media:
     - "Ricky Rouge – &#8220;Strange Love&#8221; (Fresh Fruit Records)"
     - "?? – &#8220;Get Down To The Funky Beat&#8221; (??)"
     - "?? – &#8220;Ya Mama&#8221; (??)"
-    - "Aquarius – &#8220;Let&#8217;s Get Down&#8221; (Spirit Recordings)"
+    - "Aquarius – &#8220;Let's Get Down&#8221; (Spirit Recordings)"
     - "?? – &#8220;??&#8221; (??)"
-    - "?? – &#8220;The Power&#8221;(??) – *I know what it is called but I&#8217;ll have to find it first!*"
-    - "Direckt – &#8220;Two Fatt Guitars (Skankin&#8217; Mix)&#8221; (U.F.G.)"
+    - "?? – &#8220;The Power&#8221;(??) – *I know what it is called but I'll have to find it first!*"
+    - "Direckt – &#8220;Two Fatt Guitars (Skankin' Mix)&#8221; (U.F.G.)"
     - "Gwen Guthrie – &#8220;Nothing Going On But The Rent&#8221;"
     - "Luvdup – &#8220;Goodtimes&#8221; (U.F.G.)"
     - "?? – &#8220;??&#8221; (??)"
@@ -59,10 +59,10 @@ media:
   4. Ricky Rouge – &#8220;Strange Love&#8221; (Fresh Fruit Records)
   5. ?? – &#8220;Get Down To The Funky Beat&#8221; (??)
   6. ?? – &#8220;Ya Mama&#8221; (??)
-  7. Aquarius – &#8220;Let&#8217;s Get Down&#8221; (Spirit Recordings)
+  7. Aquarius – &#8220;Let's Get Down&#8221; (Spirit Recordings)
   8. ?? – &#8220;??&#8221; (??)
-  9. ?? – &#8220;The Power&#8221;(??) – *I know what it is called but I&#8217;ll have to find it first!*
- 10. Direckt – &#8220;Two Fatt Guitars (Skankin&#8217; Mix)&#8221; (U.F.G.)
+  9. ?? – &#8220;The Power&#8221;(??) – *I know what it is called but I'll have to find it first!*
+ 10. Direckt – &#8220;Two Fatt Guitars (Skankin' Mix)&#8221; (U.F.G.)
  11. Gwen Guthrie – &#8220;Nothing Going On But The Rent&#8221;
  12. Luvdup – &#8220;Goodtimes&#8221; (U.F.G.)
  13. ?? – &#8220;??&#8221; (??)

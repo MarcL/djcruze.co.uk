@@ -29,30 +29,30 @@ media:
   length: "00:40:03"
   keywords: ""
   tracklist:
-    - "Antoine Clamaran – Keep On Tryin&#8217; (Hott 22 Remix) – "
+    - "Antoine Clamaran – Keep On Tryin' (Hott 22 Remix) – "
     - "George Duke – Brazilian Love Affair (Mike Perry Extended Vocal Mix) – "
     - "Wi-Fi – Be Without You (Raul Rincon Remix) – "
-    - "Tune Brothers – I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) – "
+    - "Tune Brothers – I Like It (Ian Carey's Ghetto Fabulous Mix) – "
     - "Simmons &#038; Christopher – Weekend (Raul Rincon Remix) – AATW"
     - "Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records"
 ---
 
-I love piano house. It&#8217;s that simple. I first got into it in the early 90s when house music moved from the synthesizer based acid house and early techno that people were producing into the Italian &#8220;Italo-house&#8221; that unsurprisingly came out of Italy! There were hundreds of great tunes that came out and they helped to move the house sound on from bleepy techno to a more soulful sound. A play a lot of funky piano house in my sets so I thought I&#8217;d try and play some of the great piano tunes that have come out in 2006.
+I love piano house. It's that simple. I first got into it in the early 90s when house music moved from the synthesizer based acid house and early techno that people were producing into the Italian &#8220;Italo-house&#8221; that unsurprisingly came out of Italy! There were hundreds of great tunes that came out and they helped to move the house sound on from bleepy techno to a more soulful sound. A play a lot of funky piano house in my sets so I thought I'd try and play some of the great piano tunes that have come out in 2006.
 
-This mix kicks off with a great tune by French producer [Antoine Clamaran][1]. The funky American remix team [Hott 22][2] build up this soulful tune with some pumping keys combined with the smooth vocal and a some layered pads and strings. We then head off into old school piano territory for Mike Perry&#8217;s remix of &#8220;Brazilian Love Affair&#8221; by [George Duke][3]. A classic old jazz tune that builds up into a big room tune where the pianos echo round your head forever!
+This mix kicks off with a great tune by French producer [Antoine Clamaran][1]. The funky American remix team [Hott 22][2] build up this soulful tune with some pumping keys combined with the smooth vocal and a some layered pads and strings. We then head off into old school piano territory for Mike Perry's remix of &#8220;Brazilian Love Affair&#8221; by [George Duke][3]. A classic old jazz tune that builds up into a big room tune where the pianos echo round your head forever!
 
-We&#8217;ve then got the funky house sounds of the producer of the year, [Raul Rincon][4]. He turns &#8220;Be Without You&#8221; by Wi-Fi into a percussion-laden piano anthem. The pianos remind me of the old hardcore classic &#8220;Feel Reel Good&#8221; by [Manix][5] which was later got sampled by Rockford Files for their 1994 club hit &#8220;Sexy Dancer&#8221;. Raul Rincon has the midas touch when it comes to remix and I&#8217;m sure he&#8217;ll carry on into 2007 with his funky house sounds.
+We've then got the funky house sounds of the producer of the year, [Raul Rincon][4]. He turns &#8220;Be Without You&#8221; by Wi-Fi into a percussion-laden piano anthem. The pianos remind me of the old hardcore classic &#8220;Feel Reel Good&#8221; by [Manix][5] which was later got sampled by Rockford Files for their 1994 club hit &#8220;Sexy Dancer&#8221;. Raul Rincon has the midas touch when it comes to remix and I'm sure he'll carry on into 2007 with his funky house sounds.
 
-Hot Spanish producer [Ian Carey][6] then takes on the hot German producers the [Tune Brothers][7] and their awesome old school sounding &#8220;I Like It&#8221;. Ian provides us with a dirty 2006 bassline but kicks in some nagging piano keys which just seem to build and build. This is a proper 2am tune which sends the crowds wild. I&#8217;ve then put in Simmons and [Christopher][8]&#8216;s new tune &#8220;Weekend&#8221;. This is a cover of an old disco anthem by Class Action which was made famous by [Todd Terry][9] in the early 90s. Again Raul Rincon works his remix magic and drops a funky bassline, chunky rhodes and pianos and a cheeky synth lead line. Another classic remix from the wunderkind of German house!
+Hot Spanish producer [Ian Carey][6] then takes on the hot German producers the [Tune Brothers][7] and their awesome old school sounding &#8220;I Like It&#8221;. Ian provides us with a dirty 2006 bassline but kicks in some nagging piano keys which just seem to build and build. This is a proper 2am tune which sends the crowds wild. I've then put in Simmons and [Christopher][8]&#8216;s new tune &#8220;Weekend&#8221;. This is a cover of an old disco anthem by Class Action which was made famous by [Todd Terry][9] in the early 90s. Again Raul Rincon works his remix magic and drops a funky bassline, chunky rhodes and pianos and a cheeky synth lead line. Another classic remix from the wunderkind of German house!
 
 The final tune in the piano mix is a new tune by Cafe Groove called &#8220;Why U Wanna Do Me Wrong?&#8221;. A great soulful remix by the [Soul Avengerz][10] ends the mix nicely as they create a future piano anthem. Lovely!
 
 **Tracklisting:**
 
-  1. Antoine Clamaran – Keep On Tryin&#8217; (Hott 22 Remix) – 
+  1. Antoine Clamaran – Keep On Tryin' (Hott 22 Remix) – 
   2. George Duke – Brazilian Love Affair (Mike Perry Extended Vocal Mix) – 
   3. Wi-Fi – Be Without You (Raul Rincon Remix) – 
-  4. Tune Brothers – I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) – 
+  4. Tune Brothers – I Like It (Ian Carey's Ghetto Fabulous Mix) – 
   5. Simmons &#038; Christopher – Weekend (Raul Rincon Remix) – AATW
   6. Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records
 

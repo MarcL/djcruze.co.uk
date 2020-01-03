@@ -54,11 +54,11 @@ media:
     - "Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound"
 ---
 Here it is. The one you have been waiting for. Episode 8 of the DJ Cruze podcast otherwise known as &#8220;The Best of 2005 Mix&#8221;.  
-I&#8217;ve got together my favourite tunes from 2005 and stuck them in a bite-sized downloadable MP3 for your listening pleasure. How good is that?
+I've got together my favourite tunes from 2005 and stuck them in a bite-sized downloadable MP3 for your listening pleasure. How good is that?
 
-It&#8217;s a bit longer than normal and comes in at 73 minutes and 30 seconds. A nice fit for a CD if you want to listen to it in the car. Hopefully it won&#8217;t break my bandwidth limits too much!
+It's a bit longer than normal and comes in at 73 minutes and 30 seconds. A nice fit for a CD if you want to listen to it in the car. Hopefully it won't break my bandwidth limits too much!
 
-Here is the tracklisting for this week&#8217;s show:
+Here is the tracklisting for this week's show:
 
   * **Best of 2005 Mix** 
       * Lilâ€™ Love – Little Love ([Soul Avengerz][3] Mix) – Positiva
@@ -75,7 +75,7 @@ Here is the tracklisting for this week&#8217;s show:
       * [Moby][16] – Raining Again ([Steve Angello][17] Vocal Mix) – Mute
       * [Royksopp][18] – What Else Is There? (Thin White Duke Mix) – [Wall Of Sound][19]
 
-I&#8217;d like to thank you all for your support and love over the past few months. I&#8217;ve made lots of new friends from around the world and I&#8217;m looking forward to rocking your floors soon. I&#8217;d especially like to thank Bodo in Germany who has been hosting all of the MP3s for the past few months. Check out his web services [here][20].
+I'd like to thank you all for your support and love over the past few months. I've made lots of new friends from around the world and I'm looking forward to rocking your floors soon. I'd especially like to thank Bodo in Germany who has been hosting all of the MP3s for the past few months. Check out his web services [here][20].
 
  [1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast008_311205.mp3
  [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

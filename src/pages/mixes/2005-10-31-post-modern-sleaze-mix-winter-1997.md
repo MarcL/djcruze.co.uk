@@ -37,7 +37,7 @@ media:
   tracklist:
     - "Hoof – Detroit"
     - "Sneaker Pimps – Post Modern Sleaze (The Phunk Force Mix)"
-    - "De&#8217;Lacey – Hideaway (187 Lockdown Mix)"
+    - "De'Lacey – Hideaway (187 Lockdown Mix)"
     - "187 Lockdown – Gunman"
     - "DJ Supreme vs Rhythm Masters – Enter The Scene (Klubheads Mix)"
     - "Urban Shakedown – Some Justice"
@@ -46,19 +46,19 @@ media:
     - "TBA – Never Give Up On"
     - "Laguna – Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)"
     - "Kinane – Business (K-Klass Club Mix)"
-    - "Sybil – Why? (Mark&#8217;s Non-Stop Dub)"
+    - "Sybil – Why? (Mark's Non-Stop Dub)"
 ---
 
-It&#8217;s about time I gave you another old mix isn&#8217;t it?  
+It's about time I gave you another old mix isn't it?  
 My bandwidth may be taking a battering with my podcast show but I know that you all like the old mixes.
 
-Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Sleaze&#8221;. It&#8217;s named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
+Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Sleaze&#8221;. It's named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
 
 **Tracklisting:**
 
   1. Hoof – Detroit
   2. Sneaker Pimps – Post Modern Sleaze (The Phunk Force Mix)
-  3. De&#8217;Lacey – Hideaway (187 Lockdown Mix)
+  3. De'Lacey – Hideaway (187 Lockdown Mix)
   4. 187 Lockdown – Gunman
   5. DJ Supreme vs Rhythm Masters – Enter The Scene (Klubheads Mix)
   6. Urban Shakedown – Some Justice
@@ -67,9 +67,9 @@ Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Slea
   9. TBA – Never Give Up On
  10. Laguna – Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)
  11. Kinane – Business (K-Klass Club Mix)
- 12. Sybil – Why? (Mark&#8217;s Non-Stop Dub)
+ 12. Sybil – Why? (Mark's Non-Stop Dub)
 
-Oh and Happy Halloween too! Next year I&#8217;ll have to make a spooky mix for it!
+Oh and Happy Halloween too! Next year I'll have to make a spooky mix for it!
 
  [1]: http://www.sneakerpimps.com/
  [2]: http://www.kingunique.com

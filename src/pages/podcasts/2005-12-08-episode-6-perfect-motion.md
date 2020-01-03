@@ -50,9 +50,9 @@ media:
     - "Cruze classic from 1992: "
     - "Sunscreem – Perfect Motion (Boys Own Mix) – Sony S2"
 ---
-Podcast #6 is finally online. Sorry that it&#8217;s a bit late. As you all know I was DJ&#8217;ing in Germany at the weekend so I didn&#8217;t get a chance to record the show until Tuesday night. Hopefully it&#8217;ll still sound as funky fresh as ever. Enjoy!
+Podcast #6 is finally online. Sorry that it's a bit late. As you all know I was DJ'ing in Germany at the weekend so I didn't get a chance to record the show until Tuesday night. Hopefully it'll still sound as funky fresh as ever. Enjoy!
 
-Here is the tracklisting for this week&#8217;s show:
+Here is the tracklisting for this week's show:
 
   * **DJ Cruze chart rundown:** 
       * Silosonic – Something To Make You Feel Alright – CDR
@@ -67,7 +67,7 @@ Here is the tracklisting for this week&#8217;s show:
   * **Cruze classic from 1992:** 
       * [Sunscreem][12] – Perfect Motion (Boys Own Mix) – Sony S2
 
-As always I love to hear your feed back on the show. [Contact me][13] using the form provided and I&#8217;ll get back to you as soon as I can. If you&#8217;re an up and coming producer and you would like to get some exposure for your hot house tunes on the show then make sure you get in touch and we&#8217;ll arrange to get your tunes on the show.
+As always I love to hear your feed back on the show. [Contact me][13] using the form provided and I'll get back to you as soon as I can. If you're an up and coming producer and you would like to get some exposure for your hot house tunes on the show then make sure you get in touch and we'll arrange to get your tunes on the show.
 
  [1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast006_061205.mp3
  [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

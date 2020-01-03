@@ -34,8 +34,8 @@ media:
     - "Freeland feat. Alison David – Supernatural (Tom Middleton Cosmos Mix)"
     - "Electricano – Harmony Of Soul (David Ferrero Housepark Remix)"
     - "Rasmus Faber feat. Melo – Come With Me (Dub Mix)"
-    - "Sean Biddle – Can&#8217;t Keep (Original Mix)"
-    - "Mint Royale – Singin&#8217; In the Rain (Storm in a Double DD Cup Mix)"
+    - "Sean Biddle – Can't Keep (Original Mix)"
+    - "Mint Royale – Singin' In the Rain (Storm in a Double DD Cup Mix)"
     - "Natasha Bedingfield – These Words (Bimbo Jones Remix)"
     - "Kid Massive – Get It On Up (Original Mix)"
     - "Hatiras – Shady Luv"
@@ -47,11 +47,11 @@ media:
     - "Underworld – Cowgirl"
 ---
 
-While I&#8217;m away my good friend [DJ Dyslexic][1] has stepped up to the plate and provided you all with a funky house mix. This is strictly on the San Francsico house vibe so enjoy it! DJ Cruze will be back in the house in a few weeks so aloha for now!
+While I'm away my good friend [DJ Dyslexic][1] has stepped up to the plate and provided you all with a funky house mix. This is strictly on the San Francsico house vibe so enjoy it! DJ Cruze will be back in the house in a few weeks so aloha for now!
 
-Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it&#8217;s terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
 
-As always I love to hear your feed back on the show. [Contact me][2] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes, I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][2] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 
  [1]: http://www.djdyslexic.com/
  [2]: http://www.djcruze.co.uk/cms/contact/

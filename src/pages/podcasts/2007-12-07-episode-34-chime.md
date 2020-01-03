@@ -44,14 +44,14 @@ media:
     - "[00:45:45] Mika – Relax (Take It Easy) (Dennis Christopher Remix) – Casablanca"
     - "[00:51:12] Bodyrock &#038; Luciana – What Planet You On (The Slacksons Mix) – Phonetic"
     - "Cruze classic from 1989: "
-    - "[00:56:50] Orbital – Chime – Oh&#8217;Zone Records"
+    - "[00:56:50] Orbital – Chime – Oh'Zone Records"
 ---
-As always, it&#8217;s been a while since the last DJ Cruze podcast but finally I&#8217;ve got a new one online and it&#8217;s packed with the funkiest house music and chunkiest electro tunes. This week&#8217;s Cruze classic is an absolute monster. Orbital&#8217;s classic &#8220;Chime&#8221; needed to be aired as I haven&#8217;t played it in ages but it&#8217;s one of the original tunes that got me into house music from my hip-hop roots. A killer tune from the Hartnoll boys and one that still reminds me of the old rave days in Manchester.
+As always, it's been a while since the last DJ Cruze podcast but finally I've got a new one online and it's packed with the funkiest house music and chunkiest electro tunes. This week's Cruze classic is an absolute monster. Orbital's classic &#8220;Chime&#8221; needed to be aired as I haven't played it in ages but it's one of the original tunes that got me into house music from my hip-hop roots. A killer tune from the Hartnoll boys and one that still reminds me of the old rave days in Manchester.
 
-The audio quality is slightly different on this show as I&#8217;ve moved my studio around a bit and I&#8217;ve started using a new compressor. If you know how compressors are meant to sound then you might find this a bit harsher than the previous shows. I need to tweak some settings until I&#8217;m completely happy with it but it still sounds pretty good. Let me know if you think it sounds worse than before!
+The audio quality is slightly different on this show as I've moved my studio around a bit and I've started using a new compressor. If you know how compressors are meant to sound then you might find this a bit harsher than the previous shows. I need to tweak some settings until I'm completely happy with it but it still sounds pretty good. Let me know if you think it sounds worse than before!
 
 
-Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it&#8217;s terrible then give it a 1. Get voting people!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Get voting people!
 
  [1]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
  [2]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast034_071207.mp3

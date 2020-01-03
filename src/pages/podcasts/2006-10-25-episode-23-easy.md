@@ -1,5 +1,5 @@
 ---
-title: 'Episode #23 &#8211; Easy'
+title: 'Episode #23 – Easy'
 author: djcruze
 #permalink: /2006/10/25/episode-23-easy/
 permalink: /podcasts/episode-23-easy/
@@ -32,18 +32,18 @@ media:
   keywords: ''
   tracklist:
     - 'DJ Cruze big tunes: '
-    - 'Dirty Old Anne &#8211; Turn Me On (Menace &#038; Ropero Remix) &#8211; Loaded'
-    - 'Justin Timberlake &#8211; My Love (Poker Face Remix) &#8211; Jive'
+    - 'Dirty Old Anne – Turn Me On (Menace &#038; Ropero Remix) – Loaded'
+    - 'Justin Timberlake – My Love (Poker Face Remix) – Jive'
     - 'DJ Cruze chart rundown: '
-    - 'Soul Seekerz &#8211; Party For The Weekend (Eric Smax &#038; Thomas Gold Remix) &#8211; Positiva'
-    - 'Madonna &#8211; Jump &#8211; (Axwell Remix) &#8211; Maverick'
-    - 'Whelan &#038; Di Scala &#8211; Teardrops &#8211; (Hott 22 Remix) &#8211; AATW'
-    - 'Booty Luv &#8211; Boogie 2Nite (Seamus Haji Big Love Remix) &#8211; Hed Kandi'
-    - 'Reflekt &#8211; Shine (Feels Like Home) (Seb Fontaine &#038; Jay P Type Remix) &#8211; Mono-Type'
-    - 'Sugababes &#8211; Easy (Seamus Haji &#038; Paul Emanuel Remix) &#8211; Island'
-    - 'Tall Paul &#8211; Rock Da House 2006 (Rhythm Masters Mix) &#8211; AATW'
+    - 'Soul Seekerz – Party For The Weekend (Eric Smax &#038; Thomas Gold Remix) – Positiva'
+    - 'Madonna – Jump – (Axwell Remix) – Maverick'
+    - 'Whelan &#038; Di Scala – Teardrops – (Hott 22 Remix) – AATW'
+    - 'Booty Luv – Boogie 2Nite (Seamus Haji Big Love Remix) – Hed Kandi'
+    - 'Reflekt – Shine (Feels Like Home) (Seb Fontaine &#038; Jay P Type Remix) – Mono-Type'
+    - 'Sugababes – Easy (Seamus Haji &#038; Paul Emanuel Remix) – Island'
+    - 'Tall Paul – Rock Da House 2006 (Rhythm Masters Mix) – AATW'
     - 'Cruze classic from 2001: '
-    - 'Banda Sonora &#8211; Guitarra G (G Club Original Mix) &#8211; Defected'
+    - 'Banda Sonora – Guitarra G (G Club Original Mix) – Defected'
 ---
 
 Finally episode #23 of the DJ Cruze podcast arrives at your door like an old friend. Sorry that it took a bit longer than it should have done. I sorted the mix out a few days ago and wanted to master it (so that it sounds nice for you all) like I always do. And then yet again my old PC crashed. So I&#8217;ve spent the last few hours trying to save the podcast and thankfully I&#8217;ve sorted it out. Fingers crossed that it will last a bit longer until I&#8217;ve copied all of my data over to my external hard drive.

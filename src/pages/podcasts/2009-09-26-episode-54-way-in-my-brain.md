@@ -1,5 +1,5 @@
 ---
-title: 'Episode #54 &#8211; Way In My Brain'
+title: 'Episode #54 – Way In My Brain'
 author: djcruze
 #permalink: /2009/09/26/episode-54-way-in-my-brain/
 permalink: /podcasts/episode-54-way-in-my-brain/
@@ -33,19 +33,19 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=748'
   tracklist:
-    - '[00:00:00] Boy 8-Bit &#8211; Baltic Pine (Original Mix) &#8211; This Is Music Ltd.'
-    - '[00:05:39] Fake Blood &#8211; Fix Your Accent (Original Mix) &#8211; Cheap Thrills'
-    - '[00:09:50] Duck Sauce &#8211; Anyway &#8211; Fools Gold Records'
-    - '[00:14:38] Fake Blood &#8211; I Think I Like It (Original Mix) &#8211; Cheap Thrills'
-    - '[00:19:19] Tee Ski &#038; Shab Ruffcut &#8211; Iran (His Majesty Andre Is Very Lazy Mix) &#8211; ESP Records'
-    - '[00:23:15] Ou Est Le Swimming Pool &#8211; Dance The Way I Feel (Armand Van Helden Club Mix) &#8211; Stiff Records'
-    - '[00:28:03] Wolfgang Gartner &#8211; Fire Power (Original Mix) &#8211; Kindergarten'
-    - '[00:33:46] Eddie Thoneick feat. Andy P &#8211; Love Under Pressure (Eddie Thoneick Remix) &#8211; Tonik Recordings'
-    - '[00:38:09] David Guetta, Sebastian Ingrosso and Dirty South feat. Julie McKnight &#8211; How Soon Is Now (Extended Version) &#8211; Fk Me I&#8217;m Famous'
-    - '[00:44:18] Lys feat. Mooli &#8211; San Francisco Rain (Chris Lake Remix) &#8211; Rising Music'
-    - '[00:51:04] Sharooz &#8211; Adrenalize (Phonat Deconstructive Mix) &#8211; Mofo Hifi Records'
+    - '[00:00:00] Boy 8-Bit – Baltic Pine (Original Mix) – This Is Music Ltd.'
+    - '[00:05:39] Fake Blood – Fix Your Accent (Original Mix) – Cheap Thrills'
+    - '[00:09:50] Duck Sauce – Anyway – Fools Gold Records'
+    - '[00:14:38] Fake Blood – I Think I Like It (Original Mix) – Cheap Thrills'
+    - '[00:19:19] Tee Ski &#038; Shab Ruffcut – Iran (His Majesty Andre Is Very Lazy Mix) – ESP Records'
+    - '[00:23:15] Ou Est Le Swimming Pool – Dance The Way I Feel (Armand Van Helden Club Mix) – Stiff Records'
+    - '[00:28:03] Wolfgang Gartner – Fire Power (Original Mix) – Kindergarten'
+    - '[00:33:46] Eddie Thoneick feat. Andy P – Love Under Pressure (Eddie Thoneick Remix) – Tonik Recordings'
+    - '[00:38:09] David Guetta, Sebastian Ingrosso and Dirty South feat. Julie McKnight – How Soon Is Now (Extended Version) – Fk Me I&#8217;m Famous'
+    - '[00:44:18] Lys feat. Mooli – San Francisco Rain (Chris Lake Remix) – Rising Music'
+    - '[00:51:04] Sharooz – Adrenalize (Phonat Deconstructive Mix) – Mofo Hifi Records'
     - 'Cruze classic from 1991:'
-    - '[00:56:00] SL2 &#8211; Way In My Brain &#8211; XL Recordings'
+    - '[00:56:00] SL2 – Way In My Brain – XL Recordings'
 ---
 
 Time for another hour of funky and chunky house music from the crates of the DJ Cruze studio with episode #54 of the DJ Cruze Podcast. This show is another great one and this month I&#8217;ve gone on more of a disco tip to start off. It seems like the disco cut-up is back in fashion with some awesome tunes from the likes of Fake Blood (aka DJ Touche), Duck Sauce (aka Armand Van Helden and ex DMC World Champion DJ A-Trak), Tee Sky and Ou Est La Swimming Pool.

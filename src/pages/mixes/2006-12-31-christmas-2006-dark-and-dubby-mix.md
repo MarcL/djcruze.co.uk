@@ -29,13 +29,13 @@ media:
   length: "00:42:27"
   keywords: ""
   tracklist:
-    - "Dannii Minogue &#8211; He&#8217;s The Greatest Dancer (Chris Lake Remix) &#8211; AATW"
-    - "Ben Macklin &#8211; Feel Together (Eddie Thoneick Remix) &#8211; Free2Air Recordings"
-    - "The Group Dynamics &#8211; Consequences (Original Vocal Mix) &#8211; UMM"
-    - "Robbie Williams &#8211; Lovelight (Kurd Maverick Vocal Mix) &#8211; EMI"
-    - "The Young Punx &#8211; Rockall (Phonat Mix) &#8211; Mofo Hifi"
-    - "Freelance Hellraiser &#8211; Weightlessness (Klaas Mix) &#8211; Ugly Truth"
-    - "Tyken &#8211; Every Word (Dave Spoon Remix) &#8211; Hed Kandi"
+    - "Dannii Minogue – He&#8217;s The Greatest Dancer (Chris Lake Remix) – AATW"
+    - "Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings"
+    - "The Group Dynamics – Consequences (Original Vocal Mix) – UMM"
+    - "Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI"
+    - "The Young Punx – Rockall (Phonat Mix) – Mofo Hifi"
+    - "Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth"
+    - "Tyken – Every Word (Dave Spoon Remix) – Hed Kandi"
 ---
 
 So for the 5th mini mix of Christmas we have something deep, dark and dubby. Imagine it&#8217;s 4am in a club and you&#8217;ve had way too much of your favourite substance (mine is beer but yours might be something else!) What do you need? Some deep and dirty grooves to chill you out a bit of course!
@@ -54,13 +54,13 @@ Hope you enjoyed the deep and dubby mix and watch out for the final mix in the C
 
 **Tracklisting:**
 
-  1. Dannii Minogue &#8211; He&#8217;s The Greatest Dancer (Chris Lake Remix) &#8211; AATW
-  2. Ben Macklin &#8211; Feel Together (Eddie Thoneick Remix) &#8211; Free2Air Recordings
-  3. The Group Dynamics &#8211; Consequences (Original Vocal Mix) &#8211; UMM
-  4. Robbie Williams &#8211; Lovelight (Kurd Maverick Vocal Mix) &#8211; EMI
-  5. The Young Punx &#8211; Rockall (Phonat Mix) &#8211; Mofo Hifi
-  6. Freelance Hellraiser &#8211; Weightlessness (Klaas Mix) &#8211; Ugly Truth
-  7. Tyken &#8211; Every Word (Dave Spoon Remix) &#8211; Hed Kandi
+  1. Dannii Minogue – He&#8217;s The Greatest Dancer (Chris Lake Remix) – AATW
+  2. Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings
+  3. The Group Dynamics – Consequences (Original Vocal Mix) – UMM
+  4. Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI
+  5. The Young Punx – Rockall (Phonat Mix) – Mofo Hifi
+  6. Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth
+  7. Tyken – Every Word (Dave Spoon Remix) – Hed Kandi
 
 <div style="clear:both;">
 </div>

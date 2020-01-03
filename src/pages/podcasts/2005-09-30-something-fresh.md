@@ -39,19 +39,19 @@ media:
   keywords: ""
   tracklist:
     - "Top 10 rundown: "
-    - "DJ Bomba &#038; J Paolo &#8211; Esuma &#8211; A&#038;G Records"
-    - "Steve Mac &#038; Steve Smith &#8211; Loving You More (That Big Track) (Freemasons Remix) &#8211; CR2 Records"
-    - "Olav Basoski &#8211; Waterman &#8211; Positiva"
-    - "Switch &#8211; A Bit Patchy &#8211; Dubsided"
-    - "Dave McCullen &#8211; B*tch &#8211; Full Force Session"
-    - "DJ Tonka vs Adjuster &#8211; All Over Again &#8211; Disco Inc"
-    - "Freemaison &#8211; Watchin&#8217; (Dub Mix) &#8211; Freemaison"
+    - "DJ Bomba &#038; J Paolo – Esuma – A&#038;G Records"
+    - "Steve Mac &#038; Steve Smith – Loving You More (That Big Track) (Freemasons Remix) – CR2 Records"
+    - "Olav Basoski – Waterman – Positiva"
+    - "Switch – A Bit Patchy – Dubsided"
+    - "Dave McCullen – B*tch – Full Force Session"
+    - "DJ Tonka vs Adjuster – All Over Again – Disco Inc"
+    - "Freemaison – Watchin&#8217; (Dub Mix) – Freemaison"
     - "Cruze classic from 1998: "
-    - "Full Intention &#8211; You Are Somebody (Sugar Daddy Mix) &#8211; Sugar Daddy Records"
+    - "Full Intention – You Are Somebody (Sugar Daddy Mix) – Sugar Daddy Records"
     - "Top 3 rundown: "
-    - "Robbie Rivera vs Jesus Jones &#8211; Right Here, Right Now &#8211; Nebula"
-    - "D.O.N.S. Feat. Technotronic &#8211; Pump Up The Jam (Moto Blanco Mix) &#8211; Data"
-    - "Danni Minogue &#038; The Soul Seekerz &#8211; Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) &#8211; AATW"
+    - "Robbie Rivera vs Jesus Jones – Right Here, Right Now – Nebula"
+    - "D.O.N.S. Feat. Technotronic – Pump Up The Jam (Moto Blanco Mix) – Data"
+    - "Danni Minogue &#038; The Soul Seekerz – Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) – AATW"
 ---
 
 **You may remember a while ago that I talked about some ideas I had for the website to keep things fresh. Well finally I&#8217;ve managed to get things up and running in my studio and you&#8217;ll find something quite exciting happening&#8230;**
@@ -95,19 +95,19 @@ I hope you like it as I really enjoyed doing it. You&#8217;ll no longer be able 
 **Update: Here is the tracklisting**
 
   * **Top 10 rundown:** 
-      * DJ Bomba &#038; J Paolo &#8211; Esuma &#8211; A&#038;G Records
-      * Steve Mac &#038; Steve Smith &#8211; Loving You More (That Big Track) (Freemasons Remix) &#8211; CR2 Records
-      * Olav Basoski &#8211; Waterman &#8211; Positiva
-      * Switch &#8211; A Bit Patchy &#8211; Dubsided
-      * Dave McCullen &#8211; B*tch &#8211; Full Force Session
-      * DJ Tonka vs Adjuster &#8211; All Over Again &#8211; Disco Inc
-      * Freemaison &#8211; Watchin&#8217; (Dub Mix) &#8211; Freemaison
+      * DJ Bomba &#038; J Paolo – Esuma – A&#038;G Records
+      * Steve Mac &#038; Steve Smith – Loving You More (That Big Track) (Freemasons Remix) – CR2 Records
+      * Olav Basoski – Waterman – Positiva
+      * Switch – A Bit Patchy – Dubsided
+      * Dave McCullen – B*tch – Full Force Session
+      * DJ Tonka vs Adjuster – All Over Again – Disco Inc
+      * Freemaison – Watchin&#8217; (Dub Mix) – Freemaison
   * **Cruze classic from 1998:** 
-      * Full Intention &#8211; You Are Somebody (Sugar Daddy Mix) &#8211; Sugar Daddy Records
+      * Full Intention – You Are Somebody (Sugar Daddy Mix) – Sugar Daddy Records
   * **Top 3 rundown:** 
-      * Robbie Rivera vs Jesus Jones &#8211; Right Here, Right Now &#8211; Nebula
-      * D.O.N.S. Feat. Technotronic &#8211; Pump Up The Jam (Moto Blanco Mix) &#8211; Data
-      * Danni Minogue &#038; The Soul Seekerz &#8211; Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) &#8211; AATW
+      * Robbie Rivera vs Jesus Jones – Right Here, Right Now – Nebula
+      * D.O.N.S. Feat. Technotronic – Pump Up The Jam (Moto Blanco Mix) – Data
+      * Danni Minogue &#038; The Soul Seekerz – Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) – AATW
 
  [1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast001_250905.mp3
  [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

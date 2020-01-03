@@ -1,5 +1,5 @@
 ---
-title: 'Episode #18 &#8211; What The Hell'
+title: 'Episode #18 – What The Hell'
 author: djcruze
 #permalink: /2006/07/06/episode-18-what-the-hell/
 permalink: /podcasts/episode-18-what-the-hell/
@@ -32,18 +32,18 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Beatdropperz &#8211; Changes (Hoxton Whores Mix) &#8211; Serie A Recordings"
+    - "Beatdropperz – Changes (Hoxton Whores Mix) – Serie A Recordings"
     - "DJ Cruze chart rundown: "
-    - "Belle &#8211; What The Hell (Chus Penn Remix) &#8211; Mercury"
-    - "Grooveland &#8211; Tell Me &#8211; Adhesive"
-    - "Tom Novy &#8211; Take It (Haji &#038; Emanuel Remix) &#8211; Data"
-    - "Fonzerelli &#8211; Moonlight Party &#8211; UMM"
-    - "Sikk &#8211; My Washing Machine (Sharp Boys Vocal Fuck Mix) &#8211; Eye Industries"
-    - "Eyes of Love &#8211; My Love Is You (Federico Conti Extended Mix) &#8211; Born To Dance Records"
-    - "Madonna &#8211; Get Together (Jacque Lu Cont Vocal Edit) &#8211; Maverick"
-    - "Chocolate Puma &#8211; Always &#038; Forever (Till West &#038; DJ Delicious Mix) &#8211; Positiva"
+    - "Belle – What The Hell (Chus Penn Remix) – Mercury"
+    - "Grooveland – Tell Me – Adhesive"
+    - "Tom Novy – Take It (Haji &#038; Emanuel Remix) – Data"
+    - "Fonzerelli – Moonlight Party – UMM"
+    - "Sikk – My Washing Machine (Sharp Boys Vocal Fuck Mix) – Eye Industries"
+    - "Eyes of Love – My Love Is You (Federico Conti Extended Mix) – Born To Dance Records"
+    - "Madonna – Get Together (Jacque Lu Cont Vocal Edit) – Maverick"
+    - "Chocolate Puma – Always &#038; Forever (Till West &#038; DJ Delicious Mix) – Positiva"
     - "Cruze classic from 1994: "
-    - "Ideal &#8211; Hot &#8211; Cleveland City"
+    - "Ideal – Hot – Cleveland City"
 ---
 
 Back with another dose of funky house music for your mind, your body and your soul. Be warned that this episode contains a track with some explicit lyrics. Don&#8217;t play it if you have kids within listening distance!

@@ -1,5 +1,5 @@
 ---
-title: 'Episode #25 &#8211; Santa Baby'
+title: 'Episode #25 – Santa Baby'
 author: djcruze
 excerpt: "Ho! Ho! Ho! Merry Christmas! It's that time of year again when I bring some funky house tunes and dirty electro and leave it under the Christmas tree. Episode #25 of the DJ Cruze podcast will be appearing in your podcatcher on Christmas morning. It's a lot better than that lump of coal you received last year for being a naughty boy or girl!"
 #permalink: /2006/12/24/episode-25-santa-baby/
@@ -31,19 +31,19 @@ media:
   keywords: ""
   tracklist:
     - "DJ Cruze exclusive: "
-    - "Eartha Kitt &#8211; Santa Baby (DJ Cruze Funkfinders Remix) &#8211; CDR"
+    - "Eartha Kitt – Santa Baby (DJ Cruze Funkfinders Remix) – CDR"
     - "DJ Cruze chart rundown: "
-    - "Cafe Groove &#8211; Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) &#8211; Hit! Records"
-    - "Stonebridge &#8211; SOS (Stonebridge RMX) &#8211; CDR"
-    - "A Lee &#8211; Electric Passion (Original Mix) &#8211; Oxyd"
-    - "Just Jack &#8211; Starz In Their Eyes (Trophy Twins Mix) &#8211; Mercury Records"
-    - "Basoski &#038; Romano &#8211; No One &#8211; Rootz Records"
-    - "Tyken &#8211; Every Word (Club Mix) &#8211; Hed Kandi"
-    - "Wi-Fi &#8211; Be Without You (Raul Rincon Mix) &#8211; AATW"
-    - "Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records"
-    - "Dannii Minogue &#8211; Heâ€™s The Greatest Dancer (Chris Lake Remix) &#8211; AATW"
+    - "Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records"
+    - "Stonebridge – SOS (Stonebridge RMX) – CDR"
+    - "A Lee – Electric Passion (Original Mix) – Oxyd"
+    - "Just Jack – Starz In Their Eyes (Trophy Twins Mix) – Mercury Records"
+    - "Basoski &#038; Romano – No One – Rootz Records"
+    - "Tyken – Every Word (Club Mix) – Hed Kandi"
+    - "Wi-Fi – Be Without You (Raul Rincon Mix) – AATW"
+    - "Starzoom – Billie Jean (Dave Moureaux Remix) – Gusto Records"
+    - "Dannii Minogue – Heâ€™s The Greatest Dancer (Chris Lake Remix) – AATW"
     - "Cruze classic from 1995: "
-    - "Paula Abdul &#8211; Crazy Cool (Strike&#8217;s Dub) &#8211; Virgin"
+    - "Paula Abdul – Crazy Cool (Strike&#8217;s Dub) – Virgin"
 ---
 
 Ho! Ho! Ho! Merry Christmas! It&#8217;s that time of year again when I bring some funky house tunes and dirty electro and leave it under the Christmas tree. Episode #25 of the DJ Cruze podcast will be appearing in your podcatcher on Christmas morning. It&#8217;s a lot better than that lump of coal you received last year for being a naughty boy or girl!

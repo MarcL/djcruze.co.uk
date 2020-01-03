@@ -1,5 +1,5 @@
 ---
-title: 'Episode #17 &#8211; Golden Sun'
+title: 'Episode #17 – Golden Sun'
 author: djcruze
 #permalink: /2006/06/16/episode-17-golden-sun/
 permalink: /podcasts/episode-17-golden-sun/
@@ -32,19 +32,19 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "ATFC &#8211; Reach Out For Me (Alex Taylor Mix) &#8211; Onephatdeeva"
-    - "DT8 Project &#8211; Narama &#8211; Mondo>"
-    - "The Shapeshifters &#038; Chic &#8211; Sensitivity &#8211; (Nocturnal Mix) &#8211; Positiva"
-    - "Asle &#8211; Golden Sun &#8211; (Haji &#038; Emanuel Mix) &#8211; CR2"
+    - "ATFC – Reach Out For Me (Alex Taylor Mix) – Onephatdeeva"
+    - "DT8 Project – Narama – Mondo>"
+    - "The Shapeshifters &#038; Chic – Sensitivity – (Nocturnal Mix) – Positiva"
+    - "Asle – Golden Sun – (Haji &#038; Emanuel Mix) – CR2"
     - "DJ Cruze chart rundown: "
-    - "Lorraine &#8211; Transatlantic Flight &#8211; (Axwell Mix) &#8211; Waterfall"
-    - "Avalon Superstar &#8211; All My Love &#8211; (Soul Seekerz Mix) &#8211; Avalon Superstar"
-    - "The Similou &#8211; All This Love &#8211; (The Young Punx Club Mix) &#8211; Direction"
-    - "MYNC Project &#8211; Something On Your Mind &#8211; (Soul Seekerz Mix) &#8211; Apollo"
-    - "Sonique &#8211; Tonight &#8211; (Haji &#038; Emanuel Mix) &#8211; Azuli"
-    - "Fatboy Slim &#8211; The Greatest Remixes Part One &#8211; Skint<"
+    - "Lorraine – Transatlantic Flight – (Axwell Mix) – Waterfall"
+    - "Avalon Superstar – All My Love – (Soul Seekerz Mix) – Avalon Superstar"
+    - "The Similou – All This Love – (The Young Punx Club Mix) – Direction"
+    - "MYNC Project – Something On Your Mind – (Soul Seekerz Mix) – Apollo"
+    - "Sonique – Tonight – (Haji &#038; Emanuel Mix) – Azuli"
+    - "Fatboy Slim – The Greatest Remixes Part One – Skint<"
     - "Cruze classic from 1995: "
-    - "The Lisa Marie Experience &#8211; Do That To Me (The Lisa Marie Vocal Experience Mix Part 1) &#8211; White label"
+    - "The Lisa Marie Experience – Do That To Me (The Lisa Marie Vocal Experience Mix Part 1) – White label"
 ---
 Yes, it&#8217;s been far too long since episode #16 of the DJ Cruze podcast. Sorry about that. Sometimes work and partying get in the way of supplying you with upfront, funky house music. But it&#8217;s finished&#8230;finally. Episode #17 of the DJ Cruze podcast is here for your listening pleasure.
 

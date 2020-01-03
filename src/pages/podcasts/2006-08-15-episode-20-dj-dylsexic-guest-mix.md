@@ -1,5 +1,5 @@
 ---
-title: 'Episode #20 &#8211; DJ Dylsexic guest mix'
+title: 'Episode #20 – DJ Dylsexic guest mix'
 author: djcruze
 #permalink: /2006/08/15/episode-20-dj-dylsexic-guest-mix/
 permalink: /podcasts/episode-20-dj-dylsexic-guest-mix/
@@ -31,20 +31,20 @@ media:
   length: "01:07:04"
   keywords: ""
   tracklist:
-    - "Freeland feat. Alison David &#8211; Supernatural (Tom Middleton Cosmos Mix)"
-    - "Electricano &#8211; Harmony Of Soul (David Ferrero Housepark Remix)"
-    - "Rasmus Faber feat. Melo &#8211; Come With Me (Dub Mix)"
-    - "Sean Biddle &#8211; Can&#8217;t Keep (Original Mix)"
-    - "Mint Royale &#8211; Singin&#8217; In the Rain (Storm in a Double DD Cup Mix)"
-    - "Natasha Bedingfield &#8211; These Words (Bimbo Jones Remix)"
-    - "Kid Massive &#8211; Get It On Up (Original Mix)"
-    - "Hatiras &#8211; Shady Luv"
-    - "Kid Massive &#8211; ASI (Original Mix)"
-    - "Meck feat. Leo Sayer &#8211; Thunder In My Heart (Hot 22 Mix)"
-    - "Imogen Heap &#8211; Hide and Seek (Morgan Page Micro-house Mix) "
+    - "Freeland feat. Alison David – Supernatural (Tom Middleton Cosmos Mix)"
+    - "Electricano – Harmony Of Soul (David Ferrero Housepark Remix)"
+    - "Rasmus Faber feat. Melo – Come With Me (Dub Mix)"
+    - "Sean Biddle – Can&#8217;t Keep (Original Mix)"
+    - "Mint Royale – Singin&#8217; In the Rain (Storm in a Double DD Cup Mix)"
+    - "Natasha Bedingfield – These Words (Bimbo Jones Remix)"
+    - "Kid Massive – Get It On Up (Original Mix)"
+    - "Hatiras – Shady Luv"
+    - "Kid Massive – ASI (Original Mix)"
+    - "Meck feat. Leo Sayer – Thunder In My Heart (Hot 22 Mix)"
+    - "Imogen Heap – Hide and Seek (Morgan Page Micro-house Mix) "
     - "DJ Dyslexic classic tunes: "
-    - "Underworld &#8211; Rez"
-    - "Underworld &#8211; Cowgirl"
+    - "Underworld – Rez"
+    - "Underworld – Cowgirl"
 ---
 
 While I&#8217;m away my good friend [DJ Dyslexic][1] has stepped up to the plate and provided you all with a funky house mix. This is strictly on the San Francsico house vibe so enjoy it! DJ Cruze will be back in the house in a few weeks so aloha for now!

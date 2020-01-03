@@ -1,5 +1,5 @@
 ---
-title: 'Episode #46 &#8211; Sexy Dancer'
+title: 'Episode #46 – Sexy Dancer'
 author: djcruze
 #permalink: /2008/12/23/episode-46-sexy-dancer/
 permalink: /podcasts/episode-46-sexy-dancer/
@@ -31,17 +31,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] East 17 &#8211; Stay Another Day (Funkfinders Electroid Remix) &#8211; White"
-    - "[00:06:00] Bodyrox &#038; Luciana feat Nick Clow &#8211; Brave New World (Original Mix) &#8211; Phonetic"
-    - "[00:12:07] Chris Lake feat Nastala &#8211; If You Knew (Original Mix) &#8211; Rising Music"
-    - "[00:18:22] Arno Cost &#8211; Souvenir (Arias Remix) &#8211; CR2 Records"
-    - "[00:24:22] Super Mal &#038; Phonat &#8211; Pixelated (Original Mix) &#8211; Bandito Records"
-    - "[00:29:22] The Young Punx &#8211; Never Die (12&#8243; Mix) &#8211; Mofo Hifi"
-    - "[00:33:22] Freemasons feat Hazel Fernandes &#8211; If (Jolyon Petch Vocal Club Mix) &#8211; Loaded"
-    - "[00:40:19] Soul Avengerz &#8211; One Luv (Dirty Dub) &#8211; Milk &#038; Sugar"
-    - "[00:45:48] Simone Denny &#8211; Addicted (World Of Colour Remix) &#8211; White"
+    - "[00:00:00] East 17 – Stay Another Day (Funkfinders Electroid Remix) – White"
+    - "[00:06:00] Bodyrox &#038; Luciana feat Nick Clow – Brave New World (Original Mix) – Phonetic"
+    - "[00:12:07] Chris Lake feat Nastala – If You Knew (Original Mix) – Rising Music"
+    - "[00:18:22] Arno Cost – Souvenir (Arias Remix) – CR2 Records"
+    - "[00:24:22] Super Mal &#038; Phonat – Pixelated (Original Mix) – Bandito Records"
+    - "[00:29:22] The Young Punx – Never Die (12&#8243; Mix) – Mofo Hifi"
+    - "[00:33:22] Freemasons feat Hazel Fernandes – If (Jolyon Petch Vocal Club Mix) – Loaded"
+    - "[00:40:19] Soul Avengerz – One Luv (Dirty Dub) – Milk &#038; Sugar"
+    - "[00:45:48] Simone Denny – Addicted (World Of Colour Remix) – White"
     - "Cruze classic from 1994: "
-    - "[00:50:45] The Rockford Files &#8211; Sexy Dancer &#8211; Blackburn Records"
+    - "[00:50:45] The Rockford Files – Sexy Dancer – Blackburn Records"
 ---
 
 Here is Episode #46 of the DJ Cruze Podcast or &#8220;The Christmas Podcast&#8221; as it&#8217;s sometimes known. It&#8217;s a couple of days late due to some Christmas partying but don&#8217;t worry, it&#8217;s packed full of slamming house beats for you to enjoy while you tuck into your turkey, goose or whatever poultry you might be eating during the festive season.

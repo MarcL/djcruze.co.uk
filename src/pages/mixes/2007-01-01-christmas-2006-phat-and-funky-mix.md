@@ -29,13 +29,13 @@ media:
   length: "00:42:31"
   keywords: ""
   tracklist:
-    - "Basement Jaxx &#8211; Hush Boy (Soul Seekerz Mix) &#8211; XL Recordings"
-    - "Lucky 7 &#8211; Why &#8211; Simply Recordings"
-    - "Sexy Toy &#8211; Everytime (Original Mix) &#8211; Oryx Music"
-    - "Dirty Old Ann &#8211; Turn Me On (Full Vocal Club Mix) &#8211; Loaded Records"
-    - "Mint Royale &#8211; Whambar (12&#8243; Version) &#8211; Direction Records"
-    - "Booty Luv &#8211; Boogie 2Night (Seamus Haji Big Love Remix) &#8211; Hed Kandi"
-    - "Tyken &#8211; Every Word (Triple Dee Rebuild) &#8211; Hed Kandi"
+    - "Basement Jaxx – Hush Boy (Soul Seekerz Mix) – XL Recordings"
+    - "Lucky 7 – Why – Simply Recordings"
+    - "Sexy Toy – Everytime (Original Mix) – Oryx Music"
+    - "Dirty Old Ann – Turn Me On (Full Vocal Club Mix) – Loaded Records"
+    - "Mint Royale – Whambar (12&#8243; Version) – Direction Records"
+    - "Booty Luv – Boogie 2Night (Seamus Haji Big Love Remix) – Hed Kandi"
+    - "Tyken – Every Word (Triple Dee Rebuild) – Hed Kandi"
 ---
 
 To finish off this series of Christmas mini-mixes I decided to mix a few of my favourite funky tunes from the past few months. Kicking off the mix we have a funky little number from [the Jaxx][1] called &#8220;Hush Boy&#8221;. The [Soul Seekerz ][2]have transformed it from a downbeat tune into a funky house number which rocked many of my funky floors last year. We then move onto a mysterious reggae house tune called &#8220;Why?&#8221; by Lucky 7. I still haven&#8217;t found out who did this tune but I&#8217;m guessing it&#8217;s one of the big house producers of the moment and they couldn&#8217;t clear the samples! It&#8217;s a funky little number in the same vein as [Olav Basoski][3]&#8216;s &#8220;Waterman&#8221; and it rocks!
@@ -50,13 +50,13 @@ So that&#8217;s it. The last of the Christmas mini-mixes. I hope you&#8217;ve en
 
 **Tracklisting:**
 
-  1. Basement Jaxx &#8211; Hush Boy (Soul Seekerz Mix) &#8211; XL Recordings
-  2. Lucky 7 &#8211; Why &#8211; Simply Recordings
-  3. Sexy Toy &#8211; Everytime (Original Mix) &#8211; Oryx Music
-  4. Dirty Old Ann &#8211; Turn Me On (Full Vocal Club Mix) &#8211; Loaded Records
-  5. Mint Royale &#8211; Whambar (12&#8243; Version) &#8211; Direction Records
-  6. Booty Luv &#8211; Boogie 2Night (Seamus Haji Big Love Remix) &#8211; Hed Kandi
-  7. Tyken &#8211; Every Word (Triple Dee Rebuild) &#8211; Hed Kandi
+  1. Basement Jaxx – Hush Boy (Soul Seekerz Mix) – XL Recordings
+  2. Lucky 7 – Why – Simply Recordings
+  3. Sexy Toy – Everytime (Original Mix) – Oryx Music
+  4. Dirty Old Ann – Turn Me On (Full Vocal Club Mix) – Loaded Records
+  5. Mint Royale – Whambar (12&#8243; Version) – Direction Records
+  6. Booty Luv – Boogie 2Night (Seamus Haji Big Love Remix) – Hed Kandi
+  7. Tyken – Every Word (Triple Dee Rebuild) – Hed Kandi
 
 <div style="clear:both;">
 </div>

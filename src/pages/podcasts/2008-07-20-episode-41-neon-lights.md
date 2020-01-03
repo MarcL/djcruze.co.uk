@@ -1,5 +1,5 @@
 ---
-title: 'Episode #41 &#8211; Neon Lights'
+title: 'Episode #41 – Neon Lights'
 author: djcruze
 #permalink: /2008/07/20/episode-41-neon-lights/
 permalink: /podcasts/episode-41-neon-lights/
@@ -29,17 +29,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Bingo Players vs Chocolate Puma &#8211; Touch Me (Original Mix) &#8211; Strictly"
-    - "[00:06:27] Sunloverz &#8211; Summer Of Love (Ortega and Gold Mix) &#8211; Lickin&#8217; Records"
-    - "[00:11:54] Max Linen &#8211; Neon Lights (Original Full Vocal Mix) &#8211; Phonetic"
-    - "[00:18:20] Out Of Office &#8211; Insatiable (Dub Mix) &#8211; Frenetic Music"
-    - "[00:23:11] Adele &#8211; Hometown Glory (Axwell Club Mix) &#8211; XL"
-    - "[00:27:34] Kings Of Spit &#8211; Finally Falling (Utopia &#038; Jay Funk Bootleg) &#8211; White"
-    - "[00:35:08] James Doman &#8211; Everything&#8217;s Gonna Be Alright (Carl Ryden Remix) &#8211; Positiva"
-    - "[00:40:13] Martin Solveig &#8211; I Want You (Laidback Luke Remix) &#8211; Mixture"
-    - "[00:45:25] Ryan Murgatroyd feat. Tasha Baxter &#8211; Moving On (Ian Carey Remix) &#8211; Sheer Music"
+    - "[00:00:00] Bingo Players vs Chocolate Puma – Touch Me (Original Mix) – Strictly"
+    - "[00:06:27] Sunloverz – Summer Of Love (Ortega and Gold Mix) – Lickin&#8217; Records"
+    - "[00:11:54] Max Linen – Neon Lights (Original Full Vocal Mix) – Phonetic"
+    - "[00:18:20] Out Of Office – Insatiable (Dub Mix) – Frenetic Music"
+    - "[00:23:11] Adele – Hometown Glory (Axwell Club Mix) – XL"
+    - "[00:27:34] Kings Of Spit – Finally Falling (Utopia &#038; Jay Funk Bootleg) – White"
+    - "[00:35:08] James Doman – Everything&#8217;s Gonna Be Alright (Carl Ryden Remix) – Positiva"
+    - "[00:40:13] Martin Solveig – I Want You (Laidback Luke Remix) – Mixture"
+    - "[00:45:25] Ryan Murgatroyd feat. Tasha Baxter – Moving On (Ian Carey Remix) – Sheer Music"
     - "Cruze classic from 1994: "
-    - "[00:51:52] Black Shells &#8211; The Anthem (Mix 1) &#8211; Azuli"
+    - "[00:51:52] Black Shells – The Anthem (Mix 1) – Azuli"
 ---
 
 It&#8217;s supposed to be the summer here in the northern hemisphere but you wouldn&#8217;t think it was with the amount of rain we&#8217;ve had in the UK in the past few weeks. So I&#8217;d better brighten up your day and mine with episode #41 of the DJ Cruze podcast. As always I&#8217;ve got some killer tunes for you and your MP3 player so make sure you crank them up loud.
@@ -48,7 +48,7 @@ In this episode I&#8217;ve got some hot house and electro house tracks for you a
 
 Another big track is the new Axwell club mix of Adele&#8217;s &#8220;Hometown Glory&#8221;. I loved this track when I first heard it on [Hype Machine][1] last year and was suprised that this wasn&#8217;t the first track she released when she got signed to a major label. Axwell&#8217;s club mix stays pretty true to the original and just adds some house beats and strings. It&#8217;s a bit commercial but I absolutely love the track. If you&#8217;re looking for a darker version then look out for his Remode remix instead.
 
-I&#8217;ve also got a great bootleg mashup which I have [mentioned in the blog before][2]. It&#8217;s a cheeky bootleg mix of Spitâ€™s â€œFallingâ€ (Daddyâ€™s Groove Magic Island mix) with the acapella from &#8220;Finally&#8221; by Kings of Tomorrow. It works really well, so much so that Hed Kandi have decided to put it on CD1 of their [Hed Kandi &#8211; The Mix: Summer 2008][3]<img src="http://www.assoc-amazon.co.uk/e/ir?t=djcr-21&l=ur2&o=2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> compilation. Kudos to Utopia and Jay Funk for coming up with it though! Check out [Utopia&#8217;s podcast][4] too if you want even more quality house tunes.
+I&#8217;ve also got a great bootleg mashup which I have [mentioned in the blog before][2]. It&#8217;s a cheeky bootleg mix of Spitâ€™s â€œFallingâ€ (Daddyâ€™s Groove Magic Island mix) with the acapella from &#8220;Finally&#8221; by Kings of Tomorrow. It works really well, so much so that Hed Kandi have decided to put it on CD1 of their [Hed Kandi – The Mix: Summer 2008][3]<img src="http://www.assoc-amazon.co.uk/e/ir?t=djcr-21&l=ur2&o=2" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> compilation. Kudos to Utopia and Jay Funk for coming up with it though! Check out [Utopia&#8217;s podcast][4] too if you want even more quality house tunes.
 
 And finally I&#8217;ve got an awesome classic for you. Satoshi Tomiie brings us a big room &#8220;Anthem&#8221; with his Black Shells guise. It was a massive tune for me back in 1994 and it still sounds huge today.
 

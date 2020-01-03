@@ -1,5 +1,5 @@
 ---
-title: 'Episode #40 &#8211; Afrojacker'
+title: 'Episode #40 – Afrojacker'
 author: djcruze
 #permalink: /2008/06/22/episode-40-afrojacker/
 permalink: /podcasts/episode-40-afrojacker/
@@ -31,17 +31,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Liquid Nation feat. Andrea Britton &#8211; Breathe Life (Chris Ortega &#038; Thomas Gold Dub) &#8211; Hit! Records"
-    - "[00:07:15] The Ting Tings &#8211; Shut Up And Let Me Go (Tom Neville&#8217;s Keep It Quiet Dub) (Funkfinders cut-up edit) &#8211; Columbia"
-    - "[00:14:00] Gabriella Cilmi &#8211; Save The Lies (Be Good To Me) (Out Of Office Remix) &#8211; Island"
-    - "[00:20:00] Katie May &#8211; You&#8217;re The Only One (Thomas Gold Remix) &#8211; AATW"
-    - "[00:26:32] Eric Prydz &#8211; Pjanoo (Patrick L Remix) &#8211; CDR"
-    - "[00:31:17] Machines Don&#8217;t Care &#8211; Afrojacker &#8211; Machines Don&#8217;t Care"
-    - "[00:35:28] Connected feat. Max C &#8211; A Feeling (Fonzerelli Mix) &#8211; Big In Ibiza"
-    - "[00:40:28] Freemasons feat. Katherine Ellis &#8211; When You Touch Me (Freemasons 2008 Club Mix) &#8211; Loaded Records"
-    - "[00:46:58] Horny United &#8211; Crazy Paris 2008 (Klaas Remix) &#8211; Attractive Music"
+    - "[00:00:00] Liquid Nation feat. Andrea Britton – Breathe Life (Chris Ortega &#038; Thomas Gold Dub) – Hit! Records"
+    - "[00:07:15] The Ting Tings – Shut Up And Let Me Go (Tom Neville&#8217;s Keep It Quiet Dub) (Funkfinders cut-up edit) – Columbia"
+    - "[00:14:00] Gabriella Cilmi – Save The Lies (Be Good To Me) (Out Of Office Remix) – Island"
+    - "[00:20:00] Katie May – You&#8217;re The Only One (Thomas Gold Remix) – AATW"
+    - "[00:26:32] Eric Prydz – Pjanoo (Patrick L Remix) – CDR"
+    - "[00:31:17] Machines Don&#8217;t Care – Afrojacker – Machines Don&#8217;t Care"
+    - "[00:35:28] Connected feat. Max C – A Feeling (Fonzerelli Mix) – Big In Ibiza"
+    - "[00:40:28] Freemasons feat. Katherine Ellis – When You Touch Me (Freemasons 2008 Club Mix) – Loaded Records"
+    - "[00:46:58] Horny United – Crazy Paris 2008 (Klaas Remix) – Attractive Music"
     - "Cruze classic from 1995: "
-    - "[01:00:34] Heller N Farley Project &#8211; Ultra Flava &#8211; Jus&#8217; Trax"
+    - "[01:00:34] Heller N Farley Project – Ultra Flava – Jus&#8217; Trax"
 ---
 
 Another podcast so quickly after the last one? Yeah, I don&#8217;t believe it either.

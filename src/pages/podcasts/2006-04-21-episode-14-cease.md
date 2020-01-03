@@ -1,5 +1,5 @@
 ---
-title: 'Episode #14 &#8211; Cease!'
+title: 'Episode #14 – Cease!'
 author: djcruze
 #permalink: /2006/04/21/episode-14-cease/
 permalink: /podcasts/episode-14-cease/
@@ -32,20 +32,20 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Playback &#8211; Hit The Bricks &#8211; Data"
-    - "Gabriel &#038; Dresden &#8211; Tracking Treasure Down (Accapella) &#8211; Organized Nature"
-    - "Southside Hustlers &#8211; Right Before My Eyes (Hoxton Whores Mix) &#8211; Data"
-    - "Ben Macklin &#8211; Feel Together (Original Mix) &#8211; Serial Recordings"
+    - "Playback – Hit The Bricks – Data"
+    - "Gabriel &#038; Dresden – Tracking Treasure Down (Accapella) – Organized Nature"
+    - "Southside Hustlers – Right Before My Eyes (Hoxton Whores Mix) – Data"
+    - "Ben Macklin – Feel Together (Original Mix) – Serial Recordings"
     - "DJ Cruze chart rundown: "
-    - "Loletta Holloway &#8211; Love Sensation 06 (Hi_Tack Burning Up Club Mix) &#8211; Gusto"
-    - "Bimbo Jones &#8211; Harlem One Stop &#8211; Columbia"
-    - "Flanders &#8211; By My Side (Callea &#038; Rispoli Club Mix) &#8211; Gusto"
-    - "Inaya Day &#8211; Hold Your Head Up High (Soul Avengerz) &#8211; Adhesive"
-    - "Teamsters &#8211; Feels Like Love (Morjac Mix) &#8211; Positiva"
+    - "Loletta Holloway – Love Sensation 06 (Hi_Tack Burning Up Club Mix) – Gusto"
+    - "Bimbo Jones – Harlem One Stop – Columbia"
+    - "Flanders – By My Side (Callea &#038; Rispoli Club Mix) – Gusto"
+    - "Inaya Day – Hold Your Head Up High (Soul Avengerz) – Adhesive"
+    - "Teamsters – Feels Like Love (Morjac Mix) – Positiva"
     - "DJ Cruze exclusive: "
-    - "DJ Cruze presents The Funkfinders &#8211; Cease! &#8211; CDR"
+    - "DJ Cruze presents The Funkfinders – Cease! – CDR"
     - "Cruze classic from 1992: "
-    - "Jump &#8211; Funkatarium &#8211; Dark Records"
+    - "Jump – Funkatarium – Dark Records"
 ---
 It&#8217;s been far too long hasn&#8217;t it? After darkness comes light, and sad times bring happy memories and brighter days. Hopefully I can spread some sunshine into your life with the latest DJ Cruze funky house music podcast.
 

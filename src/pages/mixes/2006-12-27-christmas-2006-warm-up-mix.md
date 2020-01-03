@@ -29,11 +29,11 @@ media:
   length: "00:34:41"
   keywords: ""
   tracklist:
-    - "Mischa Daniels &#8211; Take Me Higher (Stonebridge Mix) &#8211; Boss Records"
-    - "Just Jack &#8211; Starz In Their Eyes (Trophy Twins Mix) &#8211; "
-    - "The Energies &#8211; Life Begins (Raul Rincon Dub) -"
-    - "Kingpinz &#8211; Need You Tonight (Original Mix) &#8211; Cayenne Records"
-    - "Soul Seekerz &#8211; Party For The Weekend (Vocal Mix) &#8211; Positiva Records"
+    - "Mischa Daniels – Take Me Higher (Stonebridge Mix) – Boss Records"
+    - "Just Jack – Starz In Their Eyes (Trophy Twins Mix) – "
+    - "The Energies – Life Begins (Raul Rincon Dub) -"
+    - "Kingpinz – Need You Tonight (Original Mix) – Cayenne Records"
+    - "Soul Seekerz – Party For The Weekend (Vocal Mix) – Positiva Records"
 ---
 
 The first mix in my Christmas mini-mix series brings you a warm up mix. It&#8217;s 10pm. You haven&#8217;t left the house yet but you want some tunes to get you in the mood. What do you do? Turn on your PC (or your CD player if you&#8217;ve ripped this mix) and turn up the funky warm up mix!
@@ -42,17 +42,17 @@ Kicking off the mix is Dutch producer [Mischa Daniels][1] with his funky &#8220;
 
 I&#8217;ve then stuck in one of my tunes of the year. I&#8217;m obviously a massive fan of [Raul Rincon][6], just check out my [charts][7], and he has turned &#8220;Life Begins&#8221; by [The Energies][8] into an amazing piano tune. The electric pianos and reversed vocals build up the tune nicely until he drops his killer piano riff. Lovely work! I could listen to this tune on repeat all day. Well maybe not all day but at least for a couple of hours! It&#8217;s a pity his website insists on opening full screen though!
 
-Following that we have a funky tune from some new UK producers called [Kingpinz][9] with their new track &#8220;Need You Tonight&#8221;. Some funky pads and a chunky bassline give this a place in my box. Finally, we&#8217;ve got one of the hottest production teams of 2006 &#8211; [The Soul Seekerz][10]. They&#8217;ve had a fantastic year, with what seems like hundreds of remixes, and &#8220;Party For The Weekend&#8221; tops it off nicely for them.
+Following that we have a funky tune from some new UK producers called [Kingpinz][9] with their new track &#8220;Need You Tonight&#8221;. Some funky pads and a chunky bassline give this a place in my box. Finally, we&#8217;ve got one of the hottest production teams of 2006 – [The Soul Seekerz][10]. They&#8217;ve had a fantastic year, with what seems like hundreds of remixes, and &#8220;Party For The Weekend&#8221; tops it off nicely for them.
 
 So there you go. The first Christmas mini-mix. Hope you enjoyed it and keep your eyes on the website for the next mix in a couple of days.
 
 **Tracklisting:**
 
-  1. Mischa Daniels &#8211; Take Me Higher (Stonebridge Mix) &#8211; Boss Records
-  2. Just Jack &#8211; Starz In Their Eyes (Trophy Twins Mix) &#8211; 
-  3. The Energies &#8211; Life Begins (Raul Rincon Dub) -
-  4. Kingpinz &#8211; Need You Tonight (Original Mix) &#8211; Cayenne Records
-  5. Soul Seekerz &#8211; Party For The Weekend (Vocal Mix) &#8211; Positiva Records
+  1. Mischa Daniels – Take Me Higher (Stonebridge Mix) – Boss Records
+  2. Just Jack – Starz In Their Eyes (Trophy Twins Mix) – 
+  3. The Energies – Life Begins (Raul Rincon Dub) -
+  4. Kingpinz – Need You Tonight (Original Mix) – Cayenne Records
+  5. Soul Seekerz – Party For The Weekend (Vocal Mix) – Positiva Records
 
 <div style="clear:both;">
 </div>

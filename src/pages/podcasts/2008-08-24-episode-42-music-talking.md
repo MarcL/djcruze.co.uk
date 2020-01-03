@@ -1,5 +1,5 @@
 ---
-title: 'Episode #42 &#8211; Music Talking'
+title: 'Episode #42 – Music Talking'
 author: djcruze
 #permalink: /2008/08/24/episode-42-music-talking/
 permalink: /podcasts/episode-42-music-talking/
@@ -31,17 +31,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Morgan Page &#8211; Call My Name (Thomas Gold Remix) &#8211; Nettwerk"
-    - "[00:06:41] David Rubato feat Manda Djinn &#8211; Deep Inside (Ian Carey Remix) &#8211; Gut Recordings"
-    - "[00:11:54] Nerved &#8211; I Love U (Dumb Dan Club Mix) &#8211; MMS Records"
-    - "[00:17:40] Moby &#8211; Disco Lies (Spencer &#038; Hill Remix) &#8211; Mute"
-    - "[00:23:22] R.I.O. &#8211; Shine On (Spencer &#038; Hill Remix) &#8211; 4th &#038; Broadway"
-    - "[00:28:37] Platnum &#8211; Love Shy (Soul Avengerz Remix) &#8211; Hard 2 Beat"
-    - "[00:34:34] The Montanas &#038; DJ Roland Clark &#8211; Music Talking (Fred Falke Remix) &#8211; Strictly"
-    - "[00:41:46] Giant Jr &#8211; I Want To Be Evil (Spencer &#038; Hill Remix) &#8211; White"
-    - "[00:45:44] Axwell &#038; Bob Sinclar feat Ron Carroll &#8211; What A Wonderful World (Dabruck &#038; Klein Mix) &#8211; Defected Records"
+    - "[00:00:00] Morgan Page – Call My Name (Thomas Gold Remix) – Nettwerk"
+    - "[00:06:41] David Rubato feat Manda Djinn – Deep Inside (Ian Carey Remix) – Gut Recordings"
+    - "[00:11:54] Nerved – I Love U (Dumb Dan Club Mix) – MMS Records"
+    - "[00:17:40] Moby – Disco Lies (Spencer &#038; Hill Remix) – Mute"
+    - "[00:23:22] R.I.O. – Shine On (Spencer &#038; Hill Remix) – 4th &#038; Broadway"
+    - "[00:28:37] Platnum – Love Shy (Soul Avengerz Remix) – Hard 2 Beat"
+    - "[00:34:34] The Montanas &#038; DJ Roland Clark – Music Talking (Fred Falke Remix) – Strictly"
+    - "[00:41:46] Giant Jr – I Want To Be Evil (Spencer &#038; Hill Remix) – White"
+    - "[00:45:44] Axwell &#038; Bob Sinclar feat Ron Carroll – What A Wonderful World (Dabruck &#038; Klein Mix) – Defected Records"
     - "Cruze classic from 1996: "
-    - "[00:52:03] 6 by Six &#8211; Into My Heart (Grand Larceny Remix) &#8211; 6&#215;6 Records"
+    - "[00:52:03] 6 by Six – Into My Heart (Grand Larceny Remix) – 6&#215;6 Records"
 ---
 
 What a terrible month August has been. A couple of days of sun and plenty of rain. It&#8217;s horrible. So what better way to kick out the UK&#8217;s &#8220;summer&#8221; than episode #42 of the DJ Cruze podcast!

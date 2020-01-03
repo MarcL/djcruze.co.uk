@@ -1,5 +1,5 @@
 ---
-title: 'Episode #34 &#8211; Chime'
+title: 'Episode #34 – Chime'
 author: djcruze
 #permalink: /2007/12/07/episode-34-chime/
 permalink: /podcasts/episode-34-chime/
@@ -33,18 +33,18 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Kelly Rowland &#8211; Work (Steve Pitron &#038; Max Sanna Extended Remix) &#8211; RCA"
-    - "[00:06:31] Dave Armstrong &#038; Redroche &#8211; Love Has Gone (Wez Clarke Remix) &#8211; Hed Kandi"
-    - "[00:12:55] Dab Hands &#8211; Supergood (Made In London Remix) &#8211; Gusto"
-    - "[00:19:34] James Fitch feat. Sunscreem &#8211; Perfect Motion (Original Mix) &#8211; Cayenne Recordings"
-    - "[00:25:41] Jaime Jay &#8211; To Make You Feel Alright (Wideboys Smash N Grab Dub Mix) &#8211; White"
-    - "[00:29:16] Steve Mac &#038; Mark Brown &#8211; Bells Of Brighton &#8211; CR2 Records"
-    - "[00:36:38] Trashcan Jack vs Billy Idol &#8211; Club Wedding (Filthy Rich Dub) &#8211; Frenetic"
-    - "[00:41:12] Dominatorz &#8211; Do You Love Me? (DJ Jeroenski Mix) &#8211; Loaded"
-    - "[00:45:45] Mika &#8211; Relax (Take It Easy) (Dennis Christopher Remix) &#8211; Casablanca"
-    - "[00:51:12] Bodyrock &#038; Luciana &#8211; What Planet You On (The Slacksons Mix) &#8211; Phonetic"
+    - "[00:00:00] Kelly Rowland – Work (Steve Pitron &#038; Max Sanna Extended Remix) – RCA"
+    - "[00:06:31] Dave Armstrong &#038; Redroche – Love Has Gone (Wez Clarke Remix) – Hed Kandi"
+    - "[00:12:55] Dab Hands – Supergood (Made In London Remix) – Gusto"
+    - "[00:19:34] James Fitch feat. Sunscreem – Perfect Motion (Original Mix) – Cayenne Recordings"
+    - "[00:25:41] Jaime Jay – To Make You Feel Alright (Wideboys Smash N Grab Dub Mix) – White"
+    - "[00:29:16] Steve Mac &#038; Mark Brown – Bells Of Brighton – CR2 Records"
+    - "[00:36:38] Trashcan Jack vs Billy Idol – Club Wedding (Filthy Rich Dub) – Frenetic"
+    - "[00:41:12] Dominatorz – Do You Love Me? (DJ Jeroenski Mix) – Loaded"
+    - "[00:45:45] Mika – Relax (Take It Easy) (Dennis Christopher Remix) – Casablanca"
+    - "[00:51:12] Bodyrock &#038; Luciana – What Planet You On (The Slacksons Mix) – Phonetic"
     - "Cruze classic from 1989: "
-    - "[00:56:50] Orbital &#8211; Chime &#8211; Oh&#8217;Zone Records"
+    - "[00:56:50] Orbital – Chime – Oh&#8217;Zone Records"
 ---
 As always, it&#8217;s been a while since the last DJ Cruze podcast but finally I&#8217;ve got a new one online and it&#8217;s packed with the funkiest house music and chunkiest electro tunes. This week&#8217;s Cruze classic is an absolute monster. Orbital&#8217;s classic &#8220;Chime&#8221; needed to be aired as I haven&#8217;t played it in ages but it&#8217;s one of the original tunes that got me into house music from my hip-hop roots. A killer tune from the Hartnoll boys and one that still reminds me of the old rave days in Manchester.
 

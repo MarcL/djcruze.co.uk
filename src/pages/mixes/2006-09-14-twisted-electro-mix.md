@@ -35,13 +35,13 @@ media:
   length: "1:10:12"
   keywords: ""
   tracklist:
-    - "Dannii Minogue &#8211; He&#8217;s The Greatest Dancer (Chris Lake Remix) &#8211; AATW"
-    - "Ben Macklin &#8211; Feel Together (Eddie Thoneick Remix) &#8211; Free2Air Recordings"
-    - "The Group Dynamics &#8211; Consequences (Original Vocal Mix) &#8211; UMM"
-    - "Robbie Williams &#8211; Lovelight (Kurd Maverick Vocal Mix) &#8211; EMI"
-    - "The Young Punx &#8211; Rockall (Phonat Mix) &#8211; Mofo Hifi"
-    - "Freelance Hellraiser &#8211; Weightlessness (Klaas Mix) &#8211; Ugly Truth"
-    - "Tyken &#8211; Every Word (Dave Spoon Remix) &#8211; Hed Kandi"
+    - "Dannii Minogue – He&#8217;s The Greatest Dancer (Chris Lake Remix) – AATW"
+    - "Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings"
+    - "The Group Dynamics – Consequences (Original Vocal Mix) – UMM"
+    - "Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI"
+    - "The Young Punx – Rockall (Phonat Mix) – Mofo Hifi"
+    - "Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth"
+    - "Tyken – Every Word (Dave Spoon Remix) – Hed Kandi"
 ---
 
 So as promised on podcast #19, here is an electro mix for you. I actually managed to do the mix before I got married but didn&#8217;t have time to upload it! I thought I&#8217;d do something a bit different for you this time and do a twisted electro-house mix. I&#8217;ve picked up a few dirty tracks, remixes and dubs that I thought went well together so here you go. It&#8217;s not my normal style of music as I normally play the funkier side of house music. Some of the tunes I am playing now are heading in this direction though so I&#8217;m sure you&#8217;ll love it.
@@ -50,18 +50,18 @@ The mix starts off with some fine 80s synth pop from Shena and drops into the di
 
 **Tracklisting:**
 
-  1. Shena &#8211; Electrosexual (Main Vocal Mix) &#8211; [Azuli][2]
-  2. [Mark Knight][3] feat. Katherine Ellis &#8211; Insatiable (Kami&#8217;s Dirty Crunch Remix) &#8211; [Toolroom Records][4]
-  3. Trick &#038; Kubik &#8211; Easy (Original Mix) &#8211; [Data Records][5]
-  4. [Fedde Le Grand][6] &#8211; Put Your Hands Up For Detroit &#8211; [C2 Records][7]
-  5. [Chris Lake][1] &#8211; Release &#8211; Rising Records
-  6. Spiller &#8211; Jumbo &#8211; [Nano][8]
-  7. [Kelis][9] &#8211; Bossy (Switch Remix) &#8211; Virgin
-  8. Jaymo &#038; Hauswerks &#8211; Don&#8217;t Stop (Gutterpunk Mix) &#8211; Salacious
-  9. Lo-Rider &#8211; Skinny (M-Factor Club Mix) &#8211; Absolution Records
- 10. Michael Gray &#8211; Borderline (Michael&#8217;s Neon Wave Vocal Mix) &#8211; [Eye Industries][10]
- 11. Fonzerelli &#8211; Moonlight Party &#8211; [UMM][11]
- 12. Geyster &#8211; Under The Fuse Of Love (Lifelike Remix) &#8211; Shell Records UK
+  1. Shena – Electrosexual (Main Vocal Mix) – [Azuli][2]
+  2. [Mark Knight][3] feat. Katherine Ellis – Insatiable (Kami&#8217;s Dirty Crunch Remix) – [Toolroom Records][4]
+  3. Trick &#038; Kubik – Easy (Original Mix) – [Data Records][5]
+  4. [Fedde Le Grand][6] – Put Your Hands Up For Detroit – [C2 Records][7]
+  5. [Chris Lake][1] – Release – Rising Records
+  6. Spiller – Jumbo – [Nano][8]
+  7. [Kelis][9] – Bossy (Switch Remix) – Virgin
+  8. Jaymo &#038; Hauswerks – Don&#8217;t Stop (Gutterpunk Mix) – Salacious
+  9. Lo-Rider – Skinny (M-Factor Club Mix) – Absolution Records
+ 10. Michael Gray – Borderline (Michael&#8217;s Neon Wave Vocal Mix) – [Eye Industries][10]
+ 11. Fonzerelli – Moonlight Party – [UMM][11]
+ 12. Geyster – Under The Fuse Of Love (Lifelike Remix) – Shell Records UK
 
 I hope you enjoy this one and make sure you let me know what you think in the comments section below. Do you guys and girls want more dirty electro house as well as the funky stuff?
 

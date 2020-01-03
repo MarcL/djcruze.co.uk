@@ -29,13 +29,13 @@ media:
   length: "00:36:59"
   keywords: ""
   tracklist:
-    - "Basement Jaxx &#8211; Take Me Back To Your House (Speaker Junk Remix) &#8211; XL Recordings"
-    - "D.J.V.T. &#8211; Watskeburt (Touche Instrumental Mix) &#8211; Nebula Records"
-    - "Don Diablo &#8211; Blow (Sebastien Leger Remix) &#8211; Salacious"
-    - "Lorraine &#8211; Heaven (Sebastien Leger Remix) &#8211; Waterfall Records"
-    - "Simply Red &#8211; Oh What A Girl (Sweet Connection Dub Mix) &#8211; SimplyRed.com"
-    - "Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records"
-    - "Scissor Sisters &#8211; I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) &#8211; Polydor"
+    - "Basement Jaxx – Take Me Back To Your House (Speaker Junk Remix) – XL Recordings"
+    - "D.J.V.T. – Watskeburt (Touche Instrumental Mix) – Nebula Records"
+    - "Don Diablo – Blow (Sebastien Leger Remix) – Salacious"
+    - "Lorraine – Heaven (Sebastien Leger Remix) – Waterfall Records"
+    - "Simply Red – Oh What A Girl (Sweet Connection Dub Mix) – SimplyRed.com"
+    - "Starzoom – Billie Jean (Dave Moureaux Remix) – Gusto Records"
+    - "Scissor Sisters – I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) – Polydor"
 ---
 
 Time for the second DJ Cruze Christmas mini-mix and what better way to work off all of the extra Christmas food that you&#8217;ve eaten than with a dirty electro mix. This mix starts off with the dirty electro [Speaker Junk][1] remix of [Basement Jaxx][2]&#8216;s &#8220;Take Me Back To Your House&#8221;. It sound like one of the dubbier mixes that the Jaxx boys used to do of their own tunes and it sounds awesome in a club.
@@ -50,13 +50,13 @@ Finally, we&#8217;ve got a fantastic production and remix of [Scissor Sisters][8
 
 **Tracklisting:**
 
-  1. Basement Jaxx &#8211; Take Me Back To Your House (Speaker Junk Remix) &#8211; XL Recordings
-  2. D.J.V.T. &#8211; Watskeburt (Touche Instrumental Mix) &#8211; Nebula Records
-  3. Don Diablo &#8211; Blow (Sebastien Leger Remix) &#8211; Salacious
-  4. Lorraine &#8211; Heaven (Sebastien Leger Remix) &#8211; Waterfall Records
-  5. Simply Red &#8211; Oh What A Girl (Sweet Connection Dub Mix) &#8211; SimplyRed.com
-  6. Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records
-  7. Scissor Sisters &#8211; I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) &#8211; Polydor
+  1. Basement Jaxx – Take Me Back To Your House (Speaker Junk Remix) – XL Recordings
+  2. D.J.V.T. – Watskeburt (Touche Instrumental Mix) – Nebula Records
+  3. Don Diablo – Blow (Sebastien Leger Remix) – Salacious
+  4. Lorraine – Heaven (Sebastien Leger Remix) – Waterfall Records
+  5. Simply Red – Oh What A Girl (Sweet Connection Dub Mix) – SimplyRed.com
+  6. Starzoom – Billie Jean (Dave Moureaux Remix) – Gusto Records
+  7. Scissor Sisters – I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) – Polydor
 
 <div style="clear:both;">
 </div>

@@ -1,5 +1,5 @@
 ---
-title: 'Episode #32 &#8211; Is Anyone Still Subscribed?!'
+title: 'Episode #32 – Is Anyone Still Subscribed?!'
 author: djcruze
 #permalink: /2007/09/02/episode-32-is-anyone-still-subscribed/
 permalink: /podcasts/episode-32-is-anyone-still-subscribed/
@@ -30,17 +30,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "Charlean Dance &#8211; Mr DJ (Moto Blanco Dub) &#8211; Positiva"
-    - "Vee Scott &#8211; Gimme Your Love (Bob Roberts Mix) &#8211; UMM Records"
-    - "Peak Time Killerz &#8211; Want You Back (Thomas Gold &#038; Wawa Original Mix) &#8211; Sume Music"
-    - "Dobi Kwe &#8211; Feel That Jam! (Wawa Remix) &#8211; White"
-    - "Armand Van Helden &#8211; I Want Your Soul (Original Mix) &#8211; Southern Fried Records"
-    - "Calvin Harris &#8211; Merrymaking At My Place (Deadmau5 Remix) &#8211; Fly Eye"
-    - "Weekend Masters &#8211; I Found A Love (Dave Armstrong &#038; DJ DLG Mix) &#8211; Hit! Records"
-    - "NJoi &#8211; Can&#8217;t Get Enough (Club Mix) &#8211; New Black Records"
-    - "Hi_Tack &#8211; Let&#8217;s Dance (Dennis Christopher Dub) &#8211; Gusto"
+    - "Charlean Dance – Mr DJ (Moto Blanco Dub) – Positiva"
+    - "Vee Scott – Gimme Your Love (Bob Roberts Mix) – UMM Records"
+    - "Peak Time Killerz – Want You Back (Thomas Gold &#038; Wawa Original Mix) – Sume Music"
+    - "Dobi Kwe – Feel That Jam! (Wawa Remix) – White"
+    - "Armand Van Helden – I Want Your Soul (Original Mix) – Southern Fried Records"
+    - "Calvin Harris – Merrymaking At My Place (Deadmau5 Remix) – Fly Eye"
+    - "Weekend Masters – I Found A Love (Dave Armstrong &#038; DJ DLG Mix) – Hit! Records"
+    - "NJoi – Can&#8217;t Get Enough (Club Mix) – New Black Records"
+    - "Hi_Tack – Let&#8217;s Dance (Dennis Christopher Dub) – Gusto"
     - "Cruze classic from 1994:"
-    - "The Brand New Heavies &#8211; Back To Love (Graeme Park Club Mix) &#8211; FFRR"
+    - "The Brand New Heavies – Back To Love (Graeme Park Club Mix) – FFRR"
 ---
 Evening all. I&#8217;ve managed to find another couple of hours to get an official podcast done rather than just a mix which I put out a couple of weeks ago. It&#8217;s got plenty of new funky tunes on there and an absolutely classic Cruze classic! If you&#8217;ve never heard the Graeme Park mix of The Brand New Heavies track &#8220;Back To Love&#8221; played **LOUD** in a club then you&#8217;ve never lived. It&#8217;s a quality feel good house tune with a stonking piano remix by the ex-Hacienda DJ Graeme Park. An absolutely amazing tune!
 

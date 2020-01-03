@@ -1,5 +1,5 @@
 ---
-title: 'August 2009 Mix &#8211; Ibiza Sunset 2009'
+title: 'August 2009 Mix – Ibiza Sunset 2009'
 author: djcruze
 #permalink: /2009/08/25/august-2009-mix-ibiza-sunset-2009/
 permalink: /mixes/august-2009-mix-ibiza-sunset-2009/
@@ -34,18 +34,18 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=731'
   tracklist:
-    - '[00:00:00] Rennie Foster &#8211; Devil&#8217;s Water (The Youngsters Remix) &#8211; Rebirth'
-    - '[00:06:03] John Dahlback &#038; ATFC &#8211; Bon Bon (Original Mix) &#8211; Defected'
-    - '[00:12:29] Phonat &#8211; Ho Visto Un Quadro Verde (Original Mix) &#8211; Mofo Hifi'
-    - '[00:17:53] Lazy Jay &#8211; Float My Boat (Original Mix) &#8211; Big &#038; Dirty'
-    - '[00:23:12] Steve Angello &#8211; Isabel (Original Mix) &#8211; Size'
-    - '[00:27:56] Arno Cost &#8211; Cyan (Original Mix) &#8211; CR2 Records'
-    - '[00:34:21] Funkagenda &#8211; Breakwater (EDX&#8217;s Ibiza Sunrise Remix) &#8211; Toolroom'
-    - '[00:39:01] Sebastian Ingrosso &#8211; Laktos (Original Mix) &#8211; Refune'
-    - '[00:45:19] Pryda &#8211; Melo (Original Mix) &#8211; Pryda'
-    - '[00:52:15] DJ Tatana &#8211; Autumn Sun (Original Mix) &#8211; Sirup'
-    - '[00:57:55] Mesa &#8211; Deaf Wax (Dave Winnel Remix) &#8211; Vacation Records'
-    - '[01:02:20] Joe T Vanelli vs Coldplay &#8211; Life In Technicolour (Vox Mix Funkfinders Edit) &#8211; CDR'
+    - '[00:00:00] Rennie Foster – Devil&#8217;s Water (The Youngsters Remix) – Rebirth'
+    - '[00:06:03] John Dahlback &#038; ATFC – Bon Bon (Original Mix) – Defected'
+    - '[00:12:29] Phonat – Ho Visto Un Quadro Verde (Original Mix) – Mofo Hifi'
+    - '[00:17:53] Lazy Jay – Float My Boat (Original Mix) – Big &#038; Dirty'
+    - '[00:23:12] Steve Angello – Isabel (Original Mix) – Size'
+    - '[00:27:56] Arno Cost – Cyan (Original Mix) – CR2 Records'
+    - '[00:34:21] Funkagenda – Breakwater (EDX&#8217;s Ibiza Sunrise Remix) – Toolroom'
+    - '[00:39:01] Sebastian Ingrosso – Laktos (Original Mix) – Refune'
+    - '[00:45:19] Pryda – Melo (Original Mix) – Pryda'
+    - '[00:52:15] DJ Tatana – Autumn Sun (Original Mix) – Sirup'
+    - '[00:57:55] Mesa – Deaf Wax (Dave Winnel Remix) – Vacation Records'
+    - '[01:02:20] Joe T Vanelli vs Coldplay – Life In Technicolour (Vox Mix Funkfinders Edit) – CDR'
 ---
 
 It&#8217;s been a while since I&#8217;ve done a new mix so I thought I&#8217;d make a sequel to last year&#8217;s progressive and electro house mix [Ibiza Sunset][2]. Many of you commented and emailed to say that you enjoyed the mix a lot and everyone seemed to like the tougher tunes in the mix. I didn&#8217;t manage to make it over to Ibiza this year but the mix is another hour of dark and pumping house tunes to get you in the mood for going out if you&#8217;re heading out there.

@@ -1,5 +1,5 @@
 ---
-title: 'Empire Of The Sun &#8211; Walking On A Dream (Funkfinders Discoid Remix)'
+title: 'Empire Of The Sun – Walking On A Dream (Funkfinders Discoid Remix)'
 author: djcruze
 layout: post
 # permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/

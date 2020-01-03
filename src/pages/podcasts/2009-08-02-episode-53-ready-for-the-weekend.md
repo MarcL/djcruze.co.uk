@@ -1,5 +1,5 @@
 ---
-title: 'Episode #53 &#8211; Ready For The Weekend'
+title: 'Episode #53 – Ready For The Weekend'
 author: djcruze
 #permalink: /2009/08/02/episode-53-ready-for-the-weekend/
 permalink: /podcasts/episode-53-ready-for-the-weekend/
@@ -33,20 +33,20 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=731'
   tracklist:
-    - '[00:00:00] Calvin Harris &#8211; Ready For The Weekend (Spoon Broken Remix) &#8211; Fly Eye'
-    - '[00:04:44] Funkstar Deluxe &#038; Alexandra Prince &#8211; Higher State (Continental Club Mix) &#8211; Supratron'
-    - '[00:09:31] Graeme Park &#038; Nick Hussey &#8211; Samba Party (Jay Kay Mix) &#8211; Muzik-K Records'
-    - '[00:15:43] Lake &#038; Lys &#8211; La Tromba (Original Mix) &#8211; Rising Music'
-    - '[00:21:10] MSTRKRFT feat John Legend &#8211; Heartbreaker (Wolfgang Gartner Remix) &#8211; Dim Mak'
-    - '[00:26:23] Basement Jaxx &#8211; Raindrops (Funkagenda &#038; Paul Thomas Redux) &#8211; XL Recordings'
-    - '[00:32:20] TV Rock feat Rudy &#8211; In The Air (Axwell Remix) &#8211; Axtone'
-    - '[00:37:33] Benny Royal &#8211; Pada Papaya (Royal&#8217;s House Mix) &#8211; Spinnin Records'
-    - '[00:42:40] The Requesters &#8211; Chrisis (Original Mix) &#8211; Moda Music'
-    - '[00:45:58] Robbie Rivera feat Rooster &#038; Peralta &#8211; Move Move (DJ Observer &#038; Daniel Heathcliff Mix) &#8211; Juicy Music'
-    - '[00:49:42] Carl Kennedy feat Baby D &#8211; Let Me Be Your Fantasy (Original Mix) &#8211; Wasted Youth'
-    - '[00:57:01] Seamus Haji &#038; Romain Curtis &#8211; I&#8217;ve Been Looking (Romain Curtis Club Mix) &#8211; Big Love'
+    - '[00:00:00] Calvin Harris – Ready For The Weekend (Spoon Broken Remix) – Fly Eye'
+    - '[00:04:44] Funkstar Deluxe &#038; Alexandra Prince – Higher State (Continental Club Mix) – Supratron'
+    - '[00:09:31] Graeme Park &#038; Nick Hussey – Samba Party (Jay Kay Mix) – Muzik-K Records'
+    - '[00:15:43] Lake &#038; Lys – La Tromba (Original Mix) – Rising Music'
+    - '[00:21:10] MSTRKRFT feat John Legend – Heartbreaker (Wolfgang Gartner Remix) – Dim Mak'
+    - '[00:26:23] Basement Jaxx – Raindrops (Funkagenda &#038; Paul Thomas Redux) – XL Recordings'
+    - '[00:32:20] TV Rock feat Rudy – In The Air (Axwell Remix) – Axtone'
+    - '[00:37:33] Benny Royal – Pada Papaya (Royal&#8217;s House Mix) – Spinnin Records'
+    - '[00:42:40] The Requesters – Chrisis (Original Mix) – Moda Music'
+    - '[00:45:58] Robbie Rivera feat Rooster &#038; Peralta – Move Move (DJ Observer &#038; Daniel Heathcliff Mix) – Juicy Music'
+    - '[00:49:42] Carl Kennedy feat Baby D – Let Me Be Your Fantasy (Original Mix) – Wasted Youth'
+    - '[00:57:01] Seamus Haji &#038; Romain Curtis – I&#8217;ve Been Looking (Romain Curtis Club Mix) – Big Love'
     - 'Cruze classic from 1994: '
-    - '[01:02:28] Michael Jackson &#8211; Smooth Criminal (Brothers In Rhythm House Mix) &#8211; Remiks'
+    - '[01:02:28] Michael Jackson – Smooth Criminal (Brothers In Rhythm House Mix) – Remiks'
 ---
 
 It&#8217;s been a busy month for me at DJ Cruze towers and episode #53 of the DJ Cruze month just misses July 2009 by a couple of days. Apologies for this episode being a bit late. I&#8217;ve had to contend with a house move, and hence very little free time while we unpack, and a lack of internet connection! But we&#8217;re finally in our new house and things are starting to settle down so it&#8217;s time for another selection of hot house tunes, promotional tracks from some hot house producers and plenty of chunky electro house beats. I&#8217;ve made this podcast a bit longer to try and make up for the delay.

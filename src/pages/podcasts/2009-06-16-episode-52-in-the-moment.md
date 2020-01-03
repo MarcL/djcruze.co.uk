@@ -1,5 +1,5 @@
 ---
-title: 'Episode #52 &#8211; In The Moment'
+title: 'Episode #52 – In The Moment'
 author: djcruze
 #permalink: /2009/06/16/episode-52-in-the-moment/
 permalink: /podcasts/episode-52-in-the-moment/
@@ -33,18 +33,18 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=705'
   tracklist:
-    - '[00:00:00] Spencer &#038; Hill &#8211; Cool (Cool Mix) &#8211; Tiger Records'
-    - '[00:05:12] Fedde Le Grande feat Mitch Crowne &#8211; Scared Of Me (Extended Mix) &#8211; Flamingo Recordings'
-    - '[00:08:12] Michael Gray &#038; Danism feat. Lisa Millet &#8211; Say Yes (Original Mix) &#8211; Defected'
-    - '[00:14:19] The Viron Ltd. feat. Max C &#8211; Wanna Be Happy (Thomas Gold Remix) &#8211; Milk &#038; Sugar'
-    - '[00:19:42] Haji &#038; Emanuel feat. Roachford &#8211; In The Moment (DBN Remix) &#8211; Big Love'
-    - '[00:24:42] Jean Elan &#8211; Killer (Jean Elan Mix) &#8211; Shake Me Please!'
-    - '[00:30:38] Timofey and Bartosz Brenes feat. Jerique &#8211; Don&#8217;t You Know (Club Mix) &#8211; Vector Records'
-    - '[00:35:25] Don Diablo &#8211; Disco Disco Disco (Riva Starr Snatch Remix) &#8211; Sellout Sessions'
-    - '[00:40:25] Wolfgang Gartner &#8211; Wolfgang&#8217;s 5th Symphony (Original Mix) &#8211; Kindergarten'
-    - '[00:46:40] Lambda &#8211; Hold On Tight (PhonJaxx Remix) &#8211; Black Plastic'
+    - '[00:00:00] Spencer &#038; Hill – Cool (Cool Mix) – Tiger Records'
+    - '[00:05:12] Fedde Le Grande feat Mitch Crowne – Scared Of Me (Extended Mix) – Flamingo Recordings'
+    - '[00:08:12] Michael Gray &#038; Danism feat. Lisa Millet – Say Yes (Original Mix) – Defected'
+    - '[00:14:19] The Viron Ltd. feat. Max C – Wanna Be Happy (Thomas Gold Remix) – Milk &#038; Sugar'
+    - '[00:19:42] Haji &#038; Emanuel feat. Roachford – In The Moment (DBN Remix) – Big Love'
+    - '[00:24:42] Jean Elan – Killer (Jean Elan Mix) – Shake Me Please!'
+    - '[00:30:38] Timofey and Bartosz Brenes feat. Jerique – Don&#8217;t You Know (Club Mix) – Vector Records'
+    - '[00:35:25] Don Diablo – Disco Disco Disco (Riva Starr Snatch Remix) – Sellout Sessions'
+    - '[00:40:25] Wolfgang Gartner – Wolfgang&#8217;s 5th Symphony (Original Mix) – Kindergarten'
+    - '[00:46:40] Lambda – Hold On Tight (PhonJaxx Remix) – Black Plastic'
     - 'Cruze classic from 2002: '
-    - '[00:52:29] Archigram &#8211; Carnavale &#8211; Crydamoure'
+    - '[00:52:29] Archigram – Carnavale – Crydamoure'
 ---
 
 Here you go. Another hour of funky house, twisted disco and electro beats all served up in a handy little package we call the DJ Cruze Podcast Episode #52. I&#8217;ve thankfully managed to get it done in a month too which is always good!
@@ -53,7 +53,7 @@ As most people have probably realised, I name each of the shows after one of my 
 
 As always, there are plenty of massive tunes in the show this month. We&#8217;ve got some dirty electro house from the likes of Spencer &#038; Hill, Fedde Le Grand and Jean Elan. We&#8217;ve got some twisted cut-up disco madness from Don Diablo. We&#8217;ve got deeper house tracks from the likes of Michael Grey and Danism, Haji &#038; Emanuel and The Viron Ltd. Hey, we&#8217;ve even got a massive cheeky remix of Beethoven&#8217;s 5th Symphony from Wolfgang Gartner. We cater for all tastes on this show!
 
-Finally, I&#8217;ve got to apologise for some of the vocals in this show. It sounds a bit like I&#8217;m slurring my words. No, I wasn&#8217;t drinking &#8211; it was just that the battery was going in the microphone I was using and I didn&#8217;t realise until I&#8217;d finished most of the vocals. It was too much work to re-record them all so I&#8217;ve left them as is.
+Finally, I&#8217;ve got to apologise for some of the vocals in this show. It sounds a bit like I&#8217;m slurring my words. No, I wasn&#8217;t drinking – it was just that the battery was going in the microphone I was using and I didn&#8217;t realise until I&#8217;d finished most of the vocals. It was too much work to re-record them all so I&#8217;ve left them as is.
 
 So enjoy this month&#8217;s show and don&#8217;t forget to comment below and tell me what you think of the tunes.
 

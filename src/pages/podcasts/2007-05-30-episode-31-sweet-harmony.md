@@ -1,5 +1,5 @@
 ---
-title: 'Episode #31 &#8211; Sweet Harmony'
+title: 'Episode #31 – Sweet Harmony'
 author: djcruze
 #permalink: /2007/05/30/episode-31-sweet-harmony/
 permalink: /podcasts/episode-31-sweet-harmony/
@@ -30,18 +30,18 @@ media:
   length: "00:58:43"
   keywords: ""
   tracklist:
-    - "DJ DLG &#8211; Your Eyes (Original Mix) &#8211; Eyezcream Recordings"
-    - "Richard Grey &#8211; Warped Bass (Club Mix) &#8211; Apollo"
-    - "Rogue Traders &#8211; Way To Go (My Digital Enemy Mix) &#8211; Ariola"
-    - "Larry Tee &#8211; Licky (Herve Goes Low Mix) &#8211; Good Stuff"
-    - "Don Diablow &#8211; Blow (Mason Remix) &#8211; Gut"
-    - "Chris Lake &#8211; Carry Me Away (Original Club Mix) &#8211; Rising Music"
-    - "Alibi vs Rockerfeller &#8211; Sexual Healing (Dennis Christopher Club Mix) &#8211; Gusto"
-    - "Armand Van Helden &#8211; NYC Beat (Original Mix) &#8211; Southern Fried Recordings"
-    - "Calvin Harris &#8211; The Girls (Mickey Slim&#8217;s Bomb Squad Mix) &#8211; Fly Eye"
-    - "Mighty Dub Katz &#8211; Magic Carpet Ride (Young Punx Remix) &#8211; Southern Fried Recordings"
+    - "DJ DLG – Your Eyes (Original Mix) – Eyezcream Recordings"
+    - "Richard Grey – Warped Bass (Club Mix) – Apollo"
+    - "Rogue Traders – Way To Go (My Digital Enemy Mix) – Ariola"
+    - "Larry Tee – Licky (Herve Goes Low Mix) – Good Stuff"
+    - "Don Diablow – Blow (Mason Remix) – Gut"
+    - "Chris Lake – Carry Me Away (Original Club Mix) – Rising Music"
+    - "Alibi vs Rockerfeller – Sexual Healing (Dennis Christopher Club Mix) – Gusto"
+    - "Armand Van Helden – NYC Beat (Original Mix) – Southern Fried Recordings"
+    - "Calvin Harris – The Girls (Mickey Slim&#8217;s Bomb Squad Mix) – Fly Eye"
+    - "Mighty Dub Katz – Magic Carpet Ride (Young Punx Remix) – Southern Fried Recordings"
     - "Cruze classic from 1991:"
-    - "Liquid &#8211; Sweet Harmony &#8211; XL Recordings"
+    - "Liquid – Sweet Harmony – XL Recordings"
 ---
 
 Well this one took a long time didn&#8217;t it? Two months to get the podcast online is far too long I know but life has been a bit crazy at the moment. Our baby is due in just 6 days time so I&#8217;ve been busy preparing our house ready for our new arrival and we can&#8217;t wait to see if we&#8217;re having a boy or a girl. I&#8217;ll introduce you all to the mini-Cruze once he or she appears!

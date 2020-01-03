@@ -1,5 +1,5 @@
 ---
-title: 'Episode #21 &#8211; Seasons Of Love'
+title: 'Episode #21 – Seasons Of Love'
 author: djcruze
 #permalink: /2006/09/23/episode-21-seasons-of-love/
 permalink: /podcasts/episode-21-seasons-of-love/
@@ -32,17 +32,17 @@ media:
   keywords: ""
   tracklist:
     - "DJ Cruze chart rundown: "
-    - "Mason &#8211; Exceeder &#8211; Boss Records"
-    - "Ferry Corsten &#8211; Junk &#8211; (D Ramirez Mix) &#8211; Positiva"
-    - "Ike &#038; Tina Turner &#8211; Raise Your Hands (You Got To) &#8211; (Nick Nite Extended Mix) &#8211; Gusto Records"
-    - "Sun &#8211; Gone &#8211; (Moto Blanco Remix) &#8211; White"
-    - "Dab Hands &#8211; Do Your Own Thing &#8211; (Tyrell&#8217;s Mix) &#8211; Gusto Records"
-    - "Energy 52 &#8211; Cafe Del Mar 2006 &#8211; (Raul Rincon Mix) &#8211; AATW"
-    - "DJ Jose &#8211; Stepping To The Beat &#8211; (Dave McDonald Remix) &#8211; Data Records"
-    - "Rhythm Republic vs Chicago Masters &#8211; Kenny &#8220;Jammin&#8221; Jason &#8211; Can You Dance? &#8211; (Soul Avengerz Club Mix) &#8211; Simply Recordings"
-    - "Fedde Le Grand &#8211; Put Your Hands Up For Detroit &#8211; (TV Rock &#038; Dirty South Melbourne Militia Remix) &#8211; CR2 Records"
+    - "Mason – Exceeder – Boss Records"
+    - "Ferry Corsten – Junk – (D Ramirez Mix) – Positiva"
+    - "Ike &#038; Tina Turner – Raise Your Hands (You Got To) – (Nick Nite Extended Mix) – Gusto Records"
+    - "Sun – Gone – (Moto Blanco Remix) – White"
+    - "Dab Hands – Do Your Own Thing – (Tyrell&#8217;s Mix) – Gusto Records"
+    - "Energy 52 – Cafe Del Mar 2006 – (Raul Rincon Mix) – AATW"
+    - "DJ Jose – Stepping To The Beat – (Dave McDonald Remix) – Data Records"
+    - "Rhythm Republic vs Chicago Masters – Kenny &#8220;Jammin&#8221; Jason – Can You Dance? – (Soul Avengerz Club Mix) – Simply Recordings"
+    - "Fedde Le Grand – Put Your Hands Up For Detroit – (TV Rock &#038; Dirty South Melbourne Militia Remix) – CR2 Records"
     - "DJ Cruze dedication: "
-    - "I Love N.Y. &#8211; Seasons Of Love (Original Broadway Mix) &#8211; Boss Records"
+    - "I Love N.Y. – Seasons Of Love (Original Broadway Mix) – Boss Records"
 ---
 
 After a brief hiatus the DJ Cruze podcast returns with episode #21. I&#8217;m back with some dirty electro and funky house tunes to rock your MP3 player so get it downloaded as soon as you can. This week&#8217;s show doesn&#8217;t have a classic but instead I&#8217;m dedicating a tune to my lovely wife Clare! Aaah!

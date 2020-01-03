@@ -1,5 +1,5 @@
 ---
-title: 'Episode #27 &#8211; Ghetto Girl'
+title: 'Episode #27 – Ghetto Girl'
 author: djcruze
 excerpt: "Christmas is over and it's time to get back to work so what better way to start off the year than a new DJ Cruze podcast. Episode #27 brings you lots of funky tunes and plenty of dirty electro as always."
 #permalink: /2007/01/14/episode-27-ghetto-girl/
@@ -32,18 +32,18 @@ media:
   length: "01:01:38"
   keywords: ""
   tracklist:
-    - "Kid Massive &#8211; The Spirit (Olav Basoski Remix) &#8211; Rootz Records"
+    - "Kid Massive – The Spirit (Olav Basoski Remix) – Rootz Records"
     - "DJ Cruze chart rundown:"
-    - "Sophie Ellis-Bextor &#8211; Catch You (Moto Blanco Dub) &#8211; Fascination"
-    - "DT8 Project &#8211; Hold Me Till The End (Fonzerelli Full Vocal) &#8211; Direction Records"
-    - "Noami Marsh &#8211; Do You Feel Like (Playshakers Remix) &#8211; Audiofreaks"
-    - "Kasabian &#8211; Me Plus One (Jacques Lu Cont Remix) &#8211; Columbia"
-    - "Camille Jones &#8211; The Creeps (Fedde Le Grand Club Mix) &#8211; Data Records"
-    - "M-Factor &#8211; Open Your Eyes (Eric Smax &#038; Thomas Gold Remix) &#8211; Endulge"
-    - "Bassmonkeys &#8211; So Beautiful (Vocal Club Mix) &#8211; Endulge"
-    - "Basoski &#038; Romano &#8211; Hard To Stop &#8211; Rootz Records"
+    - "Sophie Ellis-Bextor – Catch You (Moto Blanco Dub) – Fascination"
+    - "DT8 Project – Hold Me Till The End (Fonzerelli Full Vocal) – Direction Records"
+    - "Noami Marsh – Do You Feel Like (Playshakers Remix) – Audiofreaks"
+    - "Kasabian – Me Plus One (Jacques Lu Cont Remix) – Columbia"
+    - "Camille Jones – The Creeps (Fedde Le Grand Club Mix) – Data Records"
+    - "M-Factor – Open Your Eyes (Eric Smax &#038; Thomas Gold Remix) – Endulge"
+    - "Bassmonkeys – So Beautiful (Vocal Club Mix) – Endulge"
+    - "Basoski &#038; Romano – Hard To Stop – Rootz Records"
     - "Cruze classic from 1997:"
-    - "Da Mighty Dub Katz &#8211; Ghetto Girl &#8211; Southern Fried Recordings"
+    - "Da Mighty Dub Katz – Ghetto Girl – Southern Fried Recordings"
 ---
 
 Christmas is over and it&#8217;s time to get back to work so what better way to start off the year than a new DJ Cruze podcast. Episode #27 brings you lots of funky tunes and plenty of dirty electro as always. The big tunes for me on this show are the new track by [Kid Massive][1], the new [Camille Jones][2] track and the latest [Basoski][3] and [Romano][4] EP. So get subscribed, get downloading and enjoy the tunes on your iPod or MP3 player.

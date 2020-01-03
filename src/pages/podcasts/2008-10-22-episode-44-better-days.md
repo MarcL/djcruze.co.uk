@@ -1,5 +1,5 @@
 ---
-title: 'Episode #44 &#8211; Better Days'
+title: 'Episode #44 – Better Days'
 author: djcruze
 #permalink: /2008/10/22/episode-44-better-days/
 permalink: /podcasts/episode-44-better-days/
@@ -31,17 +31,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Spencer &#038; Hill &#8211; Right On Time (Original Mix) &#8211; Tiger Records"
-    - "[00:04:45] Dave Spoon &#038; Funkagenda &#8211; Won&#8217;t Do It Again (Sunrise) &#8211; Big Love Records"
-    - "[00:10:30] The Shapeshifters &#8211; Lola&#8217;s Theme (2008 Re-edit) &#8211; Nocturnal Groove"
-    - "[00:16:30] Soul Avengerz feat. Zena Chavez &#8211; Move (Ian Carey and Brad Holland Mix) &#8211; GFAB Records"
-    - "[00:22:30] Shakedown &#8211; At Night (Seamus Haji Remix) &#8211; Panorama"
-    - "[00:30:00] Jason Phats feat. Ben Ofoedu &#8211; Can&#8217;t Stop (Daft &#038; Pearson Mix) &#8211; Data"
-    - "[00:36:58] Redroche &#8211; Give U More (Original Mix) &#8211; Eyezcream Recordings"
-    - "[00:41:58] Christian Falk feat. Robyn &#8211; Dream On (Moto Blanco Vocal Mix) &#8211; Data"
-    - "[00:49:35] Tony Di Bart &#8211; The Real Thing (Wideboys Remix) &#8211; AATW"
+    - "[00:00:00] Spencer &#038; Hill – Right On Time (Original Mix) – Tiger Records"
+    - "[00:04:45] Dave Spoon &#038; Funkagenda – Won&#8217;t Do It Again (Sunrise) – Big Love Records"
+    - "[00:10:30] The Shapeshifters – Lola&#8217;s Theme (2008 Re-edit) – Nocturnal Groove"
+    - "[00:16:30] Soul Avengerz feat. Zena Chavez – Move (Ian Carey and Brad Holland Mix) – GFAB Records"
+    - "[00:22:30] Shakedown – At Night (Seamus Haji Remix) – Panorama"
+    - "[00:30:00] Jason Phats feat. Ben Ofoedu – Can&#8217;t Stop (Daft &#038; Pearson Mix) – Data"
+    - "[00:36:58] Redroche – Give U More (Original Mix) – Eyezcream Recordings"
+    - "[00:41:58] Christian Falk feat. Robyn – Dream On (Moto Blanco Vocal Mix) – Data"
+    - "[00:49:35] Tony Di Bart – The Real Thing (Wideboys Remix) – AATW"
     - "Cruze classic from 1991: "
-    - "[00:56:16] Jimi Polo &#8211; Better Days (Sasha&#8217;s DMC Remix) &#8211; White"
+    - "[00:56:16] Jimi Polo – Better Days (Sasha&#8217;s DMC Remix) – White"
 ---
 
 Episode #44 of the DJ Cruze Podcast has come a few days later than I promised. Sorry about that. I had a throat infection last week and sounded like a bad Barry White impersonator. I&#8217;m sure you&#8217;d have pulled your earphones out of your ears had you heard a podcast with that voice on it. So better late than never we&#8217;ve got episode #44 of the podcast with plenty of funky and chunky tunes for your listening pleasure!

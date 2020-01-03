@@ -1,5 +1,5 @@
 ---
-title: 'Episode #51 &#8211; Melo'
+title: 'Episode #51 – Melo'
 author: djcruze
 #permalink: /2009/05/14/episode-51-melo/
 permalink: /podcasts/episode-51-melo/
@@ -33,17 +33,17 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=688'
   tracklist:
-    - '[00:00:00] Calvin Harris &#8211; I&#8217;m Not Alone (Deadmau5 Remix) &#8211; Fly Eye Records'
-    - '[00:06:30] Steve Angello, Axwell, Sebastian Ingrosso and Laidback Luke &#8211; Leave The World Behind (Original Mix) &#8211; Axtone Records'
-    - '[00:11:45] Pryda &#8211; Lift (Original Mix) &#8211; Pryda Recordings'
-    - '[00:18:37] Vandalism &#8211; Bucci Bag (Ian Carey Remix) &#8211; Vicious Grooves'
-    - '[00:23:52] DJ D &#038; Will Dawson &#8211; Do It Tonight (Funkfinders Electroid Remix) &#8211; Metrogroove Records'
-    - '[00:29:38] David Guetta feat Kelly Rowland &#8211; When Love Takes Over (Electro Extended Mix) &#8211; F*** Me I&#8217;m Famous'
-    - '[00:37:03] Wolfgang Gartner &#8211; Push &#038; Rise (Original Mix) &#8211; Kindergarten'
-    - '[00:42:17] Phonat &#8211; Set Me Free (Original Mix) &#8211; Mofo Hifi'
-    - '[00:48:10] Pryda &#8211; Melo (Original Mix) &#8211; Pryda Recordings'
+    - '[00:00:00] Calvin Harris – I&#8217;m Not Alone (Deadmau5 Remix) – Fly Eye Records'
+    - '[00:06:30] Steve Angello, Axwell, Sebastian Ingrosso and Laidback Luke – Leave The World Behind (Original Mix) – Axtone Records'
+    - '[00:11:45] Pryda – Lift (Original Mix) – Pryda Recordings'
+    - '[00:18:37] Vandalism – Bucci Bag (Ian Carey Remix) – Vicious Grooves'
+    - '[00:23:52] DJ D &#038; Will Dawson – Do It Tonight (Funkfinders Electroid Remix) – Metrogroove Records'
+    - '[00:29:38] David Guetta feat Kelly Rowland – When Love Takes Over (Electro Extended Mix) – F*** Me I&#8217;m Famous'
+    - '[00:37:03] Wolfgang Gartner – Push &#038; Rise (Original Mix) – Kindergarten'
+    - '[00:42:17] Phonat – Set Me Free (Original Mix) – Mofo Hifi'
+    - '[00:48:10] Pryda – Melo (Original Mix) – Pryda Recordings'
     - 'Cruze classic from 1993: '
-    - '[00:55:18] Deadly Sins &#8211; We Are Going On Down (Bottom Dollar Club Mix) &#8211; Ffrreedom'
+    - '[00:55:18] Deadly Sins – We Are Going On Down (Bottom Dollar Club Mix) – Ffrreedom'
 ---
 
 Back once again with the renegade master DJ Cruze! Episode #51 of the DJ Cruze Podcast finally drops onto your iPod (or other MP3 player obviously!) How did I manage to let this one slip so late into May? Life gets in the way sometimes! Sorry about that.

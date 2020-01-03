@@ -1,5 +1,5 @@
 ---
-title: 'Episode #55 &#8211; I&#8217;m Alive'
+title: 'Episode #55 – I&#8217;m Alive'
 author: djcruze
 #permalink: /2010/06/17/episode-55-im-alive/
 permalink: /podcasts/episode-55-im-alive/
@@ -33,21 +33,21 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=775'
   tracklist:
-    - '[00:00:00] Louis La Roche &#8211; Malfunction (Original Mix) &#8211; Ever After'
-    - '[00:03:15] Rasmus Faber &#038; Alf Tumble feat. Candi Staton &#8211; Wilder Side (Original Mix) &#8211; Defected'
-    - '[00:08:52] Roger Sanchez &#8211; 2Gether (Original Mix) &#8211; Stealth Records'
-    - '[00:14:37] Marco Lys &#8211; Few Things (Original Mix) &#8211; Rising Music'
-    - '[00:19:30] Riva Starr feat. Rettore &#8211; Splendido (Vocal Mix) &#8211; Snatch! Records'
-    - '[00:24:52] Reboot &#8211; Enjoy Music (Riva Starr Remix) &#8211; Defected'
-    - '[00:30:33] Cassius &#8211; 99 (Tim Green Remix) &#8211; Cassius Records'
-    - '[00:36:03] Pocket808 feat. Nathan Hudson &#8211; Ghostship (Hook N Sling Remix) &#8211; Hussle Recordings'
-    - '[00:41:48] DJ Eako &#038; Robert Livesu feat. Malya Sykes &#8211; Shine On (Eako &#038; Livesu Steel Mix) &#8211; CR2 Records'
-    - '[00:48:40] The Temper Trap &#8211; Sweet Disposition (Axwell &#038; Dirty South Remix) &#8211; Infectious Records'
-    - '[00:54:56] Ellie Goulding &#8211; Starry Eyed (Russ Chimes Remix) &#8211; Polydor / Cassius &#8211; The Sound Of Violence (Acapella)'
-    - '[01:00:00] Max Vangeli feat. Max C &#8211; Look Into Your Heart (Original Mix) &#8211; U-Boot'
-    - '[01:06:00] Swedish House Mafia &#8211; One (Original Mix) &#8211; SHM'
+    - '[00:00:00] Louis La Roche – Malfunction (Original Mix) – Ever After'
+    - '[00:03:15] Rasmus Faber &#038; Alf Tumble feat. Candi Staton – Wilder Side (Original Mix) – Defected'
+    - '[00:08:52] Roger Sanchez – 2Gether (Original Mix) – Stealth Records'
+    - '[00:14:37] Marco Lys – Few Things (Original Mix) – Rising Music'
+    - '[00:19:30] Riva Starr feat. Rettore – Splendido (Vocal Mix) – Snatch! Records'
+    - '[00:24:52] Reboot – Enjoy Music (Riva Starr Remix) – Defected'
+    - '[00:30:33] Cassius – 99 (Tim Green Remix) – Cassius Records'
+    - '[00:36:03] Pocket808 feat. Nathan Hudson – Ghostship (Hook N Sling Remix) – Hussle Recordings'
+    - '[00:41:48] DJ Eako &#038; Robert Livesu feat. Malya Sykes – Shine On (Eako &#038; Livesu Steel Mix) – CR2 Records'
+    - '[00:48:40] The Temper Trap – Sweet Disposition (Axwell &#038; Dirty South Remix) – Infectious Records'
+    - '[00:54:56] Ellie Goulding – Starry Eyed (Russ Chimes Remix) – Polydor / Cassius – The Sound Of Violence (Acapella)'
+    - '[01:00:00] Max Vangeli feat. Max C – Look Into Your Heart (Original Mix) – U-Boot'
+    - '[01:06:00] Swedish House Mafia – One (Original Mix) – SHM'
     - 'Cruze classic from 1994:'
-    - '[01:10:52] Rhyme Time Productions &#8211; You And Me (Hard Mix) &#8211; Cleveland City Records'
+    - '[01:10:52] Rhyme Time Productions – You And Me (Hard Mix) – Cleveland City Records'
 ---
 
 Ok. So it&#8217;s been a while hasn&#8217;t it?!

@@ -1,5 +1,5 @@
 ---
-title: 'Episode #16 &#8211; Renegade Master'
+title: 'Episode #16 – Renegade Master'
 author: djcruze
 #permalink: /2006/05/22/episode-16-renegade-master/
 permalink: /podcasts/episode-16-renegade-master/
@@ -32,17 +32,17 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Rihanna &#8211; S.O.S. (Moto Blanco Vocal Mix) &#8211; Def Jam"
-    - "Sugababes &#8211; Follow Me Home (Soul Seekerz Remix) &#8211; Island"
-    - "Armand Van Helden &#8211; My, My, My (Stonebridge Mix) &#8211; Southern Fried Records"
+    - "Rihanna – S.O.S. (Moto Blanco Vocal Mix) – Def Jam"
+    - "Sugababes – Follow Me Home (Soul Seekerz Remix) – Island"
+    - "Armand Van Helden – My, My, My (Stonebridge Mix) – Southern Fried Records"
     - "DJ Cruze exclusive: "
-    - "Nelly Furtado &#8211; Man Eater (DJ Cruze Funkfinders Mix) &#8211; CDR"
+    - "Nelly Furtado – Man Eater (DJ Cruze Funkfinders Mix) – CDR"
     - "DJ Cruze chart rundown: "
-    - "Supermode &#8211; Tell Me Why (Raul Rincon Mix) &#8211; Data"
-    - "Danii Minogue &#8211; So Under Pressure (Soul Seekerz Mix) &#8211; AATW"
-    - "Danielle Bollinger &#8211; When The Broken Hearted Love Again (Soul Seekerz Mix) &#8211; EsNtion Records"
+    - "Supermode – Tell Me Why (Raul Rincon Mix) – Data"
+    - "Danii Minogue – So Under Pressure (Soul Seekerz Mix) – AATW"
+    - "Danielle Bollinger – When The Broken Hearted Love Again (Soul Seekerz Mix) – EsNtion Records"
     - "Cruze classic from 1995: "
-    - "Wildchild &#8211; Renegade Master (from Legends of the Dark Black Part II) &#8211; Hi-Life Recordings"
+    - "Wildchild – Renegade Master (from Legends of the Dark Black Part II) – Hi-Life Recordings"
 ---
 Sorry I&#8217;m a bit late with the podcast this week. We got there eventually though. Here is episode #16 of the DJ Cruze podcast. It&#8217;s filled with plenty of funky house music for your listening pleasure.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Episode #15 &#8211; The Game'
+title: 'Episode #15 – The Game'
 author: djcruze
 #permalink: /2006/05/04/episode-15-the-game/
 permalink: /podcasts/episode-15-the-game/
@@ -32,17 +32,17 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Kid Creme &#8211; The Game &#8211; Illegal Beats"
-    - "Bodyrox &#8211; Yeah Yeah (D Ramirez Club Mix) &#8211; Eye Industries"
-    - "The Joker &#8211; Bring It Back (Your Soul) (Robbie Rivera Dub) &#8211; Hit!"
-    - "A Studio feat. Polina &#8211; S.O.S. (M-Factor Vocal Mix) &#8211; Absolution"
-    - "Til West &#038; DJ Delicious &#8211; Same Man (DJ Cruze Re-edit) &#8211; Data"
+    - "Kid Creme – The Game – Illegal Beats"
+    - "Bodyrox – Yeah Yeah (D Ramirez Club Mix) – Eye Industries"
+    - "The Joker – Bring It Back (Your Soul) (Robbie Rivera Dub) – Hit!"
+    - "A Studio feat. Polina – S.O.S. (M-Factor Vocal Mix) – Absolution"
+    - "Til West &#038; DJ Delicious – Same Man (DJ Cruze Re-edit) – Data"
     - "DJ Cruze chart rundown: "
-    - "Andy Cato &#8211; La Luna &#8211; Azuli"
-    - "Avitas &#8211; Cantate (Bhooka &#038; T-Bone Mix) &#8211; Thirteen [rec]"
-    - "Arctic Monkeys &#8211; When The Sun Goes Down (Karl G Remix) &#8211; Domino Records"
+    - "Andy Cato – La Luna – Azuli"
+    - "Avitas – Cantate (Bhooka &#038; T-Bone Mix) – Thirteen [rec]"
+    - "Arctic Monkeys – When The Sun Goes Down (Karl G Remix) – Domino Records"
     - "Cruze classic from 1992: "
-    - "Brothers Love Dubs &#8211; The Mighty Ming (Original Mix) &#8211; Stress Records"
+    - "Brothers Love Dubs – The Mighty Ming (Original Mix) – Stress Records"
 ---
 *&#8220;Manchester England, England. Across the Atlantic Sea&#8230;&#8221;*  
 You&#8217;ll understand when you listen to the podcast!

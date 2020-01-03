@@ -1,5 +1,5 @@
 ---
-title: 'Episode #12 &#8211; How Would U Feel'
+title: 'Episode #12 – How Would U Feel'
 author: djcruze
 #permalink: /2006/03/08/episode-12-how-would-u-feel/
 permalink: /podcasts/episode-12-how-would-u-feel/
@@ -32,19 +32,19 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Mike Polo &#8211; Gypsy Woman (Beatchuggers Gypsy Dub Affair) &#8211; Disco:Wax"
-    - "Deepgroove &#8211; Fascinated (Dirty House Mix) &#8211; UMM"
+    - "Mike Polo – Gypsy Woman (Beatchuggers Gypsy Dub Affair) – Disco:Wax"
+    - "Deepgroove – Fascinated (Dirty House Mix) – UMM"
     - "DJ Cruze exclusive: "
-    - "Doc Phatt feat. Brenda &#8211; Move &#8211; CDR"
+    - "Doc Phatt feat. Brenda – Move – CDR"
     - "DJ Cruze chart rundown: "
-    - "Sara Jorge &#8211; Beautiful World (M-Factor Full Vocal Mix) &#8211; Purple City"
-    - "Scape &#8211; Be My Friend (Ian Carey Remix) &#8211; Data"
-    - "David Morales &#8211; How Would U Feel (Philippe B Remix) &#8211; Data"
-    - "DJ Exacta feat Daley Padley &#8211; Pride (A Deeper Love) (Exacta's Vocal Mix) &#8211; Compulsive"
-    - "Deep Dish feat Stevie Nicks &#8211; Dreams (Axwell Remix) &#8211; Positiva"
-    - "Sugababes &#8211; Red Dress (Dennis Christopher's More Energy Dub) &#8211; Island"
+    - "Sara Jorge – Beautiful World (M-Factor Full Vocal Mix) – Purple City"
+    - "Scape – Be My Friend (Ian Carey Remix) – Data"
+    - "David Morales – How Would U Feel (Philippe B Remix) – Data"
+    - "DJ Exacta feat Daley Padley – Pride (A Deeper Love) (Exacta's Vocal Mix) – Compulsive"
+    - "Deep Dish feat Stevie Nicks – Dreams (Axwell Remix) – Positiva"
+    - "Sugababes – Red Dress (Dennis Christopher's More Energy Dub) – Island"
     - "Cruze classic from 1995: "
-    - "Ruby Turner &#8211; Never Ever Gonna Give You Up (Big Bump Mix) (from the Club Diamonds EP) &#8211; Wired Recordings"
+    - "Ruby Turner – Never Ever Gonna Give You Up (Big Bump Mix) (from the Club Diamonds EP) – Wired Recordings"
 
 
 ---
@@ -55,8 +55,8 @@ Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t 
 
 I mentioned a couple of new podcasts that I have downloaded so here are the links to them. Just cut and paste the link and put it into iTunes or the podcatching software that you use.
 
-  * [Timmy Boy][23] &#8211; You&#8217;ll have to click on the link on Tim&#8217;s site to download it. A nice mix using [Garage Band][24].
-  * [DJ Flin podcast][25] &#8211; Some nice mixing and tunes from Sascha here. But stop copying the text on my website please! 
+  * [Timmy Boy][23] – You&#8217;ll have to click on the link on Tim&#8217;s site to download it. A nice mix using [Garage Band][24].
+  * [DJ Flin podcast][25] – Some nice mixing and tunes from Sascha here. But stop copying the text on my website please! 
 
 As always I love to hear your feed back on the show. [Contact me][26] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes then I&#8217;ll play them.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Episode #24 &#8211; The Beat Is Rockin'
+title: 'Episode #24 – The Beat Is Rockin'
 author: djcruze
 #permalink: /2006/12/06/episode-24-the-beat-is-rockin/
 permalink: /podcasts/episode-24-the-beat-is-rockin/
@@ -31,18 +31,18 @@ media:
   length: "01:03:22"
   keywords: ""
   tracklist:
-    - "DJ Disciple &#8211; Work It Out (Ruff and Tort Mix) &#8211; Xtravaganza"
-    - "Bump &#8211; I'mm Rushing (Dave Spoon Vocal Mix) &#8211; Art &#038; Craft"
+    - "DJ Disciple – Work It Out (Ruff and Tort Mix) – Xtravaganza"
+    - "Bump – I'mm Rushing (Dave Spoon Vocal Mix) – Art &#038; Craft"
     - "DJ Cruze chart rundown:"
-    - "Mika &#8211; Grace Kelly (Bimbo Jones Remix) &#8211; Casablanca"
-    - "Erick E &#8211; The Beat Is Rockin' (Simmons &#038; Christopher Remix) &#8211; Gusto Records"
-    - "JoJo &#8211; Too Little Too Late (Raul Rincon Vocal Version) &#8211; Mercury Records"
-    - "Shanie &#8211; Donâ€™t Give Me Your Life (M-Factor Dub) &#8211; AATW"
-    - "Stu Allen &#8211; Music's Got Me (Fonzerelli Remix) &#8211; UMM"
-    - "Eric Prydz vs Pink Floyd &#8211; Proper Education &#8211; Data Records"
-    - "Freemasons &#8211; Raining Down Love (2006 Dub Vox) &#8211; Loaded Records"
+    - "Mika – Grace Kelly (Bimbo Jones Remix) – Casablanca"
+    - "Erick E – The Beat Is Rockin' (Simmons &#038; Christopher Remix) – Gusto Records"
+    - "JoJo – Too Little Too Late (Raul Rincon Vocal Version) – Mercury Records"
+    - "Shanie – Donâ€™t Give Me Your Life (M-Factor Dub) – AATW"
+    - "Stu Allen – Music's Got Me (Fonzerelli Remix) – UMM"
+    - "Eric Prydz vs Pink Floyd – Proper Education – Data Records"
+    - "Freemasons – Raining Down Love (2006 Dub Vox) – Loaded Records"
     - "Cruze classic from 1992:"
-    - "M.A.N.I.C. &#8211; I&#8217;m Coming Hardcore (Original Mix) &#8211; Union City Recording"
+    - "M.A.N.I.C. – I&#8217;m Coming Hardcore (Original Mix) – Union City Recording"
 ---
 
 It has been a while since the last podcast but eventually episode #24 should be appearing in your podcatcher! Apologies for the delay but I don&#8217;t think it is my month. The hard drive crashed on my PC, my iPod has died, work has been crazily busy and I&#8217;ve managed to pick up a stomach infection. What fun!

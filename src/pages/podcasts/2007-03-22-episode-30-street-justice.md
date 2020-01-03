@@ -1,5 +1,5 @@
 ---
-title: 'Episode #30 &#8211; Street Justice'
+title: 'Episode #30 – Street Justice'
 author: djcruze
 #permalink: /2007/03/22/episode-30-street-justice/
 permalink: /mixes/episode-30-street-justice/
@@ -31,17 +31,17 @@ media:
   length: "00:58:35"
   keywords: ""
   tracklist:
-    - "The Brand New Heavies &#8211; I Don&#8217;t Know Why (I Love You) (Haji &#038; Emanuel Remix) &#8211; TBNH"
-    - "Gaelle &#8211; Give It Back (Grant Nelson Mix) &#8211; Boss Records"
-    - "Dada &#8211; Lollipop (Jerry Ropero Remix) &#8211; Data Records"
-    - "Fedde Le Grand &#8211; Take No Shhh &#8211; Defected Records"
-    - "The Migrants &#8211; I Thought That (Boris Dlugosch Mix) &#8211; Lowered Recordings"
-    - "Olav Basoski &#8211; Da Beat Kicks &#8211; Rootz Records"
-    - "Brad Holland &#8211; Crazy (Raul Rincon Remix) &#8211; GFab"
-    - "MSTRKRFT &#8211; Street Justice &#8211; Modular"
-    - "Stefy &#8211; Chelsea (Sebastien Leger Mix) &#8211; Wind Up"
+    - "The Brand New Heavies – I Don&#8217;t Know Why (I Love You) (Haji &#038; Emanuel Remix) – TBNH"
+    - "Gaelle – Give It Back (Grant Nelson Mix) – Boss Records"
+    - "Dada – Lollipop (Jerry Ropero Remix) – Data Records"
+    - "Fedde Le Grand – Take No Shhh – Defected Records"
+    - "The Migrants – I Thought That (Boris Dlugosch Mix) – Lowered Recordings"
+    - "Olav Basoski – Da Beat Kicks – Rootz Records"
+    - "Brad Holland – Crazy (Raul Rincon Remix) – GFab"
+    - "MSTRKRFT – Street Justice – Modular"
+    - "Stefy – Chelsea (Sebastien Leger Mix) – Wind Up"
     - "Cruze classic from 1996:"
-    - "Danny Taurus &#8211; Help Me (Crazee Mix) &#8211; In-House Recordings"
+    - "Danny Taurus – Help Me (Crazee Mix) – In-House Recordings"
 ---
 
 After all of the stress with getting the last episode online I&#8217;m now back with episode #30 of the DJ Cruze podcast. As I said in an earlier post, most of my studio has been dismantled but I managed to put a bit of it back together to do the mix. However, I&#8217;m without a microphone at the moment so you&#8217;ll just have to put up with the tunes and no shoutouts! I&#8217;m sure you&#8217;ll cope and I know some of you prefer it that way! Enjoy the mix and I&#8217;ll be back with a full studio setup soon.

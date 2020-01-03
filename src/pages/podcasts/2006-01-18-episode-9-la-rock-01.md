@@ -1,5 +1,5 @@
 ---
-title: 'Episode #9 &#8211; La Rock 01'
+title: 'Episode #9 – La Rock 01'
 author: djcruze
 #permalink: /2006/01/18/episode-9-la-rock-01/
 permalink: /podcasts/episode-9-la-rock-01/
@@ -33,18 +33,18 @@ media:
   keywords: ""
   tracklist:
     - "DJ Cruze chart rundown: "
-    - "The Egg &#8211; Walking Away (Tocadisco Mix) &#8211; CR2 Records"
+    - "The Egg – Walking Away (Tocadisco Mix) – CR2 Records"
     - "Special guest mix by Matthew Brooks from A&#038;E: "
-    - "The Juan Maclean &#8211; Give Me Every Little Thing &#8211; DFA"
-    - "Freeform Five &#8211; No More Conversations (Mylo Remix) &#8211; Four Music"
-    - "Scissor Sisters &#8211; Laura (Paper Faces Remix) &#8211; Polydor"
-    - "Seymore Bits &#8211; Free &#8211; Klakson"
-    - "Vitalic &#8211; La Rock 01 &#8211; Pias"
-    - "LCD Soundsystem &#8211; Yeah (Crass Version) &#8211; DFA"
-    - "Nu Tone &#8211; Three Bags Full &#8211; Hospital"
-    - "High Contrast &#8211; Racing Green &#8211; Hospital"
+    - "The Juan Maclean – Give Me Every Little Thing – DFA"
+    - "Freeform Five – No More Conversations (Mylo Remix) – Four Music"
+    - "Scissor Sisters – Laura (Paper Faces Remix) – Polydor"
+    - "Seymore Bits – Free – Klakson"
+    - "Vitalic – La Rock 01 – Pias"
+    - "LCD Soundsystem – Yeah (Crass Version) – DFA"
+    - "Nu Tone – Three Bags Full – Hospital"
+    - "High Contrast – Racing Green – Hospital"
     - "Cruze classic from 1992: "
-    - "Jam and Spoon &#8211; Stella &#8211; R&#038;S Records"
+    - "Jam and Spoon – Stella – R&#038;S Records"
 ---
 <img src="http://www.djcruze.co.uk/cms/wp-content/matt_brooks.jpg" alt="Guest mix by Matt Brooks from A&E" class="right" />  
 Happy new year and welcome to the first podcast for 2006. Podcast episode #9 features a special guest mix from my good friend and fellow DJ, Matthew Brooks. Matt is a DJ and promoter of the excellent [Accident and Emergency][1] collective. It&#8217;s something a bit different for the podcast as it flows from dirty electro house and filthy acid madness, right up to some drum and bass but as always it&#8217;s damn funky! Download it here:
@@ -52,18 +52,18 @@ Happy new year and welcome to the first podcast for 2006. Podcast episode #9 fea
 Here is the tracklisting for this week&#8217;s show:
 
   * **DJ Cruze chart rundown:** 
-      * The Egg &#8211; Walking Away (Tocadisco Mix) &#8211; [CR2 Records][4]
+      * The Egg – Walking Away (Tocadisco Mix) – [CR2 Records][4]
   * **Special guest mix by Matthew Brooks from [A&#038;E][1]:** 
-      * [The Juan Maclean][5] &#8211; Give Me Every Little Thing &#8211; [DFA][6]
-      * [Freeform Five][7] &#8211; No More Conversations ([Mylo][8] Remix) &#8211; Four Music
-      * [Scissor Sisters][9] &#8211; Laura (Paper Faces Remix) &#8211; Polydor
-      * Seymore Bits &#8211; Free &#8211; [Klakson][10]
-      * [Vitalic][11] &#8211; La Rock 01 &#8211; [Pias][12]
-      * [LCD Soundsystem][13] &#8211; Yeah (Crass Version) &#8211; [DFA][6]
-      * [Nu Tone][14] &#8211; Three Bags Full &#8211; [Hospital][15]
-      * [High Contrast][16] &#8211; Racing Green &#8211; [Hospital][15]
+      * [The Juan Maclean][5] – Give Me Every Little Thing – [DFA][6]
+      * [Freeform Five][7] – No More Conversations ([Mylo][8] Remix) – Four Music
+      * [Scissor Sisters][9] – Laura (Paper Faces Remix) – Polydor
+      * Seymore Bits – Free – [Klakson][10]
+      * [Vitalic][11] – La Rock 01 – [Pias][12]
+      * [LCD Soundsystem][13] – Yeah (Crass Version) – [DFA][6]
+      * [Nu Tone][14] – Three Bags Full – [Hospital][15]
+      * [High Contrast][16] – Racing Green – [Hospital][15]
   * **Cruze classic from 1992:** 
-      * Jam and Spoon &#8211; Stella &#8211; R&#038;S Records
+      * Jam and Spoon – Stella – R&#038;S Records
 
 As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I&#8217;ll get back to you as soon as I can. Big thanks to Matt for his mix and if you want to check out what the A&#038;E crew are up to then go and check the [website][1].
 

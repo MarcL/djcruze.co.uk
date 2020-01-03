@@ -1,5 +1,5 @@
 ---
-title: 'Episode #19 &#8211; Watch The Sunrise'
+title: 'Episode #19 – Watch The Sunrise'
 author: djcruze
 #permalink: /2006/07/27/episode-19-watch-the-sunrise/
 permalink: /podcasts/episode-19-watch-the-sunrise/
@@ -32,19 +32,19 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Rockefeller &#8211; Do It Tonight (Ian Carey Mix) &#8211; Spinnin Records"
+    - "Rockefeller – Do It Tonight (Ian Carey Mix) – Spinnin Records"
     - "DJ Cruze chart rundown: "
-    - "Per QX &#8211; Buffalos Dance &#8211; Nasty Habits"
-    - "Inner City Playboys &#8211; Jetsetter (Ian Carey Remix) &#8211; Loaded"
-    - "Starchaser &#8211; Fate &#8211; Ego"
-    - "Jealousy &#8211; Lucy (K-Klass Remix) &#8211; Purple City"
-    - "Basement Jaxx &#8211; Hush Boy (Soul Seekerz Remix) &#8211; XL"
-    - "Soulcast &#8211; Someone Like Me (Dub) &#8211; Oxyd Records"
-    - "Nuala &#8211; El Sol (Los Ladrones Mix) &#8211; Caitlin Records"
-    - "Trick &#038; Kubic &#8211; Easy (Original Mix) &#8211; Data"
-    - "Axwell &#8211; Watch The Sunrise (Extended Vocal Mix) &#8211; Positiva"
+    - "Per QX – Buffalos Dance – Nasty Habits"
+    - "Inner City Playboys – Jetsetter (Ian Carey Remix) – Loaded"
+    - "Starchaser – Fate – Ego"
+    - "Jealousy – Lucy (K-Klass Remix) – Purple City"
+    - "Basement Jaxx – Hush Boy (Soul Seekerz Remix) – XL"
+    - "Soulcast – Someone Like Me (Dub) – Oxyd Records"
+    - "Nuala – El Sol (Los Ladrones Mix) – Caitlin Records"
+    - "Trick &#038; Kubic – Easy (Original Mix) – Data"
+    - "Axwell – Watch The Sunrise (Extended Vocal Mix) – Positiva"
     - "Cruze classic from 1995: "
-    - "Janice Robinson &#8211; Children (Explorer Mix) &#8211; Planet Four Communications"
+    - "Janice Robinson – Children (Explorer Mix) – Planet Four Communications"
 ---
 
 It&#8217;s been far too long since the last show again, sorry about that. As most of you know, I&#8217;m getting married in a few weeks time (actually nearer to two weeks now) so life is pretty hectic. This show will be the last for a month now so I hope you enjoy it. It&#8217;s full of summery vibes and I&#8217;m loving the tunes. Enjoy!

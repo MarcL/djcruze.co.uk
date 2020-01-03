@@ -1,5 +1,5 @@
 ---
-title: 'Hey Mr DJ Mix (Side B) &#8211; June 1994'
+title: 'Hey Mr DJ Mix (Side B) – June 1994'
 author: djcruze
 # permalink: /2006/11/15/hey-mr-dj-mix-side-b-june-1994/
 permalink: /mixes/hey-mr-dj-mix-side-b-june-1994/
@@ -29,16 +29,16 @@ media:
   length: '00:47:14'
   keywords: ''
   tracklist:
-    - '??? &#8211; ???'
-    - 'Hed Boys &#8211; Girls &#038; Boys &#8211; Seka Records &#8211; *(x 2 copies &#8211; cut it up DJ!)*'
-    - 'Lisa B &#8211; You and Me (Cleveland City Shining Mix) &#8211; White label'
-    - '??? &#8211; ???'
-    - 'God Within &#8211; The Phoenix &#8211; White label *(An absolutely classic tune by Scott Hardkiss.)*'
-    - '??? &#8211; ???'
-    - 'The Cotton Club &#8211; Just Play The Music &#8211; Fantastic Records *(From the Rock EP.)*'
-    - '??? &#8211; ???'
-    - 'Screen II &#8211; Let The Record Spin &#8211; Cleveland City Records'
-    - '??? &#8211; ???'
+    - '??? – ???'
+    - 'Hed Boys – Girls &#038; Boys – Seka Records – *(x 2 copies – cut it up DJ!)*'
+    - 'Lisa B – You and Me (Cleveland City Shining Mix) – White label'
+    - '??? – ???'
+    - 'God Within – The Phoenix – White label *(An absolutely classic tune by Scott Hardkiss.)*'
+    - '??? – ???'
+    - 'The Cotton Club – Just Play The Music – Fantastic Records *(From the Rock EP.)*'
+    - '??? – ???'
+    - 'Screen II – Let The Record Spin – Cleveland City Records'
+    - '??? – ???'
 ---
 
 As promised last week here is the b side of an old mix I did way back in 1994. You&#8217;ll find plenty of old tunes here and lots of cutting and scratch. I&#8217;ve tried to master the MP3 as best I could but it&#8217;s still a bit crackly with some heavy (i.e. distored!) bass in parts.
@@ -47,16 +47,16 @@ There are plenty of classic house tunes on here and it&#8217;ll make you smile i
 
 **Tracklisting:**
 
-1. ??? &#8211; ???
-2. Hed Boys &#8211; Girls &#038; Boys &#8211; Seka Records &#8211; _(x 2 copies &#8211; cut it up DJ!)_
-3. Lisa B &#8211; You and Me (Cleveland City Shining Mix) &#8211; White label
-4. ??? &#8211; ???
-5. God Within &#8211; The Phoenix &#8211; White label _(An absolutely classic tune by Scott Hardkiss.)_
-6. ??? &#8211; ???
-7. The Cotton Club &#8211; Just Play The Music &#8211; Fantastic Records _(From the Rock EP.)_
-8. ??? &#8211; ???
-9. Screen II &#8211; Let The Record Spin &#8211; Cleveland City Records
-10. ??? &#8211; ???
+1. ??? – ???
+2. Hed Boys – Girls &#038; Boys – Seka Records – _(x 2 copies – cut it up DJ!)_
+3. Lisa B – You and Me (Cleveland City Shining Mix) – White label
+4. ??? – ???
+5. God Within – The Phoenix – White label _(An absolutely classic tune by Scott Hardkiss.)_
+6. ??? – ???
+7. The Cotton Club – Just Play The Music – Fantastic Records _(From the Rock EP.)_
+8. ??? – ???
+9. Screen II – Let The Record Spin – Cleveland City Records
+10. ??? – ???
 
 <div style="clear:both;">
 </div>

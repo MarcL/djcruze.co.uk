@@ -1,5 +1,5 @@
 ---
-title: 'Episode #35 &#8211; The Christmas Podcast 2007'
+title: 'Episode #35 – The Christmas Podcast 2007'
 author: djcruze
 #permalink: /2007/12/24/episode-35-the-christmas-podcast-2007/
 permalink: /podcasts/episode-35-the-christmas-podcast-2007/
@@ -31,17 +31,17 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Lou Rawls &#8211; Have Yourself A Very Merry Christmas (DJ Cruze Funkfinders Remix) &#8211; White"
-    - "[00:05:30] Rihanna &#8211; Don&#8217;t Stop The Music (The Wideboys Club Mix) &#8211; Def Jam"
-    - "[00:11:00] Armand Van Helden &#8211; Je T&#8217;Aime (Original Mix) &#8211; Southern Fried Recordings"
-    - "[00:17:45] Jody Watley &#8211; I Want Your Love (Wideboys Club Mix) &#8211; Gusto"
-    - "[00:23:45] Deliquent Ft K-Cat &#8211; My Destiny (Wideboys Mix) &#8211; MNB"
-    - "[00:29:09] Pure Dynamite &#038; Live Element &#8211; Downtime (Live Element Twilo Mix) &#8211; Gossip Records"
-    - "[00:34:47] Noir presents Black Magic &#8211; Fuck Me (Thomas Gold Remix) &#8211; Just For Fun Recordings"
-    - "[00:42:02] Deadmau5 &#8211; Arguru (RDX 5un5hine Remix) &#8211; PinkStar Records"
-    - "[00:47:39] Alphabeat &#8211; Fascination (Bimbo Jones Main Mix) &#8211; Charisma"
+    - "[00:00:00] Lou Rawls – Have Yourself A Very Merry Christmas (DJ Cruze Funkfinders Remix) – White"
+    - "[00:05:30] Rihanna – Don&#8217;t Stop The Music (The Wideboys Club Mix) – Def Jam"
+    - "[00:11:00] Armand Van Helden – Je T&#8217;Aime (Original Mix) – Southern Fried Recordings"
+    - "[00:17:45] Jody Watley – I Want Your Love (Wideboys Club Mix) – Gusto"
+    - "[00:23:45] Deliquent Ft K-Cat – My Destiny (Wideboys Mix) – MNB"
+    - "[00:29:09] Pure Dynamite &#038; Live Element – Downtime (Live Element Twilo Mix) – Gossip Records"
+    - "[00:34:47] Noir presents Black Magic – Fuck Me (Thomas Gold Remix) – Just For Fun Recordings"
+    - "[00:42:02] Deadmau5 – Arguru (RDX 5un5hine Remix) – PinkStar Records"
+    - "[00:47:39] Alphabeat – Fascination (Bimbo Jones Main Mix) – Charisma"
     - "Cruze classic from 1993: "
-    - "[00:53:00] Direckt &#8211; Two Fatt Guitars (Babetastic Mix) &#8211; UFG"
+    - "[00:53:00] Direckt – Two Fatt Guitars (Babetastic Mix) – UFG"
 ---
 
 So here I am on Christmas Eve and I&#8217;m full of a cold. Isn&#8217;t it always the way? And the best way to get rid of a cold? Obviously it&#8217;s a new DJ Cruze podcast!

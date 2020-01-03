@@ -35,18 +35,18 @@ media:
   length: "01:04:39"
   keywords: ""
   tracklist:
-    - "Hoof &#8211; Detroit"
-    - "Sneaker Pimps &#8211; Post Modern Sleaze (The Phunk Force Mix)"
-    - "De&#8217;Lacey &#8211; Hideaway (187 Lockdown Mix)"
-    - "187 Lockdown &#8211; Gunman"
-    - "DJ Supreme vs Rhythm Masters &#8211; Enter The Scene (Klubheads Mix)"
-    - "Urban Shakedown &#8211; Some Justice"
-    - "Jimmy Ray &#8211; Are You Jimmy Ray? (Lisa Marie Experience Mix)"
-    - "Wildchild &#8211; Renegade Master (Fatboy Slim New Skool Mix)"
-    - "TBA &#8211; Never Give Up On"
-    - "Laguna &#8211; Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)"
-    - "Kinane &#8211; Business (K-Klass Club Mix)"
-    - "Sybil &#8211; Why? (Mark&#8217;s Non-Stop Dub)"
+    - "Hoof – Detroit"
+    - "Sneaker Pimps – Post Modern Sleaze (The Phunk Force Mix)"
+    - "De&#8217;Lacey – Hideaway (187 Lockdown Mix)"
+    - "187 Lockdown – Gunman"
+    - "DJ Supreme vs Rhythm Masters – Enter The Scene (Klubheads Mix)"
+    - "Urban Shakedown – Some Justice"
+    - "Jimmy Ray – Are You Jimmy Ray? (Lisa Marie Experience Mix)"
+    - "Wildchild – Renegade Master (Fatboy Slim New Skool Mix)"
+    - "TBA – Never Give Up On"
+    - "Laguna – Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)"
+    - "Kinane – Business (K-Klass Club Mix)"
+    - "Sybil – Why? (Mark&#8217;s Non-Stop Dub)"
 ---
 
 It&#8217;s about time I gave you another old mix isn&#8217;t it?  
@@ -56,18 +56,18 @@ Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Slea
 
 **Tracklisting:**
 
-  1. Hoof &#8211; Detroit
-  2. Sneaker Pimps &#8211; Post Modern Sleaze (The Phunk Force Mix)
-  3. De&#8217;Lacey &#8211; Hideaway (187 Lockdown Mix)
-  4. 187 Lockdown &#8211; Gunman
-  5. DJ Supreme vs Rhythm Masters &#8211; Enter The Scene (Klubheads Mix)
-  6. Urban Shakedown &#8211; Some Justice
-  7. Jimmy Ray &#8211; Are You Jimmy Ray? (Lisa Marie Experience Mix)
-  8. Wildchild &#8211; Renegade Master (Fatboy Slim New Skool Mix)
-  9. TBA &#8211; Never Give Up On
- 10. Laguna &#8211; Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)
- 11. Kinane &#8211; Business (K-Klass Club Mix)
- 12. Sybil &#8211; Why? (Mark&#8217;s Non-Stop Dub)
+  1. Hoof – Detroit
+  2. Sneaker Pimps – Post Modern Sleaze (The Phunk Force Mix)
+  3. De&#8217;Lacey – Hideaway (187 Lockdown Mix)
+  4. 187 Lockdown – Gunman
+  5. DJ Supreme vs Rhythm Masters – Enter The Scene (Klubheads Mix)
+  6. Urban Shakedown – Some Justice
+  7. Jimmy Ray – Are You Jimmy Ray? (Lisa Marie Experience Mix)
+  8. Wildchild – Renegade Master (Fatboy Slim New Skool Mix)
+  9. TBA – Never Give Up On
+ 10. Laguna – Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)
+ 11. Kinane – Business (K-Klass Club Mix)
+ 12. Sybil – Why? (Mark&#8217;s Non-Stop Dub)
 
 Oh and Happy Halloween too! Next year I&#8217;ll have to make a spooky mix for it!
 

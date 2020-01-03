@@ -1,5 +1,5 @@
 ---
-title: 'Episode #13 &#8211; Return Of The Vigilante'
+title: 'Episode #13 – Return Of The Vigilante'
 author: djcruze
 #permalink: /2006/03/22/episode-13-return-of-the-vigilante/
 permalink: /podcasts/episode-13-return-of-the-vigilante/
@@ -32,16 +32,16 @@ media:
   keywords: ""
   tracklist:
     - "Big tunes: "
-    - "Bodyrox &#8211; Yeah Yeah (Turbo Club Vocal Mix) &#8211; Eye Industries"
+    - "Bodyrox – Yeah Yeah (Turbo Club Vocal Mix) – Eye Industries"
     - "DJ Cruze chart rundown: "
-    - "Nina Simone &#8211; Ain't Got No, I Got Life (Beginerz Louder Vocal) &#8211; Sony BMG"
-    - "Mark Morrison &#8211; Innocent Man (Moto Blanco Vocal Mix) &#8211; Moda"
-    - "Dennis Christopher &#8211; Soulshakin &#8211; Confidence Recordings"
-    - "ATFC &#8211; Return Of The Vigilante &#8211; CR2"
-    - "Gav McCall &#8211; I'm Alright (Club Mix) &#8211; Born 2 Dance"
-    - "Lorraine &#8211; I Feel It (Cicada Instrumental Mix) &#8211; Waterfall"
+    - "Nina Simone – Ain't Got No, I Got Life (Beginerz Louder Vocal) – Sony BMG"
+    - "Mark Morrison – Innocent Man (Moto Blanco Vocal Mix) – Moda"
+    - "Dennis Christopher – Soulshakin – Confidence Recordings"
+    - "ATFC – Return Of The Vigilante – CR2"
+    - "Gav McCall – I'm Alright (Club Mix) – Born 2 Dance"
+    - "Lorraine – I Feel It (Cicada Instrumental Mix) – Waterfall"
     - "Cruze classic from 1995: "
-    - "My Friend Sam feat. Viola Wills &#8211; It&#8217;s My Pleasure &#8211; Exit Records"
+    - "My Friend Sam feat. Viola Wills – It&#8217;s My Pleasure – Exit Records"
 ---
 The house music vigilante returns with a full bag of funky tunes for your delight and delictation.
 

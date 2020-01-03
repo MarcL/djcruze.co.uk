@@ -29,12 +29,12 @@ media:
   length: "00:40:03"
   keywords: ""
   tracklist:
-    - "Antoine Clamaran &#8211; Keep On Tryin&#8217; (Hott 22 Remix) &#8211; "
-    - "George Duke &#8211; Brazilian Love Affair (Mike Perry Extended Vocal Mix) &#8211; "
-    - "Wi-Fi &#8211; Be Without You (Raul Rincon Remix) &#8211; "
-    - "Tune Brothers &#8211; I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) &#8211; "
-    - "Simmons &#038; Christopher &#8211; Weekend (Raul Rincon Remix) &#8211; AATW"
-    - "Cafe Groove &#8211; Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) &#8211; Hit! Records"
+    - "Antoine Clamaran – Keep On Tryin&#8217; (Hott 22 Remix) – "
+    - "George Duke – Brazilian Love Affair (Mike Perry Extended Vocal Mix) – "
+    - "Wi-Fi – Be Without You (Raul Rincon Remix) – "
+    - "Tune Brothers – I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) – "
+    - "Simmons &#038; Christopher – Weekend (Raul Rincon Remix) – AATW"
+    - "Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records"
 ---
 
 I love piano house. It&#8217;s that simple. I first got into it in the early 90s when house music moved from the synthesizer based acid house and early techno that people were producing into the Italian &#8220;Italo-house&#8221; that unsurprisingly came out of Italy! There were hundreds of great tunes that came out and they helped to move the house sound on from bleepy techno to a more soulful sound. A play a lot of funky piano house in my sets so I thought I&#8217;d try and play some of the great piano tunes that have come out in 2006.
@@ -49,12 +49,12 @@ The final tune in the piano mix is a new tune by Cafe Groove called &#8220;Why U
 
 **Tracklisting:**
 
-  1. Antoine Clamaran &#8211; Keep On Tryin&#8217; (Hott 22 Remix) &#8211; 
-  2. George Duke &#8211; Brazilian Love Affair (Mike Perry Extended Vocal Mix) &#8211; 
-  3. Wi-Fi &#8211; Be Without You (Raul Rincon Remix) &#8211; 
-  4. Tune Brothers &#8211; I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) &#8211; 
-  5. Simmons &#038; Christopher &#8211; Weekend (Raul Rincon Remix) &#8211; AATW
-  6. Cafe Groove &#8211; Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) &#8211; Hit! Records
+  1. Antoine Clamaran – Keep On Tryin&#8217; (Hott 22 Remix) – 
+  2. George Duke – Brazilian Love Affair (Mike Perry Extended Vocal Mix) – 
+  3. Wi-Fi – Be Without You (Raul Rincon Remix) – 
+  4. Tune Brothers – I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) – 
+  5. Simmons &#038; Christopher – Weekend (Raul Rincon Remix) – AATW
+  6. Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records
 
 <div style="clear:both;">
 </div>

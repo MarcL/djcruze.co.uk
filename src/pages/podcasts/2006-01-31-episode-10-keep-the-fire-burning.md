@@ -43,7 +43,7 @@ media:
     - "Cruze classic from 1991: "
     - "The House Crew – Keep The Fire Burning – Production House"
 ---
-In the words of Disco Four (from their track &"Get Busy"):
+In the words of Disco Four (from their track "Get Busy"):
 
 > The scratch. The bass. The congas in your face. The King of the beats gonna rock the place!
 

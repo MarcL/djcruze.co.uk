@@ -44,7 +44,7 @@ media:
     - "Cruze classic from 1992: "
     - "Brothers Love Dubs – The Mighty Ming (Original Mix) – Stress Records"
 ---
-*&"Manchester England, England. Across the Atlantic Sea..."*  
+*"Manchester England, England. Across the Atlantic Sea..."*  
 You'll understand when you listen to the podcast!
 
 DJ Cruze is back with more funky house music, more dirty electro, more shout outs and more cheeky bootlegs on Episode #15 of the DJ Cruze Podcast. Make your ears happy and download it now! Here you go:

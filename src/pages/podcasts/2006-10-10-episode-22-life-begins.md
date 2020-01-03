@@ -46,7 +46,7 @@ media:
 
 Back again? And within two weeks (...well, almost two weeks!)? That can't be happening can it? Amazingly, episode #22 of the DJ Cruze podcast is live and it's a corker! A little mellower than the last episode, it's back to the funky style that you know and love.
 
-There are some great tunes on this episode. Check out the reggae stylings of Lucky 7&#8242;s &"Why?". It's by an unknown producer, well I've not been told who it is anyway. Could it be Olav Basoski in another guise? There's a great new remix of &"Believe" by Ministers De La Funk on the massive Italian label Oxyd. Big thanks to Davide for sending it to me.
+There are some great tunes on this episode. Check out the reggae stylings of Lucky 7&#8242;s "Why?". It's by an unknown producer, well I've not been told who it is anyway. Could it be Olav Basoski in another guise? There's a great new remix of "Believe" by Ministers De La Funk on the massive Italian label Oxyd. Big thanks to Davide for sending it to me.
 
 Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 

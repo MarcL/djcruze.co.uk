@@ -45,9 +45,9 @@ media:
     - "[00:56:03] Mory Kanté – Yeke Yeke (Hardfloor Mix) – Ffrreedom"
 ---
 
-It's time for another hour of funk-filled tunes from DJ Cruze and tonight's episode is no exception. I'm bringing you another show filled with the best house and electro tunes that are rocking my dancefloors at the moment. We've also got an exclusive from the up and coming Dutch producer [Duart Jansen][1] who brings us an awesome disco cut-up with his new tune &"What U Want". Thanks for giving me the track mate!
+It's time for another hour of funk-filled tunes from DJ Cruze and tonight's episode is no exception. I'm bringing you another show filled with the best house and electro tunes that are rocking my dancefloors at the moment. We've also got an exclusive from the up and coming Dutch producer [Duart Jansen][1] who brings us an awesome disco cut-up with his new tune "What U Want". Thanks for giving me the track mate!
 
-Also, the classic this week is a classic Hardfloor remix of Mory Kanté's &"Yeke Yeke" which has always been a massive tune for me. Great African vocals with the acid madness that only Hardfloor can supply. A wicked tune!
+Also, the classic this week is a classic Hardfloor remix of Mory Kanté's "Yeke Yeke" which has always been a massive tune for me. Great African vocals with the acid madness that only Hardfloor can supply. A wicked tune!
 
 Enjoy the show and [get in touch][2] if you want a shout out. And don't forget to comment on the show below and tell me what you think.
 

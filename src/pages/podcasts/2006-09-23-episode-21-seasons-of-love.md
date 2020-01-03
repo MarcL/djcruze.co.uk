@@ -39,7 +39,7 @@ media:
     - "Dab Hands – Do Your Own Thing – (Tyrell's Mix) – Gusto Records"
     - "Energy 52 – Cafe Del Mar 2006 – (Raul Rincon Mix) – AATW"
     - "DJ Jose – Stepping To The Beat – (Dave McDonald Remix) – Data Records"
-    - "Rhythm Republic vs Chicago Masters – Kenny &"Jammin" Jason – Can You Dance? – (Soul Avengerz Club Mix) – Simply Recordings"
+    - "Rhythm Republic vs Chicago Masters – Kenny "Jammin" Jason – Can You Dance? – (Soul Avengerz Club Mix) – Simply Recordings"
     - "Fedde Le Grand – Put Your Hands Up For Detroit – (TV Rock & Dirty South Melbourne Militia Remix) – CR2 Records"
     - "DJ Cruze dedication: "
     - "I Love N.Y. – Seasons Of Love (Original Broadway Mix) – Boss Records"

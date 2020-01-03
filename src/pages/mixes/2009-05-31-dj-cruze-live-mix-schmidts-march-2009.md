@@ -31,7 +31,7 @@ media:
   keywords: ''
 ---
 
-I finally got round to uploading the live mix that a good friend of mine recorded at the [Vibration Revival party][2] I DJed at in Germany. Apologies that it took so long to upload. I didn't do a full set on my own on that night so instead you've got 2 hours and 25 minutes of back-to-back old school house tunes from myself, Alex Harmony and Luke 45. I'd like to point out that I'm not responsible for some of the dodgy mixes (honestly!) and neither was I responsible for putting 2 Bad Mice's &"Bombscare" on twice. Luke 45 obviously wasn't listening to me when I put it on! And who put on that awful &"I'm Raving I'm Raving"? Was it Luke or Alex?!
+I finally got round to uploading the live mix that a good friend of mine recorded at the [Vibration Revival party][2] I DJed at in Germany. Apologies that it took so long to upload. I didn't do a full set on my own on that night so instead you've got 2 hours and 25 minutes of back-to-back old school house tunes from myself, Alex Harmony and Luke 45. I'd like to point out that I'm not responsible for some of the dodgy mixes (honestly!) and neither was I responsible for putting 2 Bad Mice's "Bombscare" on twice. Luke 45 obviously wasn't listening to me when I put it on! And who put on that awful "I'm Raving I'm Raving"? Was it Luke or Alex?!
 
 Enjoy and a big thanks to Pino for recording it. And Kai and Florian – you can both stop hassling me for it now!
 

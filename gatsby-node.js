@@ -58,3 +58,33 @@ exports.createPages = ({ graphql, actions }) => {
     });
   });
 };
+
+exports.createSchemaCustomization = ({ actions, schema }) => {
+  const { createTypes, createFieldExtension } = actions;
+
+  createFieldExtension({
+    name: `defaultImage`,
+    extend() {
+      return {
+        resolve(source, args, context, info) {
+          if (source[info.fieldName] == null) {
+            return '../images/mixes/default-logo-600x600.jpg';
+          }
+          return source[info.fieldName];
+        },
+      };
+    },
+  });
+
+  createTypes(`
+    type MarkdownRemark implements Node {
+      frontmatter: Frontmatter
+    }
+    type Frontmatter {
+      media: Media
+    }
+    type Media {
+      image: String @defaultImage
+    }
+  `);
+};

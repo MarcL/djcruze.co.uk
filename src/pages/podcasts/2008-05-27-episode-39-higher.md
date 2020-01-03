@@ -20,7 +20,7 @@ tags:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+template: audioItem
 categories:
   - Podcasts
 

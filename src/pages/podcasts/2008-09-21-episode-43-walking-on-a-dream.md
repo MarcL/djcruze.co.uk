@@ -16,7 +16,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+template: audioItem
 categories:
   - Podcasts
 

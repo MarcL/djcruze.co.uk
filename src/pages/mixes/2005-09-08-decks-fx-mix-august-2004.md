@@ -1,5 +1,5 @@
 ---
-title: 'Decks &#038; FX Mix (August 2004)'
+title: 'Decks & FX Mix (August 2004)'
 author: djcruze
 #permalink: /2005/09/08/decks-fx-mix-august-2004/
 permalink: /mixes/decks-fx-mix-august-2004/
@@ -34,9 +34,9 @@ media:
     - "The Attic – &"Destiny (Laid Dub Remix)""
     - "Javine – &"Don't Walk Away (AVH Club Mix)""
     - "The Show – &"The Party (Steve Mac's High Skool Disko Re-union Mix)""
-    - "Freestylers – &"Push Up (DJ Bomba &#038; J Paolo Remix)""
+    - "Freestylers – &"Push Up (DJ Bomba & J Paolo Remix)""
     - "ATFC – &"Transparent""
-    - "Scent – &"Up &#038; Down (Hott 22 Remix)""
+    - "Scent – &"Up & Down (Hott 22 Remix)""
     - "Lee Cabrera – &"Voodoo Love (Steve Angello Remix)""
     - "Ian Pooley – &"Heaven (Tonka's High Pass Mix)""
     - "Shapeshifters – &"Lola's Theme (Eric Prydz Mix)""
@@ -51,9 +51,9 @@ media:
   3. The Attic – &"Destiny (Laid Dub Remix)"
   4. Javine – &"Don't Walk Away (AVH Club Mix)"
   5. The Show – &"The Party (Steve Mac's High Skool Disko Re-union Mix)"
-  6. Freestylers – &"Push Up (DJ Bomba &#038; J Paolo Remix)"
+  6. Freestylers – &"Push Up (DJ Bomba & J Paolo Remix)"
   7. ATFC – &"Transparent"
-  8. Scent – &"Up &#038; Down (Hott 22 Remix)"
+  8. Scent – &"Up & Down (Hott 22 Remix)"
   9. Lee Cabrera – &"Voodoo Love (Steve Angello Remix)"
  10. Ian Pooley – &"Heaven (Tonka's High Pass Mix)"
  11. Shapeshifters – &"Lola's Theme (Eric Prydz Mix)"

@@ -37,10 +37,10 @@ media:
     - "[00:11:49] [Duart Jansen][1] – What U Want – CDR"
     - "[00:17:04] David Jordan – Move On (Wideboys Dub) – ZTT"
     - "[00:21:19] Loveshy – AM To PM (Thomas Gold Remix) – AATW"
-    - "[00:27:18] Till West &#038; Eddie Thoneick – Hi N Bye (Smax &#038; Gold Remix) – Phunkwerk"
+    - "[00:27:18] Till West & Eddie Thoneick – Hi N Bye (Smax & Gold Remix) – Phunkwerk"
     - "[00:34:33] Jay Cox – Close Your Eyes (Stargroove Club Mix) – M-Trax"
     - "[00:40:03] Deepest Blue – Miracle (Club Mix) – Destined Records"
-    - "[00:48:03] Arno Cost &#038; Norman Doray – Apocalypse (Sebastian Leger Remix) – CR2 Records"
+    - "[00:48:03] Arno Cost & Norman Doray – Apocalypse (Sebastian Leger Remix) – CR2 Records"
     - "Cruze classic from 1995: "
     - "[00:56:03] Mory Kanté – Yeke Yeke (Hardfloor Mix) – Ffrreedom"
 ---

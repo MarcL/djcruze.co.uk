@@ -35,12 +35,12 @@ media:
     - "Soul Avengerz – Love You Feel – Opaque Music"
     - "High Life feat. Karime Kendra – Mercy On Me (Main Mix) – Onephatdeeva"
     - "Kid Massive feat. Tiger Lilly – Bring It On – Blow Media"
-    - "Steve Angello &#038; Dave Armstrong – Groove In You – Opaque Music"
+    - "Steve Angello & Dave Armstrong – Groove In You – Opaque Music"
     - "Ben Macklin – Feel Together – Serial Recordings"
     - "Sydney Samson – Girls – Confidence Recordings"
-    - "Shiney Grey – Why (Rob Wilder &#038; Wes Clarke Twisted Disco Remix) – Hed Kandi"
+    - "Shiney Grey – Why (Rob Wilder & Wes Clarke Twisted Disco Remix) – Hed Kandi"
     - "Macca – Ride Me Baby – Blowmedia"
-    - "Ian Carey &#038; Mochico feat. Miss Bunty – Say What U Want (Dub) – Nero"
+    - "Ian Carey & Mochico feat. Miss Bunty – Say What U Want (Dub) – Nero"
     - "DJ Cruze presents The Funkfinders – Cease! – White"
 ---
 
@@ -54,12 +54,12 @@ Anyway, what better cure for a hangover than to make a funky house music mix for
   2. Soul Avengerz – Love You Feel – Opaque Music
   3. High Life feat. Karime Kendra – Mercy On Me (Main Mix) – Onephatdeeva
   4. Kid Massive feat. Tiger Lilly – Bring It On – Blow Media
-  5. Steve Angello &#038; Dave Armstrong – Groove In You – Opaque Music
+  5. Steve Angello & Dave Armstrong – Groove In You – Opaque Music
   6. Ben Macklin – Feel Together – Serial Recordings
   7. Sydney Samson – Girls – Confidence Recordings
-  8. Shiney Grey – Why (Rob Wilder &#038; Wes Clarke Twisted Disco Remix) – Hed Kandi
+  8. Shiney Grey – Why (Rob Wilder & Wes Clarke Twisted Disco Remix) – Hed Kandi
   9. Macca – Ride Me Baby – Blowmedia
- 10. Ian Carey &#038; Mochico feat. Miss Bunty – Say What U Want (Dub) – Nero
+ 10. Ian Carey & Mochico feat. Miss Bunty – Say What U Want (Dub) – Nero
  11. DJ Cruze presents The Funkfinders – Cease! – White
 
 It's in a nice CD-burnable 128kbps MP3 which has a running time of around 70 minutes. So download it, burn it to a CD and play it LOUD! Happy Birthday from me to you! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />

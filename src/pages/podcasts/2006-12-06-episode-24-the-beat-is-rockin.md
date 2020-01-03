@@ -32,10 +32,10 @@ media:
   keywords: ""
   tracklist:
     - "DJ Disciple – Work It Out (Ruff and Tort Mix) – Xtravaganza"
-    - "Bump – I'mm Rushing (Dave Spoon Vocal Mix) – Art &#038; Craft"
+    - "Bump – I'mm Rushing (Dave Spoon Vocal Mix) – Art & Craft"
     - "DJ Cruze chart rundown:"
     - "Mika – Grace Kelly (Bimbo Jones Remix) – Casablanca"
-    - "Erick E – The Beat Is Rockin' (Simmons &#038; Christopher Remix) – Gusto Records"
+    - "Erick E – The Beat Is Rockin' (Simmons & Christopher Remix) – Gusto Records"
     - "JoJo – Too Little Too Late (Raul Rincon Vocal Version) – Mercury Records"
     - "Shanie – Donâ€™t Give Me Your Life (M-Factor Dub) – AATW"
     - "Stu Allen – Music's Got Me (Fonzerelli Remix) – UMM"

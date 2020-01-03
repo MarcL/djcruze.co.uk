@@ -35,13 +35,13 @@ media:
     - '[00:05:39] Pryda – Rafunk – Pryda'
     - '[00:10:22] Deadmau5 – Hi Friend (Original Mix) – Mau5trap'
     - '[00:15:49] ATFC feat Yasmeen – Tell U Y (New Jack Swing Original) – Strictly'
-    - '[00:21:43] Inkfish &#038; David West – Hello Piano (Sébastien Léger Remix) – Mistakes Music'
+    - '[00:21:43] Inkfish & David West – Hello Piano (Sébastien Léger Remix) – Mistakes Music'
     - '[00:28:07] Passenger 10 – Mirage (EDX's 5un5hine Remix) – White'
     - '[00:34:35] Buy Now – Body Crash (Laidback Luke's Remix) – La Mode'
-    - '[00:40:18] Arno Cost &#038; Norman Doray – Apocalypse (Sébastien Léger Remix) – CR2'
-    - '[00:48:11] Erick Morillo &#038; DJ DLG – Where Are You Now (Original Mix) – Subliminal'
-    - '[00:57:18] Dirty South &#038; Axwell – Open Your Heart (Vocal Mix) – Axtone'
-    - '[01:04:25] Sebastian Ingrosso &#038; Laidback Luke – Chaa Chaa (EDX's Marakesh Souk Remix) – Size'
+    - '[00:40:18] Arno Cost & Norman Doray – Apocalypse (Sébastien Léger Remix) – CR2'
+    - '[00:48:11] Erick Morillo & DJ DLG – Where Are You Now (Original Mix) – Subliminal'
+    - '[00:57:18] Dirty South & Axwell – Open Your Heart (Vocal Mix) – Axtone'
+    - '[01:04:25] Sebastian Ingrosso & Laidback Luke – Chaa Chaa (EDX's Marakesh Souk Remix) – Size'
 ---
 
 Here's part 2 of my &"Best Of 2008 Mix" and it's 70 minutes of electro and progressive house goodness! There were plenty of great tougher house tracks in 2008 and hopefully I've chosen the best ones for you.
@@ -64,7 +64,7 @@ Ask the people who didn't say Eric Prydz was the hottest electro house producer 
 
 Aydin The Funki Chilli has been a huge house music producer since the mid 90s and has always featured heavily in my charts. This year ATFC reinvented himself, moving away from the older disco-house sound and moved into tougher, electro house territory. This track came out towards the end of the year and features a dirty, bouncing bassline and a great vocal.
 
-#### [00:21:43] Inkfish &#038; David West – Hello Piano (Sébastien Léger Remix) – Mistakes Music
+#### [00:21:43] Inkfish & David West – Hello Piano (Sébastien Léger Remix) – Mistakes Music
 
 Another big French house producer blew up in 2008 and Sébastien Léger was his name. He's been around since the late 90s and like AFTC, made a name for himself with more of a disco-cut up house sound. In the past few years he's been playing and producing a tougher, tech-house sound and this track on his own Mistakes Music label is a great example of his work. A progressive house track which builds and builds and finally drops down into an epic breakdown.
 
@@ -76,19 +76,19 @@ Swiss producer EDX is another of 2008&#8242;s success stories and last year was 
 
 Dutch producer Laidback Luke had a fantastic year in 2008 and his remix of &"Body Crash" by Buy Now (aka Steve Angello and Sebastian Ingrosso) was huge. Featuring a disco sample of [&"Let's All Chant"][4] and a dark and moody bit-crushed bassline it featured in the charts of all of the A-list DJs.
 
-#### [00:40:18] Arno Cost &#038; Norman Doray – Apocalypse (Sébastien Léger Remix) – CR2
+#### [00:40:18] Arno Cost & Norman Doray – Apocalypse (Sébastien Léger Remix) – CR2
 
 This is probably one of my favourite tracks of 2008. Young French house producers Arno Cost and Norman Doray gave us &"Apocalypse" and Sébastien Léger turned it into an anthem! Awesome arpeggiated synths take us to a massive breakdown. A fantastic track.
 
-#### [00:48:11] Erick Morillo &#038; DJ DLG – Where Are You Now (Original Mix) – Subliminal
+#### [00:48:11] Erick Morillo & DJ DLG – Where Are You Now (Original Mix) – Subliminal
 
 This was the summer anthem in Ibiza and was hammered by loads of the top DJs. Canada's DJ DLG teamed up with the [infamous Erick Morillo][5] for this electro house monster. Check out [Morillo dropping it at WMC][6] to see the crowd's reaction.
 
-#### [00:57:18] Dirty South &#038; Axwell – Open Your Heart (Vocal Mix) – Axtone
+#### [00:57:18] Dirty South & Axwell – Open Your Heart (Vocal Mix) – Axtone
 
 Two of the biggest producers, Dirty South and Axwell, teamed up to bring us this massive electro house track on Axwell's Axtone label. Featuring an old school vocal, a massive bassline and big strings it blew up big time and cemented both producers reputations for producing anthems.
 
-#### [01:04:25] Sebastian Ingrosso &#038; Laidback Luke – Chaa Chaa (EDX's Marakesh Souk Remix) – Size
+#### [01:04:25] Sebastian Ingrosso & Laidback Luke – Chaa Chaa (EDX's Marakesh Souk Remix) – Size
 
 EDX gave us another great remix of Sebastian Ingrosso and Laidback Luke's &"Chaa Chaa". It ends my electro house mix with a quality progressive house track with EDX's trademark string sound. A great end to a year of quality electronic house music.
 

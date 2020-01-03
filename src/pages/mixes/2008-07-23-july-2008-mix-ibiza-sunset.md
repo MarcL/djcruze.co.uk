@@ -33,16 +33,16 @@ media:
   tracklist:
     - "[00:00:00] Eric Prydz – F12 (Original Mix) – Pryda"
     - "[00:06:15] Duart Jansen – 2 Cowboys – CDR"
-    - "[00:11:30] Mike Di Scala – Space &#038; Time (Deadmau5 Vocal Mix) – 3Beat Blue"
-    - "[00:15:30] Dave Spoon – 88 (Mark Knight &#038; Funkagenda Remix) – Toolroom Records"
+    - "[00:11:30] Mike Di Scala – Space & Time (Deadmau5 Vocal Mix) – 3Beat Blue"
+    - "[00:15:30] Dave Spoon – 88 (Mark Knight & Funkagenda Remix) – Toolroom Records"
     - "[00:21:04] Pryda – Fabric Test – CDR"
     - "[00:27:56] Three Drives – Greece 2000 (Chris Reece Remix) – S2 Records"
     - "[00:33:28] Alex Harmony – Nayati (Funkfinders Virus Remix) – CDR"
     - "[00:40:13] Dobenbeck feat. Joanna – Please Don't Go (Chris Reece Too Late Remix) – Sirup Music"
     - "[00:46:02] Adele – Hometown Glory (Axwell Remode) – XL"
-    - "[00:50:54] Steve Angello &#038; Sebastian Ingrosso – 555 (Original Mix) – Refune"
+    - "[00:50:54] Steve Angello & Sebastian Ingrosso – 555 (Original Mix) – Refune"
     - "[00:56:24] EDX – Premiumline (Original Mix) – PinkStar"
-    - "[01:02:39] David Amo &#038; Julio Navas – La Sagrada Familia (Original Mix) – Lowered Recordings"
+    - "[01:02:39] David Amo & Julio Navas – La Sagrada Familia (Original Mix) – Lowered Recordings"
 ---
 
 It's been an awfully long time since I put a new mix onto my site so I managed to grab a couple of hours the other night and thought I'd do a new mix ready for my trip to Ibiza on Saturday. I'm off on a stag/bachelor weekend with some of the guys from Manchester and because the stag, Will, is a big fan of progressive house I thought I'd do a deep, dark and progressive mix for us to play while we're out there. Obviously I thought you guys might like it too so here it is! I must warn you that it's not my normal style and it gets a bit dark and twisted! It runs a fine line between electro, progressive and tech house but it'll definitely get you in the mood for going out!

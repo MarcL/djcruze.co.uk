@@ -45,7 +45,7 @@ media:
     - "Sex On Monday – Bring Back The Love (Hold Me Down) (Soul Avengerz Mix) – Oxyd / Manifesto Records]"
     - "Supafly vs Fishbowl – Let's Get Down (Full Intention Club Mix) – Eye Industries"
     - "Sleve and Lowman – So Fine – Freestyle Records"
-    - "Haji &#038; Emanuel – Weekend – Azuli"
+    - "Haji & Emanuel – Weekend – Azuli"
     - "Bush II Bush – Piano Track (MYNC Project Balls II Bush Remix) – CR2"
     - "C-Mos – 2 Million Ways (Axwell Mix) – Lowered Recordings"
     - "Jan Francisco meets Joseph Armani – Infatuation (Dubmix) – Joia"
@@ -67,7 +67,7 @@ Here is the tracklisting for this week's show:
       * Sex On Monday – Bring Back The Love (Hold Me Down) ([Soul Avengerz][3] Mix) – Oxyd / [Manifesto Records][6]
       * Supafly vs Fishbowl – Letâ€™s Get Down (Full Intention Club Mix) – [Eye Industries][7]
       * Sleve and Lowman – So Fine – [Freestyle Records][8]
-      * [Haji &#038; Emanuel][9] – Weekend – [Azuli][10]
+      * [Haji & Emanuel][9] – Weekend – [Azuli][10]
       * Bush II Bush – Piano Track ([MYNC][11] Project Balls II Bush Remix) – CR2
       * C-Mos – 2 Million Ways ([Axwell][12] Mix) – Lowered Recordings
       * Jan Francisco meets Joseph Armani – Infatuation (Dubmix) – [Joia][13]

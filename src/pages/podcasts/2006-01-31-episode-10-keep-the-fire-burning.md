@@ -34,11 +34,11 @@ media:
   tracklist:
     - "DJ Cruze chart rundown: "
     - "Olav Basoski – Wait and See – Rootz Records]"
-    - "Filterfunk – S.O.S. (Message In A Bottle) (Delano &#038; Crockett Remix) – Gusto"
+    - "Filterfunk – S.O.S. (Message In A Bottle) (Delano & Crockett Remix) – Gusto"
     - "Axer – 123 – Pryda Records"
     - "The Modern – Industry (Bimbo Jones Dub) – Mercury"
     - "Solu Music feat. Kimberlee – Fade (Grant Nelson Big Room Vocal Mix) – Hed Kandi"
-    - "Shapeshifters – Incredible (Denis The Menace &#038; Jerry Roperoâ€™s Full Vocal Mix) – Positiva"
+    - "Shapeshifters – Incredible (Denis The Menace & Jerry Roperoâ€™s Full Vocal Mix) – Positiva"
     - "Joey Negro – Make A Move On Me – Z Records"
     - "Cruze classic from 1991: "
     - "The House Crew – Keep The Fire Burning – Production House"
@@ -53,11 +53,11 @@ As always, here is the tracklisting for the show:
 
   * **DJ Cruze chart rundown:** 
       * [Olav Basoski][3] – Wait and See – [Rootz Records][4]
-      * Filterfunk – S.O.S. (Message In A Bottle) (Delano &#038; Crockett Remix) – [Gusto][5]
+      * Filterfunk – S.O.S. (Message In A Bottle) (Delano & Crockett Remix) – [Gusto][5]
       * Axer – 123 – [Pryda Records][6]
       * The Modern – Industry (Bimbo Jones Dub) – Mercury
       * Solu Music feat. Kimberlee – Fade (Grant Nelson Big Room Vocal Mix) – [Hed Kandi][7]
-      * [Shapeshifters][8] – Incredible (Denis The Menace &#038; Jerry Roperoâ€™s Full Vocal Mix) – [Positiva][9]
+      * [Shapeshifters][8] – Incredible (Denis The Menace & Jerry Roperoâ€™s Full Vocal Mix) – [Positiva][9]
       * [Joey Negro][10] – Make A Move On Me – [Z Records][11]
   * **Cruze classic from 1991:** 
       * The House Crew – Keep The Fire Burning – Production House

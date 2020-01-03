@@ -39,8 +39,8 @@ media:
   keywords: ""
   tracklist:
     - "Top 10 rundown: "
-    - "DJ Bomba &#038; J Paolo – Esuma – A&#038;G Records"
-    - "Steve Mac &#038; Steve Smith – Loving You More (That Big Track) (Freemasons Remix) – CR2 Records"
+    - "DJ Bomba & J Paolo – Esuma – A&G Records"
+    - "Steve Mac & Steve Smith – Loving You More (That Big Track) (Freemasons Remix) – CR2 Records"
     - "Olav Basoski – Waterman – Positiva"
     - "Switch – A Bit Patchy – Dubsided"
     - "Dave McCullen – B*tch – Full Force Session"
@@ -51,7 +51,7 @@ media:
     - "Top 3 rundown: "
     - "Robbie Rivera vs Jesus Jones – Right Here, Right Now – Nebula"
     - "D.O.N.S. Feat. Technotronic – Pump Up The Jam (Moto Blanco Mix) – Data"
-    - "Danni Minogue &#038; The Soul Seekerz – Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) – AATW"
+    - "Danni Minogue & The Soul Seekerz – Perfection (Turn Me Upside Down) (Seamus Haji & Emmanuel Mix) – AATW"
 ---
 
 **You may remember a while ago that I talked about some ideas I had for the website to keep things fresh. Well finally I've managed to get things up and running in my studio and you'll find something quite exciting happening...**
@@ -95,8 +95,8 @@ I hope you like it as I really enjoyed doing it. You'll no longer be able to com
 **Update: Here is the tracklisting**
 
   * **Top 10 rundown:** 
-      * DJ Bomba &#038; J Paolo – Esuma – A&#038;G Records
-      * Steve Mac &#038; Steve Smith – Loving You More (That Big Track) (Freemasons Remix) – CR2 Records
+      * DJ Bomba & J Paolo – Esuma – A&G Records
+      * Steve Mac & Steve Smith – Loving You More (That Big Track) (Freemasons Remix) – CR2 Records
       * Olav Basoski – Waterman – Positiva
       * Switch – A Bit Patchy – Dubsided
       * Dave McCullen – B*tch – Full Force Session
@@ -107,7 +107,7 @@ I hope you like it as I really enjoyed doing it. You'll no longer be able to com
   * **Top 3 rundown:** 
       * Robbie Rivera vs Jesus Jones – Right Here, Right Now – Nebula
       * D.O.N.S. Feat. Technotronic – Pump Up The Jam (Moto Blanco Mix) – Data
-      * Danni Minogue &#038; The Soul Seekerz – Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) – AATW
+      * Danni Minogue & The Soul Seekerz – Perfection (Turn Me Upside Down) (Seamus Haji & Emmanuel Mix) – AATW
 
  [1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast001_250905.mp3
  [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

@@ -37,7 +37,7 @@ media:
     - "[00:17:09] Marco Denmark – Tiny Dancer (Moto Blanco Mix) – 3 Beat Blue"
     - "[00:23:06] Out Of Office – Break Of Dawn (Club Mix) – Frenetic"
     - "[00:28:34] H Two O – What's It Gonna Be (Vandalism Remix) – Ministry Of Sound"
-    - "[00:34:38] Addictive – Gonna Be Mine (Simmons &#038; Christopher Remix) – Gusto"
+    - "[00:34:38] Addictive – Gonna Be Mine (Simmons & Christopher Remix) – Gusto"
     - "DJ Cruze EXCLUSIVE "
     - "[00:40:50] World Of Colour – Change (Funkfinders Remix) – Metrogroove Records"
     - "[00:47:02] DJ DLG – Paramount (Dave Armstrong Remix) – Huge Records"
@@ -47,7 +47,7 @@ media:
 
 Original photo by [ VictoriaPeckham][1] – Photoshop skullduggery by [DJ Cruze][2]!
 
-At last. A new podcast! Yes, yes, I know. As always it's been far too long between podcasts but it's finally here. Episode #37 of the DJ Cruze podcast brings you another hour of the slammingest (...that's not a real word...) club tunes from the world of funky, chunky house and electro house. Also included is a DJ Cruze exclusive. On tonight's show you'll find the world exclusive play of my remix (known as the Funkfinders Remix) of World Of Colour's new track &"Change". It's a funky house remix in the Haji &#038; Emanuel or Simmons &#038; Christopher style and it's got a big old string breakdown. Let me know what you thing of it in the comments below. It should be coming out as part of a remix package on Metrogroove Records so watch this space for more details.
+At last. A new podcast! Yes, yes, I know. As always it's been far too long between podcasts but it's finally here. Episode #37 of the DJ Cruze podcast brings you another hour of the slammingest (...that's not a real word...) club tunes from the world of funky, chunky house and electro house. Also included is a DJ Cruze exclusive. On tonight's show you'll find the world exclusive play of my remix (known as the Funkfinders Remix) of World Of Colour's new track &"Change". It's a funky house remix in the Haji & Emanuel or Simmons & Christopher style and it's got a big old string breakdown. Let me know what you thing of it in the comments below. It should be coming out as part of a remix package on Metrogroove Records so watch this space for more details.
 
 Enjoy the show and [get in touch][3] if you want a shout out.
 

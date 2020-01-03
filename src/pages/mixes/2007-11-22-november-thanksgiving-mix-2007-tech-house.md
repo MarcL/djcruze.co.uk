@@ -31,10 +31,10 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] – Murk presents Funky Green Dogs – Reach For Me (TV Rock &#038; Dirty South Remix) – CR2"
+    - "[00:00:00] – Murk presents Funky Green Dogs – Reach For Me (TV Rock & Dirty South Remix) – CR2"
     - "[00:06:35] – Edison – Press Repeat (Original Extended Mix) – Rebirth"
     - "[00:10:46] – Splittr – All Alone (Michael Gray Remix) – Eye Industries"
-    - "[00:17:04] – Thom Yorke – The Eraser (Strech &#038; Vern Edit) – White"
+    - "[00:17:04] – Thom Yorke – The Eraser (Strech & Vern Edit) – White"
     - "[00:23:23] – Seal – Amazing (Thin White Duke Dub) – Warner Bros."
     - "[00:29:02] – Razorlight – Can't Stop (Pete Tong and Dave Spoon Pure Pacha Mix) – White"
     - "[00:37:11] – Deadmau5 – Jaded (Original Mix) – Mau5trap"

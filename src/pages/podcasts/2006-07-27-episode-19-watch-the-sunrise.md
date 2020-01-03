@@ -41,7 +41,7 @@ media:
     - "Basement Jaxx – Hush Boy (Soul Seekerz Remix) – XL"
     - "Soulcast – Someone Like Me (Dub) – Oxyd Records"
     - "Nuala – El Sol (Los Ladrones Mix) – Caitlin Records"
-    - "Trick &#038; Kubic – Easy (Original Mix) – Data"
+    - "Trick & Kubic – Easy (Original Mix) – Data"
     - "Axwell – Watch The Sunrise (Extended Vocal Mix) – Positiva"
     - "Cruze classic from 1995: "
     - "Janice Robinson – Children (Explorer Mix) – Planet Four Communications"

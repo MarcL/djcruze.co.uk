@@ -41,8 +41,8 @@ media:
     - "De Souza – Guilty (Club Mix) – Hed Kandi"
     - "Robbie Williams – She's Madonna (Chris Lake Mix) – EMI"
     - "Scarlett Fantastic – No Memory (Raul Rincon Vocal Mix) – Boss Records"
-    - "Haji &#038; Emanuel – Last Night A DJ Saved My Life (Haji &#038; Emanuel Remix) – Apollo Records"
-    - "Hook n Sling &#038; Kid Kenobi – The Bump (Original Mix) – CR2 Records"
+    - "Haji & Emanuel – Last Night A DJ Saved My Life (Haji & Emanuel Remix) – Apollo Records"
+    - "Hook n Sling & Kid Kenobi – The Bump (Original Mix) – CR2 Records"
     - "Cruze classic from 1992:"
     - "Arrested Development – Mr Wendal (Perfecto Mix) – Cooltempo"
 ---

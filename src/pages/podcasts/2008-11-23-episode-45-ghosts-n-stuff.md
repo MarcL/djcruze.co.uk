@@ -33,13 +33,13 @@ media:
   tracklist:
     - "[00:00:00] The Hours – See The Light (Calvin Harris Remix) – Is Good Music"
     - "[00:05:21] Chris Lake – Only One (Original Mix) – Rising Music"
-    - "[00:11:05] Spencer &#038; Hill – Dumb Party (Original Mix) – Tiger Records"
+    - "[00:11:05] Spencer & Hill – Dumb Party (Original Mix) – Tiger Records"
     - "[00:15:34] Future Funk – Wildberry Tracks 2008 (Jerome Isma Ae Original Vocal Mix) – Ambassade"
     - "[00:22:32] Deadmau5 – Ghosts N Stuff (Funkfinders Obama Re-edit) – Mau5trap"
     - "[00:28:53] The Young Punx feat Laura Kidd – MASHitUP (Goshi Goshi Remix) – Mofo Hifi"
     - "[00:33:26] Rob Freejak – Is Everything Cool? – Hollister Records"
     - "[00:38:13] Bimbo Jones – And I Try (eSquire Remix) – White"
-    - "[00:44:57] Spencer &#038; Hill – Most Wanted (Original Mix) – Tiger Records"
+    - "[00:44:57] Spencer & Hill – Most Wanted (Original Mix) – Tiger Records"
     - "Cruze classic from 1994: "
     - "[00:49:37] Jamiroquai – Space Cowboy (David Morales Classic Club Mix) – Sony"
 ---

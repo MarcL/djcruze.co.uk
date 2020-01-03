@@ -34,9 +34,9 @@ media:
   keywords: ""
   tracklist:
     - "[00:00:00] The Whitest Boy Alive – Golden Cage (Fred Falke Remix) – Modular"
-    - "[00:06:47] Paul Harris &#038; Dave Spoon feat Sam Obernik – Baditude (Club Mix) – Toolroom Records"
+    - "[00:06:47] Paul Harris & Dave Spoon feat Sam Obernik – Baditude (Club Mix) – Toolroom Records"
     - "[00:12:35] Tim Deluxe – You Got Tha Touch (Original Mix) – Skint"
-    - "[00:18:05] Denis The Menace &#038; Big World – Fired Up (Dabruck &#038; Klein Mix) – 3Beat Blue"
+    - "[00:18:05] Denis The Menace & Big World – Fired Up (Dabruck & Klein Mix) – 3Beat Blue"
     - "[00:24:50] Rihanna – Take A Bow (Seamus Haji Remix) – Mercury"
     - "[00:31:50] DJ Jean – The Launch Relaunched (Olav Basoski Remix) – House Trained"
     - "DJ Cruze EXCLUSIVE "

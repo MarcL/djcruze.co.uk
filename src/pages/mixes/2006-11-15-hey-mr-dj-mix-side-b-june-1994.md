@@ -30,7 +30,7 @@ media:
   keywords: ''
   tracklist:
     - '??? – ???'
-    - 'Hed Boys – Girls &#038; Boys – Seka Records – *(x 2 copies – cut it up DJ!)*'
+    - 'Hed Boys – Girls & Boys – Seka Records – *(x 2 copies – cut it up DJ!)*'
     - 'Lisa B – You and Me (Cleveland City Shining Mix) – White label'
     - '??? – ???'
     - 'God Within – The Phoenix – White label *(An absolutely classic tune by Scott Hardkiss.)*'
@@ -48,7 +48,7 @@ There are plenty of classic house tunes on here and it'll make you smile if you'
 **Tracklisting:**
 
 1. ??? – ???
-2. Hed Boys – Girls &#038; Boys – Seka Records – _(x 2 copies – cut it up DJ!)_
+2. Hed Boys – Girls & Boys – Seka Records – _(x 2 copies – cut it up DJ!)_
 3. Lisa B – You and Me (Cleveland City Shining Mix) – White label
 4. ??? – ???
 5. God Within – The Phoenix – White label _(An absolutely classic tune by Scott Hardkiss.)_

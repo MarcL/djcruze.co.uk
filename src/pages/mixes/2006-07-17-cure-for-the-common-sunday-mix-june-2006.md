@@ -37,8 +37,8 @@ media:
   keywords: ""
   tracklist:
     - "Sweet Delite – Millionaire (Snake Charmers Million Dollar Club Mix) – Flawless"
-    - "Asle – Golden Sun (Haji &#038; Emanuel Mix) – CR2"
-    - "Chocolate Puma – Always &#038; Forever (Till West &#038; DJ Delicious Mix) – Positiva"
+    - "Asle – Golden Sun (Haji & Emanuel Mix) – CR2"
+    - "Chocolate Puma – Always & Forever (Till West & DJ Delicious Mix) – Positiva"
     - "Major Boys – Time And Time Again (Hott 22 Vocal Mix) – NO2 "
     - "Fonzerelli – Moonlight Party – UMM"
     - "Madonna – Get Together (Jacques Lu Cont Mix) – Maverick"
@@ -48,11 +48,11 @@ media:
     - "Tom Novy – Take It (Gian's Bass Rock Mix) – Data"
     - "Solo – One Man (Original Mix) – CDR"
     - "Nelly Furtado – Man Eater (DJ Cruze Funkfinders Remix) – CDR"
-    - "Sonique – Tonight – (Haji &#038; Emanuel Mix) – Azuli"
+    - "Sonique – Tonight – (Haji & Emanuel Mix) – Azuli"
     - "Inner City Playboys – Jetsetter (Ian Carey Remix) – Loaded"
     - "DT8 Project – Narama – Mondo"
     - "Belle Epoque – Miss Broadway (Ian Carey Mix) – Hit! Records"
-    - "Horny Morris – Written All Over Your Face (Milk &#038; Sugar Dub) – Feverpitch"
+    - "Horny Morris – Written All Over Your Face (Milk & Sugar Dub) – Feverpitch"
     - "Fatboy Slim – Right Here Right Now (Freemasons Club Mix) – Skint"
     - "Ian Carey Mix of Major Boys tune?"
     - "The Similou – All This Love (The Young Punx Club Mix) – Direction"
@@ -63,8 +63,8 @@ As I mentioned a few weeks ago, I did a live mix for my main man DJ Dyslexic for
 **Tracklisting:**
 
   1. Sweet Delite – Millionaire (Snake Charmers Million Dollar Club Mix) – Flawless
-  2. Asle – Golden Sun (Haji &#038; Emanuel Mix) – CR2
-  3. Chocolate Puma – Always &#038; Forever (Till West &#038; DJ Delicious Mix) – Positiva
+  2. Asle – Golden Sun (Haji & Emanuel Mix) – CR2
+  3. Chocolate Puma – Always & Forever (Till West & DJ Delicious Mix) – Positiva
   4. Major Boys – Time And Time Again (Hott 22 Vocal Mix) – NO2 
   5. Fonzerelli – Moonlight Party – UMM
   6. Madonna – Get Together (Jacques Lu Cont Mix) – Maverick
@@ -74,11 +74,11 @@ As I mentioned a few weeks ago, I did a live mix for my main man DJ Dyslexic for
  10. Tom Novy – Take It (Gianâ€™s Bass Rock Mix) – Data
  11. Solo – One Man (Original Mix) – CDR
  12. Nelly Furtado – Man Eater (DJ Cruze Funkfinders Remix) – CDR
- 13. Sonique – Tonight – (Haji &#038; Emanuel Mix) – Azuli
+ 13. Sonique – Tonight – (Haji & Emanuel Mix) – Azuli
  14. Inner City Playboys – Jetsetter (Ian Carey Remix) – Loaded
  15. DT8 Project – Narama – Mondo
  16. Belle Epoque – Miss Broadway (Ian Carey Mix) – Hit! Records
- 17. Horny Morris – Written All Over Your Face (Milk &#038; Sugar Dub) – Feverpitch
+ 17. Horny Morris – Written All Over Your Face (Milk & Sugar Dub) – Feverpitch
  18. Fatboy Slim – Right Here Right Now (Freemasons Club Mix) – Skint
  19. Ian Carey Mix of Major Boys tune?
  20. The Similou – All This Love (The Young Punx Club Mix) – Direction

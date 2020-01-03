@@ -39,9 +39,9 @@ media:
     - "Noami Marsh – Do You Feel Like (Playshakers Remix) – Audiofreaks"
     - "Kasabian – Me Plus One (Jacques Lu Cont Remix) – Columbia"
     - "Camille Jones – The Creeps (Fedde Le Grand Club Mix) – Data Records"
-    - "M-Factor – Open Your Eyes (Eric Smax &#038; Thomas Gold Remix) – Endulge"
+    - "M-Factor – Open Your Eyes (Eric Smax & Thomas Gold Remix) – Endulge"
     - "Bassmonkeys – So Beautiful (Vocal Club Mix) – Endulge"
-    - "Basoski &#038; Romano – Hard To Stop – Rootz Records"
+    - "Basoski & Romano – Hard To Stop – Rootz Records"
     - "Cruze classic from 1997:"
     - "Da Mighty Dub Katz – Ghetto Girl – Southern Fried Recordings"
 ---

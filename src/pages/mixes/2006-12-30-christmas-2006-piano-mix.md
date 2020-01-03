@@ -33,7 +33,7 @@ media:
     - "George Duke – Brazilian Love Affair (Mike Perry Extended Vocal Mix) – "
     - "Wi-Fi – Be Without You (Raul Rincon Remix) – "
     - "Tune Brothers – I Like It (Ian Carey's Ghetto Fabulous Mix) – "
-    - "Simmons &#038; Christopher – Weekend (Raul Rincon Remix) – AATW"
+    - "Simmons & Christopher – Weekend (Raul Rincon Remix) – AATW"
     - "Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records"
 ---
 
@@ -53,7 +53,7 @@ The final tune in the piano mix is a new tune by Cafe Groove called &"Why U Wann
   2. George Duke – Brazilian Love Affair (Mike Perry Extended Vocal Mix) – 
   3. Wi-Fi – Be Without You (Raul Rincon Remix) – 
   4. Tune Brothers – I Like It (Ian Carey's Ghetto Fabulous Mix) – 
-  5. Simmons &#038; Christopher – Weekend (Raul Rincon Remix) – AATW
+  5. Simmons & Christopher – Weekend (Raul Rincon Remix) – AATW
   6. Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records
 
 <div style="clear:both;">

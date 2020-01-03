@@ -38,12 +38,12 @@ media:
     - "DJ Cruze chart rundown: "
     - "Mish Mash – Speechless (Soul Avengerz Mix) – Data"
     - "M.V.P. – Bounce, Shake, Move, Stop! (Ian Carey Dub) – Positiva"
-    - "Marnix &#038; Mustafa – Time To Get Funky – Azuli"
+    - "Marnix & Mustafa – Time To Get Funky – Azuli"
     - "Madonna – Sorry (Man With Guitar Mix) –[Maverick"
     - "Kelly Llorenna – Nobody Like You (Extended Original Mix) – AATW"
     - "Studio B – C'Mon Get It On (Club Mix) – Loaded"
     - "Cruze classic from 1995: "
-    - "Medium High – The Pleasure (Chris &#038; James Mix) – Impulse"
+    - "Medium High – The Pleasure (Chris & James Mix) – Impulse"
 ---
 It took a bloody long time to get this episode out didn't it? Battling the PC of doom and a cold which knocked me out for a week I bring you Episode #11 of the DJ Cruze podcast.
 
@@ -58,12 +58,12 @@ As always, here is the tracklisting for the show:
   * **DJ Cruze chart rundown:** 
       * [Mish Mash][7] – Speechless ([Soul Avengerz][8] Mix) – Data
       * M.V.P. – Bounce, Shake, Move, Stop! ([Ian Carey][9] Dub) – [Positiva][10]
-      * Marnix &#038; Mustafa – Time To Get Funky – [Azuli][11]
+      * Marnix & Mustafa – Time To Get Funky – [Azuli][11]
       * [Madonna][12] – Sorry ([Man With Guitar][13] Mix) – [Maverick][11]
       * [Kelly Llorenna][14] – Nobody Like You (Extended Original Mix) – [AATW][15]
       * Studio B – C'Mon Get It On (Club Mix) – [Loaded][16]
   * **Cruze classic from 1995:** 
-      * Medium High – The Pleasure (Chris &#038; James Mix) – Impulse
+      * Medium High – The Pleasure (Chris & James Mix) – Impulse
 
 Nuff respect to my good friend Kevin who this week's &"Cruze Classic" is dedicated to. I know I promised everyone a tune on the Vinyl Addiction label in an earlier post but I completely forgot that I promised Kev that I would play this tune for him. And a promise is a promise however you look at it! Enjoy!
 

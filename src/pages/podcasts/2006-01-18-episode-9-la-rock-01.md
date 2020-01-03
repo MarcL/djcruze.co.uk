@@ -34,7 +34,7 @@ media:
   tracklist:
     - "DJ Cruze chart rundown: "
     - "The Egg – Walking Away (Tocadisco Mix) – CR2 Records"
-    - "Special guest mix by Matthew Brooks from A&#038;E: "
+    - "Special guest mix by Matthew Brooks from A&E: "
     - "The Juan Maclean – Give Me Every Little Thing – DFA"
     - "Freeform Five – No More Conversations (Mylo Remix) – Four Music"
     - "Scissor Sisters – Laura (Paper Faces Remix) – Polydor"
@@ -44,7 +44,7 @@ media:
     - "Nu Tone – Three Bags Full – Hospital"
     - "High Contrast – Racing Green – Hospital"
     - "Cruze classic from 1992: "
-    - "Jam and Spoon – Stella – R&#038;S Records"
+    - "Jam and Spoon – Stella – R&S Records"
 ---
 <img src="http://www.djcruze.co.uk/cms/wp-content/matt_brooks.jpg" alt="Guest mix by Matt Brooks from A&E" class="right" />  
 Happy new year and welcome to the first podcast for 2006. Podcast episode #9 features a special guest mix from my good friend and fellow DJ, Matthew Brooks. Matt is a DJ and promoter of the excellent [Accident and Emergency][1] collective. It's something a bit different for the podcast as it flows from dirty electro house and filthy acid madness, right up to some drum and bass but as always it's damn funky! Download it here:
@@ -53,7 +53,7 @@ Here is the tracklisting for this week's show:
 
   * **DJ Cruze chart rundown:** 
       * The Egg – Walking Away (Tocadisco Mix) – [CR2 Records][4]
-  * **Special guest mix by Matthew Brooks from [A&#038;E][1]:** 
+  * **Special guest mix by Matthew Brooks from [A&E][1]:** 
       * [The Juan Maclean][5] – Give Me Every Little Thing – [DFA][6]
       * [Freeform Five][7] – No More Conversations ([Mylo][8] Remix) – Four Music
       * [Scissor Sisters][9] – Laura (Paper Faces Remix) – Polydor
@@ -63,9 +63,9 @@ Here is the tracklisting for this week's show:
       * [Nu Tone][14] – Three Bags Full – [Hospital][15]
       * [High Contrast][16] – Racing Green – [Hospital][15]
   * **Cruze classic from 1992:** 
-      * Jam and Spoon – Stella – R&#038;S Records
+      * Jam and Spoon – Stella – R&S Records
 
-As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I'll get back to you as soon as I can. Big thanks to Matt for his mix and if you want to check out what the A&#038;E crew are up to then go and check the [website][1].
+As always I love to hear your feed back on the show. [Contact me][17] using the form provided and I'll get back to you as soon as I can. Big thanks to Matt for his mix and if you want to check out what the A&E crew are up to then go and check the [website][1].
 
  [1]: http://www.accidentandemergency.info/
  [2]: http://ripple.radiotail.com/211/Cruze_Podcast009_140106.mp3

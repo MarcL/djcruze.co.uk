@@ -35,9 +35,9 @@ media:
   guid: 'http://www.djcruze.co.uk/cms/?p=731'
   tracklist:
     - '[00:00:00] Rennie Foster – Devil's Water (The Youngsters Remix) – Rebirth'
-    - '[00:06:03] John Dahlback &#038; ATFC – Bon Bon (Original Mix) – Defected'
+    - '[00:06:03] John Dahlback & ATFC – Bon Bon (Original Mix) – Defected'
     - '[00:12:29] Phonat – Ho Visto Un Quadro Verde (Original Mix) – Mofo Hifi'
-    - '[00:17:53] Lazy Jay – Float My Boat (Original Mix) – Big &#038; Dirty'
+    - '[00:17:53] Lazy Jay – Float My Boat (Original Mix) – Big & Dirty'
     - '[00:23:12] Steve Angello – Isabel (Original Mix) – Size'
     - '[00:27:56] Arno Cost – Cyan (Original Mix) – CR2 Records'
     - '[00:34:21] Funkagenda – Breakwater (EDX's Ibiza Sunrise Remix) – Toolroom'

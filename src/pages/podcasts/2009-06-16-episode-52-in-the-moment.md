@@ -33,11 +33,11 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=705'
   tracklist:
-    - '[00:00:00] Spencer &#038; Hill – Cool (Cool Mix) – Tiger Records'
+    - '[00:00:00] Spencer & Hill – Cool (Cool Mix) – Tiger Records'
     - '[00:05:12] Fedde Le Grande feat Mitch Crowne – Scared Of Me (Extended Mix) – Flamingo Recordings'
-    - '[00:08:12] Michael Gray &#038; Danism feat. Lisa Millet – Say Yes (Original Mix) – Defected'
-    - '[00:14:19] The Viron Ltd. feat. Max C – Wanna Be Happy (Thomas Gold Remix) – Milk &#038; Sugar'
-    - '[00:19:42] Haji &#038; Emanuel feat. Roachford – In The Moment (DBN Remix) – Big Love'
+    - '[00:08:12] Michael Gray & Danism feat. Lisa Millet – Say Yes (Original Mix) – Defected'
+    - '[00:14:19] The Viron Ltd. feat. Max C – Wanna Be Happy (Thomas Gold Remix) – Milk & Sugar'
+    - '[00:19:42] Haji & Emanuel feat. Roachford – In The Moment (DBN Remix) – Big Love'
     - '[00:24:42] Jean Elan – Killer (Jean Elan Mix) – Shake Me Please!'
     - '[00:30:38] Timofey and Bartosz Brenes feat. Jerique – Don't You Know (Club Mix) – Vector Records'
     - '[00:35:25] Don Diablo – Disco Disco Disco (Riva Starr Snatch Remix) – Sellout Sessions'
@@ -49,9 +49,9 @@ media:
 
 Here you go. Another hour of funky house, twisted disco and electro beats all served up in a handy little package we call the DJ Cruze Podcast Episode #52. I've thankfully managed to get it done in a month too which is always good!
 
-As most people have probably realised, I name each of the shows after one of my favourite tunes in the podcast and this month I chose Haji &#038; Emanuel's &"In The Moment" as the name of the show as it's one of my favourite tracks in the mix. Never has a title been so apt as for this month's show. I've been DJ'ing in Germany for over 16 years now and I'm met many people in my time over there. I had the pleasure to party with many people and sadly I found out last week that someone I knew, an ex-boyfriend of a good friend of mine, has died. His name was [Philipp Lehberger][2] but was better know as &"Willy". He died a tragic death after a fall whilst trying to break up a fight. I hadn't seen him in four or five years but I still remember him with fond memories. He was a funny guy and great to chat to. He also liked to drink JÃ¤germeister with me and I'm a man who always enjoy drinking that with my German friends. In fact I'm probably going to drink a JÃ¤germeister in his honour once this podcast is uploaded! So it's poignant that the title &"In The Moment" sort of sums up how life should be lived and probably how he lived his life. Make sure you live life to the full and &"in the moment" as you never know what's round the corner. This month's podcast is dedicated to his memory. RIP Willy. Mach's gut.
+As most people have probably realised, I name each of the shows after one of my favourite tunes in the podcast and this month I chose Haji & Emanuel's &"In The Moment" as the name of the show as it's one of my favourite tracks in the mix. Never has a title been so apt as for this month's show. I've been DJ'ing in Germany for over 16 years now and I'm met many people in my time over there. I had the pleasure to party with many people and sadly I found out last week that someone I knew, an ex-boyfriend of a good friend of mine, has died. His name was [Philipp Lehberger][2] but was better know as &"Willy". He died a tragic death after a fall whilst trying to break up a fight. I hadn't seen him in four or five years but I still remember him with fond memories. He was a funny guy and great to chat to. He also liked to drink JÃ¤germeister with me and I'm a man who always enjoy drinking that with my German friends. In fact I'm probably going to drink a JÃ¤germeister in his honour once this podcast is uploaded! So it's poignant that the title &"In The Moment" sort of sums up how life should be lived and probably how he lived his life. Make sure you live life to the full and &"in the moment" as you never know what's round the corner. This month's podcast is dedicated to his memory. RIP Willy. Mach's gut.
 
-As always, there are plenty of massive tunes in the show this month. We've got some dirty electro house from the likes of Spencer &#038; Hill, Fedde Le Grand and Jean Elan. We've got some twisted cut-up disco madness from Don Diablo. We've got deeper house tracks from the likes of Michael Grey and Danism, Haji &#038; Emanuel and The Viron Ltd. Hey, we've even got a massive cheeky remix of Beethoven's 5th Symphony from Wolfgang Gartner. We cater for all tastes on this show!
+As always, there are plenty of massive tunes in the show this month. We've got some dirty electro house from the likes of Spencer & Hill, Fedde Le Grand and Jean Elan. We've got some twisted cut-up disco madness from Don Diablo. We've got deeper house tracks from the likes of Michael Grey and Danism, Haji & Emanuel and The Viron Ltd. Hey, we've even got a massive cheeky remix of Beethoven's 5th Symphony from Wolfgang Gartner. We cater for all tastes on this show!
 
 Finally, I've got to apologise for some of the vocals in this show. It sounds a bit like I'm slurring my words. No, I wasn't drinking – it was just that the battery was going in the microphone I was using and I didn't realise until I'd finished most of the vocals. It was too much work to re-record them all so I've left them as is.
 

@@ -45,7 +45,7 @@ media:
     - "Beyonce – Check On It (Maurice Nu Soul Mix) – Sony BMG"
     - "DJ Cruze chart rundown: "
     - "Freemasons – Watchin' (Motivo Hi-Lectro Mix) – Loaded"
-    - "Haji &#038; Emanuel – Take Me Away (Haji &#038; Emanuel Vox) – Big Love"
+    - "Haji & Emanuel – Take Me Away (Haji & Emanuel Vox) – Big Love"
     - "Moby – Slipping Away (Axwell Vocal Mix) – Mute"
     - "Rythme Fatal ft. Redd – Man In The Mirror (Kenny Hayes Dub) – AATW"
     - "Porno – Music Power – Data"
@@ -63,7 +63,7 @@ Here is the tracklisting for this week's show:
       * [Beyonce][5] – Check On It ([Maurice Nu Sou][6]l Mix) – Sony BMG
   * **DJ Cruze chart rundown:** 
       * Freemasons – Watchin' ([Motivo][7] Hi-Lectro Mix) – [Loaded][8]
-      * Haji &#038; Emanuel – Take Me Away (Haji &#038; Emanuel Vox) – [Big Love][9]
+      * Haji & Emanuel – Take Me Away (Haji & Emanuel Vox) – [Big Love][9]
       * [Moby][10] – Slipping Away ([Axwell][11] Vocal Mix) – [Mute][12]
       * Rythme Fatal ft. Redd – Man In The Mirror (Kenny Hayes Dub) – [AATW][13]
       * Porno – Music Power – [Data][14]

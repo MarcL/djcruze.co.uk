@@ -43,7 +43,7 @@ media:
     - "[00:49:03] Sia – The Girl You Lost To Cocaine (Stonebridge Club Mix) – Monkey Puzzle Records  "
     - "[00:55:48] Coburn – Razorblade (Malente Remix) – Great Stuff  "
     - "[00:62:18] Bodyrox ft. Luciana – What Planet You On (The Slacksons Mix) – Phonetic Records  "
-    - "[00:00:00] Axwell &#038; Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone  "
+    - "[00:00:00] Axwell & Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone  "
 ---
 
 It's that time of year again when I give you the &"Best of ..." podcast. Apologies that it didn't come before 31st December 2007 as promised but [I was in bed full of the winter vomiting virus][1] which wasn't fun at all. So here are the bad boys, the heavy hitters, the killer tunes that rocked my dancefloors in 2007 all mixed up into a hot 74 minute mix.
@@ -84,7 +84,7 @@ More tough stuff comes from those cheeky boys from the UK, [Coburn][22], who gav
 **[00:62:18] Bodyrox ft. Luciana – What Planet You On (The Slacksons Mix) – Phonetic Records**  
 After the massive success of their track &"Yeah Yeah" last year, [Bodyrox][24] are back with another huge electro house cut. [The Slacksons][25] turn this into a potential house music classic with it's building bassline and twisting percussion. This is how all house music should be!
 
-**[00:00:00] Axwell &#038; Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone**  
+**[00:00:00] Axwell & Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone**  
 And finally a somewhat under-exposed [Axtone][26] track which may get more play in the Ibiza in the summer of 2008. In my opinion it has the potential to be the new Stardust or Modjo. It's a fun and funky summer tune which showcases Salem's smooth vocals and Axwell and Sebastian Ingrosso's funkier house roots. You can't help but smile when you hear the the electric guitar followed by the brilliantly simple &"it's true, life will smile for you" chorus. A great way to finish off my &"best of 2007 mix". Life will definitely smile for all of us in 2008.
 
 So I hope you enjoyed this years, or should that be last years, &"best of ..." mix. I think they are all awesome and I hope you do too! Big love to you all for the support you give me and for all of the comments on the site. I hope 2008 brings more listeners and more funky house music!

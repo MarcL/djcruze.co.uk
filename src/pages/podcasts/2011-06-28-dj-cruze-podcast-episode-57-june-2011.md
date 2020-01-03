@@ -23,14 +23,14 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: "http://www.djcruze.co.uk/cms/?p=820"
   tracklist:
-    - "[00:00:00] Roy Davis Jnr – Enjoy The Ride (James Talk &#038; Ridney Mix)"
-    - "[00:05:45] Tim Deluxe &#038; X-Press 2 – Tone Head Chemistry (Club Mix)"
+    - "[00:00:00] Roy Davis Jnr – Enjoy The Ride (James Talk & Ridney Mix)"
+    - "[00:05:45] Tim Deluxe & X-Press 2 – Tone Head Chemistry (Club Mix)"
     - "[00:12:07] Sharam – Fun (Marco Lys Remix)"
-    - "[00:19:09] Pleasurekraft – Carny (Heartik &#038; Rainer Weichhold Remix)"
+    - "[00:19:09] Pleasurekraft – Carny (Heartik & Rainer Weichhold Remix)"
     - "[00:25:09] Pirupa – Guarda (Original Mix)"
     - "[00:31:09] Hauswerks – I Said (Original Club Mix)"
     - "[00:36:39] Alex Kenji – Let's Get This Thing Started (Saeed Younan Mix)"
-    - "[00:42:09] Chris Lake &#038; Marco Lys – The World Around Us (Extended Mix)"
+    - "[00:42:09] Chris Lake & Marco Lys – The World Around Us (Extended Mix)"
     - "[00:47:43] Deadmau5 – Raise Your Weapon (Madeon Remix)"
     - "[00:51:22] John Dahlbäck – Kairo (Original Mix)"
     - "[00:57:37] Axwell – Heart Is King (Original Mix)"

@@ -31,7 +31,7 @@ media:
   length: "00:58:35"
   keywords: ""
   tracklist:
-    - "The Brand New Heavies – I Don't Know Why (I Love You) (Haji &#038; Emanuel Remix) – TBNH"
+    - "The Brand New Heavies – I Don't Know Why (I Love You) (Haji & Emanuel Remix) – TBNH"
     - "Gaelle – Give It Back (Grant Nelson Mix) – Boss Records"
     - "Dada – Lollipop (Jerry Ropero Remix) – Data Records"
     - "Fedde Le Grand – Take No Shhh – Defected Records"

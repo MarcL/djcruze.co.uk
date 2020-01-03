@@ -37,9 +37,9 @@ media:
     - '[00:06:30] Steve Angello, Axwell, Sebastian Ingrosso and Laidback Luke – Leave The World Behind (Original Mix) – Axtone Records'
     - '[00:11:45] Pryda – Lift (Original Mix) – Pryda Recordings'
     - '[00:18:37] Vandalism – Bucci Bag (Ian Carey Remix) – Vicious Grooves'
-    - '[00:23:52] DJ D &#038; Will Dawson – Do It Tonight (Funkfinders Electroid Remix) – Metrogroove Records'
+    - '[00:23:52] DJ D & Will Dawson – Do It Tonight (Funkfinders Electroid Remix) – Metrogroove Records'
     - '[00:29:38] David Guetta feat Kelly Rowland – When Love Takes Over (Electro Extended Mix) – F*** Me I'm Famous'
-    - '[00:37:03] Wolfgang Gartner – Push &#038; Rise (Original Mix) – Kindergarten'
+    - '[00:37:03] Wolfgang Gartner – Push & Rise (Original Mix) – Kindergarten'
     - '[00:42:17] Phonat – Set Me Free (Original Mix) – Mofo Hifi'
     - '[00:48:10] Pryda – Melo (Original Mix) – Pryda Recordings'
     - 'Cruze classic from 1993: '
@@ -52,7 +52,7 @@ Don't worry though. This show is jam packed with the funkiest and chunkiest hous
 
 Big tunes are the order of the day in this show as next up is the big track &"Leave The World Behind" from the Swedish House Mafia and their honourary Dutch member Laidback Luke. Chunky house music with a big old piano breakdown. Lovely! Next up is the Eric Prydz track &"Lift" which harks back to the old anthems of the 90s. Large! Then a cheeky remake of &"Bucci Bag" from Vandalism with Ian Carey on his electro-house remix tip. I've always loved the vocal on this track and I think Ian does it justice.
 
-Next up is a DJ Cruze exclusive with my Funkfinders Electroid remix of DJ D &#038; Will Dawson's new track &"Do It Tonight". I've not heard the original track and I was only given one sample to work with so I think I've taken a disco cut-up house track and moved it over into electro house territory. Let me know what you think in the comments below. After that we've got the big new David Guetta track &"When Love Takes Over". A huge tune which features Kelly Rowland on vocals. Expect this one to hit the charts in the next few weeks. Coming in after that we've got a cheeky house track from German Wunderkind Wolfgang Gartner. His track &"Push &#038; Rise" takes us towards Daft Punk with it's pitch-corrected vocals. Does anyone else think the electric pianos have undertones of Supertramp too? Or perhaps I'm just old enough to remember them!
+Next up is a DJ Cruze exclusive with my Funkfinders Electroid remix of DJ D & Will Dawson's new track &"Do It Tonight". I've not heard the original track and I was only given one sample to work with so I think I've taken a disco cut-up house track and moved it over into electro house territory. Let me know what you think in the comments below. After that we've got the big new David Guetta track &"When Love Takes Over". A huge tune which features Kelly Rowland on vocals. Expect this one to hit the charts in the next few weeks. Coming in after that we've got a cheeky house track from German Wunderkind Wolfgang Gartner. His track &"Push & Rise" takes us towards Daft Punk with it's pitch-corrected vocals. Does anyone else think the electric pianos have undertones of Supertramp too? Or perhaps I'm just old enough to remember them!
 
 Phonat then rocks the mix with his heavy hitter &"Set Me Free" on The Young Punx Mofo Hifi label. It's part hands in the air anthem, part rave track, part fidget house, part cut-up disco and is all mashed together to gives us a wicked house track which transcends traditional boundaries. Phonat is a genius producer who I'd advise you all to keep a close eye on. He's going to blow the cobwebs off dance music this year! Next up is one of the biggest tracks at the moment for me. Eric Prydz gives us another anthem with his track &"Melo". He just knows how to produce emotional house tracks. I can imagine dancing to this on the beach by Bora Bora. Awesome!
 

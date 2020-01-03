@@ -31,7 +31,7 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] Liquid Nation feat. Andrea Britton – Breathe Life (Chris Ortega &#038; Thomas Gold Dub) – Hit! Records"
+    - "[00:00:00] Liquid Nation feat. Andrea Britton – Breathe Life (Chris Ortega & Thomas Gold Dub) – Hit! Records"
     - "[00:07:15] The Ting Tings – Shut Up And Let Me Go (Tom Neville's Keep It Quiet Dub) (Funkfinders cut-up edit) – Columbia"
     - "[00:14:00] Gabriella Cilmi – Save The Lies (Be Good To Me) (Out Of Office Remix) – Island"
     - "[00:20:00] Katie May – You're The Only One (Thomas Gold Remix) – AATW"

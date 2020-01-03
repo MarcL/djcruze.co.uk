@@ -37,7 +37,7 @@ media:
     - '[00:05:39] Fake Blood – Fix Your Accent (Original Mix) – Cheap Thrills'
     - '[00:09:50] Duck Sauce – Anyway – Fools Gold Records'
     - '[00:14:38] Fake Blood – I Think I Like It (Original Mix) – Cheap Thrills'
-    - '[00:19:19] Tee Ski &#038; Shab Ruffcut – Iran (His Majesty Andre Is Very Lazy Mix) – ESP Records'
+    - '[00:19:19] Tee Ski & Shab Ruffcut – Iran (His Majesty Andre Is Very Lazy Mix) – ESP Records'
     - '[00:23:15] Ou Est Le Swimming Pool – Dance The Way I Feel (Armand Van Helden Club Mix) – Stiff Records'
     - '[00:28:03] Wolfgang Gartner – Fire Power (Original Mix) – Kindergarten'
     - '[00:33:46] Eddie Thoneick feat. Andy P – Love Under Pressure (Eddie Thoneick Remix) – Tonik Recordings'

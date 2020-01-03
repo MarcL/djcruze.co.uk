@@ -32,11 +32,11 @@ media:
   tracklist:
     - "Charlean Dance – Mr DJ (Moto Blanco Dub) – Positiva"
     - "Vee Scott – Gimme Your Love (Bob Roberts Mix) – UMM Records"
-    - "Peak Time Killerz – Want You Back (Thomas Gold &#038; Wawa Original Mix) – Sume Music"
+    - "Peak Time Killerz – Want You Back (Thomas Gold & Wawa Original Mix) – Sume Music"
     - "Dobi Kwe – Feel That Jam! (Wawa Remix) – White"
     - "Armand Van Helden – I Want Your Soul (Original Mix) – Southern Fried Records"
     - "Calvin Harris – Merrymaking At My Place (Deadmau5 Remix) – Fly Eye"
-    - "Weekend Masters – I Found A Love (Dave Armstrong &#038; DJ DLG Mix) – Hit! Records"
+    - "Weekend Masters – I Found A Love (Dave Armstrong & DJ DLG Mix) – Hit! Records"
     - "NJoi – Can't Get Enough (Club Mix) – New Black Records"
     - "Hi_Tack – Let's Dance (Dennis Christopher Dub) – Gusto"
     - "Cruze classic from 1994:"

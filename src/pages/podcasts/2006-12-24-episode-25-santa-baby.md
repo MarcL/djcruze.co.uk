@@ -37,7 +37,7 @@ media:
     - "Stonebridge – SOS (Stonebridge RMX) – CDR"
     - "A Lee – Electric Passion (Original Mix) – Oxyd"
     - "Just Jack – Starz In Their Eyes (Trophy Twins Mix) – Mercury Records"
-    - "Basoski &#038; Romano – No One – Rootz Records"
+    - "Basoski & Romano – No One – Rootz Records"
     - "Tyken – Every Word (Club Mix) – Hed Kandi"
     - "Wi-Fi – Be Without You (Raul Rincon Mix) – AATW"
     - "Starzoom – Billie Jean (Dave Moureaux Remix) – Gusto Records"

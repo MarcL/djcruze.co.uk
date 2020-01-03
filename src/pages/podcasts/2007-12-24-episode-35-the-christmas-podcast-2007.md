@@ -36,7 +36,7 @@ media:
     - "[00:11:00] Armand Van Helden – Je T'Aime (Original Mix) – Southern Fried Recordings"
     - "[00:17:45] Jody Watley – I Want Your Love (Wideboys Club Mix) – Gusto"
     - "[00:23:45] Deliquent Ft K-Cat – My Destiny (Wideboys Mix) – MNB"
-    - "[00:29:09] Pure Dynamite &#038; Live Element – Downtime (Live Element Twilo Mix) – Gossip Records"
+    - "[00:29:09] Pure Dynamite & Live Element – Downtime (Live Element Twilo Mix) – Gossip Records"
     - "[00:34:47] Noir presents Black Magic – Fuck Me (Thomas Gold Remix) – Just For Fun Recordings"
     - "[00:42:02] Deadmau5 – Arguru (RDX 5un5hine Remix) – PinkStar Records"
     - "[00:47:39] Alphabeat – Fascination (Bimbo Jones Main Mix) – Charisma"

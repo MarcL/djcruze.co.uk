@@ -49,7 +49,7 @@ It has been a while since the last podcast but eventually episode #24 should be 
 
 Anyway, I hope you enjoy the tunes this week. There is plenty of funky house and dirty electro to keep you going for the next week or two. My PC is back up and running again so you should get another podcast before Christmas and it will contain the infamous DJ Cruze Christmas bootleg on there. Hopefully it'll be phat and funky!
 
-Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 
 As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 

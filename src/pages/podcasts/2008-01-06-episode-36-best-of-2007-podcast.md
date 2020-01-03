@@ -46,7 +46,7 @@ media:
     - "[00:00:00] Axwell &#038; Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone  "
 ---
 
-It's that time of year again when I give you the &"Best of &#8230;" podcast. Apologies that it didn't come before 31st December 2007 as promised but [I was in bed full of the winter vomiting virus][1] which wasn't fun at all. So here are the bad boys, the heavy hitters, the killer tunes that rocked my dancefloors in 2007 all mixed up into a hot 74 minute mix.
+It's that time of year again when I give you the &"Best of ..." podcast. Apologies that it didn't come before 31st December 2007 as promised but [I was in bed full of the winter vomiting virus][1] which wasn't fun at all. So here are the bad boys, the heavy hitters, the killer tunes that rocked my dancefloors in 2007 all mixed up into a hot 74 minute mix.
 
 **[00:00:00] N'Dea Davenport – One Day My Love (D'Ramirez 12&#8243; Mix) – Dozer Records**  
 This tune came out in the early part of 2007 and was a huge tune for me even though it didn't get much commercial success in the charts. It has a great vocal from the [Brand New Heavies][4] ex-vocalist, [N'Dea Davenport][5] and features a dirty bassline from one of my favourite electro producers in 2007, [D'Ramirez][6].
@@ -87,7 +87,7 @@ After the massive success of their track &"Yeah Yeah" last year, [Bodyrox][24] a
 **[00:00:00] Axwell &#038; Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone**  
 And finally a somewhat under-exposed [Axtone][26] track which may get more play in the Ibiza in the summer of 2008. In my opinion it has the potential to be the new Stardust or Modjo. It's a fun and funky summer tune which showcases Salem's smooth vocals and Axwell and Sebastian Ingrosso's funkier house roots. You can't help but smile when you hear the the electric guitar followed by the brilliantly simple &"it's true, life will smile for you" chorus. A great way to finish off my &"best of 2007 mix". Life will definitely smile for all of us in 2008.
 
-So I hope you enjoyed this years, or should that be last years, &"best of &#8230;" mix. I think they are all awesome and I hope you do too! Big love to you all for the support you give me and for all of the comments on the site. I hope 2008 brings more listeners and more funky house music!
+So I hope you enjoyed this years, or should that be last years, &"best of ..." mix. I think they are all awesome and I hope you do too! Big love to you all for the support you give me and for all of the comments on the site. I hope 2008 brings more listeners and more funky house music!
 
  [1]: http://www.djcruze.co.uk/cms/2008/01/04/happy-new-year-2/
  [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif

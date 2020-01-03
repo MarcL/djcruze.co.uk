@@ -46,7 +46,7 @@ Evening all. I've managed to find another couple of hours to get an official pod
 
 Also on the podcast are some other great funky tracks remixed by men of the moment, [Wawa][3], and the new kid on the dirty house block, [Deadmau5][4]. Hopefully I'll have more time to do a podcast each month again as well as a monthly mix. That's the plan anyway! Enjoy the tunes.
 
-Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 
  [1]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
  [2]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast032_280807.mp3

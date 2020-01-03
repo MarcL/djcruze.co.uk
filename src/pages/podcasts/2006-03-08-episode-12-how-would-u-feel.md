@@ -51,7 +51,7 @@ media:
 Sorry that I didn't manage to get this episode done last week. I meant to sort it out but it just didn't happen. Hopefully that means you're ready for another installment of the DJ Cruze podcast now though. Episode #12 brings you the old, the new and the down right funky!
 
 
-Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 
 I mentioned a couple of new podcasts that I have downloaded so here are the links to them. Just cut and paste the link and put it into iTunes or the podcatching software that you use.
 

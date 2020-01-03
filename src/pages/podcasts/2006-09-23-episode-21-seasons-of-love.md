@@ -47,7 +47,7 @@ media:
 
 After a brief hiatus the DJ Cruze podcast returns with episode #21. I'm back with some dirty electro and funky house tunes to rock your MP3 player so get it downloaded as soon as you can. This week's show doesn't have a classic but instead I'm dedicating a tune to my lovely wife Clare! Aaah!
 
-Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 
 As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 

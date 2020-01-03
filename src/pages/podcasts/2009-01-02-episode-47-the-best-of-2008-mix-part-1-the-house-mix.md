@@ -47,7 +47,7 @@ media:
 
 Happy new year to all of the DJ Cruze podcast listeners!
 
-It's that time of the year when I give you the &"Best Of&#8230;" mix for the year that has just gone and apologies that it's a day late. The main reason for this has been trying to choose all of the fantastic tunes to put into the mix. It took me about 4 hours of listening to the great house tracks from 2008 to whittle it down to around 60 tracks which I wanted to use. There's obviously no way I can get these into a 1 hour house mix so I have decided to do two &"Best Of 2008&#8243; house music mixes. This one is the first and it features the best house tracks from 2008 into one CD-length mix with no talking. Hopefully I've chosen some of the tracks you love too!
+It's that time of the year when I give you the &"Best Of..." mix for the year that has just gone and apologies that it's a day late. The main reason for this has been trying to choose all of the fantastic tunes to put into the mix. It took me about 4 hours of listening to the great house tracks from 2008 to whittle it down to around 60 tracks which I wanted to use. There's obviously no way I can get these into a 1 hour house mix so I have decided to do two &"Best Of 2008&#8243; house music mixes. This one is the first and it features the best house tracks from 2008 into one CD-length mix with no talking. Hopefully I've chosen some of the tracks you love too!
 
 ### Best Of 2008 Mix – The House Mix Tracklisting
 
@@ -65,7 +65,7 @@ A somewhat underrated track from one of the UKs biggest house music producers. T
 
 #### [00:18:22] The Whitest Boy Alive – Golden Cage (Fred Falke Mix) – Modular
 
-Ah Fred Falke. How much do I love you? Well, not in that way but as a producer of the best house tracks in the past couple of years. Fred stands out from the pack with his fantastic musical abilities and unique production style. Taking a leaf out of the French producers handbook but moving it on to new heights. He takes The Whitest Boy Alive into a fantastic Moog lead funky house track. Probably my most played track of the year (&#8230;I'll have to look at my [Last.fm][4] account to check!) The breakdown almost makes me cry too! Shhhh! Don't tell anyone!
+Ah Fred Falke. How much do I love you? Well, not in that way but as a producer of the best house tracks in the past couple of years. Fred stands out from the pack with his fantastic musical abilities and unique production style. Taking a leaf out of the French producers handbook but moving it on to new heights. He takes The Whitest Boy Alive into a fantastic Moog lead funky house track. Probably my most played track of the year (...I'll have to look at my [Last.fm][4] account to check!) The breakdown almost makes me cry too! Shhhh! Don't tell anyone!
 
 #### [00:24:52] Machines Don't Care – Afrojacker – White
 

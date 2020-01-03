@@ -51,7 +51,7 @@ media:
 ---
 Back once again with the Podcast master:
 
-Podcast #4 is online. Hopefully it will now have fancy iTunes tags with graphics&#8230;if it works properly!  
+Podcast #4 is online. Hopefully it will now have fancy iTunes tags with graphics...if it works properly!  
 Here is the tracklisting for this week's show:
 
   * **New tunes:** 

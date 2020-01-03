@@ -37,7 +37,7 @@ media:
     - "Cruze classic from 2006:"
     - "[01:03:30] C-Mos – 2 Million Ways (Axwell Remix)"
 ---
-So&#8230; it's been a while hasn't it? Life sometimes gets in the way of letting you do the things you want to.  
+So... it's been a while hasn't it? Life sometimes gets in the way of letting you do the things you want to.  
 I've been busy and I'm back. For good. I hope!
 
 So what have I got for you this month?  

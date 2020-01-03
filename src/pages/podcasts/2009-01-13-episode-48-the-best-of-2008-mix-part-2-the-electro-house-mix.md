@@ -70,7 +70,7 @@ Another big French house producer blew up in 2008 and Sébastien Léger was his 
 
 #### [00:28:07] Passenger 10 – Mirage (EDX's 5un5hine Remix) – White
 
-Swiss producer EDX is another of 2008&#8242;s success stories and last year was the year he became a household name for his remixes and productions. His name appear on remixes for lots of bigger named artists and his productions had a similar feel to Deadmau5&#8242;s production style. Passenger 10&#8242;s "Mirage" rocked my floors with its building bassline and awesome strings.
+Swiss producer EDX is another of 2008's success stories and last year was the year he became a household name for his remixes and productions. His name appear on remixes for lots of bigger named artists and his productions had a similar feel to Deadmau5's production style. Passenger 10's "Mirage" rocked my floors with its building bassline and awesome strings.
 
 #### [00:34:35] Buy Now – Body Crash (Laidback Luke's Remix) – La Mode
 
@@ -92,7 +92,7 @@ Two of the biggest producers, Dirty South and Axwell, teamed up to bring us this
 
 EDX gave us another great remix of Sebastian Ingrosso and Laidback Luke's "Chaa Chaa". It ends my electro house mix with a quality progressive house track with EDX's trademark string sound. A great end to a year of quality electronic house music.
 
-So I hope you enjoyed the tougher "Best Of 2008&#8243; Electro House Mix as much as the ["Best Of 2008&#8243; house mix][7] too. Hopefully 2009 will bring us another year of top notch tracks and I look forward to compiling the "Best Of 2009&#8243; mix next year.
+So I hope you enjoyed the tougher "Best Of 2008" Electro House Mix as much as the ["Best Of 2008" house mix][7] too. Hopefully 2009 will bring us another year of top notch tracks and I look forward to compiling the "Best Of 2009" mix next year.
 
 Awesome picture of a [Moog Little Phatty][8] by [Synhack][9], used under Creative Commons licence.
 

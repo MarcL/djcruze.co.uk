@@ -3,7 +3,7 @@ title: 'Episode #42 – Music Talking'
 author: djcruze
 #permalink: /2008/08/24/episode-42-music-talking/
 permalink: /podcasts/episode-42-music-talking/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,7 +11,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
         57611472
         audio/mpeg
-        
+
 votio:
   - 8.4,35,
 
@@ -26,22 +26,22 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast42.jpg"
-  content: "audio/podcasts/Cruze_Podcast042_240808.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast42.jpg'
+  content: 'audio/podcasts/Cruze_Podcast042_240808.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] Morgan Page – Call My Name (Thomas Gold Remix) – Nettwerk"
-    - "[00:06:41] David Rubato feat Manda Djinn – Deep Inside (Ian Carey Remix) – Gut Recordings"
-    - "[00:11:54] Nerved – I Love U (Dumb Dan Club Mix) – MMS Records"
-    - "[00:17:40] Moby – Disco Lies (Spencer & Hill Remix) – Mute"
-    - "[00:23:22] R.I.O. – Shine On (Spencer & Hill Remix) – 4th & Broadway"
-    - "[00:28:37] Platnum – Love Shy (Soul Avengerz Remix) – Hard 2 Beat"
-    - "[00:34:34] The Montanas & DJ Roland Clark – Music Talking (Fred Falke Remix) – Strictly"
-    - "[00:41:46] Giant Jr – I Want To Be Evil (Spencer & Hill Remix) – White"
-    - "[00:45:44] Axwell & Bob Sinclar feat Ron Carroll – What A Wonderful World (Dabruck & Klein Mix) – Defected Records"
-    - "Cruze classic from 1996: "
-    - "[00:52:03] 6 by Six – Into My Heart (Grand Larceny Remix) – 6&#215;6 Records"
+    - '[00:00:00] Morgan Page – Call My Name (Thomas Gold Remix) – Nettwerk'
+    - '[00:06:41] David Rubato feat Manda Djinn – Deep Inside (Ian Carey Remix) – Gut Recordings'
+    - '[00:11:54] Nerved – I Love U (Dumb Dan Club Mix) – MMS Records'
+    - '[00:17:40] Moby – Disco Lies (Spencer & Hill Remix) – Mute'
+    - '[00:23:22] R.I.O. – Shine On (Spencer & Hill Remix) – 4th & Broadway'
+    - '[00:28:37] Platnum – Love Shy (Soul Avengerz Remix) – Hard 2 Beat'
+    - '[00:34:34] The Montanas & DJ Roland Clark – Music Talking (Fred Falke Remix) – Strictly'
+    - '[00:41:46] Giant Jr – I Want To Be Evil (Spencer & Hill Remix) – White'
+    - '[00:45:44] Axwell & Bob Sinclar feat Ron Carroll – What A Wonderful World (Dabruck & Klein Mix) – Defected Records'
+    - 'Cruze classic from 1996: '
+    - '[00:52:03] 6 by Six – Into My Heart (Grand Larceny Remix) – 6x6 Records'
 ---
 
 What a terrible month August has been. A couple of days of sun and plenty of rain. It's horrible. So what better way to kick out the UK's "summer" than episode #42 of the DJ Cruze podcast!
@@ -58,8 +58,8 @@ If you enjoy the show then [get in touch][1] and tell me what you think or want 
 
 The image is based on a terrible Korg VC-10 vocoder advert as uploaded to Flickr by [bdu][5]! It made me laugh a lot whilst searching for "Music Talking" so I had to use it! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
 
- [1]: /cms/contact/
- [2]: http://www.dreamhost.com/donate.cgi?id=8244
- [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
- [5]: http://flickr.com/photos/bdu/148574382/
+[1]: /cms/contact/
+[2]: http://www.dreamhost.com/donate.cgi?id=8244
+[3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
+[5]: http://flickr.com/photos/bdu/148574382/

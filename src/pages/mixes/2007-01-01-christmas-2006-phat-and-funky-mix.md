@@ -33,7 +33,7 @@ media:
     - 'Lucky 7 – Why – Simply Recordings'
     - 'Sexy Toy – Everytime (Original Mix) – Oryx Music'
     - 'Dirty Old Ann – Turn Me On (Full Vocal Club Mix) – Loaded Records'
-    - 'Mint Royale – Whambar (12&#8243; Version) – Direction Records'
+    - 'Mint Royale – Whambar (12" Version) – Direction Records'
     - 'Booty Luv – Boogie 2Night (Seamus Haji Big Love Remix) – Hed Kandi'
     - 'Tyken – Every Word (Triple Dee Rebuild) – Hed Kandi'
 ---
@@ -54,7 +54,7 @@ So that's it. The last of the Christmas mini-mixes. I hope you've enjoyed them a
 2. Lucky 7 – Why – Simply Recordings
 3. Sexy Toy – Everytime (Original Mix) – Oryx Music
 4. Dirty Old Ann – Turn Me On (Full Vocal Club Mix) – Loaded Records
-5. Mint Royale – Whambar (12&#8243; Version) – Direction Records
+5. Mint Royale – Whambar (12" Version) – Direction Records
 6. Booty Luv – Boogie 2Night (Seamus Haji Big Love Remix) – Hed Kandi
 7. Tyken – Every Word (Triple Dee Rebuild) – Hed Kandi
 

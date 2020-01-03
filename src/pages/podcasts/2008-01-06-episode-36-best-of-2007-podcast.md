@@ -31,7 +31,7 @@ media:
   length: "01:00:00"
   keywords: ""
   tracklist:
-    - "[00:00:00] N'Dea Davenport – One Day My Love (D'Ramirez 12&#8243; Mix) – Dozer Records  "
+    - "[00:00:00] N'Dea Davenport – One Day My Love (D'Ramirez 12" Mix) – Dozer Records  "
     - "[00:05:45] Camille Jones – The Creeps (Fedde Le Grande Club Mix) – Data Records  "
     - "[00:11:52] Andrea Doria vs LXR – Freak Me (Dave Spoon Remix) – GI Recordings  "
     - "[00:17:48] Dragonette – I Get Around (Van She Dub Mix) – Mercury  "
@@ -48,7 +48,7 @@ media:
 
 It's that time of year again when I give you the "Best of ..." podcast. Apologies that it didn't come before 31st December 2007 as promised but [I was in bed full of the winter vomiting virus][1] which wasn't fun at all. So here are the bad boys, the heavy hitters, the killer tunes that rocked my dancefloors in 2007 all mixed up into a hot 74 minute mix.
 
-**[00:00:00] N'Dea Davenport – One Day My Love (D'Ramirez 12&#8243; Mix) – Dozer Records**  
+**[00:00:00] N'Dea Davenport – One Day My Love (D'Ramirez 12" Mix) – Dozer Records**  
 This tune came out in the early part of 2007 and was a huge tune for me even though it didn't get much commercial success in the charts. It has a great vocal from the [Brand New Heavies][4] ex-vocalist, [N'Dea Davenport][5] and features a dirty bassline from one of my favourite electro producers in 2007, [D'Ramirez][6].
 
 **[00:05:45] Camille Jones – The Creeps (Fedde Le Grande Club Mix) – Data Records**  
@@ -79,7 +79,7 @@ The year wouldn't be complete without a killer track from [Armand Van Helden][19
 The Swedish house music producer [Stonebridge][20] takes the surly [Sia][21] away from his usual piano-tinged remixes and gives us a filthy basslined monster. Amazing haunting vocals are layered on top of this tough house track and it became one of my favourite tunes of the year.
 
 **[00:55:48] Coburn – Razorblade (Malente Remix) – Great Stuff**  
-More tough stuff comes from those cheeky boys from the UK, [Coburn][22], who gave us 2005&#8242;s killer track "We Interrupt This Program". "Like Kylie on acid" is how they describe the track and who am I to argue? Given a cheeky rerub by German producer [Malente][23] it builds up with a big old bassline and some bit crunched breakdowns. Club music for the world's dirty dancefloor!
+More tough stuff comes from those cheeky boys from the UK, [Coburn][22], who gave us 2005's killer track "We Interrupt This Program". "Like Kylie on acid" is how they describe the track and who am I to argue? Given a cheeky rerub by German producer [Malente][23] it builds up with a big old bassline and some bit crunched breakdowns. Club music for the world's dirty dancefloor!
 
 **[00:62:18] Bodyrox ft. Luciana – What Planet You On (The Slacksons Mix) – Phonetic Records**  
 After the massive success of their track "Yeah Yeah" last year, [Bodyrox][24] are back with another huge electro house cut. [The Slacksons][25] turn this into a potential house music classic with it's building bassline and twisting percussion. This is how all house music should be!
@@ -89,29 +89,29 @@ And finally a somewhat under-exposed [Axtone][26] track which may get more play 
 
 So I hope you enjoyed this years, or should that be last years, "best of ..." mix. I think they are all awesome and I hope you do too! Big love to you all for the support you give me and for all of the comments on the site. I hope 2008 brings more listeners and more funky house music!
 
- [1]: http://www.djcruze.co.uk/cms/2008/01/04/happy-new-year-2/
- [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
- [4]: http://www.myspace.com/thebrandnewheavies
- [5]: http://www.myspace.com/ndeadavenport
- [6]: http://www.myspace.com/dramirezmusic
- [7]: http://www.feddelegrand.com/
- [8]: http://www.myspace.com/camillejonesmusic
- [9]: http://www.myspace.com/davespoon
- [10]: http://www.deejaybooking.com/andreadoria
- [11]: http://www.dragonette.com/
- [12]: http://www.vanshe.com/
- [13]: http://www.myspace.com/nylarrytee
- [14]: http://www.myspace.com/hervebeats
- [15]: http://www.djdlg.com/
- [16]: http://www.normancook.co.uk/
- [17]: http://www.theyoungpunx.com/
- [18]: http://www.axwell.co.uk/
- [19]: http://www.myspace.com/armandvanhelden
- [20]: http://www.stoneyboy.com/
- [21]: http://www.siamusic.net/
- [22]: http://www.myspace.com/coburnmusic
- [23]: http://www.myspace.com/malente
- [24]: http://www.myspace.com/bodyrox
- [25]: http://www.myspace.com/theslacksons
- [26]: http://www.axtone.com/
+[1]: http://www.djcruze.co.uk/cms/2008/01/04/happy-new-year-2/
+[2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
+[4]: http://www.myspace.com/thebrandnewheavies
+[5]: http://www.myspace.com/ndeadavenport
+[6]: http://www.myspace.com/dramirezmusic
+[7]: http://www.feddelegrand.com/
+[8]: http://www.myspace.com/camillejonesmusic
+[9]: http://www.myspace.com/davespoon
+[10]: http://www.deejaybooking.com/andreadoria
+[11]: http://www.dragonette.com/
+[12]: http://www.vanshe.com/
+[13]: http://www.myspace.com/nylarrytee
+[14]: http://www.myspace.com/hervebeats
+[15]: http://www.djdlg.com/
+[16]: http://www.normancook.co.uk/
+[17]: http://www.theyoungpunx.com/
+[18]: http://www.axwell.co.uk/
+[19]: http://www.myspace.com/armandvanhelden
+[20]: http://www.stoneyboy.com/
+[21]: http://www.siamusic.net/
+[22]: http://www.myspace.com/coburnmusic
+[23]: http://www.myspace.com/malente
+[24]: http://www.myspace.com/bodyrox
+[25]: http://www.myspace.com/theslacksons
+[26]: http://www.axtone.com/

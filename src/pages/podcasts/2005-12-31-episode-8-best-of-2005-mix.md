@@ -41,7 +41,7 @@ media:
     - "Best of 2005 Mix "
     - "Lil' Love – Little Love (Soul Avengerz Mix) – Positiva"
     - "Jenn Cunetta – Come Rain Come Shine (Stonebridge Mix) – White"
-    - "Discrete feat. Belle Erskine – Love Me (12&#8243; Mix) – Tokyo Project"
+    - "Discrete feat. Belle Erskine – Love Me (12" Mix) – Tokyo Project"
     - "Sex On Monday – Bring Back The Love (Hold Me Down) (Soul Avengerz Mix) – Oxyd / Manifesto Records]"
     - "Supafly vs Fishbowl – Let's Get Down (Full Intention Club Mix) – Eye Industries"
     - "Sleve and Lowman – So Fine – Freestyle Records"
@@ -53,6 +53,7 @@ media:
     - "Moby – Raining Again (Steve Angello Vocal Mix) – Mute"
     - "Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound"
 ---
+
 Here it is. The one you have been waiting for. Episode 8 of the DJ Cruze podcast otherwise known as "The Best of 2005 Mix".  
 I've got together my favourite tunes from 2005 and stuck them in a bite-sized downloadable MP3 for your listening pleasure. How good is that?
 
@@ -60,40 +61,40 @@ It's a bit longer than normal and comes in at 73 minutes and 30 seconds. A nice 
 
 Here is the tracklisting for this week's show:
 
-  * **Best of 2005 Mix** 
-      * Lilâ€™ Love – Little Love ([Soul Avengerz][3] Mix) – Positiva
-      * [Jenn Cunetta][4] – Come Rain Come Shine (Stonebridge Mix) – White
-      * Discrete feat. Belle Erskine – Love Me (12&#8243; Mix) – [Tokyo Project][5]
-      * Sex On Monday – Bring Back The Love (Hold Me Down) ([Soul Avengerz][3] Mix) – Oxyd / [Manifesto Records][6]
-      * Supafly vs Fishbowl – Letâ€™s Get Down (Full Intention Club Mix) – [Eye Industries][7]
-      * Sleve and Lowman – So Fine – [Freestyle Records][8]
-      * [Haji & Emanuel][9] – Weekend – [Azuli][10]
-      * Bush II Bush – Piano Track ([MYNC][11] Project Balls II Bush Remix) – CR2
-      * C-Mos – 2 Million Ways ([Axwell][12] Mix) – Lowered Recordings
-      * Jan Francisco meets Joseph Armani – Infatuation (Dubmix) – [Joia][13]
-      * [Olav Basoski][14] – Promises – [Rootz Records][15]
-      * [Moby][16] – Raining Again ([Steve Angello][17] Vocal Mix) – Mute
-      * [Royksopp][18] – What Else Is There? (Thin White Duke Mix) – [Wall Of Sound][19]
+- **Best of 2005 Mix**
+  - Lilâ€™ Love – Little Love ([Soul Avengerz][3] Mix) – Positiva
+  - [Jenn Cunetta][4] – Come Rain Come Shine (Stonebridge Mix) – White
+  - Discrete feat. Belle Erskine – Love Me (12" Mix) – [Tokyo Project][5]
+  - Sex On Monday – Bring Back The Love (Hold Me Down) ([Soul Avengerz][3] Mix) – Oxyd / [Manifesto Records][6]
+  - Supafly vs Fishbowl – Letâ€™s Get Down (Full Intention Club Mix) – [Eye Industries][7]
+  - Sleve and Lowman – So Fine – [Freestyle Records][8]
+  - [Haji & Emanuel][9] – Weekend – [Azuli][10]
+  - Bush II Bush – Piano Track ([MYNC][11] Project Balls II Bush Remix) – CR2
+  - C-Mos – 2 Million Ways ([Axwell][12] Mix) – Lowered Recordings
+  - Jan Francisco meets Joseph Armani – Infatuation (Dubmix) – [Joia][13]
+  - [Olav Basoski][14] – Promises – [Rootz Records][15]
+  - [Moby][16] – Raining Again ([Steve Angello][17] Vocal Mix) – Mute
+  - [Royksopp][18] – What Else Is There? (Thin White Duke Mix) – [Wall Of Sound][19]
 
 I'd like to thank you all for your support and love over the past few months. I've made lots of new friends from around the world and I'm looking forward to rocking your floors soon. I'd especially like to thank Bodo in Germany who has been hosting all of the MP3s for the past few months. Check out his web services [here][20].
 
- [1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast008_311205.mp3
- [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2
- [3]: http://www.soulavengerz.com/
- [4]: http://www.JennCunetta.com/
- [5]: http://www.tokyoproject.com/
- [6]: http://www.manifesto-records.com/
- [7]: http://www.eyeindustries.com/
- [8]: http://www.freestylerecords.co.uk/
- [9]: http://www.biglovemusic.co.uk/
- [10]: http://azuli.com/
- [11]: http://www.myncproject.com/
- [12]: http://www.axwell.co.uk/
- [13]: http://www.joiarecords.com/
- [14]: http://www.olavbasoski.nl/
- [15]: http://www.rootzrecords.nl/
- [16]: http://www.moby.com/
- [17]: http://www.sizerecords.com/
- [18]: http://www.royksopp.com
- [19]: http://www.wallofsound.net
- [20]: http://www.acm-edv.de/
+[1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast008_311205.mp3
+[2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2
+[3]: http://www.soulavengerz.com/
+[4]: http://www.JennCunetta.com/
+[5]: http://www.tokyoproject.com/
+[6]: http://www.manifesto-records.com/
+[7]: http://www.eyeindustries.com/
+[8]: http://www.freestylerecords.co.uk/
+[9]: http://www.biglovemusic.co.uk/
+[10]: http://azuli.com/
+[11]: http://www.myncproject.com/
+[12]: http://www.axwell.co.uk/
+[13]: http://www.joiarecords.com/
+[14]: http://www.olavbasoski.nl/
+[15]: http://www.rootzrecords.nl/
+[16]: http://www.moby.com/
+[17]: http://www.sizerecords.com/
+[18]: http://www.royksopp.com
+[19]: http://www.wallofsound.net
+[20]: http://www.acm-edv.de/

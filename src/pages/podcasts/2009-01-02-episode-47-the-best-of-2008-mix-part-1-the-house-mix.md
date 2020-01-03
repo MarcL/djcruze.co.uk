@@ -47,7 +47,7 @@ media:
 
 Happy new year to all of the DJ Cruze podcast listeners!
 
-It's that time of the year when I give you the "Best Of..." mix for the year that has just gone and apologies that it's a day late. The main reason for this has been trying to choose all of the fantastic tunes to put into the mix. It took me about 4 hours of listening to the great house tracks from 2008 to whittle it down to around 60 tracks which I wanted to use. There's obviously no way I can get these into a 1 hour house mix so I have decided to do two "Best Of 2008&#8243; house music mixes. This one is the first and it features the best house tracks from 2008 into one CD-length mix with no talking. Hopefully I've chosen some of the tracks you love too!
+It's that time of the year when I give you the "Best Of..." mix for the year that has just gone and apologies that it's a day late. The main reason for this has been trying to choose all of the fantastic tunes to put into the mix. It took me about 4 hours of listening to the great house tracks from 2008 to whittle it down to around 60 tracks which I wanted to use. There's obviously no way I can get these into a 1 hour house mix so I have decided to do two "Best Of 2008" house music mixes. This one is the first and it features the best house tracks from 2008 into one CD-length mix with no talking. Hopefully I've chosen some of the tracks you love too!
 
 ### Best Of 2008 Mix – The House Mix Tracklisting
 

@@ -10,7 +10,7 @@ permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/
 ###################################
 # Podcast
 ###################################
-template: audioItem
+template: audioPage
 categories:
   - Podcasts
 

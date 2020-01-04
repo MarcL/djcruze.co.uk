@@ -5,12 +5,12 @@ import DefaultContext from './context';
 
 const navigationLinks = [
   {
-    to: '/mixes',
-    title: 'Mixes',
-  },
-  {
     to: '/podcasts',
     title: 'Podcasts',
+  },
+  {
+    to: '/mixes',
+    title: 'Mixes',
   },
   {
     to: '/productions',

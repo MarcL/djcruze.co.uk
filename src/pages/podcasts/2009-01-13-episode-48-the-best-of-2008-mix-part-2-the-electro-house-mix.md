@@ -38,12 +38,12 @@ media:
     - '[00:10:22] Deadmau5 – Hi Friend (Original Mix) – Mau5trap'
     - '[00:15:49] ATFC feat Yasmeen – Tell U Y (New Jack Swing Original) – Strictly'
     - '[00:21:43] Inkfish & David West – Hello Piano (Sébastien Léger Remix) – Mistakes Music'
-    - '[00:28:07] Passenger 10 – Mirage (EDX's 5un5hine Remix) – White'
-    - '[00:34:35] Buy Now – Body Crash (Laidback Luke's Remix) – La Mode'
+    - "[00:28:07] Passenger 10 – Mirage (EDX's 5un5hine Remix) – White"
+    - "[00:34:35] Buy Now – Body Crash (Laidback Luke's Remix) – La Mode"
     - '[00:40:18] Arno Cost & Norman Doray – Apocalypse (Sébastien Léger Remix) – CR2'
     - '[00:48:11] Erick Morillo & DJ DLG – Where Are You Now (Original Mix) – Subliminal'
     - '[00:57:18] Dirty South & Axwell – Open Your Heart (Vocal Mix) – Axtone'
-    - '[01:04:25] Sebastian Ingrosso & Laidback Luke – Chaa Chaa (EDX's Marakesh Souk Remix) – Size'
+    - "[01:04:25] Sebastian Ingrosso & Laidback Luke – Chaa Chaa (EDX's Marakesh Souk Remix) – Size"
 ---
 
 Here's part 2 of my "Best Of 2008 Mix" and it's 70 minutes of electro and progressive house goodness! There were plenty of great tougher house tracks in 2008 and hopefully I've chosen the best ones for you.

@@ -41,17 +41,17 @@ media:
   keywords: ''
   tracklist:
     - 'DJ Cruze exclusive: '
-    - 'Armin van Buuren – Who's Watching? (Mischa Daniels Mix) – Supra Recordings'
+    - "Armin van Buuren – Who's Watching? (Mischa Daniels Mix) – Supra Recordings"
     - 'Top 10 rundown: '
     - 'Meck – Thunder In My Heart – CDR'
-    - 'Aaron Smith featuring Luvli – Dancin' – Boss Records'
+    - "Aaron Smith featuring Luvli – Dancin' – Boss Records"
     - 'Interview and retro mix with DJ Vuish: '
     - 'Kim English – Night Life (Big Bump Mix) – Hi Life (1994)'
-    - 'The Flavour – No Matter What You Do (I'm Gonna Get With U) (The Corporation Express Dub Mix) – U-Bahn Records (1993)'
+    - "The Flavour – No Matter What You Do (I'm Gonna Get With U) (The Corporation Express Dub Mix) – U-Bahn Records (1993)"
     - 'Coldcut – Feeling Strong (Well Hung Parliament Adventure) – Arista (1993)'
     - 'Tanya Louise – Deep In You (Stone club mix) – UMM (1996)'
-    - '70s Age – Reach For The Sky (Grant Nelson's club mix) – Evoke (1998)'
-    - 'Jocelyn Brown – Ain't No Mountain High Enough (Dronez Mix) – White (1998)'
+    - "70s Age – Reach For The Sky (Grant Nelson's club mix) – Evoke (1998)"
+    - "Jocelyn Brown – Ain't No Mountain High Enough (Dronez Mix) – White (1998)"
 ---
 
 Now what we're going to do right here is go back...way back! Back to the mid-90s when ravers had long hair and the drugs were better!

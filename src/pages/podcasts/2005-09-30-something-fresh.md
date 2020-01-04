@@ -1,5 +1,5 @@
 ---
-title: 'Episode #1'
+title: 'Episode #1 - Something Fresh'
 author: djcruze
 date: '2005-09-30'
 #permalink: /2005/09/30/something-fresh/

@@ -1,6 +1,8 @@
 ---
-title: 'Episode #55 – I'm Alive'
+title: "Episode #55 – I'm Alive"
 author: djcruze
+date: '2010-06-17'
+
 #permalink: /2010/06/17/episode-55-im-alive/
 permalink: /podcasts/episode-55-im-alive/
 'itunes:category':

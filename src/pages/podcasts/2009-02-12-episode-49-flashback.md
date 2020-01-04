@@ -42,8 +42,8 @@ media:
     - '[00:22:46] Steve Angello & Laidback Luke feat Robin S – Show Me Love (AC Slater Vocal Mix) – Data'
     - '[00:27:56] Super Mal – Dow Dow (Original Mix) – Bandito Records'
     - '[00:32:36] Wolfgang Gartner – Flashback (Original Mix) – Kindergarten'
-    - '[00:37:32] Carlo Dall'Anese & Fabio Castro – Monday (Henry John Morgan Remix) – Oxyd'
-    - '[00:43:34] Disco 12 – Maybe It's Me (Original Mix) – Used And Abused'
+    - "[00:37:32] Carlo Dall'Anese & Fabio Castro – Monday (Henry John Morgan Remix) – Oxyd"
+    - "[00:43:34] Disco 12 – Maybe It's Me (Original Mix) – Used And Abused"
     - '[00:48:36] Bimbo Jones – Come On (Up) – CDR'
     - 'Cruze classic from 1993: '
     - '[00:55:37] Helicopter – On Ya Way – Tic Tac Toe'

@@ -1,5 +1,5 @@
 ---
-title: 'Episode #57 - June 2011'
+title: 'Episode #57 - 2 Million Ways'
 teaser: 'Funky and chunky house music!'
 author: djcruze
 date: '2011-06-28'

@@ -41,9 +41,9 @@ media:
     - '[00:14:19] The Viron Ltd. feat. Max C – Wanna Be Happy (Thomas Gold Remix) – Milk & Sugar'
     - '[00:19:42] Haji & Emanuel feat. Roachford – In The Moment (DBN Remix) – Big Love'
     - '[00:24:42] Jean Elan – Killer (Jean Elan Mix) – Shake Me Please!'
-    - '[00:30:38] Timofey and Bartosz Brenes feat. Jerique – Don't You Know (Club Mix) – Vector Records'
+    - "[00:30:38] Timofey and Bartosz Brenes feat. Jerique – Don't You Know (Club Mix) – Vector Records"
     - '[00:35:25] Don Diablo – Disco Disco Disco (Riva Starr Snatch Remix) – Sellout Sessions'
-    - '[00:40:25] Wolfgang Gartner – Wolfgang's 5th Symphony (Original Mix) – Kindergarten'
+    - "[00:40:25] Wolfgang Gartner – Wolfgang's 5th Symphony (Original Mix) – Kindergarten"
     - '[00:46:40] Lambda – Hold On Tight (PhonJaxx Remix) – Black Plastic'
     - 'Cruze classic from 2002: '
     - '[00:52:29] Archigram – Carnavale – Crydamoure'

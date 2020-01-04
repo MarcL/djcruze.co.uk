@@ -5,9 +5,9 @@ date: '2006-10-10'
 
 #permalink: /2006/10/10/episode-22-life-begins/
 permalink: /podcasts/episode-22-life-begins/
-"itunes:category":
+'itunes:category':
   - Music
-"itunes:duration":
+'itunes:duration':
   - 01:00:00
 enclosure:
   - |
@@ -27,22 +27,22 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/podcasts/Cruze_Podcast022_101006.mp3"
-  length: "01:00:00"
-  keywords: ""
+  content: 'audio/podcasts/Cruze_Podcast022_101006.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "DJ Cruze big tunes: "
-    - "Krafty Kuts – Tell Me How You Feel (Young Punx 12" Edit) – Against The Grain"
+    - 'DJ Cruze big tunes: '
+    - 'Krafty Kuts – Tell Me How You Feel (Young Punx 12" Edit) – Against The Grain'
     - "Tune Brothers – I Like It (Ian Carey's Ghetto Fabulous Mix) – Housesession Records"
-    - "DJ Cruze chart rundown: "
-    - "Basement Jaxx – Take Me Back To Your House (Kurd Maverick Mix) – XL Records"
-    - "Sexy Toy – Everytime (Original Mix) – Orxy Music"
-    - "Jamiroquai – Runaway (Tom Belton Dub) – Sony BMG"
-    - "Ministers De La Funk – Believe 2006 (Lys Vocal Remix) – Oxyd"
-    - "The Energies – Life Begins (Raul Rincon Dub) – Hypertelic Records"
-    - "Lucky 7 – Why (Club Mix) – Simply Recordings"
-    - "Fatboy Slim – Champion Sound (M-Factor Remix) – Skint"
-    - "Cruze classic from 2000: "
+    - 'DJ Cruze chart rundown: '
+    - 'Basement Jaxx – Take Me Back To Your House (Kurd Maverick Mix) – XL Records'
+    - 'Sexy Toy – Everytime (Original Mix) – Orxy Music'
+    - 'Jamiroquai – Runaway (Tom Belton Dub) – Sony BMG'
+    - 'Ministers De La Funk – Believe 2006 (Lys Vocal Remix) – Oxyd'
+    - 'The Energies – Life Begins (Raul Rincon Dub) – Hypertelic Records'
+    - 'Lucky 7 – Why (Club Mix) – Simply Recordings'
+    - 'Fatboy Slim – Champion Sound (M-Factor Remix) – Skint'
+    - 'Cruze classic from 2000: '
     - "99th Affair feat. Latanza Waters – Mountain Top (Pierre J's New Born Vox Dub) – Edel"
 ---
 

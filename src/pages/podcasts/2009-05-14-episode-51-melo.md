@@ -35,12 +35,12 @@ media:
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=688'
   tracklist:
-    - '[00:00:00] Calvin Harris – I'm Not Alone (Deadmau5 Remix) – Fly Eye Records'
+    - "[00:00:00] Calvin Harris – I'm Not Alone (Deadmau5 Remix) – Fly Eye Records"
     - '[00:06:30] Steve Angello, Axwell, Sebastian Ingrosso and Laidback Luke – Leave The World Behind (Original Mix) – Axtone Records'
     - '[00:11:45] Pryda – Lift (Original Mix) – Pryda Recordings'
     - '[00:18:37] Vandalism – Bucci Bag (Ian Carey Remix) – Vicious Grooves'
     - '[00:23:52] DJ D & Will Dawson – Do It Tonight (Funkfinders Electroid Remix) – Metrogroove Records'
-    - '[00:29:38] David Guetta feat Kelly Rowland – When Love Takes Over (Electro Extended Mix) – F*** Me I'm Famous'
+    - "[00:29:38] David Guetta feat Kelly Rowland – When Love Takes Over (Electro Extended Mix) – F*** Me I'm Famous"
     - '[00:37:03] Wolfgang Gartner – Push & Rise (Original Mix) – Kindergarten'
     - '[00:42:17] Phonat – Set Me Free (Original Mix) – Mofo Hifi'
     - '[00:48:10] Pryda – Melo (Original Mix) – Pryda Recordings'

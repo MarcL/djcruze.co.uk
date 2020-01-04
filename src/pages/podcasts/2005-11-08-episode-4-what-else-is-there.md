@@ -5,7 +5,7 @@ date: '2005-11-08'
 
 #permalink: /2005/11/08/episode-4-what-else-is-there/
 permalink: /podcasts/episode-4-what-else-is-there/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -13,13 +13,13 @@ enclosure:
         http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast004_071105.mp3
         4993024
         audio/mpeg
-        
+
   - |
     |
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast004_071105.mp3
         38404096
         audio/mpeg
-        
+
 votio:
   - 9.2903225806451,31,
 
@@ -34,22 +34,22 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/podcasts/Cruze_Podcast004_071105.mp3"
-  length: "01:00:00"
-  keywords: ""
+  content: 'audio/podcasts/Cruze_Podcast004_071105.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "New tunes: "
-    - "Discrete featuring Belle Erskine – Love Me – ToykoProject"
+    - 'New tunes: '
+    - 'Discrete featuring Belle Erskine – Love Me – ToykoProject'
     - "Paul Masterson presents Subway – Pullin' For Two – Southern Fried Records"
-    - "The Soul Seekerz – Electrick Shock 2005 – Instinct Records"
-    - "Top 10 rundown: "
+    - 'The Soul Seekerz – Electrick Shock 2005 – Instinct Records'
+    - 'Top 10 rundown: '
     - "Andrea T Mendoza – Can't Fake It (Kurd Maverick Mix) – Adhesive"
     - "Unknown Artist – Twisted Transistor (Kupper's Electro-tec Mix) – White Label"
-    - "Braund Reynolds – Rocket – Ten Records"
-    - "Deep Dish – Sacramento (Raul Rincon Remix) - Positiva"
-    - "Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound"
-    - "Cruze classic from 1995: "
-    - "The Flavour – Superfly (So Damn Tuff Mix) (from the "2 Damn Hot EP") – Jive"
+    - 'Braund Reynolds – Rocket – Ten Records'
+    - 'Deep Dish – Sacramento (Raul Rincon Remix) - Positiva'
+    - 'Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound'
+    - 'Cruze classic from 1995: '
+    - 'The Flavour – Superfly (So Damn Tuff Mix) (from the "2 Damn Hot EP") – Jive'
 ---
 
 Back once again with the Podcast master:

@@ -37,7 +37,7 @@ media:
     - '[00:06:18] Harris & Spoon feat Sam Obernik – Baditude (Club Mix) – Toolroom Records'
     - '[00:12:07] Tim Deluxe – You Got Tha Touch (Original) – Skint'
     - '[00:18:22] The Whitest Boy Alive – Golden Cage (Fred Falke Mix) – Modular'
-    - '[00:24:52] Machines Don't Care – Afrojacker – White'
+    - "[00:24:52] Machines Don't Care – Afrojacker – White"
     - '[00:29:56] Till West & Eddie Thoneick – Hi N Bye (Smax & Gold Remix) – Phunkwerk'
     - '[00:37:11] Rihanna – Take A Bow (Seamus Haji Remix) – Mercury'
     - '[00:44:56] Adele – Hometown Glory (Axwell Club Mix) – XL'

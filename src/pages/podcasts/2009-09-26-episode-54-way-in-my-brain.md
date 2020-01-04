@@ -43,7 +43,7 @@ media:
     - '[00:23:15] Ou Est Le Swimming Pool – Dance The Way I Feel (Armand Van Helden Club Mix) – Stiff Records'
     - '[00:28:03] Wolfgang Gartner – Fire Power (Original Mix) – Kindergarten'
     - '[00:33:46] Eddie Thoneick feat. Andy P – Love Under Pressure (Eddie Thoneick Remix) – Tonik Recordings'
-    - '[00:38:09] David Guetta, Sebastian Ingrosso and Dirty South feat. Julie McKnight – How Soon Is Now (Extended Version) – Fk Me I'm Famous'
+    - "[00:38:09] David Guetta, Sebastian Ingrosso and Dirty South feat. Julie McKnight – How Soon Is Now (Extended Version) – F**k Me I'm Famous"
     - '[00:44:18] Lys feat. Mooli – San Francisco Rain (Chris Lake Remix) – Rising Music'
     - '[00:51:04] Sharooz – Adrenalize (Phonat Deconstructive Mix) – Mofo Hifi Records'
     - 'Cruze classic from 1991:'

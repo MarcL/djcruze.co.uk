@@ -5,7 +5,7 @@ date: '2008-12-23'
 
 #permalink: /2008/12/23/episode-46-sexy-dancer/
 permalink: /podcasts/episode-46-sexy-dancer/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -13,7 +13,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast046_231208.mp3
         56589112
         audio/mpeg
-        
+
 votio:
   - 9.2333333333333,30,
 
@@ -28,22 +28,22 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast46.jpg"
-  content: "audio/podcasts/Cruze_Podcast046_231208.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast46.jpg'
+  content: 'audio/podcasts/Cruze_Podcast046_231208.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] East 17 – Stay Another Day (Funkfinders Electroid Remix) – White"
-    - "[00:06:00] Bodyrox & Luciana feat Nick Clow – Brave New World (Original Mix) – Phonetic"
-    - "[00:12:07] Chris Lake feat Nastala – If You Knew (Original Mix) – Rising Music"
-    - "[00:18:22] Arno Cost – Souvenir (Arias Remix) – CR2 Records"
-    - "[00:24:22] Super Mal & Phonat – Pixelated (Original Mix) – Bandito Records"
-    - "[00:29:22] The Young Punx – Never Die (12" Mix) – Mofo Hifi"
-    - "[00:33:22] Freemasons feat Hazel Fernandes – If (Jolyon Petch Vocal Club Mix) – Loaded"
-    - "[00:40:19] Soul Avengerz – One Luv (Dirty Dub) – Milk & Sugar"
-    - "[00:45:48] Simone Denny – Addicted (World Of Colour Remix) – White"
-    - "Cruze classic from 1994: "
-    - "[00:50:45] The Rockford Files – Sexy Dancer – Blackburn Records"
+    - '[00:00:00] East 17 – Stay Another Day (Funkfinders Electroid Remix) – White'
+    - '[00:06:00] Bodyrox & Luciana feat Nick Clow – Brave New World (Original Mix) – Phonetic'
+    - '[00:12:07] Chris Lake feat Nastala – If You Knew (Original Mix) – Rising Music'
+    - '[00:18:22] Arno Cost – Souvenir (Arias Remix) – CR2 Records'
+    - '[00:24:22] Super Mal & Phonat – Pixelated (Original Mix) – Bandito Records'
+    - '[00:29:22] The Young Punx – Never Die (12" Mix) – Mofo Hifi'
+    - '[00:33:22] Freemasons feat Hazel Fernandes – If (Jolyon Petch Vocal Club Mix) – Loaded'
+    - '[00:40:19] Soul Avengerz – One Luv (Dirty Dub) – Milk & Sugar'
+    - '[00:45:48] Simone Denny – Addicted (World Of Colour Remix) – White'
+    - 'Cruze classic from 1994: '
+    - '[00:50:45] The Rockford Files – Sexy Dancer – Blackburn Records'
 ---
 
 Here is Episode #46 of the DJ Cruze Podcast or "The Christmas Podcast" as it's sometimes known. It's a couple of days late due to some Christmas partying but don't worry, it's packed full of slamming house beats for you to enjoy while you tuck into your turkey, goose or whatever poultry you might be eating during the festive season.

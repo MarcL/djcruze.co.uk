@@ -5,7 +5,7 @@ date: '2008-01-06'
 
 #permalink: /2008/01/06/episode-36-best-of-2007-podcast/
 permalink: /podcasts/episode-36-best-of-2007-podcast/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -13,7 +13,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
         71763419
         audio/mpeg
-        
+
 votio:
   - 8.4545454545456,22,
 
@@ -28,24 +28,24 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast36.jpg"
-  content: "audio/podcasts/Cruze_Podcast036_040108.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/podcasts/podcast36.jpg'
+  content: 'audio/podcasts/Cruze_Podcast036_040108.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] N'Dea Davenport – One Day My Love (D'Ramirez 12" Mix) – Dozer Records  "
-    - "[00:05:45] Camille Jones – The Creeps (Fedde Le Grande Club Mix) – Data Records  "
-    - "[00:11:52] Andrea Doria vs LXR – Freak Me (Dave Spoon Remix) – GI Recordings  "
-    - "[00:17:48] Dragonette – I Get Around (Van She Dub Mix) – Mercury  "
-    - "[00:22:56] Larry Tee – Licky (Herve Goes Low Remix) – White  "
-    - "[00:27:41] DJ DLG – Your Eyes (Original Mix) – Eyezcream Recordings  "
-    - "[00:32:41] Mighty Dub Katz – Magic Carpet Ride (Young Punx Remix) – Southern Fried Records  "
-    - "[00:38:03] Axwell – I Found You (Remode) – Axtone  "
-    - "[00:43:48] Armand Van Helden – NYC Beat (Original Mix) – Southern Fried Records  "
-    - "[00:49:03] Sia – The Girl You Lost To Cocaine (Stonebridge Club Mix) – Monkey Puzzle Records  "
-    - "[00:55:48] Coburn – Razorblade (Malente Remix) – Great Stuff  "
-    - "[00:62:18] Bodyrox ft. Luciana – What Planet You On (The Slacksons Mix) – Phonetic Records  "
-    - "[00:00:00] Axwell & Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone  "
+    - '[00:00:00] N''Dea Davenport – One Day My Love (D''Ramirez 12" Mix) – Dozer Records'
+    - '[00:05:45] Camille Jones – The Creeps (Fedde Le Grande Club Mix) – Data Records'
+    - '[00:11:52] Andrea Doria vs LXR – Freak Me (Dave Spoon Remix) – GI Recordings'
+    - '[00:17:48] Dragonette – I Get Around (Van She Dub Mix) – Mercury'
+    - '[00:22:56] Larry Tee – Licky (Herve Goes Low Remix) – White'
+    - '[00:27:41] DJ DLG – Your Eyes (Original Mix) – Eyezcream Recordings'
+    - '[00:32:41] Mighty Dub Katz – Magic Carpet Ride (Young Punx Remix) – Southern Fried Records'
+    - '[00:38:03] Axwell – I Found You (Remode) – Axtone'
+    - '[00:43:48] Armand Van Helden – NYC Beat (Original Mix) – Southern Fried Records'
+    - '[00:49:03] Sia – The Girl You Lost To Cocaine (Stonebridge Club Mix) – Monkey Puzzle Records'
+    - '[00:55:48] Coburn – Razorblade (Malente Remix) – Great Stuff'
+    - '[00:62:18] Bodyrox ft. Luciana – What Planet You On (The Slacksons Mix) – Phonetic Records'
+    - "[00:00:00] Axwell & Sebastian Ingrosso vs. Salem Al Fakir – It's True (Original Mix) – Axtone"
 ---
 
 It's that time of year again when I give you the "Best of ..." podcast. Apologies that it didn't come before 31st December 2007 as promised but [I was in bed full of the winter vomiting virus][1] which wasn't fun at all. So here are the bad boys, the heavy hitters, the killer tunes that rocked my dancefloors in 2007 all mixed up into a hot 74 minute mix.

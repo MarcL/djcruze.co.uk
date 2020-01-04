@@ -5,9 +5,9 @@ date: '2005-12-31'
 
 #permalink: /2005/12/31/episode-8-best-of-2005-mix/
 permalink: /podcasts/episode-8-best-of-2005-mix/
-"itunes:category":
+'itunes:category':
   - Music
-"itunes:duration":
+'itunes:duration':
   - 01:13:30
 enclosure:
   - |
@@ -15,16 +15,16 @@ enclosure:
         http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast008_311205.mp3
         14059520
         audio/mpeg
-        
+
   - |
     |
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast008_311205.mp3
         52928512
         audio/mpeg
-        
+
 votio:
   - 9.0612244897959,49,
-  
+
 ###################################
 # Podcast
 ###################################
@@ -36,24 +36,24 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/podcasts/Cruze_Podcast008_311205.mp3"
-  length: "01:03:45"
-  keywords: ""
+  content: 'audio/podcasts/Cruze_Podcast008_311205.mp3'
+  length: '01:03:45'
+  keywords: ''
   tracklist:
-    - "Best of 2005 Mix "
+    - 'Best of 2005 Mix '
     - "Lil' Love – Little Love (Soul Avengerz Mix) – Positiva"
-    - "Jenn Cunetta – Come Rain Come Shine (Stonebridge Mix) – White"
-    - "Discrete feat. Belle Erskine – Love Me (12" Mix) – Tokyo Project"
-    - "Sex On Monday – Bring Back The Love (Hold Me Down) (Soul Avengerz Mix) – Oxyd / Manifesto Records]"
+    - 'Jenn Cunetta – Come Rain Come Shine (Stonebridge Mix) – White'
+    - 'Discrete feat. Belle Erskine – Love Me (12" Mix) – Tokyo Project'
+    - 'Sex On Monday – Bring Back The Love (Hold Me Down) (Soul Avengerz Mix) – Oxyd / Manifesto Records]'
     - "Supafly vs Fishbowl – Let's Get Down (Full Intention Club Mix) – Eye Industries"
-    - "Sleve and Lowman – So Fine – Freestyle Records"
-    - "Haji & Emanuel – Weekend – Azuli"
-    - "Bush II Bush – Piano Track (MYNC Project Balls II Bush Remix) – CR2"
-    - "C-Mos – 2 Million Ways (Axwell Mix) – Lowered Recordings"
-    - "Jan Francisco meets Joseph Armani – Infatuation (Dubmix) – Joia"
-    - "Olav Basoski – Promises – Rootz Records"
-    - "Moby – Raining Again (Steve Angello Vocal Mix) – Mute"
-    - "Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound"
+    - 'Sleve and Lowman – So Fine – Freestyle Records'
+    - 'Haji & Emanuel – Weekend – Azuli'
+    - 'Bush II Bush – Piano Track (MYNC Project Balls II Bush Remix) – CR2'
+    - 'C-Mos – 2 Million Ways (Axwell Mix) – Lowered Recordings'
+    - 'Jan Francisco meets Joseph Armani – Infatuation (Dubmix) – Joia'
+    - 'Olav Basoski – Promises – Rootz Records'
+    - 'Moby – Raining Again (Steve Angello Vocal Mix) – Mute'
+    - 'Royksopp – What Else Is There? (Thin White Duke Mix) – Wall Of Sound'
 ---
 
 Here it is. The one you have been waiting for. Episode 8 of the DJ Cruze podcast otherwise known as "The Best of 2005 Mix".  

@@ -1,7 +1,8 @@
 ---
 title: Tasty Acid Mix (September 1993)
 author: djcruze
-date: '2005-09-08'
+date: '1993-09-01'
+
 #permalink: /2005/09/08/tasty-acid-mix-september-1993/
 permalink: /mixes/tasty-acid-mix-september-1993/
 enclosure:

@@ -1,6 +1,8 @@
 ---
 title: Cure For The Common Sunday Mix June 2006
 author: djcruze
+date: '2006-07-17'
+
 #permalink: /2006/07/17/cure-for-the-common-sunday-mix-june-2006/
 permalink: /mixes/cure-for-the-common-sunday-mix-june-2006/
 'itunes:category':

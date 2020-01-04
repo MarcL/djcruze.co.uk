@@ -1,9 +1,11 @@
 ---
 title: 'Christmas 2006: Dark and dubby mix'
 author: djcruze
+date: '2006-12-31'
+
 #permalink: /2006/12/31/christmas-2006-dark-and-dubby-mix/
 permalink: /mixes/christmas-2006-dark-and-dubby-mix/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,7 +13,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_darkanddubbymix.mp3
         1990656
         audio/mpeg
-        
+
 votio:
   - 8.2857142857144,56,
 ###################################
@@ -25,17 +27,17 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/mixes/djcruze_december2006_darkanddubbymix.mp3"
-  length: "00:42:27"
-  keywords: ""
+  content: 'audio/mixes/djcruze_december2006_darkanddubbymix.mp3'
+  length: '00:42:27'
+  keywords: ''
   tracklist:
     - "Dannii Minogue – He's The Greatest Dancer (Chris Lake Remix) – AATW"
-    - "Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings"
-    - "The Group Dynamics – Consequences (Original Vocal Mix) – UMM"
-    - "Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI"
-    - "The Young Punx – Rockall (Phonat Mix) – Mofo Hifi"
-    - "Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth"
-    - "Tyken – Every Word (Dave Spoon Remix) – Hed Kandi"
+    - 'Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings'
+    - 'The Group Dynamics – Consequences (Original Vocal Mix) – UMM'
+    - 'Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI'
+    - 'The Young Punx – Rockall (Phonat Mix) – Mofo Hifi'
+    - 'Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth'
+    - 'Tyken – Every Word (Dave Spoon Remix) – Hed Kandi'
 ---
 
 So for the 5th mini mix of Christmas we have something deep, dark and dubby. Imagine it's 4am in a club and you've had way too much of your favourite substance (mine is beer but yours might be something else!) What do you need? Some deep and dirty grooves to chill you out a bit of course!
@@ -54,21 +56,21 @@ Hope you enjoyed the deep and dubby mix and watch out for the final mix in the C
 
 **Tracklisting:**
 
-  1. Dannii Minogue – He's The Greatest Dancer (Chris Lake Remix) – AATW
-  2. Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings
-  3. The Group Dynamics – Consequences (Original Vocal Mix) – UMM
-  4. Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI
-  5. The Young Punx – Rockall (Phonat Mix) – Mofo Hifi
-  6. Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth
-  7. Tyken – Every Word (Dave Spoon Remix) – Hed Kandi
+1. Dannii Minogue – He's The Greatest Dancer (Chris Lake Remix) – AATW
+2. Ben Macklin – Feel Together (Eddie Thoneick Remix) – Free2Air Recordings
+3. The Group Dynamics – Consequences (Original Vocal Mix) – UMM
+4. Robbie Williams – Lovelight (Kurd Maverick Vocal Mix) – EMI
+5. The Young Punx – Rockall (Phonat Mix) – Mofo Hifi
+6. Freelance Hellraiser – Weightlessness (Klaas Mix) – Ugly Truth
+7. Tyken – Every Word (Dave Spoon Remix) – Hed Kandi
 
 <div style="clear:both;">
 </div>
 
- [1]: http://www.chris-lake.com/
- [2]: http://www.eddiethoneick.com/
- [3]: http://www.theyoungpunx.com/
- [4]: http://www.bbc.co.uk/radio4/
- [5]: http://www.bbc.co.uk/weather/coast/shipping/
- [6]: http://www.thefreelancehellraiser.com/
- [7]: http://www.davespoon.co.uk/
+[1]: http://www.chris-lake.com/
+[2]: http://www.eddiethoneick.com/
+[3]: http://www.theyoungpunx.com/
+[4]: http://www.bbc.co.uk/radio4/
+[5]: http://www.bbc.co.uk/weather/coast/shipping/
+[6]: http://www.thefreelancehellraiser.com/
+[7]: http://www.davespoon.co.uk/

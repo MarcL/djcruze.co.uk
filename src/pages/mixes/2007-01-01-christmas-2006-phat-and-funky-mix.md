@@ -1,6 +1,8 @@
 ---
 title: 'Christmas 2006: Phat and funky mix'
 author: djcruze
+date: '2007-01-01'
+
 #permalink: /2007/01/01/christmas-2006-phat-and-funky-mix/
 permalink: /mixes/christmas-2006-phat-and-funky-mix/
 'itunes:category':

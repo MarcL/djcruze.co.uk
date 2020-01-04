@@ -1,7 +1,7 @@
 ---
 title: 'Post Modern Sleaze Mix (Winter 1997)'
 author: djcruze
-date: '2005-10-31'
+date: '1997-12-01'
 
 #permalink: /2005/10/31/post-modern-sleaze-mix-winter-1997/
 permalink: /mixes/post-modern-sleaze-mix-winter-1997/

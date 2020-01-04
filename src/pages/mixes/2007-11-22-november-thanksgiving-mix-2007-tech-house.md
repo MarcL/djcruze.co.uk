@@ -1,9 +1,11 @@
 ---
 title: 'November Thanksgiving Mix 2007 – Tech House'
 author: djcruze
+date: '2007-11-22'
+
 #permalink: /2007/11/22/november-thanksgiving-mix-2007-tech-house/
 permalink: /mixes/november-thanksgiving-mix-2007-tech-house/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,7 +13,7 @@ enclosure:
         http://www.djcruzeaudio.co.uk/mixes/djcruze_november2007mix.mp3
         65792000
         audio/mpeg
-        
+
 votio:
   - 7.7222222222222,36,
 
@@ -26,21 +28,21 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/mixes/november07mix.jpg"
-  content: "audio/mixes/djcruze_november2007mix.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: 'images/mixes/november07mix.jpg'
+  content: 'audio/mixes/djcruze_november2007mix.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] – Murk presents Funky Green Dogs – Reach For Me (TV Rock & Dirty South Remix) – CR2"
-    - "[00:06:35] – Edison – Press Repeat (Original Extended Mix) – Rebirth"
-    - "[00:10:46] – Splittr – All Alone (Michael Gray Remix) – Eye Industries"
-    - "[00:17:04] – Thom Yorke – The Eraser (Strech & Vern Edit) – White"
-    - "[00:23:23] – Seal – Amazing (Thin White Duke Dub) – Warner Bros."
+    - '[00:00:00] – Murk presents Funky Green Dogs – Reach For Me (TV Rock & Dirty South Remix) – CR2'
+    - '[00:06:35] – Edison – Press Repeat (Original Extended Mix) – Rebirth'
+    - '[00:10:46] – Splittr – All Alone (Michael Gray Remix) – Eye Industries'
+    - '[00:17:04] – Thom Yorke – The Eraser (Strech & Vern Edit) – White'
+    - '[00:23:23] – Seal – Amazing (Thin White Duke Dub) – Warner Bros.'
     - "[00:29:02] – Razorlight – Can't Stop (Pete Tong and Dave Spoon Pure Pacha Mix) – White"
-    - "[00:37:11] – Deadmau5 – Jaded (Original Mix) – Mau5trap"
-    - "[00:44:11] – Coburn – Razorblade (Malente Remix) – Ego"
-    - "[00:50:05] – Rairbirds – Calling (Jerry Ropero Vox) – One Little Indian"
-    - "[00:56:16] – Orange Bud – Lose Control – Analyzed Records"
+    - '[00:37:11] – Deadmau5 – Jaded (Original Mix) – Mau5trap'
+    - '[00:44:11] – Coburn – Razorblade (Malente Remix) – Ego'
+    - '[00:50:05] – Rairbirds – Calling (Jerry Ropero Vox) – One Little Indian'
+    - '[00:56:16] – Orange Bud – Lose Control – Analyzed Records'
     - "[01:00:27] – H2 – Somethin' Sik – JFunk"
 ---
 

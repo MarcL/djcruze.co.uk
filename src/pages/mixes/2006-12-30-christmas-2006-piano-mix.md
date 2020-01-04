@@ -1,6 +1,8 @@
 ---
 title: 'Christmas 2006: Piano mix'
 author: djcruze
+date: '2006-12-30'
+
 #permalink: /2006/12/30/christmas-2006-piano-mix/
 permalink: /mixes/christmas-2006-piano-mix/
 'itunes:category':

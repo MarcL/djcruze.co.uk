@@ -1,6 +1,8 @@
 ---
 title: 'Christmas 2006: Warm Up Mix'
 author: djcruze
+date: '2006-12-27'
+
 #permalink: /2006/12/27/christmas-2006-warm-up-mix/
 permalink: /mixes/christmas-2006-warm-up-mix/
 'itunes:category':

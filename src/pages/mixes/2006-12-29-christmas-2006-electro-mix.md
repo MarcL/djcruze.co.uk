@@ -1,6 +1,8 @@
 ---
 title: 'Christmas 2006: Electro mix'
 author: djcruze
+date: '2006-12-29'
+
 #permalink: /2006/12/29/christmas-2006-electro-mix/
 permalink: /mixes/christmas-2006-electro-mix/
 'itunes:category':

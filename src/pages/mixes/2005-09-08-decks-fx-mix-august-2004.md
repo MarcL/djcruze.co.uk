@@ -1,6 +1,8 @@
 ---
 title: 'Decks & FX Mix (August 2004)'
 author: djcruze
+date: '2005-09-08'
+
 #permalink: /2005/09/08/decks-fx-mix-august-2004/
 permalink: /mixes/decks-fx-mix-august-2004/
 enclosure:

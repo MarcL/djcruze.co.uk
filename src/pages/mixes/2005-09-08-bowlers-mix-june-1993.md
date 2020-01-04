@@ -1,6 +1,8 @@
 ---
 title: Bowlers Mix (June 1993)
 author: djcruze
+date: '1993-06-01'
+
 #permalink: /2005/09/08/bowlers-mix-june-1993/
 permalink: /mixes/bowlers-mix-june-1993/
 enclosure:

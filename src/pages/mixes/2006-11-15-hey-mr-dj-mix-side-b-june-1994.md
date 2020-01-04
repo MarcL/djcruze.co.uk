@@ -1,6 +1,8 @@
 ---
 title: 'Hey Mr DJ Mix (Side B) – June 1994'
 author: djcruze
+date: '1994-06-02'
+
 # permalink: /2006/11/15/hey-mr-dj-mix-side-b-june-1994/
 permalink: /mixes/hey-mr-dj-mix-side-b-june-1994/
 'itunes:category':

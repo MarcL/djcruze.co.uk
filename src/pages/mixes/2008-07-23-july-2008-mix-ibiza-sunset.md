@@ -1,6 +1,8 @@
 ---
 title: 'July 2008 Mix – Ibiza Sunset'
 author: djcruze
+date: '2008-07-23'
+
 #permalink: /2008/07/23/july-2008-mix-ibiza-sunset/
 permalink: /mixes/july-2008-mix-ibiza-sunset/
 'itunes:category':

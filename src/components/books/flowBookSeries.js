@@ -15,7 +15,7 @@ const FlowBookSeries = ({ data, otherTitle }) => (
       query AllPodcastQuery {
         allMarkdownRemark(
           filter: { frontmatter: { categories: { in: ["Podcasts"] } } }
-          sort: { fields: frontmatter___date, order: ASC }
+          sort: { fields: frontmatter___date, order: DESC }
         ) {
           edges {
             node {

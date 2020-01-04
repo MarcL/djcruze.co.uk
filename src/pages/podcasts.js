@@ -4,7 +4,7 @@ import { graphql } from 'gatsby';
 
 import Layout from '../components/layout';
 import Seo from '../components/seo/seo';
-import FlowBookSeries from '../components/books/flowBookSeries';
+import Podcasts from '../components/podcasts';
 
 const PodcastsPage = ({ data, location }) => {
   return (
@@ -20,7 +20,7 @@ const PodcastsPage = ({ data, location }) => {
           title="DJ Cruze podcasts"
         />
       </div>
-      <FlowBookSeries />
+      <Podcasts />
     </Layout>
   );
 };

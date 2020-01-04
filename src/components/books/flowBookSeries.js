@@ -12,7 +12,7 @@ const getAllNodes = data => {
 const FlowBookSeries = ({ data, otherTitle }) => (
   <StaticQuery
     query={graphql`
-      query AllPodcastQuery {
+      query FlowPodcastQuery {
         allMarkdownRemark(
           filter: { frontmatter: { categories: { in: ["Podcasts"] } } }
           sort: { fields: frontmatter___date, order: DESC }

@@ -1,6 +1,8 @@
 ---
 title: 'Episode #22 – Life Begins'
 author: djcruze
+date: '2006-10-10'
+
 #permalink: /2006/10/10/episode-22-life-begins/
 permalink: /podcasts/episode-22-life-begins/
 "itunes:category":

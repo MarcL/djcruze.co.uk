@@ -1,6 +1,8 @@
 ---
 title: 'Episode #36 – Best of 2007 Podcast'
 author: djcruze
+date: '2008-01-06'
+
 #permalink: /2008/01/06/episode-36-best-of-2007-podcast/
 permalink: /podcasts/episode-36-best-of-2007-podcast/
 "itunes:category":

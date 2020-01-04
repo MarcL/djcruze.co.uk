@@ -1,10 +1,12 @@
 ---
 title: 'Episode #25 – Santa Baby'
 author: djcruze
+date: '2006-12-24'
+
 excerpt: "Ho! Ho! Ho! Merry Christmas! It's that time of year again when I bring some funky house tunes and dirty electro and leave it under the Christmas tree. Episode #25 of the DJ Cruze podcast will be appearing in your podcatcher on Christmas morning. It's a lot better than that lump of coal you received last year for being a naughty boy or girl!"
 #permalink: /2006/12/24/episode-25-santa-baby/
 permalink: /podcasts/episode-25-santa-baby/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -12,7 +14,7 @@ enclosure:
         http://ripple.radiotail.com/211/Cruze_Podcast025_241206.mp3
         0
         audio/mpeg
-        
+
 votio:
   - 8.421052631579,57,
 ###################################
@@ -26,23 +28,23 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/podcasts/Cruze_Podcast025_241206.mp3"
-  length: "01:06:30"
-  keywords: ""
+  content: 'audio/podcasts/Cruze_Podcast025_241206.mp3'
+  length: '01:06:30'
+  keywords: ''
   tracklist:
-    - "DJ Cruze exclusive: "
-    - "Eartha Kitt – Santa Baby (DJ Cruze Funkfinders Remix) – CDR"
-    - "DJ Cruze chart rundown: "
-    - "Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records"
-    - "Stonebridge – SOS (Stonebridge RMX) – CDR"
-    - "A Lee – Electric Passion (Original Mix) – Oxyd"
-    - "Just Jack – Starz In Their Eyes (Trophy Twins Mix) – Mercury Records"
-    - "Basoski & Romano – No One – Rootz Records"
-    - "Tyken – Every Word (Club Mix) – Hed Kandi"
-    - "Wi-Fi – Be Without You (Raul Rincon Mix) – AATW"
-    - "Starzoom – Billie Jean (Dave Moureaux Remix) – Gusto Records"
-    - "Dannii Minogue – Heâ€™s The Greatest Dancer (Chris Lake Remix) – AATW"
-    - "Cruze classic from 1995: "
+    - 'DJ Cruze exclusive: '
+    - 'Eartha Kitt – Santa Baby (DJ Cruze Funkfinders Remix) – CDR'
+    - 'DJ Cruze chart rundown: '
+    - 'Cafe Groove – Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) – Hit! Records'
+    - 'Stonebridge – SOS (Stonebridge RMX) – CDR'
+    - 'A Lee – Electric Passion (Original Mix) – Oxyd'
+    - 'Just Jack – Starz In Their Eyes (Trophy Twins Mix) – Mercury Records'
+    - 'Basoski & Romano – No One – Rootz Records'
+    - 'Tyken – Every Word (Club Mix) – Hed Kandi'
+    - 'Wi-Fi – Be Without You (Raul Rincon Mix) – AATW'
+    - 'Starzoom – Billie Jean (Dave Moureaux Remix) – Gusto Records'
+    - "Dannii Minogue – He's The Greatest Dancer (Chris Lake Remix) – AATW"
+    - 'Cruze classic from 1995: '
     - "Paula Abdul – Crazy Cool (Strike's Dub) – Virgin"
 ---
 
@@ -56,5 +58,5 @@ As always I love to hear your feed back on the show. [Contact me][1] using the f
 
 Oh and don't forget to check out the website over Christmas for the [six mini-mixes of Christmas][2]! Yet more great mixes for you to download. Merry Christmas!
 
- [1]: http://www.djcruze.co.uk/cms/contact/
- [2]: http://www.djcruze.co.uk/cms/2006/12/24/the-six-mini-mixes-of-christmas/
+[1]: http://www.djcruze.co.uk/cms/contact/
+[2]: http://www.djcruze.co.uk/cms/2006/12/24/the-six-mini-mixes-of-christmas/

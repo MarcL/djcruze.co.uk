@@ -1,6 +1,8 @@
 ---
 title: 'Episode #54 – Way In My Brain'
 author: djcruze
+date: '2009-09-26'
+
 #permalink: /2009/09/26/episode-54-way-in-my-brain/
 permalink: /podcasts/episode-54-way-in-my-brain/
 'itunes:category':

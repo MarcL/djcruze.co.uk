@@ -1,6 +1,8 @@
 ---
 title: 'Episode #23 – Easy'
 author: djcruze
+date: '2006-10-25'
+
 #permalink: /2006/10/25/episode-23-easy/
 permalink: /podcasts/episode-23-easy/
 'itunes:category':

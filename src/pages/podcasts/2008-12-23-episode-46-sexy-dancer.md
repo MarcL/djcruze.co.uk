@@ -1,6 +1,8 @@
 ---
 title: 'Episode #46 – Sexy Dancer'
 author: djcruze
+date: '2008-12-23'
+
 #permalink: /2008/12/23/episode-46-sexy-dancer/
 permalink: /podcasts/episode-46-sexy-dancer/
 "itunes:category":

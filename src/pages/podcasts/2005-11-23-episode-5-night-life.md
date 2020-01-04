@@ -1,6 +1,8 @@
 ---
 title: 'Episode #5 – Night Life'
 author: djcruze
+date: '2005-11-23'
+
 #permalink: /2005/11/23/episode-4-night-life/
 permalink: /podcasts/episode-4-night-life/
 'itunes:category':

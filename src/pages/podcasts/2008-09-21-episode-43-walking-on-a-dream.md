@@ -1,6 +1,8 @@
 ---
 title: 'Episode #43 – Walking On A Dream'
 author: djcruze
+date: '2008-09-21'
+
 #permalink: /2008/09/21/episode-43-walking-on-a-dream/
 permalink: /podcasts/episode-43-walking-on-a-dream/
 'itunes:category':

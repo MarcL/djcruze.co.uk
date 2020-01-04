@@ -1,6 +1,8 @@
 ---
 title: 'Episode #49 – Flashback'
 author: djcruze
+date: '2009-02-12'
+
 #permalink: /2009/02/12/episode-49-flashback/
 permalink: /podcasts/episode-49-flashback/
 'itunes:category':

@@ -1,6 +1,8 @@
 ---
 title: 'Episode #51 – Melo'
 author: djcruze
+date: '2009-05-14'
+
 #permalink: /2009/05/14/episode-51-melo/
 permalink: /podcasts/episode-51-melo/
 'itunes:category':

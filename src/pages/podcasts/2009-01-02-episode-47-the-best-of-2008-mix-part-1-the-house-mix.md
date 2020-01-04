@@ -1,6 +1,8 @@
 ---
 title: 'Episode #47 – The Best Of 2008 Mix Part 1 – The House Mix'
 author: djcruze
+date: '2009-01-02'
+
 #permalink: /2009/01/02/episode-47-the-best-of-2008-mix-part-1-the-house-mix/
 permalink: /podcasts/episode-47-the-best-of-2008-mix-part-1-the-house-mix/
 'itunes:category':

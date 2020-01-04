@@ -1,6 +1,8 @@
 ---
 title: 'Episode #21 – Seasons Of Love'
 author: djcruze
+date: '2006-09-23'
+
 #permalink: /2006/09/23/episode-21-seasons-of-love/
 permalink: /podcasts/episode-21-seasons-of-love/
 "itunes:category":
@@ -51,4 +53,4 @@ Don't forget to rate this podcast so I know what you like and don't like. Run yo
 
 As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 
- [1]: http://www.djcruze.co.uk/cms/contact/
+[1]: http://www.djcruze.co.uk/cms/contact/

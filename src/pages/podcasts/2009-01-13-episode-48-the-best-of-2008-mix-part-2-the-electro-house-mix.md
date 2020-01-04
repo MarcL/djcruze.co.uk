@@ -1,6 +1,8 @@
 ---
 title: 'Episode #48 – The Best Of 2008 Mix Part 2 – The Electro House Mix'
 author: djcruze
+date: '2009-01-13'
+
 #permalink: /2009/01/13/episode-48-the-best-of-2008-mix-part-2-the-electro-house-mix/
 permalink: /podcasts/episode-48-the-best-of-2008-mix-part-2-the-electro-house-mix/
 'itunes:category':

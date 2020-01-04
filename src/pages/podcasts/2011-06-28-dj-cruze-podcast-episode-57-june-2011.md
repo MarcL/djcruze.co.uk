@@ -1,7 +1,9 @@
 ---
-title: 'DJ Cruze Podcast Episode 57 - June 2011'
-teaser: "Funky and chunky house music!"
+title: 'Episode #57 - June 2011'
+teaser: 'Funky and chunky house music!'
 author: djcruze
+date: '2011-06-28'
+
 #permalink: /2011/06/28/dj-cruze-podcast-episode-57-june-2011/
 permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/
 
@@ -16,27 +18,28 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/dj-cruze-podcast-episode-57-june-2011.jpg"
-  content: "audio/podcasts/dj-cruze-podcast-episode-57-june-2011.mp3"
-  length: "01:10:32"
-  keywords: "roy davis jnr"
+  image: 'images/podcasts/dj-cruze-podcast-episode-57-june-2011.jpg'
+  content: 'audio/podcasts/dj-cruze-podcast-episode-57-june-2011.mp3'
+  length: '01:10:32'
+  keywords: 'roy davis jnr'
   # Set GUID for old podcasts to keep XML happy
-  guid: "http://www.djcruze.co.uk/cms/?p=820"
+  guid: 'http://www.djcruze.co.uk/cms/?p=820'
   tracklist:
-    - "[00:00:00] Roy Davis Jnr – Enjoy The Ride (James Talk & Ridney Mix)"
-    - "[00:05:45] Tim Deluxe & X-Press 2 – Tone Head Chemistry (Club Mix)"
-    - "[00:12:07] Sharam – Fun (Marco Lys Remix)"
-    - "[00:19:09] Pleasurekraft – Carny (Heartik & Rainer Weichhold Remix)"
-    - "[00:25:09] Pirupa – Guarda (Original Mix)"
-    - "[00:31:09] Hauswerks – I Said (Original Club Mix)"
+    - '[00:00:00] Roy Davis Jnr – Enjoy The Ride (James Talk & Ridney Mix)'
+    - '[00:05:45] Tim Deluxe & X-Press 2 – Tone Head Chemistry (Club Mix)'
+    - '[00:12:07] Sharam – Fun (Marco Lys Remix)'
+    - '[00:19:09] Pleasurekraft – Carny (Heartik & Rainer Weichhold Remix)'
+    - '[00:25:09] Pirupa – Guarda (Original Mix)'
+    - '[00:31:09] Hauswerks – I Said (Original Club Mix)'
     - "[00:36:39] Alex Kenji – Let's Get This Thing Started (Saeed Younan Mix)"
-    - "[00:42:09] Chris Lake & Marco Lys – The World Around Us (Extended Mix)"
-    - "[00:47:43] Deadmau5 – Raise Your Weapon (Madeon Remix)"
-    - "[00:51:22] John Dahlbäck – Kairo (Original Mix)"
-    - "[00:57:37] Axwell – Heart Is King (Original Mix)"
-    - "Cruze classic from 2006:"
-    - "[01:03:30] C-Mos – 2 Million Ways (Axwell Remix)"
+    - '[00:42:09] Chris Lake & Marco Lys – The World Around Us (Extended Mix)'
+    - '[00:47:43] Deadmau5 – Raise Your Weapon (Madeon Remix)'
+    - '[00:51:22] John Dahlbäck – Kairo (Original Mix)'
+    - '[00:57:37] Axwell – Heart Is King (Original Mix)'
+    - 'Cruze classic from 2006:'
+    - '[01:03:30] C-Mos – 2 Million Ways (Axwell Remix)'
 ---
+
 So... it's been a while hasn't it? Life sometimes gets in the way of letting you do the things you want to.  
 I've been busy and I'm back. For good. I hope!
 

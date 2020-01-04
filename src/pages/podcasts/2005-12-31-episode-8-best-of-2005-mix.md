@@ -1,6 +1,8 @@
 ---
 title: 'Episode #8 – Best of 2005 Mix'
 author: djcruze
+date: '2005-12-31'
+
 #permalink: /2005/12/31/episode-8-best-of-2005-mix/
 permalink: /podcasts/episode-8-best-of-2005-mix/
 "itunes:category":
@@ -62,11 +64,11 @@ It's a bit longer than normal and comes in at 73 minutes and 30 seconds. A nice 
 Here is the tracklisting for this week's show:
 
 - **Best of 2005 Mix**
-  - Lilâ€™ Love – Little Love ([Soul Avengerz][3] Mix) – Positiva
+  - Lil' Love – Little Love ([Soul Avengerz][3] Mix) – Positiva
   - [Jenn Cunetta][4] – Come Rain Come Shine (Stonebridge Mix) – White
   - Discrete feat. Belle Erskine – Love Me (12" Mix) – [Tokyo Project][5]
   - Sex On Monday – Bring Back The Love (Hold Me Down) ([Soul Avengerz][3] Mix) – Oxyd / [Manifesto Records][6]
-  - Supafly vs Fishbowl – Letâ€™s Get Down (Full Intention Club Mix) – [Eye Industries][7]
+  - Supafly vs Fishbowl – Let's Get Down (Full Intention Club Mix) – [Eye Industries][7]
   - Sleve and Lowman – So Fine – [Freestyle Records][8]
   - [Haji & Emanuel][9] – Weekend – [Azuli][10]
   - Bush II Bush – Piano Track ([MYNC][11] Project Balls II Bush Remix) – CR2

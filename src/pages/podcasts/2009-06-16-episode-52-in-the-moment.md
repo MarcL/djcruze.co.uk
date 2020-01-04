@@ -1,6 +1,8 @@
 ---
 title: 'Episode #52 – In The Moment'
 author: djcruze
+date: '2009-06-16'
+
 #permalink: /2009/06/16/episode-52-in-the-moment/
 permalink: /podcasts/episode-52-in-the-moment/
 'itunes:category':

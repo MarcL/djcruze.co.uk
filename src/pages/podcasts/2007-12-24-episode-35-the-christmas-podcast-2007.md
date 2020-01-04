@@ -1,6 +1,8 @@
 ---
 title: 'Episode #35 – The Christmas Podcast 2007'
 author: djcruze
+date: '2007-12-24'
+
 #permalink: /2007/12/24/episode-35-the-christmas-podcast-2007/
 permalink: /podcasts/episode-35-the-christmas-podcast-2007/
 'itunes:category':

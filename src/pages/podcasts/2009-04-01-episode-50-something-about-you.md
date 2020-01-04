@@ -1,6 +1,8 @@
 ---
 title: 'Episode #50 – Something About You'
 author: djcruze
+date: '2009-04-01'
+
 #permalink: /2009/04/01/episode-50-something-about-you/
 permalink: /podcasts/episode-50-something-about-you/
 'itunes:category':

@@ -1,6 +1,8 @@
 ---
 title: 'Episode #42 – Music Talking'
 author: djcruze
+date: '2008-08-24'
+
 #permalink: /2008/08/24/episode-42-music-talking/
 permalink: /podcasts/episode-42-music-talking/
 'itunes:category':

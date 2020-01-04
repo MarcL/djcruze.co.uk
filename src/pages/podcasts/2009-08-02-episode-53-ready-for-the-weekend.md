@@ -1,6 +1,8 @@
 ---
 title: 'Episode #53 – Ready For The Weekend'
 author: djcruze
+date: '2009-08-02'
+
 #permalink: /2009/08/02/episode-53-ready-for-the-weekend/
 permalink: /podcasts/episode-53-ready-for-the-weekend/
 'itunes:category':

@@ -1,6 +1,8 @@
 ---
 title: 'Episode #37 – Change'
 author: djcruze
+date: '2008-02-04'
+
 #permalink: /2008/02/04/episode-37-change/
 permalink: /podcasts/episode-37-change/
 'itunes:category':

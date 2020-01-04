@@ -26,7 +26,7 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast42.jpg'
+  image: '../../images/podcasts/podcast42.jpg'
   content: 'audio/podcasts/Cruze_Podcast042_240808.mp3'
   length: '01:00:00'
   keywords: ''

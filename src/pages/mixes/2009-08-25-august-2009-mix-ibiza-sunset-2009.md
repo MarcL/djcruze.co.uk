@@ -1,6 +1,7 @@
 ---
 title: 'August 2009 Mix – Ibiza Sunset 2009'
 author: djcruze
+date: '2009-08-25'
 #permalink: /2009/08/25/august-2009-mix-ibiza-sunset-2009/
 permalink: /mixes/august-2009-mix-ibiza-sunset-2009/
 'itunes:category':
@@ -26,7 +27,7 @@ categories:
 # Media details
 ###################################
 media:
-  image: '../../images/mixes/august2009mix_ibiza_sunset.jpg'
+  image: '../images/mixes/august2009mix_ibiza_sunset.jpg'
   content: 'audio/mixes/djcruzemix_ibiza_sunset_august2009.mp3'
   length: '01:00:00'
   keywords: ''
@@ -56,15 +57,14 @@ We then head into tech-house territory for some heavy hitting tracks from some o
 
 Keeping with the Swedish House Mafia theme we have one of the biggest tracks of the year, in my opinion, "Melo" by Pryda (aka Eric Prydz). It's a hands-in-the-air progressive house track which makes me feel happy inside when I hear it. After this we have a lovely summer house track from the Swiss producer and label mate of EDX, DJ Tatana with her track "Autumn Sun". This track will make you think of the sun setting at Cafe Mambo if nothing else does. Next in the mix is a big track which is being hammered by Roger Sanchez called "Deaf Wax" by Mesa. It's a pumping electro house track with a big, distorted, bit-crushed breakdown. Finally, we've got a bootleg track from Joe T Vanelli who has turned the Coldplay track "Life In Technicolour" into a minimal house track with a huge breakdown. Actually, I think the Coldplay track is known as "The Escapist" as it was featured in a UK film of the same name which I watched the other night, but I presume he's named it like this as it's a hidden track on the "Life In Technicolour" track on their latest album. Either way, he's done great things to it!
 
-So I hope you enjoyed the mix and if you did then [get in touch][4] and tell me. Also, why not consider [donating some money][5] so that I can cover the costs of producing the podcasts and mixes. And finally, don't forget to comment on the mix using the comment form below and tell me what you think.
+So I hope you enjoyed the mix and if you did then [get in touch][4] and tell me.
 
 Original [picture][8] by [alexharries'][9], used under Creative Commons licence.
 
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/08/august2009mix_ibiza_sunset.jpg
 [2]: http://www.djcruze.co.uk/cms/2008/07/23/july-2008-mix-ibiza-sunset/
 [3]: http://www.mofohifi.com/site/?p=357
-[4]: /cms/contact/
-[5]: http://www.dreamhost.com/donate.cgi?id=8244
+[4]: /contact/
 [6]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [7]: http://www.djcruzeaudio.co.uk/mixes/djcruzemix_ibiza_sunset_august2009.mp3
 [8]: http://www.flickr.com/photos/alexharries/2754859516/

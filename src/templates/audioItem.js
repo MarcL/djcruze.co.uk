@@ -10,8 +10,6 @@ export default ({ data, location }) => {
   // const image = post.frontmatter.image.childImageSharp.fluid;
   const { title, subtitle } = post.frontmatter;
 
-  console.log(post.frontmatter);
-
   return (
     <Page title={title} subtitle={subtitle} location={location}>
       <div className="cf w-100">

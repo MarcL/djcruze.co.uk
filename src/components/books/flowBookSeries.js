@@ -1,77 +1,54 @@
-// import React from 'react';
-// import { StaticQuery, graphql } from 'gatsby';
+import React from 'react';
+import { StaticQuery, graphql } from 'gatsby';
 
-// import BookSeries from './bookSeries';
-// import { getBookSeriesDataFromQuery } from '../../helpers/query';
-// import getBooksWithoutTitle from '../../helpers/getBooksWithoutTitle';
+const getAllNodes = data => {
+  const {
+    allMarkdownRemark: { edges },
+  } = data;
 
-// const FlowBookSeries = ({ data, otherTitle, showtitle = true }) => (
-//   <StaticQuery
-//     query={graphql`
-//       query FlowBookQuery {
-//         allMarkdownRemark(
-//           filter: { frontmatter: { series: { eq: "The Flow Series" } } }
-//           sort: { fields: frontmatter___releaseDate, order: ASC }
-//         ) {
-//           edges {
-//             node {
-//               frontmatter {
-//                 releaseDate
-//                 image {
-//                   id
-//                   name
-//                   extension
-//                 }
-//                 title
-//                 subtitle
-//               }
-//               fields {
-//                 slug
-//               }
-//             }
-//           }
-//         }
-//         images: allFile(
-//           filter: {
-//             relativePath: { glob: "books/covers/**" }
-//             sourceInstanceName: { eq: "images" }
-//           }
-//         ) {
-//           edges {
-//             node {
-//               childImageSharp {
-//                 fluid(maxWidth: 12000) {
-//                   originalName
-//                   ...GatsbyImageSharpFluid
-//                 }
-//               }
-//             }
-//           }
-//         }
-//       }
-//     `}
-//     render={data => {
-//       const seriesData = getBookSeriesDataFromQuery(data);
-//       const booksData = otherTitle
-//         ? {
-//             title: 'Other books in the Flow series',
-//             books: getBooksWithoutTitle(seriesData, otherTitle),
-//           }
-//         : {
-//             title: 'The Flow series',
-//             books: seriesData,
-//           };
+  return edges.map(edge => edge.node);
+};
 
-//       return (
-//         <div className="mv3 mw8 center">
-//           {showtitle && (
-//             <h2 className="ttu f5 f4-m f3-ns mt3 mb0 tc">{booksData.title}</h2>
-//           )}
-//           <BookSeries data={booksData.books} />
-//         </div>
-//       );
-//     }}
-//   />
-// );
+const FlowBookSeries = ({ data, otherTitle }) => (
+  <StaticQuery
+    query={graphql`
+      query AllPodcastQuery {
+        allMarkdownRemark(
+          filter: { frontmatter: { categories: { in: ["Podcasts"] } } }
+          sort: { fields: frontmatter___date, order: ASC }
+        ) {
+          edges {
+            node {
+              frontmatter {
+                media {
+                  image
+                }
+                title
+                categories
+                date
+              }
+            }
+          }
+        }
+      }
+    `}
+    render={data => {
+      const nodes = getAllNodes(data);
+      //   console.log(nodes);
 
-// export default FlowBookSeries;
+      return (
+        <div className="mv3 mw8 center">
+          <h2 className="ttu f5 f4-m f3-ns mt3 mb0 tc">Title</h2>
+          {nodes.map(node => {
+            const {
+              frontmatter: { title },
+            } = node;
+            return <h3>{title}</h3>;
+          })}
+        </div>
+      );
+    }}
+  />
+);
+
+export default FlowBookSeries;

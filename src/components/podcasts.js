@@ -20,6 +20,9 @@ const Podcasts = () => (
                 categories
                 date
               }
+              fields {
+                slug
+              }
             }
           }
         }

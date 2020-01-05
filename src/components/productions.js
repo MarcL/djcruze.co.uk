@@ -20,6 +20,9 @@ const Productions = () => (
                 categories
                 date
               }
+              fields {
+                slug
+              }
             }
           }
         }

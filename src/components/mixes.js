@@ -20,6 +20,9 @@ const Mixes = () => (
                 categories
                 date
               }
+              fields {
+                slug
+              }
             }
           }
         }

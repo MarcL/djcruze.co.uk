@@ -1,13 +1,15 @@
 ---
 title: 'Nat King Cole &#8211; The Christmas Song (DJ Cruze Funkfinders Mix)'
 author: djcruze
-layout: post
+layout: production
 # permalink: /2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
 permalink: /productions/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
 'itunes:category':
   - Music
 categories:
   - Studio
+tags:
+  - production
 ---
 
 <img src='/cms/wp-content/natkingcole.gif' alt='Nat King Cole - The Christmas Song' class="normal" />

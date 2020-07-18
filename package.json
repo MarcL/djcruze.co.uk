@@ -1,0 +1,22 @@
+{
+  "name": "djcruze.co.uk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MarcL/djcruze.co.uk.git",
+  "author": "Marc Littlemore <marc.littlemore@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "build": "yarn build:all",
+    "build:all": "yarn build:site",
+    "build:images": "node scripts/thumbnails.js",
+    "build:site": "eleventy",
+    "build:js": "parcel build src/clientjs/index.js --out-dir src/distjs --out-file bundle.js",
+    "link-check": "blc http://localhost:4000 -ro",
+    "serve": "eleventy --serve"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "dotenv": "^8.2.0",
+    "lodash.escape": "^4.0.1"
+  }
+}

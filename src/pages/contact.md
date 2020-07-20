@@ -1,7 +1,8 @@
 ---
+title: 'Contact me'
+date: '2018-10-17T20:00:00.00Z'
 layout: default
-title: Contact me
-permalink: /contact
+permalink: /contact/
 ---
 
 Hello

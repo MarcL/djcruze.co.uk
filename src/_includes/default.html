@@ -15,13 +15,25 @@
       rel="stylesheet"
       href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"
     />
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
     <script
       src="https://kit.fontawesome.com/d38990851e.js"
       crossorigin="anonymous"
     ></script>
+    <style>
+      body {
+        font-family: 'Poppins', sans-serif;
+      }
+
+      h2 {
+        font-size: 40px;
+        font-weight: 600;
+      }
+    </style>
   </head>
 
-  <body class="w-100 sans-serif bg-light-gray">
+  <body class="w-100 bg-light-gray">
     <header class="w-100 white bg-near-black">
       <nav class="db dt-l w-80 center border-box pa3 ph5-l">
         <a
@@ -29,11 +41,7 @@
           href="/"
           title="Home"
         >
-          <img
-            src="http://tachyons.io/img/logo.jpg"
-            class="dib w2 h2 br-100"
-            alt="Site Name"
-          />
+          <img src="/images/djcruze/logo/djcruze-logo-white.png" title="DJ Cruze" alt="DJ Cruze logo" />
         </a>
         <div class="db dtc-l v-mid w-100 w-75-l tc tr-l ttu">
           {% for menuItem in mainMenu %}
@@ -49,20 +57,13 @@
     </header>
 
     <main class="w-80 center bg-white br3 shadow-4 mv2 pv2 ph4">
-      <h1>{{title}}</h1>
+      <h2>{{title}}</h2>
       {{content}}
     </main>
 
-    <footer class="w-80 center bg-white br3 shadow-4 pv2 ph4">
-      <div class="tc center">
-        {% for menuItem in footerMenu %}
-        <a
-          class="link dim dark-gray f6 f5-l dib mr3 mr4-l"
-          href="{{menuItem.url}}"
-          title="{{menuItem.title}}"
-          >{{menuItem.name}}</a
-        >
-        {% endfor %}
+    <footer class="w-100 center bg-black white pv2 ph4">
+      <div class="tc center pt4">
+        <img src="/images/djcruze/logo/djcruze-logo-white.png" title="DJ Cruze" alt="DJ Cruze logo" class="h3" />
       </div>
 
       <div class="w-100 center pv4 tc">
@@ -73,7 +74,7 @@
         <a href="{{ socialItem.url }}" title="{{ socialItem.title }}" class="link red hover-orange dib h2 w2 mr3" aria-label="{{socialItem.name}} icon">
         {% endif %}
           <span class="fa-stack fa-lg">
-              <i class="fa fa-circle fa-stack-2x"></i>
+              <i class="fa fa-stack-1x"></i>
               <i class="fa {{socialItem.icon}} fa-stack-1x fa-inverse"></i>
           </span>
         </a>

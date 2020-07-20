@@ -1,0 +1,70 @@
+---
+layout: default
+---
+
+<div class="w-100 cf">
+  <div
+    class="fl w-100 w-50-ns shadow-5 br3 pb3 bg-near-white"
+    id="audio-player"
+  >
+    <img data-amplitude-song-info="cover_art_url" class="" />
+    <div id="time-container" class="mh1">
+      <progress
+        class="amplitude-song-played-progress w-100 h1"
+        id="song-played-progress"
+      ></progress>
+      <div class="meta-container pv3 w-100 ph3">
+        <div class="fl w-80 tl gray">
+          <div
+            data-amplitude-song-info="name"
+            class="song-name f4 fw7 mb1"
+          ></div>
+          <div data-amplitude-song-info="artist" class="f5 fw2"></div>
+        </div>
+        <div class="fl w-20 tr f6 dark-gray">
+          <span class="amplitude-current-time"></span> /
+          <span class="amplitude-duration-time"></span>
+        </div>
+      </div>
+    </div>
+    <div class="control-container">
+      <div class="amplitude-play-pause" id="play-pause"></div>
+    </div>
+  </div>
+
+  <div class="fl w-100 w-50-ns ph3">
+    <h3 class="f2 mv0">Tracklist</h3>
+    <ol>
+      {% for tracklist in media.tracklist %}
+      <li class="gray f4 pb3">{{tracklist}}</li>
+      {% endfor %}
+    </ol>
+  </div>
+</div>
+
+<div class="w-100">
+  <div id="single-song-player">
+    <div class="bottom-container">
+      <div class="control-container">
+        <div class="amplitude-play-pause" id="play-pause"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="pv2 f4 lh-copy">
+  {{content}}
+</div>
+
+<script>
+  Amplitude.init({
+    songs: [
+      {
+        name: '{{title}}',
+        artist: 'DJ Cruze',
+        url: 'http://media.djcruze.co.uk/{{media.content}}',
+        cover_art_url: '/images/djcruze/mixes/august2009mix_ibiza_sunset.jpg',
+      },
+    ],
+  });
+</script>

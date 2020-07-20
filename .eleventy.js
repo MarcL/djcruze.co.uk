@@ -13,7 +13,7 @@ module.exports = (eleventyConfig) => {
   // eleventyConfig.addPassthroughCopy({'src/distjs/': 'js/'});
 
   // Temporary aliases
-  eleventyConfig.addLayoutAlias('audio', 'layouts/audio.liquid');
+  eleventyConfig.addLayoutAlias('audio', 'layouts/audio.html');
   //   eleventyConfig.addLayoutAlias('default', 'layouts/default.html');
   //   eleventyConfig.addLayoutAlias('homepage', 'layouts/homepage.html');
   //   eleventyConfig.addLayoutAlias('post', 'layouts/post.html');

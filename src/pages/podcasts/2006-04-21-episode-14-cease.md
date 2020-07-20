@@ -76,4 +76,4 @@ As always I love to hear your feed back on the show. [Contact me][15] using the 
 [12]: http://www.morjac.com/
 [13]: http://www.positivarecords.com/
 [14]: http://www.djcruze.co.uk/
-[15]: /cms/contact/
+[15]: /contact

@@ -65,6 +65,6 @@ Enjoy the show and [get in touch][6] if you want a shout out. And don&#8217;t fo
 [3]: http://www.myspace.com/ambersings4real
 [4]: http://www.myspace.com/metrogrooverecords
 [5]: http://www.firstrhythm.co.uk/cruze-classics.asp?at=400
-[6]: /cms/contact/
+[6]: /contact
 [7]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [8]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast039_270508.mp3

@@ -80,4 +80,4 @@ As always I love to hear your feed back on the show. [Contact me][25] using the 
 [22]: http://www.phunkwerk.de/
 [23]: http://www.djdelicious.com/
 [24]: http://www.positivarecords.com/
-[25]: /cms/contact/
+[25]: /contact

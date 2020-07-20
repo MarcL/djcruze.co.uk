@@ -88,4 +88,4 @@ As always I love to hear your feed back on the show. [Contact me][17] using the 
 [14]: http://www.hospitalrecords.com/artists_nutone.shtml
 [15]: http://www.hospitalrecords.com/
 [16]: http://www.hospitalrecords.com/artists_highcontrast.shtml
-[17]: /cms/contact/
+[17]: /contact

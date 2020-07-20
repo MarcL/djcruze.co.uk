@@ -63,7 +63,7 @@ Ibiza sunset image based on a picture of an Ibiza sunset at Cafe Del Mar by [Ben
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/07/july2008mix_ibiza_sunset.jpg
 [2]: http://www.myspace.com/duartjansen
 [3]: http://www.djcruze.co.uk/cms/2008/07/20/episode-41-neon-lights/
-[4]: /cms/contact/
+[4]: /contact
 [5]: http://www.dreamhost.com/donate.cgi?id=8244
 [6]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [7]: http://www.djcruzeaudio.co.uk/mixes/djcruzemix_july2008.mp3

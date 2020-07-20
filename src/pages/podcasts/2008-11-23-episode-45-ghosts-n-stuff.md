@@ -63,7 +63,7 @@ If you enjoy the show then [get in touch][2] and tell me what you think or want 
 The image is from Super Ghouls And Ghosts. Old school games rock!
 
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/podcast45.jpg
-[2]: /cms/contact/
+[2]: /contact
 [3]: http://www.dreamhost.com/donate.cgi?id=8244
 [4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast045_221108.mp3

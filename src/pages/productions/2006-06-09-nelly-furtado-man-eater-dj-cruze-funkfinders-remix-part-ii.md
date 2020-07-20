@@ -67,6 +67,6 @@ I&#8217;d like to give big love to Bluethumb and all of the guys and girls on th
 
 _This remix is used as a promotional item only to showcase the funky house production of DJ Cruze. The download will be removed if it causes any problems with the artist, publisher or record company. Please contact me if you feel your copyright is being infringed in any way._
 
-[1]: /cms/contact/
+[1]: /contact
 [2]: http://burninthespotlight.com/forum/index.php
 [3]: http://burninthespotlight.com/forum/showthread.php?t=6136

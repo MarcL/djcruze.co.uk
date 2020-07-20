@@ -87,4 +87,4 @@ As always I love to hear your feed back on the show. [Contact me][14] using the 
 [11]: http://www.zrecords.ltd.uk/
 [12]: http://www.alex-harmony.de/
 [13]: http://www.simonjobling.com/
-[14]: /cms/contact/
+[14]: /contact

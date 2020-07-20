@@ -65,7 +65,7 @@ Original [picture][8] by [alexharries&#8217;][9], used under Creative Commons li
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2009/08/august2009mix_ibiza_sunset.jpg
 [2]: http://www.djcruze.co.uk/cms/2008/07/23/july-2008-mix-ibiza-sunset/
 [3]: http://www.mofohifi.com/site/?p=357
-[4]: /cms/contact/
+[4]: /contact
 [5]: http://www.dreamhost.com/donate.cgi?id=8244
 [6]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [7]: http://www.djcruzeaudio.co.uk/mixes/djcruzemix_ibiza_sunset_august2009.mp3

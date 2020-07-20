@@ -85,4 +85,4 @@ As always I love to hear your feed back on the show. [Contact me][12] using the 
 [9]: http://www.positivarecords.com
 [10]: http://www.zootwoman.com/
 [11]: http://www.wallofsound.net/
-[12]: /cms/contact/
+[12]: /contact

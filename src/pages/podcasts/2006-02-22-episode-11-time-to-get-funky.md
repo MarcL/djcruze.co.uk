@@ -90,4 +90,4 @@ As always I love to hear your feed back on the show. [Contact me][17] using the 
 [14]: http://www.kellyllorenna.co.uk/
 [15]: http://www.aatw.com/
 [16]: http://www.loadedrecords.com/
-[17]: /cms/contact/
+[17]: /contact

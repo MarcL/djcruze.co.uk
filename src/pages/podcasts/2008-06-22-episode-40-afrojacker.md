@@ -57,6 +57,6 @@ Enjoy the show and [get in touch][2] if you want a shout out. And don&#8217;t fo
 **Next podcast:** 20th July 2008. Don&#8217;t be late!
 
 [1]: http://www.patrickl.se
-[2]: /cms/contact/
+[2]: /contact
 [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast040_220608.mp3

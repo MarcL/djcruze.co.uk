@@ -66,7 +66,7 @@ If you enjoy the show then [get in touch][2] and tell me what you think or want 
 The image is a still taken from Empire Of A Dream&#8217;s awesome video for &#8220;Walking On A Dream&#8221;. [Take a look at it on YouTube][6].
 
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/09/podcast43.jpg
-[2]: /cms/contact/
+[2]: /contact
 [3]: http://www.dreamhost.com/donate.cgi?id=8244
 [4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast043_210908.mp3

@@ -56,6 +56,6 @@ Also, the classic this week is a classic Hardfloor remix of Mory Kanté&#8217;s 
 Enjoy the show and [get in touch][2] if you want a shout out. And don&#8217;t forget to comment on the show below and tell me what you think.
 
 [1]: http://www.myspace.com/duartjansen
-[2]: /cms/contact/
+[2]: /contact
 [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast038_170307.mp3

@@ -59,7 +59,7 @@ If you enjoy the show then [get in touch][2] and tell me what you think or want 
 The image is from my record collection. Ah, the good old days of vinyl!
 
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/10/podcast44.jpg
-[2]: /cms/contact/
+[2]: /contact
 [3]: http://www.dreamhost.com/donate.cgi?id=8244
 [4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast044_221008.mp3

@@ -59,4 +59,4 @@ As always I love to hear your feed back on the show. [Contact me][3] using the f
 
 [1]: http://ripple.radiotail.com/211/Cruze_Podcast016_210506.mp3
 [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2
-[3]: /cms/contact/
+[3]: /contact

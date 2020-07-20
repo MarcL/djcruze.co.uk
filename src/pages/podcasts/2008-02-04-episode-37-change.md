@@ -57,6 +57,6 @@ Enjoy the show and [get in touch][3] if you want a shout out.
 
 [1]: http://www.flickr.com/photos/victoriapeckham/1346099385/
 [2]: http://www.djcruze.co.uk/
-[3]: /cms/contact/
+[3]: /contact
 [4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast037_040207.mp3

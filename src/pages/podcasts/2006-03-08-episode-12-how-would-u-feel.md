@@ -87,4 +87,4 @@ As always I love to hear your feed back on the show. [Contact me][26] using the 
 [23]: http://web.mac.com/timrandall1/iWeb/Site/Podcast/Podcast.html
 [24]: http://www.apple.com/ilife/garageband/
 [25]: http://www.the-one-and-only.co.uk/podcast/?feed=rss2
-[26]: /cms/contact/
+[26]: /contact

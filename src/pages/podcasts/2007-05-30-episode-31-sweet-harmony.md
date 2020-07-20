@@ -56,4 +56,4 @@ Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t 
 
 As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes, I&#8217;ll play them.
 
-[1]: http://www.djcruze.co.uk/cms/contact/
+[1]: /cms/contact/

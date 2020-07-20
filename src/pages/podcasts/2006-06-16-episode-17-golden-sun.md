@@ -63,4 +63,4 @@ As always I love to hear your feed back on the show. [Contact me][5] using the f
 [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2
 [3]: http://www.djcruze.co.uk/cms/2006/05/22/episode-16-renegade-master/
 [4]: http://www.djcruze.co.uk/cms/2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/
-[5]: http://www.djcruze.co.uk/cms/contact/
+[5]: /cms/contact/

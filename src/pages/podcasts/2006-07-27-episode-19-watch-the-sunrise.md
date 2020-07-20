@@ -72,4 +72,4 @@ As always I love to hear your feed back on the show. [Contact me][16] using the 
 [13]: http://www.ministryofsound.com/home/
 [14]: http://www.axwell.co.uk/
 [15]: http://www.positivarecords.com/
-[16]: http://www.djcruze.co.uk/cms/contact/
+[16]: /cms/contact/

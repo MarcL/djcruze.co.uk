@@ -120,4 +120,4 @@ I hope you like it as I really enjoyed doing it. You&#8217;ll no longer be able 
 [7]: http://ipodderx.com/
 [8]: http://www.nimiq.nl/
 [9]: http://www.dopplerradio.net/
-[10]: http://www.djcruze.co.uk/cms/contact/
+[10]: /cms/contact/

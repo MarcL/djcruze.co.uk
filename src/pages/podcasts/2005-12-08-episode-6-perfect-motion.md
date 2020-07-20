@@ -86,4 +86,4 @@ As always I love to hear your feed back on the show. [Contact me][13] using the 
 [10]: http://www.djleedagger.co.uk/
 [11]: http://www.gutrecords.com/
 [12]: http://www.vh1.com/artists/az/sunscreem/bio.jhtml
-[13]: http://www.djcruze.co.uk/cms/contact/
+[13]: /cms/contact/

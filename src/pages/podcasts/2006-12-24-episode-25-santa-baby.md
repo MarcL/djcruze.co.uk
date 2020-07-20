@@ -60,5 +60,5 @@ As always I love to hear your feed back on the show. [Contact me][1] using the f
 
 Oh and don&#8217;t forget to check out the website over Christmas for the [six mini-mixes of Christmas][2]! Yet more great mixes for you to download. Merry Christmas!
 
-[1]: http://www.djcruze.co.uk/cms/contact/
+[1]: /cms/contact/
 [2]: http://www.djcruze.co.uk/cms/2006/12/24/the-six-mini-mixes-of-christmas/

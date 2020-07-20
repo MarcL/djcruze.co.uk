@@ -83,4 +83,4 @@ As always I love to hear your feed back on the show. [Contact me][7] using the f
 [4]: http://www.sillyspider.com/
 [5]: http://www.djleedagger.co.uk/
 [6]: http://www.bossrecords.co.uk/
-[7]: http://www.djcruze.co.uk/cms/contact/
+[7]: /cms/contact/

@@ -60,4 +60,4 @@ As always I love to hear your feed back on the show. [Contact me][5] using the f
 [2]: http://www.camillejones.dk/
 [3]: http://www.olavbasoski.nl/
 [4]: http://www.alexromano.com/
-[5]: http://www.djcruze.co.uk/cms/contact/
+[5]: /cms/contact/

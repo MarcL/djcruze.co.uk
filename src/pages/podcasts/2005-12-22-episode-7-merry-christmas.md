@@ -91,4 +91,4 @@ As always I love to hear your feed back on the show. [Contact me][15] using the 
 [12]: http://www.mute.com/
 [13]: http://www.aatw.com/
 [14]: http://www.ministryofsound.com/music/singles/
-[15]: http://www.djcruze.co.uk/cms/contact/
+[15]: /cms/contact/

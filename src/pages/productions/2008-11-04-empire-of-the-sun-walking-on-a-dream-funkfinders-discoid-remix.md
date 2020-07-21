@@ -8,6 +8,12 @@ permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid
   - Music
 categories:
   - Studio
+media:
+  title: 'Walking On A Dream (Funkfinders Discoid Mix)'
+  author: 'Empire Of The Sun'
+  image: '/images/djcruze/productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix.jpg'
+  content: '/productions/Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix).mp3'
+
 tags:
   - production
 ---

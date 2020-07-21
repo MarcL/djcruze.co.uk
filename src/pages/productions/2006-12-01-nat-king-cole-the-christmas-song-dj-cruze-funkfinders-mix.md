@@ -8,6 +8,9 @@ permalink: /productions/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mi
   - Music
 categories:
   - Studio
+media:
+  image: '/images/djcruze/productions/nat-king-cole-the-christmas-song.jpg'
+  content: '/productions/Nat%20King%20Cole%20-%20Merry%20Christmas%20(DJ%20Cruze%20Funkfinders%20Mix).mp3'
 tags:
   - production
 ---

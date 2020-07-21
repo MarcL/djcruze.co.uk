@@ -33,12 +33,14 @@ layout: default
   </div>
 
   <div class="fl w-100 w-50-ns ph3">
+    {% if media.tracklist %}
     <h3 class="f3 mv0">Tracklist</h3>
     <ol>
       {% for tracklist in media.tracklist %}
       <li class="gray f4 pb3">{{tracklist}}</li>
       {% endfor %}
     </ol>
+    {% endif %}
   </div>
 </div>
 

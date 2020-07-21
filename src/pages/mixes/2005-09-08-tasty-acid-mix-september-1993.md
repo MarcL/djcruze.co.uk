@@ -31,7 +31,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'audio/mixes/djcruze_sept1993_mix.mp3'
+  content: 'mixes/djcruze_sept1993_mix.mp3'
   length: '00:47:36'
   keywords: ''
   tracklist:

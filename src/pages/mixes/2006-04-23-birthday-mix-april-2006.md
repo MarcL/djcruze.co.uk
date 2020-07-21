@@ -26,7 +26,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'audio/mixes/djcruze_april2006_mix.mp3'
+  content: 'mixes/djcruze_april2006_mix.mp3'
   length: '1:10:12'
   keywords: ''
   tracklist:

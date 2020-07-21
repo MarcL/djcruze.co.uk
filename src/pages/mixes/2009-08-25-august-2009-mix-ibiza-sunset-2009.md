@@ -26,7 +26,7 @@ categories:
 ###################################
 media:
   image: 'images/mixes/august2009mix_ibiza_sunset.jpg'
-  content: 'audio/mixes/djcruzemix_ibiza_sunset_august2009.mp3'
+  content: 'mixes/djcruzemix_ibiza_sunset_august2009.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy

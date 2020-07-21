@@ -30,7 +30,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: '/mixes/djcruze_june1993_mix.mp3'
+  content: 'mixes/djcruze_june1993_mix.mp3'
   length: '00:47:30'
   keywords: ''
   tracklist:

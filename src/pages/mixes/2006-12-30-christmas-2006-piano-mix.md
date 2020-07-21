@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'audio/mixes/djcruze_december2006_pianomix.mp3'
+  content: 'mixes/djcruze_december2006_pianomix.mp3'
   length: '00:40:03'
   keywords: ''
   tracklist:

@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'audio/mixes/djcruze_december2006_darkanddubbymix.mp3'
+  content: 'mixes/djcruze_december2006_darkanddubbymix.mp3'
   length: '00:42:27'
   keywords: ''
   tracklist:

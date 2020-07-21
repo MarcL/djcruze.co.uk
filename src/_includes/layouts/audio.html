@@ -57,14 +57,19 @@ layout: default
 </div>
 
 <script>
-  Amplitude.init({
+  const mediaTitle = '{{media.title}}';
+  const mediaAuthor = '{{media.author}}';
+  const mediaImage = '{{media.image}}';
+  const options = {
     songs: [
       {
-        name: '{{title}}',
-        artist: 'DJ Cruze',
+        name: mediaTitle || '{{title}}',
+        artist: mediaAuthor || 'DJ Cruze',
         url: 'http://media.djcruze.co.uk/{{media.content}}',
-        cover_art_url: '/images/djcruze/mixes/august2009mix_ibiza_sunset.jpg',
+        cover_art_url:
+          mediaImage || '/images/djcruze/mixes/default-logo-600x600.jpg',
       },
     ],
-  });
+  };
+  Amplitude.init(options);
 </script>

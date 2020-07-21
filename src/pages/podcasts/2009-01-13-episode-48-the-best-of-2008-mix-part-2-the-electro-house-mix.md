@@ -26,8 +26,9 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast48.jpg'
-  content: 'audio/podcasts/Cruze_Podcast048_130109.mp3'
+  title: 'The Best of 2008 Mix Part 2'
+  image: '/images/djcruze/podcasts/podcast48.jpg'
+  content: 'podcasts/Cruze_Podcast048_130109.mp3'
   length: '01:00:00'
   keywords: ''
   tracklist:

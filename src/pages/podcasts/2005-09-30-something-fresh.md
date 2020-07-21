@@ -1,5 +1,5 @@
 ---
-title: 'Episode #1'
+title: 'Episode #1 - Something Fresh'
 author: djcruze
 #permalink: /2005/09/30/something-fresh/
 permalink: /podcasts/episode-1-something-fresh/
@@ -33,6 +33,7 @@ categories:
 # Media details
 ###################################
 media:
+  image: '/images/djcruze/podcasts/default-logo-600x600.jpg'
   content: 'audio/podcasts/Cruze_Podcast001_250905.mp3'
   length: '00:48:43'
   keywords: ''

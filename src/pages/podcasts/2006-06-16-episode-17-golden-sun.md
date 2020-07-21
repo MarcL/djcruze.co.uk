@@ -27,6 +27,7 @@ categories:
 # Media details
 ###################################
 media:
+  image: '/images/djcruze/podcasts/default-logo-600x600.jpg'
   content: 'audio/podcasts/Cruze_Podcast017_130606.mp3'
   length: '01:11:08'
   keywords: ''

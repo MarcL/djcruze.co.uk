@@ -1,0 +1,20 @@
+<footer class="w-100 center bg-black white pv2 ph4">
+    <div class="tc center pt4">
+    <img src="/images/djcruze/logo/djcruze-logo-white.png" title="DJ Cruze" alt="DJ Cruze logo" class="h3" />
+    </div>
+
+    <div class="w-100 center pv4 tc">
+    {% for socialItem in socialMedia %}
+    {% if socialItem.external %}
+    <a href="{{ socialItem.url }}" target="_blank" rel="noreferrer" title="{{ socialItem.title }}" class="link red hover-orange dib h2 w2 mr3" aria-label="{{socialItem.name}} icon">
+    {% else %}
+    <a href="{{ socialItem.url }}" title="{{ socialItem.title }}" class="link red hover-orange dib h2 w2 mr3" aria-label="{{socialItem.name}} icon">
+    {% endif %}
+        <span class="fa-stack fa-lg">
+            <i class="fa fa-stack-1x"></i>
+            <i class="fa {{socialItem.icon}} fa-stack-1x fa-inverse"></i>
+        </span>
+    </a>
+    {% endfor %}
+    </div>
+</footer>

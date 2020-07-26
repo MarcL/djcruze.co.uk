@@ -1,0 +1,32 @@
+<nav class="db dt-l w-80 center border-box pa3 ph5-l">
+  <a
+    class="db dtc-l v-mid mid-gray link dim w-100 w-25-l tc tl-l mb2 mb0-l"
+    href="/"
+    title="Home"
+  >
+    <img
+      src="/images/djcruze/logo/djcruze-logo-white.png"
+      title="DJ Cruze"
+      alt="DJ Cruze logo"
+    />
+  </a>
+  <div class="db dtc-l v-mid w-100 w-75-l tc tr-l ttu">
+    {% for menuItem in mainMenu %} {% if page.url contains menuItem.url and
+    menuItem.url != "/" or page.url == "/" and menuItem.url == "/" %}
+    <a
+      class="link dim white f6 f5-l dib mr3 mr4-l bb bw1 pb1"
+      href="{{menuItem.url}}"
+      title="{{menuItem.title}}"
+      >{{menuItem.name}}</a
+    >
+    {% else %}
+    <a
+      class="link dim white f6 f5-l dib mr3 mr4-l"
+      href="{{menuItem.url}}"
+      title="{{menuItem.title}}"
+      >{{menuItem.name}}</a
+    >
+
+    {% endif %} {% endfor %}
+  </div>
+</nav>

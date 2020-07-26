@@ -8,6 +8,7 @@ div.control-container {
   margin-top: 10px;
   padding-bottom: 10px;
 }
+
 div.control-container div.amplitude-play-pause {
   width: 74px;
   height: 74px;
@@ -15,12 +16,13 @@ div.control-container div.amplitude-play-pause {
   float: left;
   margin-left: 10px;
 }
+
 div.control-container div.amplitude-play-pause.amplitude-paused {
-  background: url('https://521dimensions.com/img/open-source/amplitudejs/examples/single-song/play.svg');
+  background: url('./images/player/play.svg');
   background-size: cover;
 }
 div.control-container div.amplitude-play-pause.amplitude-playing {
-  background: url('https://521dimensions.com/img/open-source/amplitudejs/examples/single-song/pause.svg');
+  background: url('./images/player/pause.svg');
   background-size: cover;
 }
 div.control-container div.meta-container {
@@ -136,8 +138,6 @@ progress[value]::-webkit-progress-value {
   */
 div.bottom-container {
   background-color: #202136;
-  border-bottom-right-radius: 10px;
-  border-bottom-left-radius: 10px;
 }
 
 /*
@@ -150,16 +150,15 @@ div.bottom-container {
     Large Only
   */
 div#single-song-player {
-  border-radius: 10px;
   margin: auto;
-  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
-  margin-top: 50px;
+  /* box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5); */
+  box-shadow: 0 15px 24px rgba(172, 172, 172, 0.4);
+  margin-top: 0px;
   width: 100%;
   max-width: 460px;
   -webkit-font-smoothing: antialiased;
 }
+
 div#single-song-player img[data-amplitude-song-info='cover_art_url'] {
   width: 100%;
-  border-top-right-radius: 10px;
-  border-top-left-radius: 10px;
 }

@@ -1,0 +1,33 @@
+---
+layout: null
+permalink: "/podcasts/feed.xml"
+eleventyExcludeFromCollections: true
+sitemap:
+  exclude: yes
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xmlEscape }}</title>
+    <description>{{ site.description | xmlEscape }}</description>
+    <link>{{ site.url }}/</link>
+    <author>
+      <name>{{site.name}}</name>
+      <email>{{site.email}}</email>
+      <uri>{{site.url}}</uri>
+    </author>
+    <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <pubDate>{{ collections.podcast | collectionLastUpdatedDate }}</pubDate>
+    <lastBuildDate>{{ collections.podcast | collectionLastUpdatedDate }}</lastBuildDate>
+    <generator>Eleventy</generator>
+    {%- for podcast in collections.podcast reversed -%}
+      <item>
+        <title>{{ podcast.data.title | xmlEscape }}</title>
+        <description>{{ podcast.templateContent | xmlEscape }}</description>
+        <pubDate>{{ podcast.date | toUTCString }}</pubDate>
+        <link>{{ podcast.url | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ podcast.url | prepend: site.url }}</guid>
+      </item>
+    {%- endfor -%}
+  </channel>
+</rss>

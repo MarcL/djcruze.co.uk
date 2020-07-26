@@ -1,3 +1,18 @@
+# RSS feeds
+# ---------
+# Podcast feed
+# http://www.djcruze.co.uk/cms/index.php?feed=rss2&category_name=podcasts
+# FeedBurner: http://feeds.feedburner.com/DJCruzePodcast
+# Mix feed
+# http://www.djcruze.co.uk/cms/index.php?feed=rss2&category_name=mix
+# FeedBurner: http://feeds.feedburner.com/DJCruzeMixes
+
+/cms/index.php feed=:feed category_name=:category /:category/:feed.xml 301
+
+# Default RSS feed
+# http://www.djcruze.co.uk/cms/feed
+/cms/feed /feed.xml 301
+
 # Mixes
 /cms/2005/09/08/bowlers-mix-june-1993/ /mixes/bowlers-mix-june-1993/ 301
 /cms/2005/09/08/decks-fx-mix-august-2004/ /mixes/decks-fx-mix-august-2004/ 301

@@ -25,7 +25,7 @@ categories:
 # Media details
 ###################################
 media:
-  image: '/images//mixes/july2008mix_ibiza_sunset.jpg'
+  image: '/images/mixes/july2008mix_ibiza_sunset.jpg'
   content: 'mixes/djcruzemix_july2008.mp3'
   length: '01:00:00'
   keywords: ''

@@ -26,7 +26,7 @@ categories:
 # Media details
 ###################################
 media:
-  image: '/images//podcasts/podcast56.jpg'
+  image: '/images/podcasts/podcast56.jpg'
   content: 'audio/podcasts/DJCruze_Podcast056_180810.mp3'
   length: '01:00:00'
   keywords: ''

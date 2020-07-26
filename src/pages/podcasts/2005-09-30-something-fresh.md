@@ -33,7 +33,7 @@ categories:
 # Media details
 ###################################
 media:
-  image: '/images//podcasts/default-logo-600x600.jpg'
+  image: '/images/podcasts/default-logo-600x600.jpg'
   content: 'audio/podcasts/Cruze_Podcast001_250905.mp3'
   length: '00:48:43'
   keywords: ''

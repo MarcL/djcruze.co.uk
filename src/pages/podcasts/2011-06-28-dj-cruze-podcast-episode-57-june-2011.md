@@ -15,7 +15,7 @@ categories:
 # Media details
 ###################################
 media:
-  image: '/images//podcasts/dj-cruze-podcast-episode-57-june-2011.jpg'
+  image: '/images/podcasts/dj-cruze-podcast-episode-57-june-2011.jpg'
   content: 'audio/podcasts/dj-cruze-podcast-episode-57-june-2011.mp3'
   length: '01:10:32'
   keywords: 'roy davis jnr'

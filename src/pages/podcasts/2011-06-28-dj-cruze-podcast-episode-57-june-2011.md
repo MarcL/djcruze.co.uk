@@ -1,6 +1,5 @@
 ---
 title: 'Episode #57 - June 2011'
-teaser: 'Funky and chunky house music!'
 author: djcruze
 #permalink: /2011/06/28/dj-cruze-podcast-episode-57-june-2011/
 permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/

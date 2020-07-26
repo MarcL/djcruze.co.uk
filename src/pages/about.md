@@ -7,7 +7,7 @@ permalink: /about/
 
 DJ Cruze is the alter ego of Marc Littlemore and he was born in a small town called Frodsham in Cheshire, England. He now resides in the sunny suburbs of Cheshire with his family.
 
-![DJ Cruze](/images//dj-cruze-graffiti.jpg)
+![DJ Cruze](/images/dj-cruze-graffiti-small.jpg)
 
 ## Humble beginnings
 

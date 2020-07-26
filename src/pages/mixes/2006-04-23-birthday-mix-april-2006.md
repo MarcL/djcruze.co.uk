@@ -51,20 +51,6 @@ Today I&#8217;m celebrating my 34th birthday (yes, I&#8217;m really that old!) W
 
 Anyway, what better cure for a hangover than to make a funky house music mix for you guys. Hopefully I can hold the mixing together.
 
-**Tracklisting:**
+It&#8217;s in a nice CD-burnable 128kbps MP3 which has a running time of around 70 minutes. So download it, burn it to a CD and play it LOUD! Happy Birthday from me to you! 😃
 
-1. Tony Cha Cha vs Mark Simmons &#8211; Somebody Else (Rockefella Dub) &#8211; Spinnin&#8217;
-2. Soul Avengerz &#8211; Love You Feel &#8211; Opaque Music
-3. High Life feat. Karime Kendra &#8211; Mercy On Me (Main Mix) &#8211; Onephatdeeva
-4. Kid Massive feat. Tiger Lilly &#8211; Bring It On &#8211; Blow Media
-5. Steve Angello &#038; Dave Armstrong &#8211; Groove In You &#8211; Opaque Music
-6. Ben Macklin &#8211; Feel Together &#8211; Serial Recordings
-7. Sydney Samson &#8211; Girls &#8211; Confidence Recordings
-8. Shiney Grey &#8211; Why (Rob Wilder &#038; Wes Clarke Twisted Disco Remix) &#8211; Hed Kandi
-9. Macca &#8211; Ride Me Baby &#8211; Blowmedia
-10. Ian Carey &#038; Mochico feat. Miss Bunty &#8211; Say What U Want (Dub) &#8211; Nero
-11. DJ Cruze presents The Funkfinders &#8211; Cease! &#8211; White
-
-It&#8217;s in a nice CD-burnable 128kbps MP3 which has a running time of around 70 minutes. So download it, burn it to a CD and play it LOUD! Happy Birthday from me to you! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
-
-[1]: http://www.sociorehab.com/
+[1]: https://www.facebook.com/sociorehab/

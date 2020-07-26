@@ -57,22 +57,5 @@ My bandwidth may be taking a battering with my podcast show but I know that you 
 
 Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Sleaze&#8221;. It&#8217;s named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
 
-**Tracklisting:**
-
-1. Hoof &#8211; Detroit
-2. Sneaker Pimps &#8211; Post Modern Sleaze (The Phunk Force Mix)
-3. De&#8217;Lacey &#8211; Hideaway (187 Lockdown Mix)
-4. 187 Lockdown &#8211; Gunman
-5. DJ Supreme vs Rhythm Masters &#8211; Enter The Scene (Klubheads Mix)
-6. Urban Shakedown &#8211; Some Justice
-7. Jimmy Ray &#8211; Are You Jimmy Ray? (Lisa Marie Experience Mix)
-8. Wildchild &#8211; Renegade Master (Fatboy Slim New Skool Mix)
-9. TBA &#8211; Never Give Up On
-10. Laguna &#8211; Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)
-11. Kinane &#8211; Business (K-Klass Club Mix)
-12. Sybil &#8211; Why? (Mark&#8217;s Non-Stop Dub)
-
-Oh and Happy Halloween too! Next year I&#8217;ll have to make a spooky mix for it!
-
 [1]: http://www.sneakerpimps.com/
 [2]: http://www.kingunique.com

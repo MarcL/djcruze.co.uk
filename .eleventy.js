@@ -37,6 +37,10 @@ module.exports = (eleventyConfig) => {
   //     return markdownLib.render(value);
   //   });
 
+  eleventyConfig.addShortcode('version', function () {
+    return String(Date.now());
+  });
+
   const dateToISO = (dateValue) => new Date(dateValue).toISOString();
 
   eleventyConfig.addLiquidFilter('toISOString', (dateValue) => {

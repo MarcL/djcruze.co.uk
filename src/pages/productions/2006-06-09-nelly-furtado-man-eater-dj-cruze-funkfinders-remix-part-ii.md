@@ -1,5 +1,5 @@
 ---
-title: 'Nelly Furtado &#8211; Man Eater (DJ Cruze Funkfinders Remix) Part II'
+title: 'Nelly Furtado &#8211; Man Eater (DJ Cruze Funkfinders Remix)'
 author: djcruze
 layout: audio
 # permalink: /2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/

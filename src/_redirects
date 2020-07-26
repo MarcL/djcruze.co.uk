@@ -96,5 +96,8 @@
 /cms/2010/08/18/episode-56-teenage-crime/ /podcasts/episode-56-teenage-crime/ 301
 /cms/2011/06/28/dj-cruze-podcast-episode-57-june-2011/ /podcasts/dj-cruze-podcast-episode-57-june-2011/ 301
 
+# Productions
+/cms/2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/ /productions/nelly-furtado-man-eater-dj-cruze-funkfinders-remix/ 301
+
 # Change all other urls from old CMS route
 /cms/:url /:url/ 301

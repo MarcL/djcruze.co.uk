@@ -7,7 +7,7 @@
 # http://www.djcruze.co.uk/cms/index.php?feed=rss2&category_name=mix
 # FeedBurner: http://feeds.feedburner.com/DJCruzeMixes
 
-/cms/index.php feed=:feed category_name=:category /:category/:feed.xml 301
+/cms/index.php feed=:feed category_name=:category /:category/feed.xml 301
 
 # Default RSS feed
 # http://www.djcruze.co.uk/cms/feed

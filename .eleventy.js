@@ -6,6 +6,7 @@ module.exports = (eleventyConfig) => {
   // Copy
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
+  eleventyConfig.addPassthroughCopy({ 'src/amplitude.css': 'amplitude.css' });
   // eleventyConfig.addPassthroughCopy({'src/thumbnails': 'thumbnails'});
   // eleventyConfig.addPassthroughCopy({'src/favicons': 'favicons'});
   // eleventyConfig.addPassthroughCopy({'src/robots.txt': 'robots.txt'});

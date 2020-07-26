@@ -3,32 +3,36 @@ layout: default
 ---
 
 <div class="w-100 cf">
-  <div
-    class="fl w-100 w-50-ns shadow-5 br3 pb3 bg-near-white"
-    id="audio-player"
-  >
-    <img data-amplitude-song-info="cover_art_url" class="" />
-    <div id="time-container" class="mh1">
-      <progress
-        class="amplitude-song-played-progress w-100 h1"
-        id="song-played-progress"
-      ></progress>
-      <div class="meta-container pv3 w-100 ph3">
-        <div class="fl w-80 tl gray">
-          <div
-            data-amplitude-song-info="name"
-            class="song-name f4 fw7 mb1"
-          ></div>
-          <div data-amplitude-song-info="artist" class="f5 fw2"></div>
+  <div class="fl w-100 w-50-ns" id="audio-player">
+    <div id="single-song-player">
+      <img data-amplitude-song-info="cover_art_url" />
+      <div class="bottom-container">
+        <progress
+          class="amplitude-song-played-progress"
+          id="song-played-progress"
+        ></progress>
+
+        <div class="time-container">
+          <span class="current-time">
+            <span class="amplitude-current-minutes"></span>:<span
+              class="amplitude-current-seconds"
+            ></span>
+          </span>
+          <span class="duration">
+            <span class="amplitude-duration-minutes"></span>:<span
+              class="amplitude-duration-seconds"
+            ></span>
+          </span>
         </div>
-        <div class="fl w-20 tr f6 dark-gray">
-          <span class="amplitude-current-time"></span> /
-          <span class="amplitude-duration-time"></span>
+
+        <div class="control-container">
+          <div class="amplitude-play-pause" id="play-pause"></div>
+          <div class="meta-container">
+            <span data-amplitude-song-info="name" class="song-name"></span>
+            <span data-amplitude-song-info="artist"></span>
+          </div>
         </div>
       </div>
-    </div>
-    <div class="control-container">
-      <div class="amplitude-play-pause" id="play-pause"></div>
     </div>
   </div>
 
@@ -41,16 +45,6 @@ layout: default
       {% endfor %}
     </ol>
     {% endif %}
-  </div>
-</div>
-
-<div class="w-100">
-  <div id="single-song-player">
-    <div class="bottom-container">
-      <div class="control-container">
-        <div class="amplitude-play-pause" id="play-pause"></div>
-      </div>
-    </div>
   </div>
 </div>
 
@@ -73,4 +67,16 @@ layout: default
     ],
   };
   Amplitude.init(options);
+
+  // Handle a click on the song played progress bar.
+  document
+    .getElementById('song-played-progress')
+    .addEventListener('click', function (event) {
+      const offset = this.getBoundingClientRect();
+      const x = event.pageX - offset.left;
+
+      Amplitude.setSongPlayedPercentage(
+        (parseFloat(x) / parseFloat(this.offsetWidth)) * 100
+      );
+    });
 </script>

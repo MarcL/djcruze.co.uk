@@ -11,22 +11,34 @@ layout: default
           class="amplitude-song-played-progress"
           id="song-played-progress"
         ></progress>
+      </div>
 
-        <div class="time-container">
-          <span class="current-time">
-            <span class="amplitude-current-time"></span>
-          </span>
-          <span class="duration">
-            <span class="amplitude-duration-time"></span>
-          </span>
+      <div class="cf bg-near-white mid-gray" id="player-controls">
+        <div class="fl w-50 tc pv4 br bw1 b--moon-gray">
+          <i
+            class="fa fa-3x fa-play-circle-o"
+            aria-hidden="true"
+            id="play-pause-button"
+          ></i>
         </div>
-
-        <div class="control-container">
-          <div class="amplitude-play-pause" id="play-pause"></div>
-          <div class="meta-container">
-            <span data-amplitude-song-info="name" class="song-name"></span>
-            <span data-amplitude-song-info="artist"></span>
+        <div class="fl w-50 tc pv4">
+          <a
+            href="http://media.djcruze.co.uk/{{media.content}}"
+            title="{{media.title}}"
+            class="mid-gray grow"
+            download="test-mix.mp3"
+            ><i class="fa fa-3x fa-arrow-circle-o-down" aria-hidden="true"></i
+          ></a>
+        </div>
+        <div class="fl w-60 tl pl3 pv4 bt bw1 b--moon-gray">
+          <div class="mid-gray">
+            <div data-amplitude-song-info="name" class="song-name fw6"></div>
+            <div data-amplitude-song-info="artist"></div>
           </div>
+        </div>
+        <div class="fl w-40 tr pr3 pv4 bt bw1 b--moon-gray mid-gray">
+          <span class="amplitude-current-time"></span> /
+          <span class="amplitude-duration-time"></span>
         </div>
       </div>
     </div>
@@ -37,7 +49,7 @@ layout: default
     <h3 class="f3 mv0">Tracklist</h3>
     <ol>
       {% for tracklist in media.tracklist %}
-      <li class="gray f4 pb3">{{tracklist}}</li>
+      <li class="gray f5 pb3">{{tracklist}}</li>
       {% endfor %}
     </ol>
     {% endif %}
@@ -75,4 +87,22 @@ layout: default
         (parseFloat(x) / parseFloat(this.offsetWidth)) * 100
       );
     });
+
+  let isPlaying = false;
+  const playPauseButton = document.getElementById('play-pause-button');
+
+  playPauseButton.addEventListener('click', function (event) {
+    console.log('Clicked play/pause button');
+    if (!isPlaying) {
+      Amplitude.play();
+      isPlaying = true;
+      playPauseButton.classList.add('fa-pause-circle-o');
+      playPauseButton.classList.remove('fa-play-circle-o');
+    } else {
+      Amplitude.pause();
+      isPlaying = false;
+      playPauseButton.classList.add('fa-play-circle-o');
+      playPauseButton.classList.remove('fa-pause-circle-o');
+    }
+  });
 </script>

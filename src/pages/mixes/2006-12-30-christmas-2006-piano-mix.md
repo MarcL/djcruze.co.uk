@@ -50,18 +50,6 @@ Hot Spanish producer [Ian Carey][6] then takes on the hot German producers the [
 
 The final tune in the piano mix is a new tune by Cafe Groove called &#8220;Why U Wanna Do Me Wrong?&#8221;. A great soulful remix by the [Soul Avengerz][10] ends the mix nicely as they create a future piano anthem. Lovely!
 
-**Tracklisting:**
-
-1. Antoine Clamaran &#8211; Keep On Tryin&#8217; (Hott 22 Remix) &#8211;
-2. George Duke &#8211; Brazilian Love Affair (Mike Perry Extended Vocal Mix) &#8211;
-3. Wi-Fi &#8211; Be Without You (Raul Rincon Remix) &#8211;
-4. Tune Brothers &#8211; I Like It (Ian Carey&#8217;s Ghetto Fabulous Mix) &#8211;
-5. Simmons &#038; Christopher &#8211; Weekend (Raul Rincon Remix) &#8211; AATW
-6. Cafe Groove &#8211; Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) &#8211; Hit! Records
-
-<div style="clear:both;">
-</div>
-
 [1]: http://www.antoineclamaran.com/
 [2]: http://www.deejaybooking.com/hott22
 [3]: http://www.georgeduke.com/

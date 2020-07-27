@@ -51,19 +51,6 @@ The final tune on the mix comes from [Hed Kandi][10] again and they&#8217;ve jus
 
 So that&#8217;s it. The last of the Christmas mini-mixes. I hope you&#8217;ve enjoyed them all and I look forward to doing plenty more in 2007.
 
-**Tracklisting:**
-
-1. Basement Jaxx &#8211; Hush Boy (Soul Seekerz Mix) &#8211; XL Recordings
-2. Lucky 7 &#8211; Why &#8211; Simply Recordings
-3. Sexy Toy &#8211; Everytime (Original Mix) &#8211; Oryx Music
-4. Dirty Old Ann &#8211; Turn Me On (Full Vocal Club Mix) &#8211; Loaded Records
-5. Mint Royale &#8211; Whambar (12&#8243; Version) &#8211; Direction Records
-6. Booty Luv &#8211; Boogie 2Night (Seamus Haji Big Love Remix) &#8211; Hed Kandi
-7. Tyken &#8211; Every Word (Triple Dee Rebuild) &#8211; Hed Kandi
-
-<div style="clear:both;">
-</div>
-
 [1]: http://www.basementjaxx.co.uk/
 [2]: http://www.soulseekerz.com/
 [3]: http://www.olavbasoski.nl/

@@ -51,19 +51,6 @@ We&#8217;ve then got something unexpected. Yes, the dulcet tones of Mick Hucknal
 
 Finally, we&#8217;ve got a fantastic production and remix of [Scissor Sisters][8] &#8220;I Don&#8217;t Feel Like Dancing&#8221; by Paper Faces aka Mr. Stuart Price, Les Rhythmes Digitals, Jacques Lu Cont, Thin White Duke, Man With Guitar etc. A man of many guises but an excellent producer as Madonna will attest I&#8217;m sure. Using repetitive vocal snippets, great pads and a cheeky square-waved synth bassline this is a great tune to end the mix.
 
-**Tracklisting:**
-
-1. Basement Jaxx &#8211; Take Me Back To Your House (Speaker Junk Remix) &#8211; XL Recordings
-2. D.J.V.T. &#8211; Watskeburt (Touche Instrumental Mix) &#8211; Nebula Records
-3. Don Diablo &#8211; Blow (Sebastien Leger Remix) &#8211; Salacious
-4. Lorraine &#8211; Heaven (Sebastien Leger Remix) &#8211; Waterfall Records
-5. Simply Red &#8211; Oh What A Girl (Sweet Connection Dub Mix) &#8211; SimplyRed.com
-6. Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records
-7. Scissor Sisters &#8211; I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) &#8211; Polydor
-
-<div style="clear:both;">
-</div>
-
 [1]: http://www.myspace.com/speakerjunk/
 [2]: http://www.basementjaxx.co.uk/
 [3]: http://www.myspace.com/touchelondon/

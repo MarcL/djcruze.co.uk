@@ -44,20 +44,4 @@ tags:
   - mix
 ---
 
-So here&#8217;s an MP3 rip of an old mix that I did way back in 1994. I&#8217;d just got a new mixer and I was testing it out so expect plenty of scratching! <strike>I&#8217;ll get a tracklisting done once I&#8217;m back from Hawaii</strike>. Enjoy!
-
-**Tracklisting:**
-
-1. Screen II &#8211; Mr DJ (Dasilva / McCreary Remix) &#8211; Cleveland City Records
-2. Banging From The Bedroom &#8211; Let Me In (To Your Life) (Xen Mantra Revamp) &#8211; Gash Records
-3. Tonja Dantzler &#8211; In And Out Of My Life (Original Mix) &#8211; Lady Bird Records
-4. ??? &#8211; ??? _Another one to look up! It&#8217;s either Xen Mantra or D.O.P._
-5. ??? &#8211; ???
-6. Pascal&#8217;s Bongo Massive &#8211; Pere Cochon (I Like It) (Where Ya Goin? Factory Mix) &#8211; Tribal US
-7. Masters Of The Monotonal Groove &#8211; To Kill Or Be Killed &#8211; 3 Beat Music
-8. Roller Coaster &#8211; My Geetar Hertz (Original Mix) &#8211; Higher State Records
-9. Way Out West &#8211; Montana (Let Yourself Go) &#8211; Terra Firma
-10. Nush &#8211; U Girls (Shake It Club Mix) &#8211; Blunted
-
-<div style="clear:both;">
-</div>
+So here&#8217;s an MP3 rip of an old mix that I did way back in 1994. I&#8217;d just got a new mixer and I was testing it out so expect plenty of scratching! Enjoy!

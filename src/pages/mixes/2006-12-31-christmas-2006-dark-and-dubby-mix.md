@@ -55,19 +55,6 @@ Finally, we end on a dirty [Dave Spoon][7] remix of Tyken&#8217;s &#8220;Every W
 
 Hope you enjoyed the deep and dubby mix and watch out for the final mix in the Christmas mini-mix series.
 
-**Tracklisting:**
-
-1. Dannii Minogue &#8211; He&#8217;s The Greatest Dancer (Chris Lake Remix) &#8211; AATW
-2. Ben Macklin &#8211; Feel Together (Eddie Thoneick Remix) &#8211; Free2Air Recordings
-3. The Group Dynamics &#8211; Consequences (Original Vocal Mix) &#8211; UMM
-4. Robbie Williams &#8211; Lovelight (Kurd Maverick Vocal Mix) &#8211; EMI
-5. The Young Punx &#8211; Rockall (Phonat Mix) &#8211; Mofo Hifi
-6. Freelance Hellraiser &#8211; Weightlessness (Klaas Mix) &#8211; Ugly Truth
-7. Tyken &#8211; Every Word (Dave Spoon Remix) &#8211; Hed Kandi
-
-<div style="clear:both;">
-</div>
-
 [1]: http://www.chris-lake.com/
 [2]: http://www.eddiethoneick.com/
 [3]: http://www.theyoungpunx.com/

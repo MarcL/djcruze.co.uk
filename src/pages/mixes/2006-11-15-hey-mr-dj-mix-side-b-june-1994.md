@@ -47,19 +47,3 @@ tags:
 As promised last week here is the b side of an old mix I did way back in 1994. You&#8217;ll find plenty of old tunes here and lots of cutting and scratch. I&#8217;ve tried to master the MP3 as best I could but it&#8217;s still a bit crackly with some heavy (i.e. distored!) bass in parts.
 
 There are plenty of classic house tunes on here and it&#8217;ll make you smile if you&#8217;re old enough to remember them. If you&#8217;re not, then make sure you still download it as the tunes are fantastic! Here&#8217;s a vague tracklisting for you too. I&#8217;ll fill in the tune names as I remember them and feel free to post some comments below if you remember the name of the tunes before I do. Enjoy!
-
-**Tracklisting:**
-
-1. ??? &#8211; ???
-2. Hed Boys &#8211; Girls &#038; Boys &#8211; Seka Records &#8211; _(x 2 copies &#8211; cut it up DJ!)_
-3. Lisa B &#8211; You and Me (Cleveland City Shining Mix) &#8211; White label
-4. ??? &#8211; ???
-5. God Within &#8211; The Phoenix &#8211; White label _(An absolutely classic tune by Scott Hardkiss.)_
-6. ??? &#8211; ???
-7. The Cotton Club &#8211; Just Play The Music &#8211; Fantastic Records _(From the Rock EP.)_
-8. ??? &#8211; ???
-9. Screen II &#8211; Let The Record Spin &#8211; Cleveland City Records
-10. ??? &#8211; ???
-
-<div style="clear:both;">
-</div>

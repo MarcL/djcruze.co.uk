@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_august2004_mix.mp3'
+  content: '/mixes/djcruze_august2004_mix.mp3'
   length: '01:14:16'
   keywords: ''
   tracklist:

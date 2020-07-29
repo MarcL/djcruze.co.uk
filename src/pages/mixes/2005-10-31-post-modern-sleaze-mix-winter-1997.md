@@ -30,7 +30,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_winter1997_mix.mp3'
+  content: '/mixes/djcruze_winter1997_mix.mp3'
   length: '01:04:39'
   keywords: ''
   tracklist:

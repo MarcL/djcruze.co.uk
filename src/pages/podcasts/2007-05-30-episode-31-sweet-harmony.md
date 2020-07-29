@@ -27,7 +27,7 @@ categories:
 ###################################
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
-  content: 'audio/podcasts/Cruze_Podcast031_300507.mp3'
+  content: '/podcasts/Cruze_Podcast031_300507.mp3'
   length: '00:58:43'
   keywords: ''
   tracklist:

@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_december2006_electromix.mp3'
+  content: '/mixes/djcruze_december2006_electromix.mp3'
   length: '00:36:59'
   keywords: ''
   tracklist:

@@ -31,7 +31,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/Cure_For_The_Common_Sunday-DJCruze-250606.mp3'
+  content: '/mixes/Cure_For_The_Common_Sunday-DJCruze-250606.mp3'
   length: '02:04:31'
   keywords: ''
   tracklist:

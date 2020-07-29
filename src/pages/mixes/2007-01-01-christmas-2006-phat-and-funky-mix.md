@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_december2006_phatandfunkymix.mp3'
+  content: '/mixes/djcruze_december2006_phatandfunkymix.mp3'
   length: '00:42:31'
   keywords: ''
   tracklist:

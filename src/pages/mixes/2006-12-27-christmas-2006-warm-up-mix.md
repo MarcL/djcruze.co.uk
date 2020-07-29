@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_december2006_warmupmix.mp3'
+  content: '/mixes/djcruze_december2006_warmupmix.mp3'
   length: '00:34:41'
   keywords: ''
   tracklist:

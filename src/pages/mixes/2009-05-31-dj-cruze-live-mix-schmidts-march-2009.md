@@ -25,7 +25,7 @@ categories:
 ###################################
 media:
   image: '/images/mixes/dj-cruze-live-at-schmidts-7th-march-2009.jpg'
-  content: 'mixes/djcruze_alexharmony_luke45_schmidts_07032009.mp3'
+  content: '/mixes/djcruze_alexharmony_luke45_schmidts_07032009.mp3'
   length: '02:25:15'
   keywords: ''
 

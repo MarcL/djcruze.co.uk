@@ -28,13 +28,11 @@ categories:
 ###################################
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
-  content: 'audio/podcasts/Cruze_Podcast019_260706.mp3'
+  content: '/podcasts/Cruze_Podcast019_260706.mp3'
   length: '01:07:08'
   keywords: ''
   tracklist:
-    - 'Big tunes: '
     - 'Rockefeller &#8211; Do It Tonight (Ian Carey Mix) &#8211; Spinnin Records'
-    - 'DJ Cruze chart rundown: '
     - 'Per QX &#8211; Buffalos Dance &#8211; Nasty Habits'
     - 'Inner City Playboys &#8211; Jetsetter (Ian Carey Remix) &#8211; Loaded'
     - 'Starchaser &#8211; Fate &#8211; Ego'
@@ -44,7 +42,6 @@ media:
     - 'Nuala &#8211; El Sol (Los Ladrones Mix) &#8211; Caitlin Records'
     - 'Trick &#038; Kubic &#8211; Easy (Original Mix) &#8211; Data'
     - 'Axwell &#8211; Watch The Sunrise (Extended Vocal Mix) &#8211; Positiva'
-    - 'Cruze classic from 1995: '
     - 'Janice Robinson &#8211; Children (Explorer Mix) &#8211; Planet Four Communications'
 
 layout: audio

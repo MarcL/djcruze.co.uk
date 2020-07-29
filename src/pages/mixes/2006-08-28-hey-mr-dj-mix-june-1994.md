@@ -24,7 +24,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_june1994_sidea.mp3'
+  content: '/mixes/djcruze_june1994_sidea.mp3'
   length: '00:47:10'
   keywords: ''
   tracklist:

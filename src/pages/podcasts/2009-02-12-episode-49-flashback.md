@@ -27,7 +27,7 @@ categories:
 ###################################
 media:
   image: '/images/podcasts/podcast49.jpg'
-  content: 'audio/podcasts/Cruze_Podcast049_120209.mp3'
+  content: '/podcasts/Cruze_Podcast049_120209.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy

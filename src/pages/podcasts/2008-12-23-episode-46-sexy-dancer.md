@@ -27,7 +27,7 @@ categories:
 ###################################
 media:
   image: '/images/podcasts/podcast46.jpg'
-  content: 'audio/podcasts/Cruze_Podcast046_231208.mp3'
+  content: '/podcasts/Cruze_Podcast046_231208.mp3'
   length: '01:00:00'
   keywords: ''
   tracklist:

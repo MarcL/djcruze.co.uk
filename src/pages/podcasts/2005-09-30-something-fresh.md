@@ -34,7 +34,7 @@ categories:
 ###################################
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
-  content: 'audio/podcasts/Cruze_Podcast001_250905.mp3'
+  content: '/podcasts/Cruze_Podcast001_250905.mp3'
   length: '00:48:43'
   keywords: ''
   tracklist:
@@ -94,23 +94,6 @@ The show was done last weekend so sorry it&#8217;s a bit late getting onto the w
 As I said, it&#8217;s about 50 minutes at the moment and it comprises of my latest chart, some chat and a classic tune. I&#8217;m hoping to do the show every two weeks and I&#8217;ll vary the format until I get it right. You guys and girls have to tell me what you want from it so get involved and [CONTACT ME][10].
 
 I hope you like it as I really enjoyed doing it. You&#8217;ll no longer be able to complain that I don&#8217;t do any mixes as you&#8217;ll get one delivered hot and fresh to your computer every two weeks (and maybe more often if you all subscribe and tell me you enjoy it). Let me know if you like it and what you would like to hear on the show!
-
-**Update: Here is the tracklisting**
-
-- **Top 10 rundown:**
-  - DJ Bomba &#038; J Paolo &#8211; Esuma &#8211; A&#038;G Records
-  - Steve Mac &#038; Steve Smith &#8211; Loving You More (That Big Track) (Freemasons Remix) &#8211; CR2 Records
-  - Olav Basoski &#8211; Waterman &#8211; Positiva
-  - Switch &#8211; A Bit Patchy &#8211; Dubsided
-  - Dave McCullen &#8211; B\*tch &#8211; Full Force Session
-  - DJ Tonka vs Adjuster &#8211; All Over Again &#8211; Disco Inc
-  - Freemaison &#8211; Watchin&#8217; (Dub Mix) &#8211; Freemaison
-- **Cruze classic from 1998:**
-  - Full Intention &#8211; You Are Somebody (Sugar Daddy Mix) &#8211; Sugar Daddy Records
-- **Top 3 rundown:**
-  - Robbie Rivera vs Jesus Jones &#8211; Right Here, Right Now &#8211; Nebula
-  - D.O.N.S. Feat. Technotronic &#8211; Pump Up The Jam (Moto Blanco Mix) &#8211; Data
-  - Danni Minogue &#038; The Soul Seekerz &#8211; Perfection (Turn Me Upside Down) (Seamus Haji &#038; Emmanuel Mix) &#8211; AATW
 
 [1]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast001_250905.mp3
 [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

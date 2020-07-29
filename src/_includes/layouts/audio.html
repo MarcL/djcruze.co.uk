@@ -16,18 +16,18 @@ layout: default
       <div class="cf bg-near-white mid-gray" id="player-controls">
         <div class="fl w-50 tc pv4 br bw1 b--moon-gray">
           <i
-            class="fa fa-3x fa-play-circle-o"
+            class="fa fa-3x fa-play-circle"
             aria-hidden="true"
             id="play-pause-button"
           ></i>
         </div>
         <div class="fl w-50 tc pv4">
           <a
-            href="http://media.djcruze.co.uk/{{media.content}}"
+            href="{{site.mediaFilesUrl}}{{media.content}}"
             title="{{media.title}}"
             class="mid-gray grow"
-            download="test-mix.mp3"
-            ><i class="fa fa-3x fa-arrow-circle-o-down" aria-hidden="true"></i
+            download
+            ><i class="fa fa-3x fa-arrow-circle-down" aria-hidden="true"></i
           ></a>
         </div>
         <div class="fl w-60 tl pl3 pv4 bt bw1 b--moon-gray">
@@ -61,6 +61,24 @@ layout: default
 </div>
 
 <script>
+  let isPlaying = false;
+  const playPauseButton = document.getElementById('play-pause-button');
+
+  const showAudioButtons = (playing = true) => {
+    if (playing) {
+      playPauseButton.classList.add('fa-pause-circle');
+      playPauseButton.classList.remove('fa-play-circle');
+    } else {
+      playPauseButton.classList.add('fa-play-circle');
+      playPauseButton.classList.remove('fa-pause-circle');
+    }
+  };
+
+  const audioFinishedPlaying = () => {
+    isPlaying = false;
+    showAudioButtons(isPlaying);
+  };
+
   const mediaTitle = '{{media.title}}';
   const mediaAuthor = '{{media.author}}';
   const mediaImage = '{{media.image}}';
@@ -69,10 +87,13 @@ layout: default
       {
         name: mediaTitle || '{{title}}',
         artist: mediaAuthor || 'DJ Cruze',
-        url: 'http://media.djcruze.co.uk/{{media.content}}',
+        url: '{{site.mediaFilesUrl}}{{media.content}}',
         cover_art_url: mediaImage || '/images/mixes/default-logo-600x600.jpg',
       },
     ],
+    callbacks: {
+      stop: audioFinishedPlaying,
+    },
   };
   Amplitude.init(options);
 
@@ -88,21 +109,16 @@ layout: default
       );
     });
 
-  let isPlaying = false;
-  const playPauseButton = document.getElementById('play-pause-button');
-
+  // TODO: Add touch handler?
   playPauseButton.addEventListener('click', function (event) {
     console.log('Clicked play/pause button');
     if (!isPlaying) {
       Amplitude.play();
       isPlaying = true;
-      playPauseButton.classList.add('fa-pause-circle-o');
-      playPauseButton.classList.remove('fa-play-circle-o');
     } else {
       Amplitude.pause();
       isPlaying = false;
-      playPauseButton.classList.add('fa-play-circle-o');
-      playPauseButton.classList.remove('fa-pause-circle-o');
     }
+    showAudioButtons(isPlaying);
   });
 </script>

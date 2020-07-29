@@ -25,7 +25,7 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'mixes/djcruze_november2007mix.mp3'
+  content: '/mixes/djcruze_november2007mix.mp3'
   length: '01:00:00'
   keywords: ''
   tracklist:

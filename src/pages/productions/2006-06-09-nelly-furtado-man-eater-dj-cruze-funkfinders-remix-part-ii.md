@@ -12,7 +12,7 @@ media:
   title: 'Maneater (Funkfinders Mix)'
   author: 'Nelly Furtado'
   image: '/images/productions/nelly-furtado-maneater-dj-cruze-remix.jpg'
-  content: 'productions/Nelly Furtado - Man Eater (DJ Cruze Funkfinders Remix).mp3'
+  content: '/productions/Nelly Furtado - Man Eater (DJ Cruze Funkfinders Remix).mp3'
 
 tags:
   - production

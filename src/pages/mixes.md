@@ -2,6 +2,7 @@
 layout: default
 title: 'Mixes'
 permalink: /mixes/
+headerImage: '/images/headers/turntable.jpg'
 ---
 
 <div class="cf pa2">

@@ -1,0 +1,32 @@
+---
+---
+
+<!DOCTYPE html>
+
+<html lang="en">
+  {% include head %}
+
+  <body class="w-100 bg-near-white">
+    <header class="w-100 white bg-near-black">
+      {% include navigation %}
+    </header>
+
+    <div class="cf">
+      {% if headerImage %}
+      <div class="fl w-100 w-40-ns">
+        <img src="{{headerImage}}" title="{{title}}" alt="{{title}}" />
+      </div>
+      {% endif %}
+
+      <main class="fl w-100 w-60-ns center bg-white mt0 mb2 pv2 ph4">
+        <h2 class="f2 mt3 mb1">{{title}}</h2>
+        <div class="h2 w2 bb bw2 b--near-black"></div>
+        <div class="pt4">
+          {{content}}
+        </div>
+      </main>
+    </div>
+
+    {% include footer %}
+  </body>
+</html>

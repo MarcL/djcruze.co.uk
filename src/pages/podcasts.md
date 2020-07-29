@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 'Podcasts'
-permalink: /podcasts/
+permalink: '/podcasts/'
+headerImage: '/images/headers/headphones.jpg'
 ---
 
 <div class="cf pa2">

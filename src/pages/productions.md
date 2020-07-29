@@ -1,7 +1,8 @@
 ---
 layout: default
 title: 'Productions'
-permalink: /productions/
+permalink: '/productions/'
+headerImage: '/images/headers/touchpad.jpg'
 ---
 
 <div class="cf pa2">

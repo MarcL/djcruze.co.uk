@@ -33,7 +33,6 @@ media:
     - '[00:47:43] Deadmau5 &#8211; Raise Your Weapon (Madeon Remix)'
     - '[00:51:22] John Dahlbäck &#8211; Kairo (Original Mix)'
     - '[00:57:37] Axwell &#8211; Heart Is King (Original Mix)'
-    - 'Cruze classic from 2006:'
     - '[01:03:30] C-Mos &#8211; 2 Million Ways (Axwell Remix)'
 
 layout: audio
@@ -51,6 +50,6 @@ The first part of the show starts with some French sounding house from James Tal
 
 The second part of the show gets dirty with some tougher jacking house grooves from John DahlbÃ¤ck and Axwell. Chunky drums and big synths are the order of the day here. The Cruze classic this month comes from Axwell again with his remix of &#8220;2 Million Ways&#8221; by C-Mos. Whilst only from 2006, it&#8217;s not a really old classic but it still worked wonders for me every time I played it. A massive disco-led bassline combined with big strings and a big breakdown makes it a Cruze classic in my books.
 
-In the next week or so you should see an update to the website as it&#8217;s been long overdue. I&#8217;m going to take it into 2011 with something a bit more accessible and something less like the original blog template that I created back in 2005! I also want your opinions on where I should go with the show. Do you like the radio show style that I currently do? Or do the voice-overs and shout-outs get on your nerves and you&#8217;d just prefer a straight up DJ mix? Please get in touch via the [contact form][3] or [follow me on Twitter][4] to tell me what you want.
+In the next week or so you should see an update to the website as it&#8217;s been long overdue. I&#8217;m going to take it into 2011 with something a bit more accessible and something less like the original blog template that I created back in 2005! I also want your opinions on where I should go with the show. Do you like the radio show style that I currently do? Or do the voice-overs and shout-outs get on your nerves and you&#8217;d just prefer a straight up DJ mix? Please get in touch via the [contact form](/contact) or [follow me on Twitter](https://twitter.com/djcruze) to tell me what you want.
 
 DJ Cruze and Manchester are now definitely both back in the house!

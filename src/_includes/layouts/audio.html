@@ -4,19 +4,22 @@ layout: default
 
 <div class="w-100 cf">
   <div class="fl w-100 w-50-ns" id="audio-player">
-    <div id="single-song-player">
-      <img data-amplitude-song-info="cover_art_url" />
-      <div class="bottom-container">
+    <div id="" class="shadow-4">
+      <div class="w-100">
+        <img
+          data-amplitude-song-info="cover_art_url"
+          title="{{media.title}}"
+          alt="{{media.title}}"
+        />
         <progress
           class="amplitude-song-played-progress"
           id="song-played-progress"
         ></progress>
       </div>
-
       <div class="cf bg-near-white mid-gray" id="player-controls">
         <div class="fl w-50 tc pv4 br bw1 b--moon-gray">
           <i
-            class="fa fa-3x fa-play-circle grow-large dib dark-red"
+            class="fa fa-3x fa-play-circle grow-large dib navy"
             aria-hidden="true"
             id="play-pause-button"
           ></i>
@@ -28,7 +31,7 @@ layout: default
             class="mid-gray"
             download
             ><i
-              class="fa fa-3x fa-arrow-circle-down grow-large dib dark-red"
+              class="fa fa-3x fa-arrow-circle-down grow-large dib navy"
               aria-hidden="true"
             ></i
           ></a>
@@ -47,9 +50,9 @@ layout: default
     </div>
   </div>
 
-  <div class="fl w-100 w-50-ns ph3">
+  <div class="fl w-100 w-50-ns ph0 ph3-ns pt3 pt0-ns">
     {% if media.tracklist %}
-    <h3 class="f3 mv0">Tracklist</h3>
+    <h3 class="f4 f3-ns mv0">Tracklist</h3>
     <ol>
       {% for tracklist in media.tracklist %}
       <li class="gray f5 pb3">{{tracklist}}</li>

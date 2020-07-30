@@ -8,3 +8,11 @@
 ## Fonts
 
 - https://fonts.google.com/specimen/Poppins
+
+## TODO
+
+- Thumbnails
+- Favicons
+- Bundle JS
+- OpenGraph images
+- Podcast feed

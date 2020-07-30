@@ -1,0 +1,33 @@
+---
+layout: null
+permalink: "/feed.xml"
+eleventyExcludeFromCollections: true
+sitemap:
+  exclude: yes
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ site.title | xmlEscape }}</title>
+    <description>{{ site.description | xmlEscape }}</description>
+    <link>{{ site.url }}/</link>
+    <author>
+      <name>{{site.name}}</name>
+      <email>{{site.email}}</email>
+      <uri>{{site.url}}</uri>
+    </author>
+    <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
+    <pubDate>{{ collections.post | collectionLastUpdatedDate }}</pubDate>
+    <lastBuildDate>{{ collections.post | collectionLastUpdatedDate }}</lastBuildDate>
+    <generator>Eleventy</generator>
+    {%- for post in collections.post reversed -%}
+      <item>
+        <title>{{ post.data.title | xmlEscape }}</title>
+        <description>{{ post.templateContent | xmlEscape }}</description>
+        <pubDate>{{ post.date | toUTCString }}</pubDate>
+        <link>{{ post.url | prepend: site.url }}</link>
+        <guid isPermaLink="true">{{ post.url | prepend: site.url }}</guid>
+      </item>
+    {%- endfor -%}
+  </channel>
+</rss>

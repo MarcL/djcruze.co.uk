@@ -3,7 +3,7 @@ title: 'Episode #36 &#8211; Best of 2007 Podcast'
 author: djcruze
 #permalink: /2008/01/06/episode-36-best-of-2007-podcast/
 permalink: /podcasts/episode-36-best-of-2007-podcast/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,14 +11,14 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
         71763419
         audio/mpeg
-        
+
 votio:
   - 8.4545454545456,22,
 
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,24 +26,28 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast36.jpg"
-  content: "audio/podcasts/Cruze_Podcast036_040108.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/default-logo-600x600.jpg'
+  content: '/podcasts/Cruze_Podcast036_040108.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] N&#8217;Dea Davenport &#8211; One Day My Love (D&#8217;Ramirez 12&#8243; Mix) &#8211; Dozer Records  "
-    - "[00:05:45] Camille Jones &#8211; The Creeps (Fedde Le Grande Club Mix) &#8211; Data Records  "
-    - "[00:11:52] Andrea Doria vs LXR &#8211; Freak Me (Dave Spoon Remix) &#8211; GI Recordings  "
-    - "[00:17:48] Dragonette &#8211; I Get Around (Van She Dub Mix) &#8211; Mercury  "
-    - "[00:22:56] Larry Tee &#8211; Licky (Herve Goes Low Remix) &#8211; White  "
-    - "[00:27:41] DJ DLG &#8211; Your Eyes (Original Mix) &#8211; Eyezcream Recordings  "
-    - "[00:32:41] Mighty Dub Katz &#8211; Magic Carpet Ride (Young Punx Remix) &#8211; Southern Fried Records  "
-    - "[00:38:03] Axwell &#8211; I Found You (Remode) &#8211; Axtone  "
-    - "[00:43:48] Armand Van Helden &#8211; NYC Beat (Original Mix) &#8211; Southern Fried Records  "
-    - "[00:49:03] Sia &#8211; The Girl You Lost To Cocaine (Stonebridge Club Mix) &#8211; Monkey Puzzle Records  "
-    - "[00:55:48] Coburn &#8211; Razorblade (Malente Remix) &#8211; Great Stuff  "
-    - "[00:62:18] Bodyrox ft. Luciana &#8211; What Planet You On (The Slacksons Mix) &#8211; Phonetic Records  "
-    - "[00:00:00] Axwell &#038; Sebastian Ingrosso vs. Salem Al Fakir &#8211; It&#8217;s True (Original Mix) &#8211; Axtone  "
+    - '[00:00:00] N&#8217;Dea Davenport &#8211; One Day My Love (D&#8217;Ramirez 12&#8243; Mix) &#8211; Dozer Records  '
+    - '[00:05:45] Camille Jones &#8211; The Creeps (Fedde Le Grande Club Mix) &#8211; Data Records  '
+    - '[00:11:52] Andrea Doria vs LXR &#8211; Freak Me (Dave Spoon Remix) &#8211; GI Recordings  '
+    - '[00:17:48] Dragonette &#8211; I Get Around (Van She Dub Mix) &#8211; Mercury  '
+    - '[00:22:56] Larry Tee &#8211; Licky (Herve Goes Low Remix) &#8211; White  '
+    - '[00:27:41] DJ DLG &#8211; Your Eyes (Original Mix) &#8211; Eyezcream Recordings  '
+    - '[00:32:41] Mighty Dub Katz &#8211; Magic Carpet Ride (Young Punx Remix) &#8211; Southern Fried Records  '
+    - '[00:38:03] Axwell &#8211; I Found You (Remode) &#8211; Axtone  '
+    - '[00:43:48] Armand Van Helden &#8211; NYC Beat (Original Mix) &#8211; Southern Fried Records  '
+    - '[00:49:03] Sia &#8211; The Girl You Lost To Cocaine (Stonebridge Club Mix) &#8211; Monkey Puzzle Records  '
+    - '[00:55:48] Coburn &#8211; Razorblade (Malente Remix) &#8211; Great Stuff  '
+    - '[00:62:18] Bodyrox ft. Luciana &#8211; What Planet You On (The Slacksons Mix) &#8211; Phonetic Records  '
+    - '[00:00:00] Axwell &#038; Sebastian Ingrosso vs. Salem Al Fakir &#8211; It&#8217;s True (Original Mix) &#8211; Axtone  '
+
+layout: audio
+tags:
+  - podcast
 ---
 
 It&#8217;s that time of year again when I give you the &#8220;Best of &#8230;&#8221; podcast. Apologies that it didn&#8217;t come before 31st December 2007 as promised but [I was in bed full of the winter vomiting virus][1] which wasn&#8217;t fun at all. So here are the bad boys, the heavy hitters, the killer tunes that rocked my dancefloors in 2007 all mixed up into a hot 74 minute mix.
@@ -89,29 +93,29 @@ And finally a somewhat under-exposed [Axtone][26] track which may get more play 
 
 So I hope you enjoyed this years, or should that be last years, &#8220;best of &#8230;&#8221; mix. I think they are all awesome and I hope you do too! Big love to you all for the support you give me and for all of the comments on the site. I hope 2008 brings more listeners and more funky house music!
 
- [1]: http://www.djcruze.co.uk/cms/2008/01/04/happy-new-year-2/
- [2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
- [4]: http://www.myspace.com/thebrandnewheavies
- [5]: http://www.myspace.com/ndeadavenport
- [6]: http://www.myspace.com/dramirezmusic
- [7]: http://www.feddelegrand.com/
- [8]: http://www.myspace.com/camillejonesmusic
- [9]: http://www.myspace.com/davespoon
- [10]: http://www.deejaybooking.com/andreadoria
- [11]: http://www.dragonette.com/
- [12]: http://www.vanshe.com/
- [13]: http://www.myspace.com/nylarrytee
- [14]: http://www.myspace.com/hervebeats
- [15]: http://www.djdlg.com/
- [16]: http://www.normancook.co.uk/
- [17]: http://www.theyoungpunx.com/
- [18]: http://www.axwell.co.uk/
- [19]: http://www.myspace.com/armandvanhelden
- [20]: http://www.stoneyboy.com/
- [21]: http://www.siamusic.net/
- [22]: http://www.myspace.com/coburnmusic
- [23]: http://www.myspace.com/malente
- [24]: http://www.myspace.com/bodyrox
- [25]: http://www.myspace.com/theslacksons
- [26]: http://www.axtone.com/
+[1]: http://www.djcruze.co.uk/cms/2008/01/04/happy-new-year-2/
+[2]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[3]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
+[4]: http://www.myspace.com/thebrandnewheavies
+[5]: http://www.myspace.com/ndeadavenport
+[6]: http://www.myspace.com/dramirezmusic
+[7]: http://www.feddelegrand.com/
+[8]: http://www.myspace.com/camillejonesmusic
+[9]: http://www.myspace.com/davespoon
+[10]: http://www.deejaybooking.com/andreadoria
+[11]: http://www.dragonette.com/
+[12]: http://www.vanshe.com/
+[13]: http://www.myspace.com/nylarrytee
+[14]: http://www.myspace.com/hervebeats
+[15]: http://www.djdlg.com/
+[16]: http://www.normancook.co.uk/
+[17]: http://www.theyoungpunx.com/
+[18]: http://www.axwell.co.uk/
+[19]: http://www.myspace.com/armandvanhelden
+[20]: http://www.stoneyboy.com/
+[21]: http://www.siamusic.net/
+[22]: http://www.myspace.com/coburnmusic
+[23]: http://www.myspace.com/malente
+[24]: http://www.myspace.com/bodyrox
+[25]: http://www.myspace.com/theslacksons
+[26]: http://www.axtone.com/

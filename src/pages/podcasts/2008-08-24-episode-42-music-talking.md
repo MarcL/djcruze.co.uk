@@ -3,7 +3,7 @@ title: 'Episode #42 &#8211; Music Talking'
 author: djcruze
 #permalink: /2008/08/24/episode-42-music-talking/
 permalink: /podcasts/episode-42-music-talking/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,14 +11,14 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
         57611472
         audio/mpeg
-        
+
 votio:
   - 8.4,35,
 
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,22 +26,26 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast42.jpg"
-  content: "audio/podcasts/Cruze_Podcast042_240808.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/podcast42.jpg'
+  content: '/podcasts/Cruze_Podcast042_240808.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] Morgan Page &#8211; Call My Name (Thomas Gold Remix) &#8211; Nettwerk"
-    - "[00:06:41] David Rubato feat Manda Djinn &#8211; Deep Inside (Ian Carey Remix) &#8211; Gut Recordings"
-    - "[00:11:54] Nerved &#8211; I Love U (Dumb Dan Club Mix) &#8211; MMS Records"
-    - "[00:17:40] Moby &#8211; Disco Lies (Spencer &#038; Hill Remix) &#8211; Mute"
-    - "[00:23:22] R.I.O. &#8211; Shine On (Spencer &#038; Hill Remix) &#8211; 4th &#038; Broadway"
-    - "[00:28:37] Platnum &#8211; Love Shy (Soul Avengerz Remix) &#8211; Hard 2 Beat"
-    - "[00:34:34] The Montanas &#038; DJ Roland Clark &#8211; Music Talking (Fred Falke Remix) &#8211; Strictly"
-    - "[00:41:46] Giant Jr &#8211; I Want To Be Evil (Spencer &#038; Hill Remix) &#8211; White"
-    - "[00:45:44] Axwell &#038; Bob Sinclar feat Ron Carroll &#8211; What A Wonderful World (Dabruck &#038; Klein Mix) &#8211; Defected Records"
-    - "Cruze classic from 1996: "
-    - "[00:52:03] 6 by Six &#8211; Into My Heart (Grand Larceny Remix) &#8211; 6&#215;6 Records"
+    - '[00:00:00] Morgan Page &#8211; Call My Name (Thomas Gold Remix) &#8211; Nettwerk'
+    - '[00:06:41] David Rubato feat Manda Djinn &#8211; Deep Inside (Ian Carey Remix) &#8211; Gut Recordings'
+    - '[00:11:54] Nerved &#8211; I Love U (Dumb Dan Club Mix) &#8211; MMS Records'
+    - '[00:17:40] Moby &#8211; Disco Lies (Spencer &#038; Hill Remix) &#8211; Mute'
+    - '[00:23:22] R.I.O. &#8211; Shine On (Spencer &#038; Hill Remix) &#8211; 4th &#038; Broadway'
+    - '[00:28:37] Platnum &#8211; Love Shy (Soul Avengerz Remix) &#8211; Hard 2 Beat'
+    - '[00:34:34] The Montanas &#038; DJ Roland Clark &#8211; Music Talking (Fred Falke Remix) &#8211; Strictly'
+    - '[00:41:46] Giant Jr &#8211; I Want To Be Evil (Spencer &#038; Hill Remix) &#8211; White'
+    - '[00:45:44] Axwell &#038; Bob Sinclar feat Ron Carroll &#8211; What A Wonderful World (Dabruck &#038; Klein Mix) &#8211; Defected Records'
+    - 'Cruze classic from 1996: '
+    - '[00:52:03] 6 by Six &#8211; Into My Heart (Grand Larceny Remix) &#8211; 6&#215;6 Records'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 What a terrible month August has been. A couple of days of sun and plenty of rain. It&#8217;s horrible. So what better way to kick out the UK&#8217;s &#8220;summer&#8221; than episode #42 of the DJ Cruze podcast!
@@ -58,8 +62,8 @@ If you enjoy the show then [get in touch][1] and tell me what you think or want 
 
 The image is based on a terrible Korg VC-10 vocoder advert as uploaded to Flickr by [bdu][5]! It made me laugh a lot whilst searching for &#8220;Music Talking&#8221; so I had to use it! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
 
- [1]: /cms/contact/
- [2]: http://www.dreamhost.com/donate.cgi?id=8244
- [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
- [5]: http://flickr.com/photos/bdu/148574382/
+[1]: /contact
+[2]: http://www.dreamhost.com/donate.cgi?id=8244
+[3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
+[5]: http://flickr.com/photos/bdu/148574382/

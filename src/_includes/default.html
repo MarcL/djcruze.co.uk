@@ -1,0 +1,26 @@
+---
+---
+
+<!DOCTYPE html>
+
+<html lang="en">
+  {% include head %}
+
+  <body class="w-100 bg-white">
+    {% include navigation %} {% if headerImage %}
+    <div class="w-100">
+      <img src="{{headerImage}}" title="{{title}}" alt="{{title}}" class="" />
+    </div>
+    {% endif %}
+
+    <main class="w-80 center bg-white mv2 pv2 ph1 ph3-ns">
+      <h2 class="f3 f2-ns mt3 mb1">{{title}}</h2>
+      <div class="h2 w2 bb bw2 b--near-black"></div>
+      <div class="pt4">
+        {{content}}
+      </div>
+    </main>
+
+    {% include footer %}
+  </body>
+</html>

@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,9 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast47.jpg'
-  content: 'audio/podcasts/Cruze_Podcast047_010109.mp3'
+  title: 'The Best of 2008 Mix Part 1'
+  image: '/images/podcasts/podcast47.jpg'
+  content: '/podcasts/Cruze_Podcast047_010109.mp3'
   length: '01:00:00'
   keywords: ''
   tracklist:
@@ -43,6 +44,10 @@ media:
     - '[00:55:22] Max Linen &#8211; Neon Lights (Original Full Vocal Mix) &#8211; Phonetic'
     - '[01:02:07] The Montanas &#038; DJ Roland Clark &#8211; Music Talking (Fred Falke Remix) &#8211; Strictly'
     - '[01:08:00] Eric Prydz &#8211; Pjanoo &#8211; Pryda'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Happy new year to all of the DJ Cruze podcast listeners!

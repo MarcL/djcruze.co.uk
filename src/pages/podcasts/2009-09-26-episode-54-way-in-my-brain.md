@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast54.jpg'
-  content: 'audio/podcasts/Cruze_Podcast054_260909.mp3'
+  image: '/images/podcasts/podcast54.jpg'
+  content: '/podcasts/Cruze_Podcast054_260909.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -46,6 +46,10 @@ media:
     - '[00:51:04] Sharooz &#8211; Adrenalize (Phonat Deconstructive Mix) &#8211; Mofo Hifi Records'
     - 'Cruze classic from 1991:'
     - '[00:56:00] SL2 &#8211; Way In My Brain &#8211; XL Recordings'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Time for another hour of funky and chunky house music from the crates of the DJ Cruze studio with episode #54 of the DJ Cruze Podcast. This show is another great one and this month I&#8217;ve gone on more of a disco tip to start off. It seems like the disco cut-up is back in fashion with some awesome tunes from the likes of Fake Blood (aka DJ Touche), Duck Sauce (aka Armand Van Helden and ex DMC World Champion DJ A-Trak), Tee Sky and Ou Est La Swimming Pool.

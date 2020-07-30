@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast53.jpg'
-  content: 'audio/podcasts/Cruze_Podcast053_020809.mp3'
+  image: '/images/podcasts/podcast53.jpg'
+  content: '/podcasts/Cruze_Podcast053_020809.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -47,6 +47,10 @@ media:
     - '[00:57:01] Seamus Haji &#038; Romain Curtis &#8211; I&#8217;ve Been Looking (Romain Curtis Club Mix) &#8211; Big Love'
     - 'Cruze classic from 1994: '
     - '[01:02:28] Michael Jackson &#8211; Smooth Criminal (Brothers In Rhythm House Mix) &#8211; Remiks'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 It&#8217;s been a busy month for me at DJ Cruze towers and episode #53 of the DJ Cruze month just misses July 2009 by a couple of days. Apologies for this episode being a bit late. I&#8217;ve had to contend with a house move, and hence very little free time while we unpack, and a lack of internet connection! But we&#8217;re finally in our new house and things are starting to settle down so it&#8217;s time for another selection of hot house tunes, promotional tracks from some hot house producers and plenty of chunky electro house beats. I&#8217;ve made this podcast a bit longer to try and make up for the delay.

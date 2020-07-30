@@ -3,7 +3,7 @@ title: 'Episode #41 &#8211; Neon Lights'
 author: djcruze
 #permalink: /2008/07/20/episode-41-neon-lights/
 permalink: /podcasts/episode-41-neon-lights/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -16,7 +16,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -24,22 +24,26 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast41.jpg"
-  content: "audio/podcasts/Cruze_Podcast041_200708.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/podcast41.jpg'
+  content: '/podcasts/Cruze_Podcast041_200708.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] Bingo Players vs Chocolate Puma &#8211; Touch Me (Original Mix) &#8211; Strictly"
-    - "[00:06:27] Sunloverz &#8211; Summer Of Love (Ortega and Gold Mix) &#8211; Lickin&#8217; Records"
-    - "[00:11:54] Max Linen &#8211; Neon Lights (Original Full Vocal Mix) &#8211; Phonetic"
-    - "[00:18:20] Out Of Office &#8211; Insatiable (Dub Mix) &#8211; Frenetic Music"
-    - "[00:23:11] Adele &#8211; Hometown Glory (Axwell Club Mix) &#8211; XL"
-    - "[00:27:34] Kings Of Spit &#8211; Finally Falling (Utopia &#038; Jay Funk Bootleg) &#8211; White"
-    - "[00:35:08] James Doman &#8211; Everything&#8217;s Gonna Be Alright (Carl Ryden Remix) &#8211; Positiva"
-    - "[00:40:13] Martin Solveig &#8211; I Want You (Laidback Luke Remix) &#8211; Mixture"
-    - "[00:45:25] Ryan Murgatroyd feat. Tasha Baxter &#8211; Moving On (Ian Carey Remix) &#8211; Sheer Music"
-    - "Cruze classic from 1994: "
-    - "[00:51:52] Black Shells &#8211; The Anthem (Mix 1) &#8211; Azuli"
+    - '[00:00:00] Bingo Players vs Chocolate Puma &#8211; Touch Me (Original Mix) &#8211; Strictly'
+    - '[00:06:27] Sunloverz &#8211; Summer Of Love (Ortega and Gold Mix) &#8211; Lickin&#8217; Records'
+    - '[00:11:54] Max Linen &#8211; Neon Lights (Original Full Vocal Mix) &#8211; Phonetic'
+    - '[00:18:20] Out Of Office &#8211; Insatiable (Dub Mix) &#8211; Frenetic Music'
+    - '[00:23:11] Adele &#8211; Hometown Glory (Axwell Club Mix) &#8211; XL'
+    - '[00:27:34] Kings Of Spit &#8211; Finally Falling (Utopia &#038; Jay Funk Bootleg) &#8211; White'
+    - '[00:35:08] James Doman &#8211; Everything&#8217;s Gonna Be Alright (Carl Ryden Remix) &#8211; Positiva'
+    - '[00:40:13] Martin Solveig &#8211; I Want You (Laidback Luke Remix) &#8211; Mixture'
+    - '[00:45:25] Ryan Murgatroyd feat. Tasha Baxter &#8211; Moving On (Ian Carey Remix) &#8211; Sheer Music'
+    - 'Cruze classic from 1994: '
+    - '[00:51:52] Black Shells &#8211; The Anthem (Mix 1) &#8211; Azuli'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 It&#8217;s supposed to be the summer here in the northern hemisphere but you wouldn&#8217;t think it was with the amount of rain we&#8217;ve had in the UK in the past few weeks. So I&#8217;d better brighten up your day and mine with episode #41 of the DJ Cruze podcast. As always I&#8217;ve got some killer tunes for you and your MP3 player so make sure you crank them up loud.
@@ -58,12 +62,12 @@ Image based on a picture by [Darhawk][9]
 
 **Next podcast:** 24th August 2008. I&#8217;ll be waiting for you so don&#8217;t be late!
 
- [1]: http://hypem.com/
- [2]: http://www.djcruze.co.uk/cms/2008/06/27/kings-of-spit-mashup/
- [3]: http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&#038;location=http%3A%2F%2Fwww.amazon.co.uk%2FHed-Kandi-Mix-Summer-2008%2Fdp%2FB001AI7FD6%3Fie%3DUTF8%26s%3Dmusic%26qid%3D1216307490%26sr%3D8-1&#038;tag=djcr-21&#038;linkCode=ur2&#038;camp=1634&#038;creative=6738
- [4]: http://utopia-music.podomatic.com/
- [5]: /cms/contact/
- [6]: http://www.dreamhost.com/donate.cgi?id=8244
- [7]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [8]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast041_200708.mp3
- [9]: http://flickr.com/photos/scottstudiophotography/317344784/
+[1]: http://hypem.com/
+[2]: http://www.djcruze.co.uk/cms/2008/06/27/kings-of-spit-mashup/
+[3]: http://www.amazon.co.uk/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.co.uk%2FHed-Kandi-Mix-Summer-2008%2Fdp%2FB001AI7FD6%3Fie%3DUTF8%26s%3Dmusic%26qid%3D1216307490%26sr%3D8-1&tag=djcr-21&linkCode=ur2&camp=1634&creative=6738
+[4]: http://utopia-music.podomatic.com/
+[5]: /contact
+[6]: http://www.dreamhost.com/donate.cgi?id=8244
+[7]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[8]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast041_200708.mp3
+[9]: http://flickr.com/photos/scottstudiophotography/317344784/

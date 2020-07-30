@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast49.jpg'
-  content: 'audio/podcasts/Cruze_Podcast049_120209.mp3'
+  image: '/images/podcasts/podcast49.jpg'
+  content: '/podcasts/Cruze_Podcast049_120209.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -45,6 +45,10 @@ media:
     - '[00:48:36] Bimbo Jones &#8211; Come On (Up) &#8211; CDR'
     - 'Cruze classic from 1993: '
     - '[00:55:37] Helicopter &#8211; On Ya Way &#8211; Tic Tac Toe'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 As always it&#8217;s been far too long since the last podcast. After making two best of mixes (part 1 and part 2) for you I decided to not publish a podcast in January to give me a brief rest! But I&#8217;m back now with another hour of funky and chunky house music for 2009.

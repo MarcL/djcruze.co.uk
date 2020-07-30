@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast50.jpg'
-  content: 'audio/podcasts/Cruze_Podcast050_010409.mp3'
+  image: '/images/podcasts/podcast50.jpg'
+  content: '/podcasts/Cruze_Podcast050_010409.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -44,6 +44,10 @@ media:
     - '[00:49:54] Pryda &#8211; Miami To Atlanta (Original Mix) &#8211; Pryda Recordings'
     - 'Cruze classic from 1991: '
     - '[00:55:37] Zero B &#8211; Lock Up &#8211; Great Asset'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 So how did March slip away without a DJ Cruze podcast?! Thankfully I&#8217;ve managed to get it done in time for the start of April though. So here we are with episode #50 of the DJ Cruze podcast and there are plenty of big tunes for you on this show.

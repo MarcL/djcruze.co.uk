@@ -19,7 +19,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -27,7 +27,8 @@ categories:
 # Media details
 ###################################
 media:
-  content: 'audio/podcasts/Cruze_Podcast023_241006.mp3'
+  image: '/images/podcasts/default-logo-600x600.jpg'
+  content: '/podcasts/Cruze_Podcast023_241006.mp3'
   length: '01:05:06'
   keywords: ''
   tracklist:
@@ -44,6 +45,10 @@ media:
     - 'Tall Paul &#8211; Rock Da House 2006 (Rhythm Masters Mix) &#8211; AATW'
     - 'Cruze classic from 2001: '
     - 'Banda Sonora &#8211; Guitarra G (G Club Original Mix) &#8211; Defected'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Finally episode #23 of the DJ Cruze podcast arrives at your door like an old friend. Sorry that it took a bit longer than it should have done. I sorted the mix out a few days ago and wanted to master it (so that it sounds nice for you all) like I always do. And then yet again my old PC crashed. So I&#8217;ve spent the last few hours trying to save the podcast and thankfully I&#8217;ve sorted it out. Fingers crossed that it will last a bit longer until I&#8217;ve copied all of my data over to my external hard drive.
@@ -56,7 +61,7 @@ Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t 
 
 As always I love to hear your feed back on the show. [Contact me][1] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes, I&#8217;ll play them.
 
-[1]: http://www.djcruze.co.uk/cms/contact/
+[1]: /contact
 [2]: http://www.denisthemenace.de/
 [3]: http://www.loadedrecords.com/
 [4]: http://www.justintimberlake.com/

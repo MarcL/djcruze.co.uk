@@ -3,7 +3,7 @@ title: 'July 2008 Mix &#8211; Ibiza Sunset'
 author: djcruze
 #permalink: /2008/07/23/july-2008-mix-ibiza-sunset/
 permalink: /mixes/july-2008-mix-ibiza-sunset/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,14 +11,13 @@ enclosure:
         http://www.djcruzeaudio.co.uk/mixes/djcruzemix_july2008.mp3
         67111782
         audio/mpeg
-        
+
 votio:
   - 8.5079365079365,63,
 
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
 categories:
   - Mixes
 
@@ -26,23 +25,27 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/mixes/july2008mix_ibiza_sunset.jpg"
-  content: "audio/podcasts/djcruzemix_july2008.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/mixes/july2008mix_ibiza_sunset.jpg'
+  content: '/mixes/djcruzemix_july2008.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] Eric Prydz &#8211; F12 (Original Mix) &#8211; Pryda"
-    - "[00:06:15] Duart Jansen &#8211; 2 Cowboys &#8211; CDR"
-    - "[00:11:30] Mike Di Scala &#8211; Space &#038; Time (Deadmau5 Vocal Mix) &#8211; 3Beat Blue"
-    - "[00:15:30] Dave Spoon &#8211; 88 (Mark Knight &#038; Funkagenda Remix) &#8211; Toolroom Records"
-    - "[00:21:04] Pryda &#8211; Fabric Test &#8211; CDR"
-    - "[00:27:56] Three Drives &#8211; Greece 2000 (Chris Reece Remix) &#8211; S2 Records"
-    - "[00:33:28] Alex Harmony &#8211; Nayati (Funkfinders Virus Remix) &#8211; CDR"
-    - "[00:40:13] Dobenbeck feat. Joanna &#8211; Please Don&#8217;t Go (Chris Reece Too Late Remix) &#8211; Sirup Music"
-    - "[00:46:02] Adele &#8211; Hometown Glory (Axwell Remode) &#8211; XL"
-    - "[00:50:54] Steve Angello &#038; Sebastian Ingrosso &#8211; 555 (Original Mix) &#8211; Refune"
-    - "[00:56:24] EDX &#8211; Premiumline (Original Mix) &#8211; PinkStar"
-    - "[01:02:39] David Amo &#038; Julio Navas &#8211; La Sagrada Familia (Original Mix) &#8211; Lowered Recordings"
+    - '[00:00:00] Eric Prydz &#8211; F12 (Original Mix) &#8211; Pryda'
+    - '[00:06:15] Duart Jansen &#8211; 2 Cowboys &#8211; CDR'
+    - '[00:11:30] Mike Di Scala &#8211; Space &#038; Time (Deadmau5 Vocal Mix) &#8211; 3Beat Blue'
+    - '[00:15:30] Dave Spoon &#8211; 88 (Mark Knight &#038; Funkagenda Remix) &#8211; Toolroom Records'
+    - '[00:21:04] Pryda &#8211; Fabric Test &#8211; CDR'
+    - '[00:27:56] Three Drives &#8211; Greece 2000 (Chris Reece Remix) &#8211; S2 Records'
+    - '[00:33:28] Alex Harmony &#8211; Nayati (Funkfinders Virus Remix) &#8211; CDR'
+    - '[00:40:13] Dobenbeck feat. Joanna &#8211; Please Don&#8217;t Go (Chris Reece Too Late Remix) &#8211; Sirup Music'
+    - '[00:46:02] Adele &#8211; Hometown Glory (Axwell Remode) &#8211; XL'
+    - '[00:50:54] Steve Angello &#038; Sebastian Ingrosso &#8211; 555 (Original Mix) &#8211; Refune'
+    - '[00:56:24] EDX &#8211; Premiumline (Original Mix) &#8211; PinkStar'
+    - '[01:02:39] David Amo &#038; Julio Navas &#8211; La Sagrada Familia (Original Mix) &#8211; Lowered Recordings'
+
+layout: audio
+tags:
+  - mix
 ---
 
 It&#8217;s been an awfully long time since I put a new mix onto my site so I managed to grab a couple of hours the other night and thought I&#8217;d do a new mix ready for my trip to Ibiza on Saturday. I&#8217;m off on a stag/bachelor weekend with some of the guys from Manchester and because the stag, Will, is a big fan of progressive house I thought I&#8217;d do a deep, dark and progressive mix for us to play while we&#8217;re out there. Obviously I thought you guys might like it too so here it is! I must warn you that it&#8217;s not my normal style and it gets a bit dark and twisted! It runs a fine line between electro, progressive and tech house but it&#8217;ll definitely get you in the mood for going out!
@@ -57,11 +60,11 @@ If you enjoy the mix then [get in touch][4] and tell me what you think. Also, wh
 
 Ibiza sunset image based on a picture of an Ibiza sunset at Cafe Del Mar by [Ben30][8].
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/07/july2008mix_ibiza_sunset.jpg
- [2]: http://www.myspace.com/duartjansen
- [3]: http://www.djcruze.co.uk/cms/2008/07/20/episode-41-neon-lights/
- [4]: /cms/contact/
- [5]: http://www.dreamhost.com/donate.cgi?id=8244
- [6]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [7]: http://www.djcruzeaudio.co.uk/mixes/djcruzemix_july2008.mp3
- [8]: http://www.flickr.com/photos/ben30/14215189/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/07/july2008mix_ibiza_sunset.jpg
+[2]: http://www.myspace.com/duartjansen
+[3]: http://www.djcruze.co.uk/cms/2008/07/20/episode-41-neon-lights/
+[4]: /contact
+[5]: http://www.dreamhost.com/donate.cgi?id=8244
+[6]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[7]: http://www.djcruzeaudio.co.uk/mixes/djcruzemix_july2008.mp3
+[8]: http://www.flickr.com/photos/ben30/14215189/

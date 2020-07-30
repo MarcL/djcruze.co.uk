@@ -3,7 +3,7 @@ title: 'Episode #43 &#8211; Walking On A Dream'
 author: djcruze
 #permalink: /2008/09/21/episode-43-walking-on-a-dream/
 permalink: /podcasts/episode-43-walking-on-a-dream/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -16,7 +16,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -24,22 +24,26 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast43.jpg"
-  content: "audio/podcasts/Cruze_Podcast043_210908.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/podcast43.jpg'
+  content: '/podcasts/Cruze_Podcast043_210908.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] The Young Punx &#8211; Fire (Phonat Mix) &#8211; Mofo Hifi"
-    - "[00:06:04] Empire Of The Sun &#8211; Walking On A Dream (Funkfinders Discoid Remix) &#8211; CDR"
-    - "[00:13:03] DJ DLG &#038; Erick Morillo &#8211; Where Are You Now (Original Mix) &#8211; Subliminal"
-    - "[00:22:18] Deadmau5 &#8211; Hi Friend (Original Mix) Mau5trap"
-    - "[00:27:33] Shelltoe Allstars &#8211; King Of The Beats (Original Mix) &#8211; Hoxton Whores"
-    - "[00:33:52] Funkerman feat JW &#8211; One For Me (Original Mix) &#8211; Stealth"
-    - "[00:38:22] Mark Knight &#038; Funkagenda &#8211; The Man With The Red Face (Morris T Remix) &#8211; Oxyd"
-    - "[00:43:54] Wawa &#038; Herd &#8211; The Right Way (Chris Ortega Mix) &#8211; JFunk Recordings"
-    - "[00:51:09] Ian Widgery presents Skynet UK &#8211; Back To 89 (Original Mix) 852 Recordings"
-    - "Cruze classic from 1991: "
-    - "[00:57:56] 2 Bad Mice &#8211; Bomb Scare &#8211; Moving Shadow"
+    - '[00:00:00] The Young Punx &#8211; Fire (Phonat Mix) &#8211; Mofo Hifi'
+    - '[00:06:04] Empire Of The Sun &#8211; Walking On A Dream (Funkfinders Discoid Remix) &#8211; CDR'
+    - '[00:13:03] DJ DLG &#038; Erick Morillo &#8211; Where Are You Now (Original Mix) &#8211; Subliminal'
+    - '[00:22:18] Deadmau5 &#8211; Hi Friend (Original Mix) Mau5trap'
+    - '[00:27:33] Shelltoe Allstars &#8211; King Of The Beats (Original Mix) &#8211; Hoxton Whores'
+    - '[00:33:52] Funkerman feat JW &#8211; One For Me (Original Mix) &#8211; Stealth'
+    - '[00:38:22] Mark Knight &#038; Funkagenda &#8211; The Man With The Red Face (Morris T Remix) &#8211; Oxyd'
+    - '[00:43:54] Wawa &#038; Herd &#8211; The Right Way (Chris Ortega Mix) &#8211; JFunk Recordings'
+    - '[00:51:09] Ian Widgery presents Skynet UK &#8211; Back To 89 (Original Mix) 852 Recordings'
+    - 'Cruze classic from 1991: '
+    - '[00:57:56] 2 Bad Mice &#8211; Bomb Scare &#8211; Moving Shadow'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 It&#8217;s time for another slice of funky house and chunky electro house to brighten up those dull days of autumn. What better way than episode #43 of the DJ Cruze podcast. It almost didn&#8217;t happen tonight due to a last minute hardware glitch but thankfully I managed to sort it out. I&#8217;ve just changed over to using my microphone via my laptop rather than an eight year old desktop PC which was feeling the strain but my audio interface decided it didn&#8217;t want to play nicely. Thankfully it&#8217;s all sorted now though.
@@ -61,9 +65,9 @@ If you enjoy the show then [get in touch][2] and tell me what you think or want 
 
 The image is a still taken from Empire Of A Dream&#8217;s awesome video for &#8220;Walking On A Dream&#8221;. [Take a look at it on YouTube][6].
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/09/podcast43.jpg
- [2]: /cms/contact/
- [3]: http://www.dreamhost.com/donate.cgi?id=8244
- [4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast043_210908.mp3
- [6]: http://www.youtube.com/watch?v=zmM2RwlxGt0
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/09/podcast43.jpg
+[2]: /contact
+[3]: http://www.dreamhost.com/donate.cgi?id=8244
+[4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast043_210908.mp3
+[6]: http://www.youtube.com/watch?v=zmM2RwlxGt0

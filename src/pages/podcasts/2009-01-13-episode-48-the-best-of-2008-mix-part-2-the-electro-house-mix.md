@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,9 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast48.jpg'
-  content: 'audio/podcasts/Cruze_Podcast048_130109.mp3'
+  title: 'The Best of 2008 Mix Part 2'
+  image: '/images/podcasts/podcast48.jpg'
+  content: '/podcasts/Cruze_Podcast048_130109.mp3'
   length: '01:00:00'
   keywords: ''
   tracklist:
@@ -42,6 +43,10 @@ media:
     - '[00:48:11] Erick Morillo &#038; DJ DLG &#8211; Where Are You Now (Original Mix) &#8211; Subliminal'
     - '[00:57:18] Dirty South &#038; Axwell &#8211; Open Your Heart (Vocal Mix) &#8211; Axtone'
     - '[01:04:25] Sebastian Ingrosso &#038; Laidback Luke &#8211; Chaa Chaa (EDX&#8217;s Marakesh Souk Remix) &#8211; Size'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Here&#8217;s part 2 of my &#8220;Best Of 2008 Mix&#8221; and it&#8217;s 70 minutes of electro and progressive house goodness! There were plenty of great tougher house tracks in 2008 and hopefully I&#8217;ve chosen the best ones for you.

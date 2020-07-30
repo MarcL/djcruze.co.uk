@@ -3,7 +3,7 @@ title: 'Episode #39 &#8211; Higher'
 author: djcruze
 #permalink: /2008/05/27/episode-39-higher/
 permalink: /podcasts/episode-39-higher/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,16 +11,14 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast039_270508.mp3
         65391752
         audio/mpeg
-        
+
 votio:
   - 8.6052631578948,38,
-tags:
-  - podcast
 
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -28,24 +26,28 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast39.jpg"
-  content: "audio/podcasts/Cruze_Podcast039_270508.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/podcast39.jpg'
+  content: '/podcasts/Cruze_Podcast039_270508.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] The Whitest Boy Alive &#8211; Golden Cage (Fred Falke Remix) &#8211; Modular"
-    - "[00:06:47] Paul Harris &#038; Dave Spoon feat Sam Obernik &#8211; Baditude (Club Mix) &#8211; Toolroom Records"
-    - "[00:12:35] Tim Deluxe &#8211; You Got Tha Touch (Original Mix) &#8211; Skint"
-    - "[00:18:05] Denis The Menace &#038; Big World &#8211; Fired Up (Dabruck &#038; Klein Mix) &#8211; 3Beat Blue"
-    - "[00:24:50] Rihanna &#8211; Take A Bow (Seamus Haji Remix) &#8211; Mercury"
-    - "[00:31:50] DJ Jean &#8211; The Launch Relaunched (Olav Basoski Remix) &#8211; House Trained"
-    - "DJ Cruze EXCLUSIVE "
-    - "[00:36:23] Funkfinders feat Amber Dirks &#8211; Higher &#8211; CDR"
-    - "[00:42:38] SW14 &#8211; Need You Tonight (Carl Ryden Remix) &#8211; Gusto"
-    - "[00:47:48] Ian Carey &#8211; Keep On Rising (Jerry Ropero Remix) &#8211; Spinnin&#8217; Records"
-    - "[00:54:49] The Ian Carey Project &#8211; Get Shaky (Ian Carey Vocal Mix) &#8211; GFAB Records"
-    - "Cruze classic from 1994: "
-    - "[01:00:34] Floorjam &#8211; Stoneage &#8211; Deep Distraxion"
+    - '[00:00:00] The Whitest Boy Alive &#8211; Golden Cage (Fred Falke Remix) &#8211; Modular'
+    - '[00:06:47] Paul Harris &#038; Dave Spoon feat Sam Obernik &#8211; Baditude (Club Mix) &#8211; Toolroom Records'
+    - '[00:12:35] Tim Deluxe &#8211; You Got Tha Touch (Original Mix) &#8211; Skint'
+    - '[00:18:05] Denis The Menace &#038; Big World &#8211; Fired Up (Dabruck &#038; Klein Mix) &#8211; 3Beat Blue'
+    - '[00:24:50] Rihanna &#8211; Take A Bow (Seamus Haji Remix) &#8211; Mercury'
+    - '[00:31:50] DJ Jean &#8211; The Launch Relaunched (Olav Basoski Remix) &#8211; House Trained'
+    - 'DJ Cruze EXCLUSIVE '
+    - '[00:36:23] Funkfinders feat Amber Dirks &#8211; Higher &#8211; CDR'
+    - '[00:42:38] SW14 &#8211; Need You Tonight (Carl Ryden Remix) &#8211; Gusto'
+    - '[00:47:48] Ian Carey &#8211; Keep On Rising (Jerry Ropero Remix) &#8211; Spinnin&#8217; Records'
+    - '[00:54:49] The Ian Carey Project &#8211; Get Shaky (Ian Carey Vocal Mix) &#8211; GFAB Records'
+    - 'Cruze classic from 1994: '
+    - '[01:00:34] Floorjam &#8211; Stoneage &#8211; Deep Distraxion'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Has it really been over two months since I filled your iPods and MP3 players with funky house music? Yet again I am seriously sorry for not getting my hands and decks into action and getting you a mix of the most twisted and funky house and electro tunes around. Life&#8217;s always hectic in the DJ Cruze household and this time it&#8217;s been more hectic than usual. As a result I&#8217;ve decided that I need to get more sensible podcast schedule sorted for you so that you at find a new mix in your musical inbox at least once a month! Watch this space for more details.
@@ -58,11 +60,11 @@ Also, the classic this week is a great disco cut-up from 1994 by Floorjam called
 
 Enjoy the show and [get in touch][6] if you want a shout out. And don&#8217;t forget to comment on the show below and tell me what you think.
 
- [1]: http://www.djcruze.co.uk
- [2]: http://www.djcruze.co.uk/cms/2006/04/21/episode-14-cease/
- [3]: http://www.myspace.com/ambersings4real
- [4]: http://www.myspace.com/metrogrooverecords
- [5]: http://www.firstrhythm.co.uk/cruze-classics.asp?at=400
- [6]: /cms/contact/
- [7]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [8]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast039_270508.mp3
+[1]: http://www.djcruze.co.uk
+[2]: http://www.djcruze.co.uk/cms/2006/04/21/episode-14-cease/
+[3]: http://www.myspace.com/ambersings4real
+[4]: http://www.myspace.com/metrogrooverecords
+[5]: http://www.firstrhythm.co.uk/cruze-classics.asp?at=400
+[6]: /contact
+[7]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[8]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast039_270508.mp3

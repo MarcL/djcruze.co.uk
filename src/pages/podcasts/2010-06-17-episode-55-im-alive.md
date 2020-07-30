@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast55.jpg'
-  content: 'audio/podcasts/DJCruze_Podcast055_170610.mp3'
+  image: '/images/podcasts/podcast55.jpg'
+  content: '/podcasts/DJCruze_Podcast055_170610.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -48,6 +48,10 @@ media:
     - '[01:06:00] Swedish House Mafia &#8211; One (Original Mix) &#8211; SHM'
     - 'Cruze classic from 1994:'
     - '[01:10:52] Rhyme Time Productions &#8211; You And Me (Hard Mix) &#8211; Cleveland City Records'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Ok. So it&#8217;s been a while hasn&#8217;t it?!

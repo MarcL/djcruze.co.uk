@@ -3,7 +3,7 @@ title: 'Episode #46 &#8211; Sexy Dancer'
 author: djcruze
 #permalink: /2008/12/23/episode-46-sexy-dancer/
 permalink: /podcasts/episode-46-sexy-dancer/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,14 +11,14 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast046_231208.mp3
         56589112
         audio/mpeg
-        
+
 votio:
   - 9.2333333333333,30,
 
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,22 +26,26 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast46.jpg"
-  content: "audio/podcasts/Cruze_Podcast046_231208.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/podcast46.jpg'
+  content: '/podcasts/Cruze_Podcast046_231208.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] East 17 &#8211; Stay Another Day (Funkfinders Electroid Remix) &#8211; White"
-    - "[00:06:00] Bodyrox &#038; Luciana feat Nick Clow &#8211; Brave New World (Original Mix) &#8211; Phonetic"
-    - "[00:12:07] Chris Lake feat Nastala &#8211; If You Knew (Original Mix) &#8211; Rising Music"
-    - "[00:18:22] Arno Cost &#8211; Souvenir (Arias Remix) &#8211; CR2 Records"
-    - "[00:24:22] Super Mal &#038; Phonat &#8211; Pixelated (Original Mix) &#8211; Bandito Records"
-    - "[00:29:22] The Young Punx &#8211; Never Die (12&#8243; Mix) &#8211; Mofo Hifi"
-    - "[00:33:22] Freemasons feat Hazel Fernandes &#8211; If (Jolyon Petch Vocal Club Mix) &#8211; Loaded"
-    - "[00:40:19] Soul Avengerz &#8211; One Luv (Dirty Dub) &#8211; Milk &#038; Sugar"
-    - "[00:45:48] Simone Denny &#8211; Addicted (World Of Colour Remix) &#8211; White"
-    - "Cruze classic from 1994: "
-    - "[00:50:45] The Rockford Files &#8211; Sexy Dancer &#8211; Blackburn Records"
+    - '[00:00:00] East 17 &#8211; Stay Another Day (Funkfinders Electroid Remix) &#8211; White'
+    - '[00:06:00] Bodyrox &#038; Luciana feat Nick Clow &#8211; Brave New World (Original Mix) &#8211; Phonetic'
+    - '[00:12:07] Chris Lake feat Nastala &#8211; If You Knew (Original Mix) &#8211; Rising Music'
+    - '[00:18:22] Arno Cost &#8211; Souvenir (Arias Remix) &#8211; CR2 Records'
+    - '[00:24:22] Super Mal &#038; Phonat &#8211; Pixelated (Original Mix) &#8211; Bandito Records'
+    - '[00:29:22] The Young Punx &#8211; Never Die (12&#8243; Mix) &#8211; Mofo Hifi'
+    - '[00:33:22] Freemasons feat Hazel Fernandes &#8211; If (Jolyon Petch Vocal Club Mix) &#8211; Loaded'
+    - '[00:40:19] Soul Avengerz &#8211; One Luv (Dirty Dub) &#8211; Milk &#038; Sugar'
+    - '[00:45:48] Simone Denny &#8211; Addicted (World Of Colour Remix) &#8211; White'
+    - 'Cruze classic from 1994: '
+    - '[00:50:45] The Rockford Files &#8211; Sexy Dancer &#8211; Blackburn Records'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Here is Episode #46 of the DJ Cruze Podcast or &#8220;The Christmas Podcast&#8221; as it&#8217;s sometimes known. It&#8217;s a couple of days late due to some Christmas partying but don&#8217;t worry, it&#8217;s packed full of slamming house beats for you to enjoy while you tuck into your turkey, goose or whatever poultry you might be eating during the festive season.
@@ -56,8 +60,8 @@ Don&#8217;t forget that I&#8217;ll be back in a week with the &#8220;Best of 200
 
 [Sexy Dancer image][5] used under Creative Commons licence from Adi Setiawan.
 
- [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/12/podcast46.jpg
- [2]: http://www.djcruze.co.uk/cms/2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
- [3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast046_231208.mp3
- [5]: http://www.flickr.com/photos/adisetiawan/2979239187/
+[1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/12/podcast46.jpg
+[2]: http://www.djcruze.co.uk/cms/2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/
+[3]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[4]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast046_231208.mp3
+[5]: http://www.flickr.com/photos/adisetiawan/2979239187/

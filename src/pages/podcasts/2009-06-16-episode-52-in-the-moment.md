@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast52.jpg'
-  content: 'audio/podcasts/Cruze_Podcast052_160609.mp3'
+  image: '/images/podcasts/podcast52.jpg'
+  content: '/podcasts/Cruze_Podcast052_160609.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -45,6 +45,10 @@ media:
     - '[00:46:40] Lambda &#8211; Hold On Tight (PhonJaxx Remix) &#8211; Black Plastic'
     - 'Cruze classic from 2002: '
     - '[00:52:29] Archigram &#8211; Carnavale &#8211; Crydamoure'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Here you go. Another hour of funky house, twisted disco and electro beats all served up in a handy little package we call the DJ Cruze Podcast Episode #52. I&#8217;ve thankfully managed to get it done in a month too which is always good!

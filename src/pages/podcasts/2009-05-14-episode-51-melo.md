@@ -18,7 +18,7 @@ votio:
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,8 +26,8 @@ categories:
 # Media details
 ###################################
 media:
-  image: 'images/podcasts/podcast51.jpg'
-  content: 'audio/podcasts/Cruze_Podcast051_140509.mp3'
+  image: '/images/podcasts/podcast51.jpg'
+  content: '/podcasts/Cruze_Podcast051_140509.mp3'
   length: '01:00:00'
   keywords: ''
   # Set GUID for old podcasts to keep XML happy
@@ -44,6 +44,10 @@ media:
     - '[00:48:10] Pryda &#8211; Melo (Original Mix) &#8211; Pryda Recordings'
     - 'Cruze classic from 1993: '
     - '[00:55:18] Deadly Sins &#8211; We Are Going On Down (Bottom Dollar Club Mix) &#8211; Ffrreedom'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Back once again with the renegade master DJ Cruze! Episode #51 of the DJ Cruze Podcast finally drops onto your iPod (or other MP3 player obviously!) How did I manage to let this one slip so late into May? Life gets in the way sometimes! Sorry about that.

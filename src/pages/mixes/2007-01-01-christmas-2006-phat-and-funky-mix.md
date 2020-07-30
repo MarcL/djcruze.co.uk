@@ -3,7 +3,7 @@ title: 'Christmas 2006: Phat and funky mix'
 author: djcruze
 #permalink: /2007/01/01/christmas-2006-phat-and-funky-mix/
 permalink: /mixes/christmas-2006-phat-and-funky-mix/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,13 +11,12 @@ enclosure:
         http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_phatandfunkymix.mp3
         3627008
         audio/mpeg
-        
+
 votio:
   - 8.0579710144925,69,
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
 categories:
   - Mixes
 
@@ -25,17 +24,21 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/mixes/djcruze_december2006_phatandfunkymix.mp3"
-  length: "00:42:31"
-  keywords: ""
+  content: '/mixes/djcruze_december2006_phatandfunkymix.mp3'
+  length: '00:42:31'
+  keywords: ''
   tracklist:
-    - "Basement Jaxx &#8211; Hush Boy (Soul Seekerz Mix) &#8211; XL Recordings"
-    - "Lucky 7 &#8211; Why &#8211; Simply Recordings"
-    - "Sexy Toy &#8211; Everytime (Original Mix) &#8211; Oryx Music"
-    - "Dirty Old Ann &#8211; Turn Me On (Full Vocal Club Mix) &#8211; Loaded Records"
-    - "Mint Royale &#8211; Whambar (12&#8243; Version) &#8211; Direction Records"
-    - "Booty Luv &#8211; Boogie 2Night (Seamus Haji Big Love Remix) &#8211; Hed Kandi"
-    - "Tyken &#8211; Every Word (Triple Dee Rebuild) &#8211; Hed Kandi"
+    - 'Basement Jaxx &#8211; Hush Boy (Soul Seekerz Mix) &#8211; XL Recordings'
+    - 'Lucky 7 &#8211; Why &#8211; Simply Recordings'
+    - 'Sexy Toy &#8211; Everytime (Original Mix) &#8211; Oryx Music'
+    - 'Dirty Old Ann &#8211; Turn Me On (Full Vocal Club Mix) &#8211; Loaded Records'
+    - 'Mint Royale &#8211; Whambar (12&#8243; Version) &#8211; Direction Records'
+    - 'Booty Luv &#8211; Boogie 2Night (Seamus Haji Big Love Remix) &#8211; Hed Kandi'
+    - 'Tyken &#8211; Every Word (Triple Dee Rebuild) &#8211; Hed Kandi'
+
+layout: audio
+tags:
+  - mix
 ---
 
 To finish off this series of Christmas mini-mixes I decided to mix a few of my favourite funky tunes from the past few months. Kicking off the mix we have a funky little number from [the Jaxx][1] called &#8220;Hush Boy&#8221;. The [Soul Seekerz ][2]have transformed it from a downbeat tune into a funky house number which rocked many of my funky floors last year. We then move onto a mysterious reggae house tune called &#8220;Why?&#8221; by Lucky 7. I still haven&#8217;t found out who did this tune but I&#8217;m guessing it&#8217;s one of the big house producers of the moment and they couldn&#8217;t clear the samples! It&#8217;s a funky little number in the same vein as [Olav Basoski][3]&#8216;s &#8220;Waterman&#8221; and it rocks!
@@ -48,26 +51,13 @@ The final tune on the mix comes from [Hed Kandi][10] again and they&#8217;ve jus
 
 So that&#8217;s it. The last of the Christmas mini-mixes. I hope you&#8217;ve enjoyed them all and I look forward to doing plenty more in 2007.
 
-**Tracklisting:**
-
-  1. Basement Jaxx &#8211; Hush Boy (Soul Seekerz Mix) &#8211; XL Recordings
-  2. Lucky 7 &#8211; Why &#8211; Simply Recordings
-  3. Sexy Toy &#8211; Everytime (Original Mix) &#8211; Oryx Music
-  4. Dirty Old Ann &#8211; Turn Me On (Full Vocal Club Mix) &#8211; Loaded Records
-  5. Mint Royale &#8211; Whambar (12&#8243; Version) &#8211; Direction Records
-  6. Booty Luv &#8211; Boogie 2Night (Seamus Haji Big Love Remix) &#8211; Hed Kandi
-  7. Tyken &#8211; Every Word (Triple Dee Rebuild) &#8211; Hed Kandi
-
-<div style="clear:both;">
-</div>
-
- [1]: http://www.basementjaxx.co.uk/
- [2]: http://www.soulseekerz.com/
- [3]: http://www.olavbasoski.nl/
- [4]: http://www.oryxmusic.com/
- [5]: http://www.mint-royale.com/
- [6]: http://www.georgemichael.com/
- [7]: http://www.biglovemusic.co.uk/
- [8]: http://www.atlanticrecords.com/tweet
- [9]: http://www.dbboulevard.it/
- [10]: http://www.hedkandi.com/
+[1]: http://www.basementjaxx.co.uk/
+[2]: http://www.soulseekerz.com/
+[3]: http://www.olavbasoski.nl/
+[4]: http://www.oryxmusic.com/
+[5]: http://www.mint-royale.com/
+[6]: http://www.georgemichael.com/
+[7]: http://www.biglovemusic.co.uk/
+[8]: http://www.atlanticrecords.com/tweet
+[9]: http://www.dbboulevard.it/
+[10]: http://www.hedkandi.com/

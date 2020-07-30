@@ -1,0 +1,11 @@
+[
+  { "name": "Home", "url": "/", "title": "djcruze.co.uk" },
+  { "name": "Mixes", "url": "/mixes", "title": "Latest mixes" },
+  { "name": "Podcasts", "url": "/podcasts", "title": "Latest podcasts" },
+  {
+    "name": "Productions",
+    "url": "/productions",
+    "title": "Latest productions"
+  },
+  { "name": "About", "url": "/about", "title": "Find out more about me" }
+]

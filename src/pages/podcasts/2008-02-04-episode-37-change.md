@@ -3,7 +3,7 @@ title: 'Episode #37 &#8211; Change'
 author: djcruze
 #permalink: /2008/02/04/episode-37-change/
 permalink: /podcasts/episode-37-change/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,14 +11,14 @@ enclosure:
         http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast037_040207.mp3
         55722561
         audio/mpeg
-        
+
 votio:
   - 9.3333333333333,24,
 
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
+
 categories:
   - Podcasts
 
@@ -26,23 +26,27 @@ categories:
 # Media details
 ###################################
 media:
-  image: "images/podcasts/podcast37.jpg"
-  content: "audio/podcasts/Cruze_Podcast037_040207.mp3"
-  length: "01:00:00"
-  keywords: ""
+  image: '/images/podcasts/default-logo-600x600.jpg'
+  content: '/podcasts/Cruze_Podcast037_040207.mp3'
+  length: '01:00:00'
+  keywords: ''
   tracklist:
-    - "[00:00:00] NJoi &#8211; Plastic Minds &#8211; New Black Records"
-    - "[00:06:12] Chanel &#8211; Dance (Carl Ryder Club Mix) &#8211; Hed Kandi"
-    - "[00:12:09] David Jordan &#8211; Sun Goes Down (Hi Tak Dub) &#8211; White"
-    - "[00:17:09] Marco Denmark &#8211; Tiny Dancer (Moto Blanco Mix) &#8211; 3 Beat Blue"
-    - "[00:23:06] Out Of Office &#8211; Break Of Dawn (Club Mix) &#8211; Frenetic"
-    - "[00:28:34] H Two O &#8211; What&#8217;s It Gonna Be (Vandalism Remix) &#8211; Ministry Of Sound"
-    - "[00:34:38] Addictive &#8211; Gonna Be Mine (Simmons &#038; Christopher Remix) &#8211; Gusto"
-    - "DJ Cruze EXCLUSIVE "
-    - "[00:40:50] World Of Colour &#8211; Change (Funkfinders Remix) &#8211; Metrogroove Records"
-    - "[00:47:02] DJ DLG &#8211; Paramount (Dave Armstrong Remix) &#8211; Huge Records"
-    - "Cruze classic from 1996: "
-    - "[00:52:30] CJ Bolland &#8211; Sugar Is Sweeter (Armand Van Helden&#8217;s Drum &#8216;n&#8217; Bass Mix) &#8211; FFRR"
+    - '[00:00:00] NJoi &#8211; Plastic Minds &#8211; New Black Records'
+    - '[00:06:12] Chanel &#8211; Dance (Carl Ryder Club Mix) &#8211; Hed Kandi'
+    - '[00:12:09] David Jordan &#8211; Sun Goes Down (Hi Tak Dub) &#8211; White'
+    - '[00:17:09] Marco Denmark &#8211; Tiny Dancer (Moto Blanco Mix) &#8211; 3 Beat Blue'
+    - '[00:23:06] Out Of Office &#8211; Break Of Dawn (Club Mix) &#8211; Frenetic'
+    - '[00:28:34] H Two O &#8211; What&#8217;s It Gonna Be (Vandalism Remix) &#8211; Ministry Of Sound'
+    - '[00:34:38] Addictive &#8211; Gonna Be Mine (Simmons &#038; Christopher Remix) &#8211; Gusto'
+    - 'DJ Cruze EXCLUSIVE '
+    - '[00:40:50] World Of Colour &#8211; Change (Funkfinders Remix) &#8211; Metrogroove Records'
+    - '[00:47:02] DJ DLG &#8211; Paramount (Dave Armstrong Remix) &#8211; Huge Records'
+    - 'Cruze classic from 1996: '
+    - '[00:52:30] CJ Bolland &#8211; Sugar Is Sweeter (Armand Van Helden&#8217;s Drum &#8216;n&#8217; Bass Mix) &#8211; FFRR'
+
+layout: audio
+tags:
+  - podcast
 ---
 
 Original photo by [ VictoriaPeckham][1] &#8211; Photoshop skullduggery by [DJ Cruze][2]!
@@ -51,8 +55,8 @@ At last. A new podcast! Yes, yes, I know. As always it&#8217;s been far too long
 
 Enjoy the show and [get in touch][3] if you want a shout out.
 
- [1]: http://www.flickr.com/photos/victoriapeckham/1346099385/
- [2]: http://www.djcruze.co.uk/
- [3]: /cms/contact/
- [4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
- [5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast037_040207.mp3
+[1]: http://www.flickr.com/photos/victoriapeckham/1346099385/
+[2]: http://www.djcruze.co.uk/
+[3]: /contact
+[4]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
+[5]: http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast037_040207.mp3

@@ -1,13 +1,21 @@
 ---
 title: 'Empire Of The Sun &#8211; Walking On A Dream (Funkfinders Discoid Remix)'
 author: djcruze
-layout: post
+layout: audio
 # permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 'itunes:category':
   - Music
 categories:
   - Studio
+media:
+  title: 'Walking On A Dream (Funkfinders Discoid Mix)'
+  author: 'Empire Of The Sun'
+  image: '/images/productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix.jpg'
+  content: '/productions/Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix).mp3'
+
+tags:
+  - production
 ---
 
 [<img src="http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix-300x300.jpg" alt="Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix)" title="Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix)" width="300" height="300" class="size-medium wp-image-559 normal" />][1]
@@ -30,6 +38,6 @@ P.S. Sorry it&#8217;s a bit late. I meant to post it last weekend! Oh and it pro
 [1]: http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix.jpg
 [2]: http://www.myspace.com/pnaupnau
 [3]: http://www.myspace.com/thesleepyjackson
-[4]: /cms/contact
+[4]: /contact
 [5]: http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 [6]: http://djcruzeaudio.co.uk/productions/Empire%20Of%20The%20Sun%20-%20Walking%20On%20A%20Dream%20(Funkfinders%20Discoid%20Remix).mp3

@@ -3,7 +3,7 @@ title: 'Christmas 2006: Electro mix'
 author: djcruze
 #permalink: /2006/12/29/christmas-2006-electro-mix/
 permalink: /mixes/christmas-2006-electro-mix/
-"itunes:category":
+'itunes:category':
   - Music
 enclosure:
   - |
@@ -11,13 +11,12 @@ enclosure:
         http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_electromix.mp3
         778240
         audio/mpeg
-        
+
 votio:
   - 8.2368421052631,38,
 ###################################
 # Podcast
 ###################################
-layout: podcast-item
 categories:
   - Mixes
 
@@ -25,17 +24,21 @@ categories:
 # Media details
 ###################################
 media:
-  content: "audio/mixes/djcruze_december2006_electromix.mp3"
-  length: "00:36:59"
-  keywords: ""
+  content: '/mixes/djcruze_december2006_electromix.mp3'
+  length: '00:36:59'
+  keywords: ''
   tracklist:
-    - "Basement Jaxx &#8211; Take Me Back To Your House (Speaker Junk Remix) &#8211; XL Recordings"
-    - "D.J.V.T. &#8211; Watskeburt (Touche Instrumental Mix) &#8211; Nebula Records"
-    - "Don Diablo &#8211; Blow (Sebastien Leger Remix) &#8211; Salacious"
-    - "Lorraine &#8211; Heaven (Sebastien Leger Remix) &#8211; Waterfall Records"
-    - "Simply Red &#8211; Oh What A Girl (Sweet Connection Dub Mix) &#8211; SimplyRed.com"
-    - "Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records"
-    - "Scissor Sisters &#8211; I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) &#8211; Polydor"
+    - 'Basement Jaxx &#8211; Take Me Back To Your House (Speaker Junk Remix) &#8211; XL Recordings'
+    - 'D.J.V.T. &#8211; Watskeburt (Touche Instrumental Mix) &#8211; Nebula Records'
+    - 'Don Diablo &#8211; Blow (Sebastien Leger Remix) &#8211; Salacious'
+    - 'Lorraine &#8211; Heaven (Sebastien Leger Remix) &#8211; Waterfall Records'
+    - 'Simply Red &#8211; Oh What A Girl (Sweet Connection Dub Mix) &#8211; SimplyRed.com'
+    - 'Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records'
+    - 'Scissor Sisters &#8211; I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) &#8211; Polydor'
+
+layout: audio
+tags:
+  - mix
 ---
 
 Time for the second DJ Cruze Christmas mini-mix and what better way to work off all of the extra Christmas food that you&#8217;ve eaten than with a dirty electro mix. This mix starts off with the dirty electro [Speaker Junk][1] remix of [Basement Jaxx][2]&#8216;s &#8220;Take Me Back To Your House&#8221;. It sound like one of the dubbier mixes that the Jaxx boys used to do of their own tunes and it sounds awesome in a club.
@@ -48,24 +51,11 @@ We&#8217;ve then got something unexpected. Yes, the dulcet tones of Mick Hucknal
 
 Finally, we&#8217;ve got a fantastic production and remix of [Scissor Sisters][8] &#8220;I Don&#8217;t Feel Like Dancing&#8221; by Paper Faces aka Mr. Stuart Price, Les Rhythmes Digitals, Jacques Lu Cont, Thin White Duke, Man With Guitar etc. A man of many guises but an excellent producer as Madonna will attest I&#8217;m sure. Using repetitive vocal snippets, great pads and a cheeky square-waved synth bassline this is a great tune to end the mix.
 
-**Tracklisting:**
-
-  1. Basement Jaxx &#8211; Take Me Back To Your House (Speaker Junk Remix) &#8211; XL Recordings
-  2. D.J.V.T. &#8211; Watskeburt (Touche Instrumental Mix) &#8211; Nebula Records
-  3. Don Diablo &#8211; Blow (Sebastien Leger Remix) &#8211; Salacious
-  4. Lorraine &#8211; Heaven (Sebastien Leger Remix) &#8211; Waterfall Records
-  5. Simply Red &#8211; Oh What A Girl (Sweet Connection Dub Mix) &#8211; SimplyRed.com
-  6. Starzoom &#8211; Billie Jean (Dave Moureaux Remix) &#8211; Gusto Records
-  7. Scissor Sisters &#8211; I Don&#8217;t Feel Like Dancin&#8217; (Paper Faces Mix) &#8211; Polydor
-
-<div style="clear:both;">
-</div>
-
- [1]: http://www.myspace.com/speakerjunk/
- [2]: http://www.basementjaxx.co.uk/
- [3]: http://www.myspace.com/touchelondon/
- [4]: http://www.dondiablo.com/
- [5]: http://www.sebastienleger.net/
- [6]: http://www.lorrainemusic.co.uk/
- [7]: http://www.simplyred.com/
- [8]: http://www.scissorsisters.com/
+[1]: http://www.myspace.com/speakerjunk/
+[2]: http://www.basementjaxx.co.uk/
+[3]: http://www.myspace.com/touchelondon/
+[4]: http://www.dondiablo.com/
+[5]: http://www.sebastienleger.net/
+[6]: http://www.lorrainemusic.co.uk/
+[7]: http://www.simplyred.com/
+[8]: http://www.scissorsisters.com/

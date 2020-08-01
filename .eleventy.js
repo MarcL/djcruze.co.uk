@@ -1,8 +1,12 @@
 require('dotenv').config();
 
 const escape = require('lodash.escape');
+const embedYouTube = require('eleventy-plugin-youtube-embed');
 
 module.exports = (eleventyConfig) => {
+  // Plugins
+  eleventyConfig.addPlugin(embedYouTube);
+
   // Copy
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });

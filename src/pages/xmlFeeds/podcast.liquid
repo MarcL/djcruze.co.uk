@@ -5,28 +5,52 @@ eleventyExcludeFromCollections: true
 sitemap:
   exclude: yes
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ site.title | xmlEscape }}</title>
-    <description>{{ site.description | xmlEscape }}</description>
-    <link>{{ site.url }}/</link>
-    <author>
-      <name>{{site.name}}</name>
-      <email>{{site.email}}</email>
-      <uri>{{site.url}}</uri>
-    </author>
-    <atom:link href="{{ "/podcasts/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ collections.podcast | collectionLastUpdatedDate }}</pubDate>
-    <lastBuildDate>{{ collections.podcast | collectionLastUpdatedDate }}</lastBuildDate>
+    <title>{{podcast.title | xmlEscape}}</title>
+    <link>{{site.url}}</link>
+    <language>en-us</language>
+    <copyright>&#169; {{"now" | date: "%Y"}} {{podcast.author}}</copyright>
+    <lastBuildDate>{{collections.podcast | collectionLastUpdatedDate}}</lastBuildDate>
     <generator>Eleventy</generator>
+    <description>{{podcast.description | xmlEscape}}</description>
+    <itunes:author>{{podcast.author}} </itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="{{podcast.channelImage | prepend: site.url}}" />
+    <itunes:owner>
+      <itunes:name>{{podcast.owner.name}}</itunes:name>
+      <itunes:email>{{podcast.owner.email}}</itunes:email>
+    </itunes:owner>
+    <itunes:category text="{{podcast.category}}" />
     {%- for podcast in collections.podcast reversed -%}
       <item>
-        <title>{{ podcast.data.title | xmlEscape }}</title>
-        <description>{{ podcast.templateContent | xmlEscape }}</description>
-        <pubDate>{{ podcast.date | toUTCString }}</pubDate>
+        {% if podcast.data.media.title %}
+          <title>{{podcast.data.media.title | xmlEscape}}</title>
+        {% else %}
+          <title>{{podcast.data.title}}</title>
+        {% endif %}
+        <itunes:episodeType>full</itunes:episodeType>
+        {% if podcast.data.media.description %}
+          <description>{{ podcast.data.media.description | xmlEscape }}</description>
+        {% else %}
+          <description><![CDATA[{{ podcast.templateContent | xmlEscape }}]]></description>
+        {% endif %}
+        <pubDate>{{ podcast.date | rfc822Date }}</pubDate>
         <link>{{ podcast.url | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ podcast.url | prepend: site.url }}</guid>
+        {% if podcast.data.media.guid %}
+          <guid>{{ podcast.data.media.guid }}</guid>
+        {% else %}
+          <guid>{{ podcast.url | prepend: site.url }}</guid>
+        {% endif %}
+        <itunes:episode>{{collections.podcast.length | plus:1 | minus:forloop.index}}</itunes:episode>
+        <itunes:duration>{{podcast.data.media.duration}}</itunes:duration>
+        <enclosure
+          url="{{podcast.data.media.content | prepend: site.mediaFilesUrl}}"
+          length="TODO"
+          type="audio/mpeg"
+        />
       </item>
     {%- endfor -%}
   </channel>

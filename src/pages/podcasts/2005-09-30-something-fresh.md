@@ -24,15 +24,10 @@ votio:
   - 8.7142857142857,21,
 
 ###################################
-# Podcast
-###################################
-categories:
-  - Podcasts
-
-###################################
 # Media details
 ###################################
 media:
+  title: 'Something Fresh'
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast001_250905.mp3'
   length: '00:48:43'

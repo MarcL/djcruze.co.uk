@@ -3,30 +3,8 @@ title: 'Episode #4 &#8211; What Else Is There?'
 author: djcruze
 #permalink: /2005/11/08/episode-4-what-else-is-there/
 permalink: /podcasts/episode-4-what-else-is-there/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast004_071105.mp3
-        4993024
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast004_071105.mp3
-        38404096
-        audio/mpeg
-
 votio:
   - 9.2903225806451,31,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -34,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast004_071105.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:53:20'
+  duration: '3200'
+  fileSize: '38404096'
   tracklist:
     - 'New tunes: '
     - 'Discrete featuring Belle Erskine &#8211; Love Me &#8211; ToykoProject'

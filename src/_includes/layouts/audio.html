@@ -46,6 +46,45 @@ layout: default
           <span class="amplitude-current-time"></span> /
           <span class="amplitude-duration-time"></span>
         </div>
+
+        {% if tags contains "podcast" %}
+        <div class="fl w-100 tc pt2 pb4 bt bw1 b--moon-gray mid-gray">
+          <h3 class="ttu">Subscribe to the podcast</h3>
+          <a
+            href="{{podcast.links.iTunes}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img
+              src="/images/podcasts/feed/icon-applepodcasts.svg"
+              class="h3 pr2"
+          /></a>
+
+          <a
+            href="{{podcast.links.overcast}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img src="/images/podcasts/feed/icon-overcast.svg" class="h3 pr2"
+          /></a>
+          <a
+            href="{{podcast.links.pocketCasts}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img
+              src="/images/podcasts/feed/icon-pocketcasts.svg"
+              class="h3 pr2"
+          /></a>
+          <a
+            href="{{podcast.links.rss}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img src="/images/podcasts/feed/icon-rss.svg" class="h3"
+          /></a>
+        </div>
+        {% endif %}
       </div>
     </div>
   </div>

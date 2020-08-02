@@ -16,13 +16,14 @@ sitemap:
     <description>{{podcast.description | xmlEscape}}</description>
     <itunes:author>{{podcast.author}} </itunes:author>
     <itunes:explicit>false</itunes:explicit>
-  <itunes:type>episodic</itunes:type>
+    <itunes:type>episodic</itunes:type>
     <itunes:image>{{podcast.channelImage | prepend: site.url}}</itunes:image>
     <itunes:owner>
       <itunes:name>{{podcast.owner.name}}</itunes:name>
       <itunes:email>{{podcast.owner.email}}</itunes:email>
     </itunes:owner>
     <itunes:category text="{{podcast.category}}" />
+    
     {%- for podcastEpisode in collections.podcast reversed -%}
       <item>
         <pubDate>{{ podcastEpisode.date | rfc822Date }}</pubDate>
@@ -40,34 +41,10 @@ sitemap:
           <title>{{podcastEpisode.data.title}}</title>
         {% endif %}
 
-        {% if podcastEpisode.data.media.episodeType %}
-          <itunes:episodeType>{{podcastEpisode.data.media.episodeType}}</itunes:episodeType>
-        {% else %}
-          <itunes:episodeType>full</itunes:episodeType>
-        {% endif %}
-
         {% if podcastEpisode.data.media.description %}
           <description>{{ podcastEpisode.data.media.description | xmlEscape }}</description>
         {% else %}
           <description>{{ podcast.episode.description | xmlEscape }}</description>
-        {% endif %}
-        
-        {% if podcastEpisode.data.media.image %}
-            <itunes:image href="{{podcastEpisode.data.media.image | prepend: site.url}}" />
-        {% endif %}
-
-        {% if podcastEpisode.data.media.episode %}
-          <itunes:episode>{{podcastEpisode.data.media.episode}}</itunes:episode>
-        {% else %}
-          <itunes:episode>{{collections.podcast.length | plus:1 | minus:forloop.index}}</itunes:episode>
-        {% endif %}
-
-        {% if podcastEpisode.data.media.season %}
-          <itunes:season>{{podcastEpisode.data.media.season}}</itunes:season>
-        {% endif %}
-
-        {% if podcastEpisode.data.media.duration %}
-          <itunes:duration>{{podcastEpisode.data.media.duration}}</itunes:duration>
         {% endif %}
         
         <enclosure
@@ -75,6 +52,10 @@ sitemap:
           length="TODO"
           type="audio/mpeg"
         />
+
+        {% comment %} iTunes specific tags {% endcomment %}
+        {% include partials/iTunesTags, episode: podcastEpisode, collection: collections.podcast %}
+        
       </item>
     {%- endfor -%}
   </channel>

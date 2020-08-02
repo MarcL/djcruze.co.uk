@@ -1,0 +1,23 @@
+{% if episode.data.media.episodeType %}
+    <itunes:episodeType>{{episode.data.media.episodeType}}</itunes:episodeType>
+{% else %}
+    <itunes:episodeType>full</itunes:episodeType>
+{% endif %}
+
+{% if episode.data.media.image %}
+    <itunes:image href="{{episode.data.media.image | prepend: site.url}}" />
+{% endif %}
+
+{% if episode.data.media.episode %}
+    <itunes:episode>{{episode.data.media.episode}}</itunes:episode>
+{% else %}
+    <itunes:episode>{{collection.length | plus:1 | minus:forloop.index}}</itunes:episode>
+{% endif %}
+
+{% if episode.data.media.season %}
+    <itunes:season>{{episode.data.media.season}}</itunes:season>
+{% endif %}
+
+{% if episode.data.media.duration %}
+    <itunes:duration>{{episode.data.media.duration}}</itunes:duration>
+{% endif %}

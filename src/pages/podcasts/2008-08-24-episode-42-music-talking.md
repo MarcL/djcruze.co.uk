@@ -3,24 +3,8 @@ title: 'Episode #42 &#8211; Music Talking'
 author: djcruze
 #permalink: /2008/08/24/episode-42-music-talking/
 permalink: /podcasts/episode-42-music-talking/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast042_240808.mp3
-        57611472
-        audio/mpeg
-
 votio:
   - 8.4,35,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast42.jpg'
   content: '/podcasts/Cruze_Podcast042_240808.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:59:43'
+  duration: '3583'
+  fileSize: '57611472'
   tracklist:
     - '[00:00:00] Morgan Page &#8211; Call My Name (Thomas Gold Remix) &#8211; Nettwerk'
     - '[00:06:41] David Rubato feat Manda Djinn &#8211; Deep Inside (Ian Carey Remix) &#8211; Gut Recordings'

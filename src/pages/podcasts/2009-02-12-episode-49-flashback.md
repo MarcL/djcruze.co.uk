@@ -28,8 +28,9 @@ categories:
 media:
   image: '/images/podcasts/podcast49.jpg'
   content: '/podcasts/Cruze_Podcast049_120209.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:59:42'
+  duration: '3582'
+  filesize: '57550444'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=628'
   tracklist:

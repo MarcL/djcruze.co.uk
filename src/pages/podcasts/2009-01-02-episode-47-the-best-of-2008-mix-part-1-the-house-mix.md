@@ -3,24 +3,8 @@ title: 'Episode #47 &#8211; The Best Of 2008 Mix Part 1 &#8211; The House Mix'
 author: djcruze
 #permalink: /2009/01/02/episode-47-the-best-of-2008-mix-part-1-the-house-mix/
 permalink: /podcasts/episode-47-the-best-of-2008-mix-part-1-the-house-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast047_010109.mp3
-        72540405
-        audio/mpeg
-
 votio:
   - 9.1562500000001,32,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +13,9 @@ media:
   title: 'The Best of 2008 Mix Part 1'
   image: '/images/podcasts/podcast47.jpg'
   content: '/podcasts/Cruze_Podcast047_010109.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:15:23'
+  duration: '4523'
+  fileSize: '72540405'
   tracklist:
     - '[00:00:00] The Ting Tings &#8211; Great DJ (Calvin Harris Remix) &#8211; Columbia'
     - '[00:06:18] Harris &#038; Spoon feat Sam Obernik &#8211; Baditude (Club Mix) &#8211; Toolroom Records'

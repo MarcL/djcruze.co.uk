@@ -3,24 +3,8 @@ title: 'Episode #46 &#8211; Sexy Dancer'
 author: djcruze
 #permalink: /2008/12/23/episode-46-sexy-dancer/
 permalink: /podcasts/episode-46-sexy-dancer/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast046_231208.mp3
-        56589112
-        audio/mpeg
-
 votio:
   - 9.2333333333333,30,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast46.jpg'
   content: '/podcasts/Cruze_Podcast046_231208.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:58:34'
+  duration: '3514'
+  fileSize: '56589112'
   tracklist:
     - '[00:00:00] East 17 &#8211; Stay Another Day (Funkfinders Electroid Remix) &#8211; White'
     - '[00:06:00] Bodyrox &#038; Luciana feat Nick Clow &#8211; Brave New World (Original Mix) &#8211; Phonetic'

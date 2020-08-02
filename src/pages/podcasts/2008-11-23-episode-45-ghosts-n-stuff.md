@@ -3,24 +3,8 @@ title: 'Episode #45 &#8211; Ghosts N Stuff'
 author: djcruze
 #permalink: /2008/11/23/episode-45-ghosts-n-stuff/
 permalink: /podcasts/episode-45-ghosts-n-stuff/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast045_221108.mp3
-        55078814
-        audio/mpeg
-
 votio:
   - 9.2564102564103,39,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast45.jpg'
   content: '/podcasts/Cruze_Podcast045_221108.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:57:04'
+  duration: '3424'
+  fileSize: '55078814'
   tracklist:
     - '[00:00:00] The Hours &#8211; See The Light (Calvin Harris Remix) &#8211; Is Good Music'
     - '[00:05:21] Chris Lake &#8211; Only One (Original Mix) &#8211; Rising Music'

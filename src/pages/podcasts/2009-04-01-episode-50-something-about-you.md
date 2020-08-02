@@ -3,24 +3,8 @@ title: 'Episode #50 &#8211; Something About You'
 author: djcruze
 #permalink: /2009/04/01/episode-50-something-about-you/
 permalink: /podcasts/episode-50-something-about-you/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast050_010409.mp3
-        59743492
-        audio/mpeg
-
 votio:
   - 9.236842105263,38,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast50.jpg'
   content: '/podcasts/Cruze_Podcast050_010409.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:02:00'
+  duration: '3720'
+  fileSize: '59743492'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=678'
   tracklist:

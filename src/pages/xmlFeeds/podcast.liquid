@@ -49,7 +49,7 @@ sitemap:
         
         <enclosure
           url="{{podcastEpisode.data.media.content | prepend: site.mediaFilesUrl}}"
-          length="TODO"
+          length="{{podcastEpisode.data.media.fileSize}}"
           type="audio/mpeg"
         />
 

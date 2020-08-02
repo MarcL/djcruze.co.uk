@@ -3,25 +3,8 @@ title: 'Episode #17 &#8211; Golden Sun'
 author: djcruze
 #permalink: /2006/06/16/episode-17-golden-sun/
 permalink: /podcasts/episode-17-golden-sun/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:11:08
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast017_130606.mp3
-        51220480
-        audio/mpeg
-
 votio:
   - 8.9917355371898,121,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast017_130606.mp3'
   length: '01:11:08'
-  keywords: ''
+  duration: '4268'
+  fileSize: '51220480'
   tracklist:
     - 'Big tunes: '
     - 'ATFC &#8211; Reach Out For Me (Alex Taylor Mix) &#8211; Onephatdeeva'

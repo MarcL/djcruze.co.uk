@@ -3,25 +3,8 @@ title: 'Episode #16 &#8211; Renegade Master'
 author: djcruze
 #permalink: /2006/05/22/episode-16-renegade-master/
 permalink: /podcasts/episode-16-renegade-master/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast016_210506.mp3
-        24864768
-        audio/mpeg
-
-'itunes:duration':
-  - 00:54:04
 votio:
   - 8.4076923076923,130,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast016_210506.mp3'
   length: '00:54:04'
-  keywords: ''
+  duration: '3244'
+  fileSize: '38930432'
   tracklist:
     - 'Big tunes: '
     - 'Rihanna &#8211; S.O.S. (Moto Blanco Vocal Mix) &#8211; Def Jam'

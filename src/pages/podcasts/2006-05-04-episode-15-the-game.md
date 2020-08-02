@@ -3,25 +3,8 @@ title: 'Episode #15 &#8211; The Game'
 author: djcruze
 #permalink: /2006/05/04/episode-15-the-game/
 permalink: /podcasts/episode-15-the-game/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:56:18
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast015_020506.mp3
-        1042432
-        audio/mpeg
-
 votio:
   - 8.1290322580643,124,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast015_020506.mp3'
-  length: '00:56:18'
-  keywords: ''
+  length: '00:56:19'
+  duration: '3379'
+  fileSize: '40544256'
   tracklist:
     - 'Big tunes: '
     - 'Kid Creme &#8211; The Game &#8211; Illegal Beats'

@@ -3,25 +3,8 @@ title: 'Episode #11 &#8211; Time To Get Funky'
 author: djcruze
 #permalink: /2006/02/22/episode-11-time-to-get-funky/
 permalink: /podcasts/episode-11-time-to-get-funky/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:03:45
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast011_190206.mp3
-        45905920
-        audio/mpeg
-
 votio:
   - 8.7741935483867,93,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast011_190206.mp3'
   length: '01:03:45'
-  keywords: ''
+  duration: '3825'
+  fileSize: '45905920'
   tracklist:
     - 'Big tunes: '
     - 'Fatblock feat Ali &#8211; Everyday (Take Me Closer) (Plastik Funk Full Vox Mix) &#8211; Casa Rosso Recordings'

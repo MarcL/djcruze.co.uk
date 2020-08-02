@@ -3,14 +3,8 @@ title: 'Episode #39 &#8211; Higher'
 author: djcruze
 #permalink: /2008/05/27/episode-39-higher/
 permalink: /podcasts/episode-39-higher/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast039_270508.mp3
-        65391752
-        audio/mpeg
+  65391752
+  audio/mpeg
 
 votio:
   - 8.6052631578948,38,
@@ -28,8 +22,9 @@ categories:
 media:
   image: '/images/podcasts/podcast39.jpg'
   content: '/podcasts/Cruze_Podcast039_270508.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:08:02'
+  duration: '4082'
+  fileSize: '65391752'
   tracklist:
     - '[00:00:00] The Whitest Boy Alive &#8211; Golden Cage (Fred Falke Remix) &#8211; Modular'
     - '[00:06:47] Paul Harris &#038; Dave Spoon feat Sam Obernik &#8211; Baditude (Club Mix) &#8211; Toolroom Records'

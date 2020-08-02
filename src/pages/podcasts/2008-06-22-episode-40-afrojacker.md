@@ -3,24 +3,8 @@ title: 'Episode #40 &#8211; Afrojacker'
 author: djcruze
 #permalink: /2008/06/22/episode-40-afrojacker/
 permalink: /podcasts/episode-40-afrojacker/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast040_220608.mp3
-        56694002
-        audio/mpeg
-
 votio:
   - 9.7142857142857,28,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast40.jpg'
   content: '/podcasts/Cruze_Podcast040_220608.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:58:56'
+  duration: '3536'
+  fileSize: '56694002'
   tracklist:
     - '[00:00:00] Liquid Nation feat. Andrea Britton &#8211; Breathe Life (Chris Ortega &#038; Thomas Gold Dub) &#8211; Hit! Records'
     - '[00:07:15] The Ting Tings &#8211; Shut Up And Let Me Go (Tom Neville&#8217;s Keep It Quiet Dub) (Funkfinders cut-up edit) &#8211; Columbia'

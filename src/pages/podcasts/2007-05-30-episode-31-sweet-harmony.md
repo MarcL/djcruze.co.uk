@@ -3,24 +3,8 @@ title: 'Episode #31 &#8211; Sweet Harmony'
 author: djcruze
 #permalink: /2007/05/30/episode-31-sweet-harmony/
 permalink: /podcasts/episode-31-sweet-harmony/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast031_300507.mp3
-        0
-        audio/mpeg
-
 votio:
   - 8.728813559322,59,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast031_300507.mp3'
-  length: '00:58:43'
-  keywords: ''
+  length: '00:58:44'
+  duration: '3524'
+  fileSize: '56445060'
   tracklist:
     - 'DJ DLG &#8211; Your Eyes (Original Mix) &#8211; Eyezcream Recordings'
     - 'Richard Grey &#8211; Warped Bass (Club Mix) &#8211; Apollo'

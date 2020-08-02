@@ -3,26 +3,8 @@ title: 'Episode #34 &#8211; Chime'
 author: djcruze
 #permalink: /2007/12/07/episode-34-chime/
 permalink: /podcasts/episode-34-chime/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:01:28
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast034_071207.mp3
-        59102418
-        audio/mpeg
-
 votio:
   - 8.955882352941,68,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast034_071207.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:01:29'
+  duration: '3689'
+  fileSize: '59102418'
   tracklist:
     - '[00:00:00] Kelly Rowland &#8211; Work (Steve Pitron &#038; Max Sanna Extended Remix) &#8211; RCA'
     - '[00:06:31] Dave Armstrong &#038; Redroche &#8211; Love Has Gone (Wez Clarke Remix) &#8211; Hed Kandi'

@@ -3,23 +3,8 @@ title: 'Episode #33 &#8211; The Girl You Lost To Cocaine'
 author: djcruze
 #permalink: /2007/10/09/episode-33-the-girl-you-lost-to-cocaine/
 permalink: /podcasts/episode-33-the-girl-you-lost-to-cocaine/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast033_031007.mp3
-        64132785
-        audio/mpeg
-
 votio:
   - 8.9577464788732,71,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -27,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast033_031007.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:06:44'
+  duration: '4004'
+  fileSize: '64132785'
   tracklist:
     - '[00:00:00] Dave Armstrong &#038; Redroche &#8211; Love Has Gone (Peter Gelderblom Remix) &#8211; Data'
     - '[00:06:27] Sneaky Sound System &#8211; Pictures (Chris Lake Remix) &#8211; Whack Records'

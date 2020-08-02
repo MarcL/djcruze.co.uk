@@ -3,15 +3,6 @@ title: 'Episode #36 &#8211; Best of 2007 Podcast'
 author: djcruze
 #permalink: /2008/01/06/episode-36-best-of-2007-podcast/
 permalink: /podcasts/episode-36-best-of-2007-podcast/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast036_040108.mp3
-        71763419
-        audio/mpeg
-
 votio:
   - 8.4545454545456,22,
 
@@ -28,8 +19,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast036_040108.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:14:39'
+  duration: '4479'
+  fileSize: '71763419'
   tracklist:
     - '[00:00:00] N&#8217;Dea Davenport &#8211; One Day My Love (D&#8217;Ramirez 12&#8243; Mix) &#8211; Dozer Records  '
     - '[00:05:45] Camille Jones &#8211; The Creeps (Fedde Le Grande Club Mix) &#8211; Data Records  '

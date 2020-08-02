@@ -3,24 +3,8 @@ title: 'Episode #37 &#8211; Change'
 author: djcruze
 #permalink: /2008/02/04/episode-37-change/
 permalink: /podcasts/episode-37-change/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast037_040207.mp3
-        55722561
-        audio/mpeg
-
 votio:
   - 9.3333333333333,24,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast037_040207.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:57:55'
+  duration: '3475'
+  fileSize: '55722561'
   tracklist:
     - '[00:00:00] NJoi &#8211; Plastic Minds &#8211; New Black Records'
     - '[00:06:12] Chanel &#8211; Dance (Carl Ryder Club Mix) &#8211; Hed Kandi'

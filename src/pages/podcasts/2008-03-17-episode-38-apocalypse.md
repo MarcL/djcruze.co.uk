@@ -3,24 +3,8 @@ title: 'Episode #38 &#8211; Apocalypse'
 author: djcruze
 #permalink: /2008/03/17/episode-38-apocalypse/
 permalink: /podcasts/episode-38-apocalypse/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast038_170307.mp3
-        60287580
-        audio/mpeg
-
 votio:
   - 8.6363636363634,44,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast038_170307.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:02:43'
+  duration: '3763'
+  fileSize: '60287580'
   tracklist:
     - '[00:00:00] The Ting Tings &#8211; Great DJ (Calvin Harris Remix) &#8211; Columbia'
     - '[00:06:18] Garage Jams &#8211; Snowflake (Wideboys Twisted House Dub) &#8211; Gusto'

@@ -3,25 +3,8 @@ title: 'Episode #23 &#8211; Easy'
 author: djcruze
 #permalink: /2006/10/25/episode-23-easy/
 permalink: /podcasts/episode-23-easy/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:05:06
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast023_241006.mp3
-        0
-        audio/mpeg
-
 votio:
   - 8.7692307692308,104,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast023_241006.mp3'
-  length: '01:05:06'
-  keywords: ''
+  length: '01:05:07'
+  duration: '3907'
+  fileSize: '46944500'
   tracklist:
     - 'DJ Cruze big tunes: '
     - 'Dirty Old Anne &#8211; Turn Me On (Menace &#038; Ropero Remix) &#8211; Loaded'

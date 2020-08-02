@@ -3,23 +3,8 @@ title: 'Episode #22 &#8211; Life Begins'
 author: djcruze
 #permalink: /2006/10/10/episode-22-life-begins/
 permalink: /podcasts/episode-22-life-begins/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:00:00
-enclosure:
-  - |
-    http://ripple.radiotail.com/211/Cruze_Podcast022_101006.mp3
-    43202560
-    audio/mpeg
 votio:
   - 9.031914893617,94,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast022_101006.mp3'
   length: '01:00:00'
-  keywords: ''
+  duration: '3600'
+  fileSize: '43202560'
   tracklist:
     - 'DJ Cruze big tunes: '
     - 'Krafty Kuts &#8211; Tell Me How You Feel (Young Punx 12&#8243; Edit) &#8211; Against The Grain'

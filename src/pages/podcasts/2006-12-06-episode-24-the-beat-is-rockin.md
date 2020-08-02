@@ -3,25 +3,8 @@ title: 'Episode #24 &#8211; The Beat Is Rockin'
 author: djcruze
 #permalink: /2006/12/06/episode-24-the-beat-is-rockin/
 permalink: /podcasts/episode-24-the-beat-is-rockin/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:03:22
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast024_041206.mp3
-        0
-        audio/mpeg
-
 votio:
   - 8.9294117647059,85,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast024_041206.mp3'
-  length: '01:03:22'
-  keywords: ''
+  length: '01:03:23'
+  duration: '3803'
+  fileSize: '45689228'
   tracklist:
     - 'DJ Disciple &#8211; Work It Out (Ruff and Tort Mix) &#8211; Xtravaganza'
     - "Bump &#8211; I'mm Rushing (Dave Spoon Vocal Mix) &#8211; Art &#038; Craft"

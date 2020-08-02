@@ -1,7 +1,7 @@
 ---
-title: 'A brand new DJ Cruze website'
+title: 'The new DJ Cruze website'
 author: djcruze
-permalink: '/brand-new-website/'
+permalink: '/new-website-2020/'
 excerpt: 'Need to put an excerpt in the frontmatter'
 layout: default
 tags:

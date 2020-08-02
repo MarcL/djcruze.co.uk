@@ -65,3 +65,8 @@ Insecure img urls:
 - http://www.djcruze.co.uk/cms/wp-content/uploads/2008/11/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix-300x300.jpg
 - http://www.djcruze.co.uk/cms/wp-content/DownloadButton.gif
 - http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_smile.gif
+
+## Podcasts
+
+- Add a per-podcast description for RSS feed
+- Calculate podcast lengths

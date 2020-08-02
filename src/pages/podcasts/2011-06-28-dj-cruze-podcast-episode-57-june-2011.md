@@ -5,13 +5,6 @@ author: djcruze
 permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/
 
 ###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
-
-###################################
 # Media details
 ###################################
 media:

@@ -1,5 +1,4 @@
 ---
-layout: null
 permalink: "/podcasts/feed.xml"
 eleventyExcludeFromCollections: true
 sitemap:
@@ -11,43 +10,68 @@ sitemap:
     <title>{{podcast.title | xmlEscape}}</title>
     <link>{{site.url}}</link>
     <language>en-us</language>
-    <copyright>&#169; {{"now" | date: "%Y"}} {{podcast.author}}</copyright>
+    <copyright>&#169; 2005-{{"now" | date: "%Y"}} {{podcast.author}}</copyright>
     <lastBuildDate>{{collections.podcast | collectionLastUpdatedDate}}</lastBuildDate>
     <generator>Eleventy</generator>
     <description>{{podcast.description | xmlEscape}}</description>
     <itunes:author>{{podcast.author}} </itunes:author>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
-    <itunes:image href="{{podcast.channelImage | prepend: site.url}}" />
+  <itunes:type>episodic</itunes:type>
+    <itunes:image>{{podcast.channelImage | prepend: site.url}}</itunes:image>
     <itunes:owner>
       <itunes:name>{{podcast.owner.name}}</itunes:name>
       <itunes:email>{{podcast.owner.email}}</itunes:email>
     </itunes:owner>
     <itunes:category text="{{podcast.category}}" />
-    {%- for podcast in collections.podcast reversed -%}
+    {%- for podcastEpisode in collections.podcast reversed -%}
       <item>
-        {% if podcast.data.media.title %}
-          <title>{{podcast.data.media.title | xmlEscape}}</title>
+        <pubDate>{{ podcastEpisode.date | rfc822Date }}</pubDate>
+        <link>{{ podcastEpisode.url | prepend: site.url }}</link>
+
+        {% if podcastEpisode.data.media.guid %}
+          <guid>{{ podcastEpisode.data.media.guid }}</guid>
         {% else %}
-          <title>{{podcast.data.title}}</title>
+          <guid>{{ podcastEpisode.url | prepend: site.url }}</guid>
         {% endif %}
-        <itunes:episodeType>full</itunes:episodeType>
-        {% if podcast.data.media.description %}
-          <description>{{ podcast.data.media.description | xmlEscape }}</description>
+
+        {% if podcastEpisode.data.media.title %}
+          <title>{{podcastEpisode.data.media.title | xmlEscape}}</title>
         {% else %}
-          <description><![CDATA[{{ podcast.templateContent | xmlEscape }}]]></description>
+          <title>{{podcastEpisode.data.title}}</title>
         {% endif %}
-        <pubDate>{{ podcast.date | rfc822Date }}</pubDate>
-        <link>{{ podcast.url | prepend: site.url }}</link>
-        {% if podcast.data.media.guid %}
-          <guid>{{ podcast.data.media.guid }}</guid>
+
+        {% if podcastEpisode.data.media.episodeType %}
+          <itunes:episodeType>{{podcastEpisode.data.media.episodeType}}</itunes:episodeType>
         {% else %}
-          <guid>{{ podcast.url | prepend: site.url }}</guid>
+          <itunes:episodeType>full</itunes:episodeType>
         {% endif %}
-        <itunes:episode>{{collections.podcast.length | plus:1 | minus:forloop.index}}</itunes:episode>
-        <itunes:duration>{{podcast.data.media.duration}}</itunes:duration>
+
+        {% if podcastEpisode.data.media.description %}
+          <description>{{ podcastEpisode.data.media.description | xmlEscape }}</description>
+        {% else %}
+          <description>{{ podcast.episode.description | xmlEscape }}</description>
+        {% endif %}
+        
+        {% if podcastEpisode.data.media.image %}
+            <itunes:image href="{{podcastEpisode.data.media.image | prepend: site.url}}" />
+        {% endif %}
+
+        {% if podcastEpisode.data.media.episode %}
+          <itunes:episode>{{podcastEpisode.data.media.episode}}</itunes:episode>
+        {% else %}
+          <itunes:episode>{{collections.podcast.length | plus:1 | minus:forloop.index}}</itunes:episode>
+        {% endif %}
+
+        {% if podcastEpisode.data.media.season %}
+          <itunes:season>{{podcastEpisode.data.media.season}}</itunes:season>
+        {% endif %}
+
+        {% if podcastEpisode.data.media.duration %}
+          <itunes:duration>{{podcastEpisode.data.media.duration}}</itunes:duration>
+        {% endif %}
+        
         <enclosure
-          url="{{podcast.data.media.content | prepend: site.mediaFilesUrl}}"
+          url="{{podcastEpisode.data.media.content | prepend: site.mediaFilesUrl}}"
           length="TODO"
           type="audio/mpeg"
         />

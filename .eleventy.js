@@ -69,6 +69,7 @@ module.exports = (eleventyConfig) => {
     return escape(value);
   });
 
+  // Newest date in the collection
   eleventyConfig.addFilter('collectionLastUpdatedDate', (collection) => {
     if (!collection || !collection.length) {
       throw new Error(
@@ -76,7 +77,6 @@ module.exports = (eleventyConfig) => {
       );
     }
 
-    // Newest date in the collection
     return rfc822Date(
       new Date(
         Math.max(

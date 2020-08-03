@@ -3,24 +3,8 @@ title: 'Episode #51 &#8211; Melo'
 author: djcruze
 #permalink: /2009/05/14/episode-51-melo/
 permalink: /podcasts/episode-51-melo/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast051_140509.mp3
-        59595253
-        audio/mpeg
-
 votio:
   - 8.5757575757576,33,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast51.jpg'
   content: '/podcasts/Cruze_Podcast051_140509.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:01:30'
+  duration: '3690'
+  fileSize: '59595253'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=688'
   tracklist:

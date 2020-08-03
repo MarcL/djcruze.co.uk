@@ -3,24 +3,8 @@ title: 'Episode #53 &#8211; Ready For The Weekend'
 author: djcruze
 #permalink: /2009/08/02/episode-53-ready-for-the-weekend/
 permalink: /podcasts/episode-53-ready-for-the-weekend/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast053_020809.mp3
-        69837477
-        audio/mpeg
-
 votio:
   - 9.2307692307692,26,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast53.jpg'
   content: '/podcasts/Cruze_Podcast053_020809.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:12:22'
+  duration: '4342'
+  fileSize: '69837477'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=731'
   tracklist:

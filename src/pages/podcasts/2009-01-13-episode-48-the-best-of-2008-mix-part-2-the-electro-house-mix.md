@@ -3,24 +3,8 @@ title: 'Episode #48 &#8211; The Best Of 2008 Mix Part 2 &#8211; The Electro Hous
 author: djcruze
 #permalink: /2009/01/13/episode-48-the-best-of-2008-mix-part-2-the-electro-house-mix/
 permalink: /podcasts/episode-48-the-best-of-2008-mix-part-2-the-electro-house-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast048_130109.mp3
-        68638974
-        audio/mpeg
-
 votio:
   - 8.125,40,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +13,9 @@ media:
   title: 'The Best of 2008 Mix Part 2'
   image: '/images/podcasts/podcast48.jpg'
   content: '/podcasts/Cruze_Podcast048_130109.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:11:18'
+  duration: '4278'
+  fileSize: '68638974'
   tracklist:
     - '[00:00:00] Marco Demark feat Casey Barnes &#8211; Tiny Dancer (John Dahlbäck Mix) &#8211; 3Beat Blue'
     - '[00:05:39] Pryda &#8211; Rafunk &#8211; Pryda'

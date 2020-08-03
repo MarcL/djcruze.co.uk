@@ -3,25 +3,8 @@ title: 'Episode #13 &#8211; Return Of The Vigilante'
 author: djcruze
 #permalink: /2006/03/22/episode-13-return-of-the-vigilante/
 permalink: /podcasts/episode-13-return-of-the-vigilante/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:47:27
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast013_210306.mp3
-        12275712
-        audio/mpeg
-
 votio:
   - 8.2427184466017,103,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast013_210306.mp3'
-  length: '00:47:27'
-  keywords: ''
+  length: '00:47:28'
+  duration: '2848'
+  fileSize: '34172928'
   tracklist:
     - 'Big tunes: '
     - 'Bodyrox &#8211; Yeah Yeah (Turbo Club Vocal Mix) &#8211; Eye Industries'

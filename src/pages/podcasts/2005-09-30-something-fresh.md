@@ -3,40 +3,19 @@ title: 'Episode #1 - Something Fresh'
 author: djcruze
 #permalink: /2005/09/30/something-fresh/
 permalink: /podcasts/episode-1-something-fresh/
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast001_250905.mp3
-        35080320
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast001_250905.mp3
-        35080320
-        audio/mpeg
-
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:48:43
 votio:
   - 8.7142857142857,21,
-
-###################################
-# Podcast
-###################################
-categories:
-  - Podcasts
 
 ###################################
 # Media details
 ###################################
 media:
+  title: 'Something Fresh'
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast001_250905.mp3'
   length: '00:48:43'
-  keywords: ''
+  duration: '2923'
+  fileSize: '35080320'
   tracklist:
     - 'Top 10 rundown: '
     - 'DJ Bomba &#038; J Paolo &#8211; Esuma &#8211; A&#038;G Records'

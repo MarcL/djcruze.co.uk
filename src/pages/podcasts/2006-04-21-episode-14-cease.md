@@ -3,25 +3,8 @@ title: 'Episode #14 &#8211; Cease!'
 author: djcruze
 #permalink: /2006/04/21/episode-14-cease/
 permalink: /podcasts/episode-14-cease/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:58:24
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast014_180406.mp3
-        11640832
-        audio/mpeg
-
 votio:
   - 8.6636363636363,110,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast014_180406.mp3'
   length: '00:58:24'
-  keywords: ''
+  duration: '3504'
+  fileSize: '42049536'
   tracklist:
     - 'Big tunes: '
     - 'Playback &#8211; Hit The Bricks &#8211; Data'

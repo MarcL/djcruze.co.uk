@@ -5,22 +5,17 @@ author: djcruze
 permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/
 
 ###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
-
-###################################
 # Media details
 ###################################
 media:
   image: '/images/podcasts/dj-cruze-podcast-episode-57-june-2011.jpg'
   content: '/podcasts/dj-cruze-podcast-episode-57-june-2011.mp3'
-  length: '01:10:32'
-  keywords: 'roy davis jnr'
+  length: '01:10:30'
+  duration: '4230'
+  fileSize: '67973718'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=820'
+  description: 'Another set of funky house music from DJ Cruze!'
   tracklist:
     - '[00:00:00] Roy Davis Jnr &#8211; Enjoy The Ride (James Talk &#038; Ridney Mix)'
     - '[00:05:45] Tim Deluxe &#038; X-Press 2 &#8211; Tone Head Chemistry (Club Mix)'

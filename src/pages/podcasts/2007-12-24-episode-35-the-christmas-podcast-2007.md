@@ -3,24 +3,8 @@ title: 'Episode #35 &#8211; The Christmas Podcast 2007'
 author: djcruze
 #permalink: /2007/12/24/episode-35-the-christmas-podcast-2007/
 permalink: /podcasts/episode-35-the-christmas-podcast-2007/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast035_241207.mp3
-        56826933
-        audio/mpeg
-
 votio:
   - 9.1290322580645,31,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast035_241207.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:59:04'
+  keywords: '3544'
+  fileSize: '56826933'
   tracklist:
     - '[00:00:00] Lou Rawls &#8211; Have Yourself A Very Merry Christmas (DJ Cruze Funkfinders Remix) &#8211; White'
     - '[00:05:30] Rihanna &#8211; Don&#8217;t Stop The Music (The Wideboys Club Mix) &#8211; Def Jam'

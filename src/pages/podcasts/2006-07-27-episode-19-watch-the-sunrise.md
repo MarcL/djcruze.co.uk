@@ -3,25 +3,8 @@ title: 'Episode #19 &#8211; Watch The Sunrise'
 author: djcruze
 #permalink: /2006/07/27/episode-19-watch-the-sunrise/
 permalink: /podcasts/episode-19-watch-the-sunrise/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:07:08
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast019_260706.mp3
-        48347136
-        audio/mpeg
-
 votio:
   - 8.6800000000001,125,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast019_260706.mp3'
-  length: '01:07:08'
-  keywords: ''
+  length: '01:07:09'
+  duration: '4029'
+  fileSize: '48347136'
   tracklist:
     - 'Rockefeller &#8211; Do It Tonight (Ian Carey Mix) &#8211; Spinnin Records'
     - 'Per QX &#8211; Buffalos Dance &#8211; Nasty Habits'

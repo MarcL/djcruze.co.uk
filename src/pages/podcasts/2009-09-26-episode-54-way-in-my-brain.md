@@ -3,24 +3,8 @@ title: 'Episode #54 &#8211; Way In My Brain'
 author: djcruze
 #permalink: /2009/09/26/episode-54-way-in-my-brain/
 permalink: /podcasts/episode-54-way-in-my-brain/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast054_260909.mp3
-        58518554
-        audio/mpeg
-
 votio:
   - 9.0967741935482,31,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast54.jpg'
   content: '/podcasts/Cruze_Podcast054_260909.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:00:33'
+  duration: '3633'
+  fileSize: '58518554'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=748'
   tracklist:

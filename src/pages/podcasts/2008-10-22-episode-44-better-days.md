@@ -3,24 +3,8 @@ title: 'Episode #44 &#8211; Better Days'
 author: djcruze
 #permalink: /2008/10/22/episode-44-better-days/
 permalink: /podcasts/episode-44-better-days/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast044_221008.mp3
-        59107713
-        audio/mpeg
-
 votio:
   - 9.2399999999999,25,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast44.jpg'
   content: '/podcasts/Cruze_Podcast044_221008.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:01:16'
+  duration: '3676'
+  fileSize: '59107713'
   tracklist:
     - '[00:00:00] Spencer &#038; Hill &#8211; Right On Time (Original Mix) &#8211; Tiger Records'
     - '[00:04:45] Dave Spoon &#038; Funkagenda &#8211; Won&#8217;t Do It Again (Sunrise) &#8211; Big Love Records'

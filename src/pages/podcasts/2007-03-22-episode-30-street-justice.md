@@ -3,25 +3,8 @@ title: 'Episode #30 &#8211; Street Justice'
 author: djcruze
 #permalink: /2007/03/22/episode-30-street-justice/
 permalink: /mixes/episode-30-street-justice/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:58:35
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast030_210307.mp3
-        0
-        audio/mpeg
-
 votio:
   - 9.4347826086955,23,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast030_210307.mp3'
   length: '00:58:35'
-  keywords: ''
+  duration: '3515'
+  fileSize: '56397217'
   tracklist:
     - 'The Brand New Heavies &#8211; I Don&#8217;t Know Why (I Love You) (Haji &#038; Emanuel Remix) &#8211; TBNH'
     - 'Gaelle &#8211; Give It Back (Grant Nelson Mix) &#8211; Boss Records'

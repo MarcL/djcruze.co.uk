@@ -3,23 +3,8 @@ title: 'Episode #32 &#8211; Is Anyone Still Subscribed?!'
 author: djcruze
 #permalink: /2007/09/02/episode-32-is-anyone-still-subscribed/
 permalink: /podcasts/episode-32-is-anyone-still-subscribed/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast032_280807.mp3
-        56166400
-        audio/mpeg
-
 votio:
   - 8.6800000000001,25,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -27,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast032_280807.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:58:19'
+  duration: '3499'
+  fileSize: '56166400'
   tracklist:
     - 'Charlean Dance &#8211; Mr DJ (Moto Blanco Dub) &#8211; Positiva'
     - 'Vee Scott &#8211; Gimme Your Love (Bob Roberts Mix) &#8211; UMM Records'

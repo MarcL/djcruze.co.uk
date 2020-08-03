@@ -28,8 +28,9 @@ categories:
 media:
   image: '/images/podcasts/podcast56.jpg'
   content: '/podcasts/DJCruze_Podcast056_180810.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:17:24'
+  duration: '4644'
+  fileSize: '74415281'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=791'
   tracklist:

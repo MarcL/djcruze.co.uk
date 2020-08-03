@@ -3,24 +3,8 @@ title: 'Episode #55 &#8211; I&#8217;m Alive'
 author: djcruze
 #permalink: /2010/06/17/episode-55-im-alive/
 permalink: /podcasts/episode-55-im-alive/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/DJCruze_Podcast055_170610.mp3
-        74256190
-        audio/mpeg
-
 votio:
   - 8.5652173913042,23,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast55.jpg'
   content: '/podcasts/DJCruze_Podcast055_170610.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:17:00'
+  duration: '4620'
+  fileSize: '74256190'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=775'
   tracklist:

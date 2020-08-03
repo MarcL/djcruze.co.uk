@@ -16,7 +16,6 @@ media:
 
 tags:
   - production
-  - post
 ---
 
 <div class="download">

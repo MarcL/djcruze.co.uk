@@ -3,26 +3,8 @@ title: 'Episode #9 &#8211; La Rock 01'
 author: djcruze
 #permalink: /2006/01/18/episode-9-la-rock-01/
 permalink: /podcasts/episode-9-la-rock-01/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:48:30
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast009_140106.mp3
-        34932736
-        audio/mpeg
-
 votio:
   - 7.7413793103449,58,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,12 +12,11 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast009_140106.mp3'
-  length: '01:03:45'
-  keywords: ''
+  length: '00:48:31'
+  duration: '2911'
+  fileSize: '34932736'
   tracklist:
-    - 'DJ Cruze chart rundown: '
     - 'The Egg &#8211; Walking Away (Tocadisco Mix) &#8211; CR2 Records'
-    - 'Special guest mix by Matthew Brooks from A&#038;E: '
     - 'The Juan Maclean &#8211; Give Me Every Little Thing &#8211; DFA'
     - 'Freeform Five &#8211; No More Conversations (Mylo Remix) &#8211; Four Music'
     - 'Scissor Sisters &#8211; Laura (Paper Faces Remix) &#8211; Polydor'
@@ -52,7 +33,8 @@ tags:
   - podcast
 ---
 
-<img src="http://www.djcruze.co.uk/cms/wp-content/matt_brooks.jpg" alt="Guest mix by Matt Brooks from A&E" class="right" />  
+<img src="http://www.djcruze.co.uk/cms/wp-content/matt_brooks.jpg" alt="Guest mix by Matt Brooks from A&E" class="right" />
+
 Happy new year and welcome to the first podcast for 2006. Podcast episode #9 features a special guest mix from my good friend and fellow DJ, Matthew Brooks. Matt is a DJ and promoter of the excellent [Accident and Emergency][1] collective. It&#8217;s something a bit different for the podcast as it flows from dirty electro house and filthy acid madness, right up to some drum and bass but as always it&#8217;s damn funky! Download it here:
 
 Here is the tracklisting for this week&#8217;s show:

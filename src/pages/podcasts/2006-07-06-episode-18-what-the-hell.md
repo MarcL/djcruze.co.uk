@@ -3,25 +3,8 @@ title: 'Episode #18 &#8211; What The Hell'
 author: djcruze
 #permalink: /2006/07/06/episode-18-what-the-hell/
 permalink: /podcasts/episode-18-what-the-hell/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:01:12
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast018_050706.mp3
-        0
-        audio/mpeg
-
 votio:
   - 8.442477876106,113,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast018_050706.mp3'
-  length: '01:01:12'
-  keywords: ''
+  length: '01:01:13'
+  duration: '3673'
+  fileSize: '44072960'
   tracklist:
     - 'Big tunes: '
     - 'Beatdropperz &#8211; Changes (Hoxton Whores Mix) &#8211; Serie A Recordings'

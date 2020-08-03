@@ -3,22 +3,8 @@ title: 'Episode #41 &#8211; Neon Lights'
 author: djcruze
 #permalink: /2008/07/20/episode-41-neon-lights/
 permalink: /podcasts/episode-41-neon-lights/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast041_200708.mp3
-    57506084
-    audio/mpeg
 votio:
   - 9.1212121212121,33,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -26,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast41.jpg'
   content: '/podcasts/Cruze_Podcast041_200708.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:59:38'
+  duration: '3578'
+  fileSize: '57506084'
   tracklist:
     - '[00:00:00] Bingo Players vs Chocolate Puma &#8211; Touch Me (Original Mix) &#8211; Strictly'
     - '[00:06:27] Sunloverz &#8211; Summer Of Love (Ortega and Gold Mix) &#8211; Lickin&#8217; Records'

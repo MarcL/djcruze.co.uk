@@ -1,32 +1,61 @@
 ---
-layout: null
 permalink: "/podcasts/feed.xml"
 eleventyExcludeFromCollections: true
 sitemap:
   exclude: yes
 ---
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>{{ site.title | xmlEscape }}</title>
-    <description>{{ site.description | xmlEscape }}</description>
-    <link>{{ site.url }}/</link>
-    <author>
-      <name>{{site.name}}</name>
-      <email>{{site.email}}</email>
-      <uri>{{site.url}}</uri>
-    </author>
-    <atom:link href="{{ "/podcasts/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ collections.podcast | collectionLastUpdatedDate }}</pubDate>
-    <lastBuildDate>{{ collections.podcast | collectionLastUpdatedDate }}</lastBuildDate>
+    <title>{{podcast.title | xmlEscape}}</title>
+    <link>{{site.url}}</link>
+    <language>en-us</language>
+    <copyright>&#169; 2005-{{"now" | date: "%Y"}} {{podcast.author}}</copyright>
+    <lastBuildDate>{{collections.podcast | collectionLastUpdatedDate}}</lastBuildDate>
     <generator>Eleventy</generator>
-    {%- for podcast in collections.podcast reversed -%}
+    <description>{{podcast.description | xmlEscape}}</description>
+    <itunes:author>{{podcast.author}} </itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image>{{podcast.channelImage | prepend: site.url}}</itunes:image>
+    <itunes:owner>
+      <itunes:name>{{podcast.owner.name}}</itunes:name>
+      <itunes:email>{{podcast.owner.email}}</itunes:email>
+    </itunes:owner>
+    <itunes:category text="{{podcast.category}}" />
+    
+    {%- for podcastEpisode in collections.podcast reversed -%}
       <item>
-        <title>{{ podcast.data.title | xmlEscape }}</title>
-        <description>{{ podcast.templateContent | xmlEscape }}</description>
-        <pubDate>{{ podcast.date | toUTCString }}</pubDate>
-        <link>{{ podcast.url | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ podcast.url | prepend: site.url }}</guid>
+        <pubDate>{{ podcastEpisode.date | rfc822Date }}</pubDate>
+        <link>{{ podcastEpisode.url | prepend: site.url }}</link>
+
+        {% if podcastEpisode.data.media.guid %}
+          <guid>{{ podcastEpisode.data.media.guid }}</guid>
+        {% else %}
+          <guid>{{ podcastEpisode.url | prepend: site.url }}</guid>
+        {% endif %}
+
+        {% if podcastEpisode.data.media.title %}
+          <title>{{podcastEpisode.data.media.title | xmlEscape}}</title>
+        {% else %}
+          <title>{{podcastEpisode.data.title}}</title>
+        {% endif %}
+
+        {% if podcastEpisode.data.media.description %}
+          <description>{{ podcastEpisode.data.media.description | xmlEscape }}</description>
+        {% else %}
+          <description>{{ podcast.episode.description | xmlEscape }}</description>
+        {% endif %}
+        
+        <enclosure
+          url="{{podcastEpisode.data.media.content | prepend: site.mediaFilesUrl}}"
+          length="{{podcastEpisode.data.media.fileSize}}"
+          type="audio/mpeg"
+        />
+
+        {% comment %} iTunes specific tags {% endcomment %}
+        {% include partials/iTunesTags, episode: podcastEpisode, collection: collections.podcast %}
+        
       </item>
     {%- endfor -%}
   </channel>

@@ -3,24 +3,8 @@ title: 'Episode #52 &#8211; In The Moment'
 author: djcruze
 #permalink: /2009/06/16/episode-52-in-the-moment/
 permalink: /podcasts/episode-52-in-the-moment/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast052_160609.mp3
-        57482287
-        audio/mpeg
-
 votio:
   - 9.4285714285715,28,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -28,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast52.jpg'
   content: '/podcasts/Cruze_Podcast052_160609.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '00:59:39'
+  duration: '3579'
+  fileSize: '57482287'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=705'
   tracklist:

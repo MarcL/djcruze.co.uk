@@ -3,32 +3,8 @@ title: 'Episode #5 &#8211; Night Life'
 author: djcruze
 #permalink: /2005/11/23/episode-4-night-life/
 permalink: /podcasts/episode-4-night-life/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:56:46
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast005_191105.mp3
-        40882176
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast005_191105.mp3
-        40882176
-        audio/mpeg
-
 votio:
   - 9.125,32,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -36,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast005_191105.mp3'
-  length: '00:56:46'
-  keywords: ''
+  length: '00:56:47'
+  duration: '3407'
+  fileSize: '40882176'
   tracklist:
     - 'DJ Cruze exclusive: '
     - 'Armin van Buuren &#8211; Who&#8217;s Watching? (Mischa Daniels Mix) &#8211; Supra Recordings'

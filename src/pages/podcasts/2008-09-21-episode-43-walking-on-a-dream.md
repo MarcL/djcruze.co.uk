@@ -3,22 +3,8 @@ title: 'Episode #43 &#8211; Walking On A Dream'
 author: djcruze
 #permalink: /2008/09/21/episode-43-walking-on-a-dream/
 permalink: /podcasts/episode-43-walking-on-a-dream/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast043_210908.mp3
-    63144494
-    audio/mpeg
 votio:
   - 9.7142857142856,14,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -26,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/podcast43.jpg'
   content: '/podcasts/Cruze_Podcast043_210908.mp3'
-  length: '01:00:00'
-  keywords: ''
+  length: '01:03:38'
+  duration: '3818'
+  fileSize: '61344527'
   tracklist:
     - '[00:00:00] The Young Punx &#8211; Fire (Phonat Mix) &#8211; Mofo Hifi'
     - '[00:06:04] Empire Of The Sun &#8211; Walking On A Dream (Funkfinders Discoid Remix) &#8211; CDR'

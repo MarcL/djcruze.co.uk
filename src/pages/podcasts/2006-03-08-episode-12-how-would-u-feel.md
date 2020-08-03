@@ -3,25 +3,8 @@ title: 'Episode #12 &#8211; How Would U Feel'
 author: djcruze
 #permalink: /2006/03/08/episode-12-how-would-u-feel/
 permalink: /podcasts/episode-12-how-would-u-feel/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:57:28
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast012_050306.mp3
-        28940288
-        audio/mpeg
-
 votio:
   - 8.3118279569891,93,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast012_050306.mp3'
   length: '00:57:28'
-  keywords: ''
+  duration: '3448'
+  fileSize: '41377792'
   tracklist:
     - 'Big tunes: '
     - 'Mike Polo &#8211; Gypsy Woman (Beatchuggers Gypsy Dub Affair) &#8211; Disco:Wax'

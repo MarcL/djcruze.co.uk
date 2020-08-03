@@ -1,8 +1,13 @@
 require('dotenv').config();
 
 const escape = require('lodash.escape');
+const embedYouTube = require('eleventy-plugin-youtube-embed');
+const rfc822Date = require('rfc822-date');
 
 module.exports = (eleventyConfig) => {
+  // Plugins
+  eleventyConfig.addPlugin(embedYouTube);
+
   // Copy
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
@@ -42,7 +47,15 @@ module.exports = (eleventyConfig) => {
     return String(Date.now());
   });
 
+  eleventyConfig.addShortcode('buildDate', function () {
+    return rfc822Date(new Date());
+  });
+
   const dateToISO = (dateValue) => new Date(dateValue).toISOString();
+
+  eleventyConfig.addLiquidFilter('rfc822Date', (dateValue) => {
+    return rfc822Date(dateValue);
+  });
 
   eleventyConfig.addLiquidFilter('toISOString', (dateValue) => {
     return dateToISO(dateValue);
@@ -56,6 +69,7 @@ module.exports = (eleventyConfig) => {
     return escape(value);
   });
 
+  // Newest date in the collection
   eleventyConfig.addFilter('collectionLastUpdatedDate', (collection) => {
     if (!collection || !collection.length) {
       throw new Error(
@@ -63,8 +77,7 @@ module.exports = (eleventyConfig) => {
       );
     }
 
-    // Newest date in the collection
-    return dateToISO(
+    return rfc822Date(
       new Date(
         Math.max(
           ...collection.map((item) => {

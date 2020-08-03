@@ -3,31 +3,8 @@ title: 'Episode #6 &#8211; Perfect Motion'
 author: djcruze
 #permalink: /2005/12/08/episode-6-perfect-motion/
 permalink: /podcasts/episode-6-perfect-motion/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:54:50
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast006_061205.mp3
-        39426048
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast006_061205.mp3
-        39426048
-        audio/mpeg
-
 votio:
   - 9.4594594594596,37,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -35,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast006_061205.mp3'
-  length: '00:54:50'
-  keywords: ''
+  length: '00:54:45'
+  duration: '3285'
+  fileSize: '39426048'
   tracklist:
     - 'DJ Cruze chart rundown: '
     - 'Silosonic &#8211; Something To Make You Feel Alright &#8211; CDR'

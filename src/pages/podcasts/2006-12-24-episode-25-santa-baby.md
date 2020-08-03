@@ -4,23 +4,8 @@ author: djcruze
 excerpt: "Ho! Ho! Ho! Merry Christmas! It's that time of year again when I bring some funky house tunes and dirty electro and leave it under the Christmas tree. Episode #25 of the DJ Cruze podcast will be appearing in your podcatcher on Christmas morning. It's a lot better than that lump of coal you received last year for being a naughty boy or girl!"
 #permalink: /2006/12/24/episode-25-santa-baby/
 permalink: /podcasts/episode-25-santa-baby/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast025_241206.mp3
-        0
-        audio/mpeg
-
 votio:
   - 8.421052631579,57,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -29,7 +14,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast025_241206.mp3'
   length: '01:06:30'
-  keywords: ''
+  duration: '3990'
+  fileSize: '47928047'
   tracklist:
     - 'DJ Cruze exclusive: '
     - 'Eartha Kitt &#8211; Santa Baby (DJ Cruze Funkfinders Remix) &#8211; CDR'

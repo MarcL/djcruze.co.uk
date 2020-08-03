@@ -7,23 +7,8 @@ excerpt: |
   Here is episode #29 of the DJ Cruze podcast and it has been a long time coming, I know, I know! I've been whizzing down the mountain in sunny (and snowy) Sainte Foy in the French Alps. I then came home and took my lovely wife Clare off to Prague for a few days of sight seeing, beer drinking (...that was mainly me!) and good, cheap food eating fun! So now that I'm back I've had to catch up and find some time to get the DJ Cruze podcast sorted. So here it is...
 #permalink: /2007/02/26/episode-29-battle-royal/
 permalink: /mixes/episode-29-battle-royal/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:05:51
-enclosure:
-  - |
-    http://ripple.radiotail.com/211/Cruze_Podcast029_260207.mp3
-    63285248
-    audio/mpeg
 votio:
   - 8.1739130434783,46,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -31,8 +16,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast029_260207.mp3'
-  length: '01:05:51'
-  keywords: ''
+  length: '01:05:52'
+  duration: '3952'
+  fileSize: '63285248'
   tracklist:
     - 'N&#8217;Dea Davenport &#8211; One Day (D Ramirez Vocal Mix) &#8211; Dozer Records'
     - 'Jay Cox &#8211; Safe (Original Mix) &#8211; Suesse'

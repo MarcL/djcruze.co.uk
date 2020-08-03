@@ -3,25 +3,8 @@ title: 'Episode #21 &#8211; Seasons Of Love'
 author: djcruze
 #permalink: /2006/09/23/episode-21-seasons-of-love/
 permalink: /podcasts/episode-21-seasons-of-love/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:59:43
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast021_230906.mp3
-        43001856
-        audio/mpeg
-
 votio:
   - 8.3592233009708,103,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast021_230906.mp3'
   length: '00:59:43'
-  keywords: ''
+  duration: '3583'
+  fileSize: '43001856'
   tracklist:
     - 'DJ Cruze chart rundown: '
     - 'Mason &#8211; Exceeder &#8211; Boss Records'

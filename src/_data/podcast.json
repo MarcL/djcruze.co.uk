@@ -1,0 +1,22 @@
+{
+  "title": "DJ Cruze House Music Podcast",
+  "description": "Funky and chunky house music from Manchester's original DJ Cruze! Manchester is in the house!",
+  "category": "Music",
+  "author": "DJ Cruze",
+  "channelImage": "/images/podcasts/default-logo-1400x1400.jpg",
+  "owner": {
+    "name": "Marc Littlemore",
+    "email": "marc.littlemore@gmail.com"
+  },
+  "episode": {
+    "description": "The latest episode of the DJ Cruze podcast features new and old funky and chunky house music."
+  },
+  "links": {
+    "iTunes": "https://podcasts.apple.com/us/podcast/podcasts-dj-cruze/id89935810?mt=2&app=podcast",
+    "spotify": "TODO",
+    "google": "TODO",
+    "overcast": "https://overcast.fm/itunes89935810",
+    "pocketCasts": "https://pca.st/itunes/89935810",
+    "rss": "{{site.url}}/podcasts/feed.xml"
+  }
+}

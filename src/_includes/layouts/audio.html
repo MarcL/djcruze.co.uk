@@ -46,11 +46,52 @@ layout: default
           <span class="amplitude-current-time"></span> /
           <span class="amplitude-duration-time"></span>
         </div>
+
+        {% if tags contains "podcast" %}
+        <div class="fl w-100 tc pt2 pb4 bt bw1 b--moon-gray mid-gray">
+          <h3 class="ttu">Subscribe</h3>
+          <a
+            href="{{podcast.links.iTunes}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img
+              src="/images/podcasts/feed/icon-applepodcasts.svg"
+              class="h2 h3-l pr2"
+          /></a>
+
+          <a
+            href="{{podcast.links.overcast}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img
+              src="/images/podcasts/feed/icon-overcast.svg"
+              class="h2 h3-l pr2"
+          /></a>
+          <a
+            href="{{podcast.links.pocketCasts}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img
+              src="/images/podcasts/feed/icon-pocketcasts.svg"
+              class="h2 h3-l pr2"
+          /></a>
+          <a
+            href="{{podcast.links.rss}}"
+            target="_blank"
+            rel="noopener"
+            class="dib grow"
+            ><img src="/images/podcasts/feed/icon-rss.svg" class="h2 h3-l"
+          /></a>
+        </div>
+        {% endif %}
       </div>
     </div>
   </div>
 
-  <div class="fl w-100 w-50-ns ph0 ph3-ns pt3 pt0-ns">
+  <div class="fl w-100 w-50-ns ph0 ph3-l pt3 pt0-ns">
     {% if media.tracklist %}
     <h3 class="f4 f3-ns mv0">Tracklist</h3>
     <ol>

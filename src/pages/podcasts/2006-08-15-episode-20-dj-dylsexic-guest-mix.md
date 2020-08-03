@@ -3,25 +3,8 @@ title: 'Episode #20 &#8211; DJ Dylsexic guest mix'
 author: djcruze
 #permalink: /2006/08/15/episode-20-dj-dylsexic-guest-mix/
 permalink: /podcasts/episode-20-dj-dylsexic-guest-mix/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:07:04
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast020_110806.mp3
-        48289792
-        audio/mpeg
-
 votio:
   - 8.0612244897957,98,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,7 +13,8 @@ media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast020_110806.mp3'
   length: '01:07:04'
-  keywords: ''
+  duration: '4024'
+  fileSize: '48289792'
   tracklist:
     - 'Freeland feat. Alison David &#8211; Supernatural (Tom Middleton Cosmos Mix)'
     - 'Electricano &#8211; Harmony Of Soul (David Ferrero Housepark Remix)'

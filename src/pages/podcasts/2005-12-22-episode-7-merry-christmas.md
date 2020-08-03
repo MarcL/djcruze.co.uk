@@ -3,32 +3,8 @@ title: 'Episode #7 &#8211; Merry Christmas!'
 author: djcruze
 #permalink: /2005/12/22/episode-7-merry-christmas/
 permalink: /podcasts/episode-7-merry-christmas/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:54:20
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast007_211205.mp3
-        1896448
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast007_211205.mp3
-        39122944
-        audio/mpeg
-
 votio:
   - 8.9111111111111,45,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -36,8 +12,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast007_211205.mp3'
-  length: '01:03:45'
-  keywords: ''
+  length: '00:54:20'
+  duration: '3260'
+  fileSize: '39122944'
   tracklist:
     - 'New tunes '
     - 'DJ Cruze vs Nat King Cole &#8211; The Christmas Song (Merry Christmas To You)'

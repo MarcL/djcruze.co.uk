@@ -3,32 +3,8 @@ title: 'Episode #8 &#8211; Best of 2005 Mix'
 author: djcruze
 #permalink: /2005/12/31/episode-8-best-of-2005-mix/
 permalink: /podcasts/episode-8-best-of-2005-mix/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:13:30
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/podcasts/Cruze_Podcast008_311205.mp3
-        14059520
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast008_311205.mp3
-        52928512
-        audio/mpeg
-
 votio:
   - 9.0612244897959,49,
-
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -36,10 +12,10 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast008_311205.mp3'
-  length: '01:03:45'
-  keywords: ''
+  length: '01:13:31'
+  duration: '4411'
+  fileSize: '52928512'
   tracklist:
-    - 'Best of 2005 Mix '
     - "Lil' Love &#8211; Little Love (Soul Avengerz Mix) &#8211; Positiva"
     - 'Jenn Cunetta &#8211; Come Rain Come Shine (Stonebridge Mix) &#8211; White'
     - 'Discrete feat. Belle Erskine &#8211; Love Me (12&#8243; Mix) &#8211; Tokyo Project'
@@ -65,21 +41,6 @@ I&#8217;ve got together my favourite tunes from 2005 and stuck them in a bite-si
 It&#8217;s a bit longer than normal and comes in at 73 minutes and 30 seconds. A nice fit for a CD if you want to listen to it in the car. Hopefully it won&#8217;t break my bandwidth limits too much!
 
 Here is the tracklisting for this week&#8217;s show:
-
-- **Best of 2005 Mix**
-  - Lilâ€™ Love &#8211; Little Love ([Soul Avengerz][3] Mix) &#8211; Positiva
-  - [Jenn Cunetta][4] &#8211; Come Rain Come Shine (Stonebridge Mix) &#8211; White
-  - Discrete feat. Belle Erskine &#8211; Love Me (12&#8243; Mix) &#8211; [Tokyo Project][5]
-  - Sex On Monday &#8211; Bring Back The Love (Hold Me Down) ([Soul Avengerz][3] Mix) &#8211; Oxyd / [Manifesto Records][6]
-  - Supafly vs Fishbowl &#8211; Letâ€™s Get Down (Full Intention Club Mix) &#8211; [Eye Industries][7]
-  - Sleve and Lowman &#8211; So Fine &#8211; [Freestyle Records][8]
-  - [Haji &#038; Emanuel][9] &#8211; Weekend &#8211; [Azuli][10]
-  - Bush II Bush &#8211; Piano Track ([MYNC][11] Project Balls II Bush Remix) &#8211; CR2
-  - C-Mos &#8211; 2 Million Ways ([Axwell][12] Mix) &#8211; Lowered Recordings
-  - Jan Francisco meets Joseph Armani &#8211; Infatuation (Dubmix) &#8211; [Joia][13]
-  - [Olav Basoski][14] &#8211; Promises &#8211; [Rootz Records][15]
-  - [Moby][16] &#8211; Raining Again ([Steve Angello][17] Vocal Mix) &#8211; Mute
-  - [Royksopp][18] &#8211; What Else Is There? (Thin White Duke Mix) &#8211; [Wall Of Sound][19]
 
 I&#8217;d like to thank you all for your support and love over the past few months. I&#8217;ve made lots of new friends from around the world and I&#8217;m looking forward to rocking your floors soon. I&#8217;d especially like to thank Bodo in Germany who has been hosting all of the MP3s for the past few months. Check out his web services [here][20].
 

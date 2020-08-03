@@ -4,25 +4,8 @@ author: djcruze
 excerpt: "Christmas is over and it's time to get back to work so what better way to start off the year than a new DJ Cruze podcast. Episode #27 brings you lots of funky tunes and plenty of dirty electro as always."
 #permalink: /2007/01/14/episode-27-ghetto-girl/
 permalink: /podcasts/episode-27-ghetto-girl/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast027_140107.mp3
-        59246592
-        audio/mpeg
-
-'itunes:duration':
-  - 01:01:38
 votio:
   - 7.8169014084504,71,
-###################################
-# Podcast
-###################################
-
-categories:
-  - Podcasts
 
 ###################################
 # Media details
@@ -30,8 +13,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast027_140107.mp3'
-  length: '01:01:38'
-  keywords: ''
+  length: '01:01:39'
+  duration: '3699'
+  fileSize: '59246592'
   tracklist:
     - 'Kid Massive &#8211; The Spirit (Olav Basoski Remix) &#8211; Rootz Records'
     - 'DJ Cruze chart rundown:'

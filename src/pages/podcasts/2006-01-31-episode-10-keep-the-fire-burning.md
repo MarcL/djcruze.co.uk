@@ -30,8 +30,9 @@ categories:
 media:
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast010_290106.mp3'
-  length: '01:03:45'
-  keywords: ''
+  length: '00:50:03'
+  duration: '3003'
+  fileSize: '36036608'
   tracklist:
     - 'DJ Cruze chart rundown: '
     - 'Olav Basoski &#8211; Wait and See &#8211; Rootz Records]'

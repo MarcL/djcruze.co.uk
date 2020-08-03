@@ -65,6 +65,18 @@ module.exports = (eleventyConfig) => {
     return new Date(dateValue).toUTCString();
   });
 
+  eleventyConfig.addLiquidFilter('pageDate', (dateValue) => {
+    const date = new Date(dateValue);
+
+    const options = {
+      year: 'numeric',
+      month: 'long',
+      day: 'numeric',
+    };
+
+    return date.toLocaleDateString('en-GB', options);
+  });
+
   eleventyConfig.addLiquidFilter('xmlEscape', (value) => {
     return escape(value);
   });

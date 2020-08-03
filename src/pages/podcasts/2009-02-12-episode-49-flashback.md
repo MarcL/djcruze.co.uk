@@ -30,7 +30,7 @@ media:
   content: '/podcasts/Cruze_Podcast049_120209.mp3'
   length: '00:59:42'
   duration: '3582'
-  filesize: '57550444'
+  fileSize: '57550444'
   # Set GUID for old podcasts to keep XML happy
   guid: 'http://www.djcruze.co.uk/cms/?p=628'
   tracklist:

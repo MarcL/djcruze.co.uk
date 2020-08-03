@@ -1,0 +1,15 @@
+<script>
+const addResponsiveNavigationHandler = () => {
+    const mobileNavigation = document.getElementById('mobileNavigation');
+    const navigationButton = document.getElementById('navigationButton');
+
+    navigationButton.addEventListener('click', (event) => {
+        mobileNavigation.classList.toggle('dn');
+    });
+};
+
+window.onload = function() {
+    addResponsiveNavigationHandler();
+}
+
+</script>

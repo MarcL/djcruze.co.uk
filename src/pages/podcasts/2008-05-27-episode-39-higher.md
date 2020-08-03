@@ -3,9 +3,6 @@ title: 'Episode #39 &#8211; Higher'
 author: djcruze
 #permalink: /2008/05/27/episode-39-higher/
 permalink: /podcasts/episode-39-higher/
-  65391752
-  audio/mpeg
-
 votio:
   - 8.6052631578948,38,
 

@@ -1,6 +1,6 @@
 ---
-title: 'Episode #10 &#8211; Keep The Fire Burning'
-author: djcruze
+title: 'Episode #10 - Keep The Fire Burning'
+
 #permalink: /2006/01/31/episode-10-keep-the-fire-burning/
 permalink: /podcasts/episode-10-keep-the-fire-burning/
 'itunes:category':
@@ -35,15 +35,15 @@ media:
   fileSize: '36036608'
   tracklist:
     - 'DJ Cruze chart rundown: '
-    - 'Olav Basoski &#8211; Wait and See &#8211; Rootz Records]'
-    - 'Filterfunk &#8211; S.O.S. (Message In A Bottle) (Delano &#038; Crockett Remix) &#8211; Gusto'
-    - 'Axer &#8211; 123 &#8211; Pryda Records'
-    - 'The Modern &#8211; Industry (Bimbo Jones Dub) &#8211; Mercury'
-    - 'Solu Music feat. Kimberlee &#8211; Fade (Grant Nelson Big Room Vocal Mix) &#8211; Hed Kandi'
-    - 'Shapeshifters &#8211; Incredible (Denis The Menace &#038; Jerry Roperoâ€™s Full Vocal Mix) &#8211; Positiva'
-    - 'Joey Negro &#8211; Make A Move On Me &#8211; Z Records'
+    - 'Olav Basoski - Wait and See - Rootz Records]'
+    - 'Filterfunk - S.O.S. (Message In A Bottle) (Delano & Crockett Remix) - Gusto'
+    - 'Axer - 123 - Pryda Records'
+    - 'The Modern - Industry (Bimbo Jones Dub) - Mercury'
+    - 'Solu Music feat. Kimberlee - Fade (Grant Nelson Big Room Vocal Mix) - Hed Kandi'
+    - 'Shapeshifters - Incredible (Denis The Menace & Jerry Roperoâ€™s Full Vocal Mix) - Positiva'
+    - 'Joey Negro - Make A Move On Me - Z Records'
     - 'Cruze classic from 1991: '
-    - 'The House Crew &#8211; Keep The Fire Burning &#8211; Production House'
+    - 'The House Crew - Keep The Fire Burning - Production House'
 
 layout: audio
 tags:
@@ -59,22 +59,22 @@ The King of the Beats is here with podcast episode #10. Make your ears happy and
 As always, here is the tracklisting for the show:
 
 - **DJ Cruze chart rundown:**
-  - [Olav Basoski][3] &#8211; Wait and See &#8211; [Rootz Records][4]
-  - Filterfunk &#8211; S.O.S. (Message In A Bottle) (Delano &#038; Crockett Remix) &#8211; [Gusto][5]
-  - Axer &#8211; 123 &#8211; [Pryda Records][6]
-  - The Modern &#8211; Industry (Bimbo Jones Dub) &#8211; Mercury
-  - Solu Music feat. Kimberlee &#8211; Fade (Grant Nelson Big Room Vocal Mix) &#8211; [Hed Kandi][7]
-  - [Shapeshifters][8] &#8211; Incredible (Denis The Menace &#038; Jerry Roperoâ€™s Full Vocal Mix) &#8211; [Positiva][9]
-  - [Joey Negro][10] &#8211; Make A Move On Me &#8211; [Z Records][11]
+  - [Olav Basoski][3] - Wait and See - [Rootz Records][4]
+  - Filterfunk - S.O.S. (Message In A Bottle) (Delano & Crockett Remix) - [Gusto][5]
+  - Axer - 123 - [Pryda Records][6]
+  - The Modern - Industry (Bimbo Jones Dub) - Mercury
+  - Solu Music feat. Kimberlee - Fade (Grant Nelson Big Room Vocal Mix) - [Hed Kandi][7]
+  - [Shapeshifters][8] - Incredible (Denis The Menace & Jerry Roperoâ€™s Full Vocal Mix) - [Positiva][9]
+  - [Joey Negro][10] - Make A Move On Me - [Z Records][11]
 - **Cruze classic from 1991:**
-  - The House Crew &#8211; Keep The Fire Burning &#8211; Production House
+  - The House Crew - Keep The Fire Burning - Production House
 
-As I mentioned in the show I&#8217;ve been downloading some more podcasts for my iPod and here are two you should definitely check out if you like house music:
+As I mentioned in the show I've been downloading some more podcasts for my iPod and here are two you should definitely check out if you like house music:
 
-- [Alex Harmony][12] &#8211; Der Harmonizer ist im Haus! Alex is rocking a funky tech-electro sound with a classic thrown in for good measure. Even if you don&#8217;t speak German it&#8217;s worth a download. He said he might do the next in English anyway so keep subscribed.
-- [One Phat DJ][13] &#8211; He&#8217;s phat not fat! Funky tunes with a similar taste in music to me. A must have on your iPod.
+- [Alex Harmony][12] - Der Harmonizer ist im Haus! Alex is rocking a funky tech-electro sound with a classic thrown in for good measure. Even if you don't speak German it's worth a download. He said he might do the next in English anyway so keep subscribed.
+- [One Phat DJ][13] - He's phat not fat! Funky tunes with a similar taste in music to me. A must have on your iPod.
 
-As always I love to hear your feed back on the show. [Contact me][14] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes then I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][14] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes then I'll play them.
 
 [1]: http://ripple.radiotail.com/211/Cruze_Podcast010_290106.mp3
 [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

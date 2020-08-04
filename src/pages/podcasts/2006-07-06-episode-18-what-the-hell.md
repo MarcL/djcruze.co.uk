@@ -1,6 +1,6 @@
 ---
-title: 'Episode #18 &#8211; What The Hell'
-author: djcruze
+title: 'Episode #18 - What The Hell'
+
 #permalink: /2006/07/06/episode-18-what-the-hell/
 permalink: /podcasts/episode-18-what-the-hell/
 votio:
@@ -17,29 +17,29 @@ media:
   fileSize: '44072960'
   tracklist:
     - 'Big tunes: '
-    - 'Beatdropperz &#8211; Changes (Hoxton Whores Mix) &#8211; Serie A Recordings'
+    - 'Beatdropperz - Changes (Hoxton Whores Mix) - Serie A Recordings'
     - 'DJ Cruze chart rundown: '
-    - 'Belle &#8211; What The Hell (Chus Penn Remix) &#8211; Mercury'
-    - 'Grooveland &#8211; Tell Me &#8211; Adhesive'
-    - 'Tom Novy &#8211; Take It (Haji &#038; Emanuel Remix) &#8211; Data'
-    - 'Fonzerelli &#8211; Moonlight Party &#8211; UMM'
-    - 'Sikk &#8211; My Washing Machine (Sharp Boys Vocal Fuck Mix) &#8211; Eye Industries'
-    - 'Eyes of Love &#8211; My Love Is You (Federico Conti Extended Mix) &#8211; Born To Dance Records'
-    - 'Madonna &#8211; Get Together (Jacque Lu Cont Vocal Edit) &#8211; Maverick'
-    - 'Chocolate Puma &#8211; Always &#038; Forever (Till West &#038; DJ Delicious Mix) &#8211; Positiva'
+    - 'Belle - What The Hell (Chus Penn Remix) - Mercury'
+    - 'Grooveland - Tell Me - Adhesive'
+    - 'Tom Novy - Take It (Haji & Emanuel Remix) - Data'
+    - 'Fonzerelli - Moonlight Party - UMM'
+    - 'Sikk - My Washing Machine (Sharp Boys Vocal Fuck Mix) - Eye Industries'
+    - 'Eyes of Love - My Love Is You (Federico Conti Extended Mix) - Born To Dance Records'
+    - 'Madonna - Get Together (Jacque Lu Cont Vocal Edit) - Maverick'
+    - 'Chocolate Puma - Always & Forever (Till West & DJ Delicious Mix) - Positiva'
     - 'Cruze classic from 1994: '
-    - 'Ideal &#8211; Hot &#8211; Cleveland City'
+    - 'Ideal - Hot - Cleveland City'
 
 layout: audio
 tags:
   - podcast
 ---
 
-Back with another dose of funky house music for your mind, your body and your soul. Be warned that this episode contains a track with some explicit lyrics. Don&#8217;t play it if you have kids within listening distance!
+Back with another dose of funky house music for your mind, your body and your soul. Be warned that this episode contains a track with some explicit lyrics. Don't play it if you have kids within listening distance!
 
-Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it&#8217;s terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
 
-As always I love to hear your feed back on the show. [Contact me][25] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes, I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][25] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 
 [1]: http://ripple.radiotail.com/211/Cruze_Podcast018_050706.mp3
 [2]: http://www.djcruze.co.uk/cms/podcasts/feed/rss2

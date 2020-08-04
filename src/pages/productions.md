@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: oneColumn
 title: 'Productions'
 permalink: '/productions/'
 headerImage: '/images/headers/touchpad.jpg'

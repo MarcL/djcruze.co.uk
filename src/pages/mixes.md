@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: oneColumn
 title: 'Mixes'
 permalink: /mixes/
 headerImage: '/images/headers/turntable.jpg'

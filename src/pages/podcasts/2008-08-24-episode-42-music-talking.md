@@ -45,7 +45,7 @@ Next upI&#8217;ve got a new Dabruck &#038; Klein remix of &#8220;What A Wonderfu
 
 If you enjoy the show then [get in touch][1] and tell me what you think or want a shout out. Also, why not consider [donating some money][2] so that I can cover the costs of producing the show. With the amount of downloads I have, it&#8217;s not cheap! And finally, don&#8217;t forget to comment on the show below and tell me what you think.
 
-The image is based on a terrible Korg VC-10 vocoder advert as uploaded to Flickr by [bdu][5]! It made me laugh a lot whilst searching for &#8220;Music Talking&#8221; so I had to use it! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_wink.gif" alt=";)" class="wp-smiley" />
+The image is based on a terrible Korg VC-10 vocoder advert as uploaded to Flickr by [bdu][5]! It made me laugh a lot whilst searching for &#8220;Music Talking&#8221; so I had to use it! 😃
 
 [1]: /contact
 [2]: http://www.dreamhost.com/donate.cgi?id=8244

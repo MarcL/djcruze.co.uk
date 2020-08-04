@@ -47,7 +47,7 @@ Hopefully you&#8217;ll enjoy this mix as you&#8217;ve got over an hour of my tra
 
 The Cruze Classic this month is a slice of UK house music from back in 1994. It&#8217;s a classic Cleveland City Sound of tough synths and skippy drums with Rhyme Time Productions massive house track &#8220;You &#038; Me&#8221;. I still hammer that track and I&#8217;m sure you&#8217;ll love it if you&#8217;ve never heard it before.
 
-I hope you like the tracks on this month&#8217;s show and don&#8217;t forget to comment below and tell me what you think of them. You can also get hold of me on [Twitter][2] and I&#8217;ve created an [official DJ Cruze Facebook fan page][3] too. Go and &#8220;Like&#8221; me! <img src="http://www.djcruze.co.uk/cms/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+I hope you like the tracks on this month&#8217;s show and don&#8217;t forget to comment below and tell me what you think of them. You can also get hold of me on [Twitter][2] and I&#8217;ve created an [official DJ Cruze Facebook fan page][3] too. Go and &#8220;Like&#8221; me! 😃
 
 Picture of me by my awesome photographer friend [Klaus Dieter &#8216;KDK&#8217; Kieslich][6].
 

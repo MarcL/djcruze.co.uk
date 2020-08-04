@@ -7,23 +7,7 @@
   {% include head %}
 
   <body class="w-100 bg-white">
-    {% include navigation %} {% if headerImage %}
-    <div class="w-100">
-      <img src="{{headerImage}}" title="{{title}}" alt="{{title}}" class="" />
-    </div>
-    {% endif %}
-
-    <main class="w-80 center bg-white mv2 pv2 ph1 ph3-ns">
-      <h2 class="f3 f2-ns mt3 mb1 near-black">{{title}}</h2>
-      {% if showDate %}
-      <h3 class="f5 f4-ns mt2 mb1 gray">{{page.date | pageDate}}</h3>
-      {% endif %}
-      <div class="h2 w2 bb bw2 b--near-black"></div>
-      <div class="pt4">
-        {{content}}
-      </div>
-    </main>
-
-    {% include footer %} {% include scripts %}
+    {% include navigation %} {{content}} {% include footer %} {% include scripts
+    %}
   </body>
 </html>

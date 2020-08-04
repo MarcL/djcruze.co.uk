@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: oneColumn
 title: 'Podcasts'
 permalink: '/podcasts/'
 headerImage: '/images/headers/headphones.jpg'

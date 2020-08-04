@@ -1,7 +1,5 @@
 ---
 title: 'Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix)'
-
-layout: audio
 # permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 'itunes:category':
@@ -12,8 +10,9 @@ media:
   title: 'Walking On A Dream (Funkfinders Discoid Mix)'
   author: 'Empire Of The Sun'
   image: '/images/productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix.jpg'
-  content: '/productions/Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix).mp3'
+  content: '/productions/Empire%20Of%20The%20Sun%20-%20Walking%20On%20A%20Dream%20(Funkfinders%20Discoid%20Remix).mp3'
 
+layout: audio
 tags:
   - production
 ---

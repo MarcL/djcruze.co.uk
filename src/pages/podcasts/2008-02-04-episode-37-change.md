@@ -1,6 +1,6 @@
 ---
-title: 'Episode #37 &#8211; Change'
-author: djcruze
+title: 'Episode #37 - Change'
+
 #permalink: /2008/02/04/episode-37-change/
 permalink: /podcasts/episode-37-change/
 votio:
@@ -16,27 +16,27 @@ media:
   duration: '3475'
   fileSize: '55722561'
   tracklist:
-    - '[00:00:00] NJoi &#8211; Plastic Minds &#8211; New Black Records'
-    - '[00:06:12] Chanel &#8211; Dance (Carl Ryder Club Mix) &#8211; Hed Kandi'
-    - '[00:12:09] David Jordan &#8211; Sun Goes Down (Hi Tak Dub) &#8211; White'
-    - '[00:17:09] Marco Denmark &#8211; Tiny Dancer (Moto Blanco Mix) &#8211; 3 Beat Blue'
-    - '[00:23:06] Out Of Office &#8211; Break Of Dawn (Club Mix) &#8211; Frenetic'
-    - '[00:28:34] H Two O &#8211; What&#8217;s It Gonna Be (Vandalism Remix) &#8211; Ministry Of Sound'
-    - '[00:34:38] Addictive &#8211; Gonna Be Mine (Simmons &#038; Christopher Remix) &#8211; Gusto'
+    - '[00:00:00] NJoi - Plastic Minds - New Black Records'
+    - '[00:06:12] Chanel - Dance (Carl Ryder Club Mix) - Hed Kandi'
+    - '[00:12:09] David Jordan - Sun Goes Down (Hi Tak Dub) - White'
+    - '[00:17:09] Marco Denmark - Tiny Dancer (Moto Blanco Mix) - 3 Beat Blue'
+    - '[00:23:06] Out Of Office - Break Of Dawn (Club Mix) - Frenetic'
+    - "[00:28:34] H Two O - What's It Gonna Be (Vandalism Remix) - Ministry Of Sound"
+    - '[00:34:38] Addictive - Gonna Be Mine (Simmons & Christopher Remix) - Gusto'
     - 'DJ Cruze EXCLUSIVE '
-    - '[00:40:50] World Of Colour &#8211; Change (Funkfinders Remix) &#8211; Metrogroove Records'
-    - '[00:47:02] DJ DLG &#8211; Paramount (Dave Armstrong Remix) &#8211; Huge Records'
+    - '[00:40:50] World Of Colour - Change (Funkfinders Remix) - Metrogroove Records'
+    - '[00:47:02] DJ DLG - Paramount (Dave Armstrong Remix) - Huge Records'
     - 'Cruze classic from 1996: '
-    - '[00:52:30] CJ Bolland &#8211; Sugar Is Sweeter (Armand Van Helden&#8217;s Drum &#8216;n&#8217; Bass Mix) &#8211; FFRR'
+    - "[00:52:30] CJ Bolland - Sugar Is Sweeter (Armand Van Helden's Drum 'n' Bass Mix) - FFRR"
 
 layout: audio
 tags:
   - podcast
 ---
 
-Original photo by [ VictoriaPeckham][1] &#8211; Photoshop skullduggery by [DJ Cruze][2]!
+Original photo by [ VictoriaPeckham][1] - Photoshop skullduggery by [DJ Cruze][2]!
 
-At last. A new podcast! Yes, yes, I know. As always it&#8217;s been far too long between podcasts but it&#8217;s finally here. Episode #37 of the DJ Cruze podcast brings you another hour of the slammingest (&#8230;that&#8217;s not a real word&#8230;) club tunes from the world of funky, chunky house and electro house. Also included is a DJ Cruze exclusive. On tonight&#8217;s show you&#8217;ll find the world exclusive play of my remix (known as the Funkfinders Remix) of World Of Colour&#8217;s new track &#8220;Change&#8221;. It&#8217;s a funky house remix in the Haji &#038; Emanuel or Simmons &#038; Christopher style and it&#8217;s got a big old string breakdown. Let me know what you thing of it in the comments below. It should be coming out as part of a remix package on Metrogroove Records so watch this space for more details.
+At last. A new podcast! Yes, yes, I know. As always it's been far too long between podcasts but it's finally here. Episode #37 of the DJ Cruze podcast brings you another hour of the slammingest (...that's not a real word...) club tunes from the world of funky, chunky house and electro house. Also included is a DJ Cruze exclusive. On tonight's show you'll find the world exclusive play of my remix (known as the Funkfinders Remix) of World Of Colour's new track "Change". It's a funky house remix in the Haji & Emanuel or Simmons & Christopher style and it's got a big old string breakdown. Let me know what you thing of it in the comments below. It should be coming out as part of a remix package on Metrogroove Records so watch this space for more details.
 
 Enjoy the show and [get in touch][3] if you want a shout out.
 

@@ -1,6 +1,6 @@
 ---
-title: 'Hey Mr DJ Mix &#8211; June 1994'
-author: djcruze
+title: 'Hey Mr DJ Mix - June 1994'
+
 #permalink: /2006/08/28/hey-mr-dj-mix-june-1994/
 permalink: /mixes/hey-mr-dj-mix-june-1994/
 'itunes:category':
@@ -28,20 +28,20 @@ media:
   length: '00:47:10'
   keywords: ''
   tracklist:
-    - 'Screen II &#8211; Mr DJ (Dasilva / McCreary Remix) &#8211; Cleveland City Records'
-    - 'Banging From The Bedroom &#8211; Let Me In (To Your Life) (Xen Mantra Revamp) &#8211; Gash Records'
-    - 'Tonja Dantzler &#8211; In And Out Of My Life (Original Mix) &#8211; Lady Bird Records'
-    - '??? &#8211; ??? *Another one to look up! It&#8217;s either Xen Mantra or D.O.P.*'
-    - '??? &#8211; ???'
-    - 'Pascal&#8217;s Bongo Massive &#8211; Pere Cochon (I Like It) (Where Ya Goin? Factory Mix) &#8211; Tribal US'
-    - 'Masters Of The Monotonal Groove &#8211; To Kill Or Be Killed &#8211; 3 Beat Music'
-    - 'Roller Coaster &#8211; My Geetar Hertz (Original Mix) &#8211; Higher State Records'
-    - 'Way Out West &#8211; Montana (Let Yourself Go) &#8211; Terra Firma'
-    - 'Nush &#8211; U Girls (Shake It Club Mix) &#8211; Blunted'
+    - 'Screen II - Mr DJ (Dasilva / McCreary Remix) - Cleveland City Records'
+    - 'Banging From The Bedroom - Let Me In (To Your Life) (Xen Mantra Revamp) - Gash Records'
+    - 'Tonja Dantzler - In And Out Of My Life (Original Mix) - Lady Bird Records'
+    - "??? - ??? *Another one to look up! It's either Xen Mantra or D.O.P.*"
+    - '??? - ???'
+    - "Pascal's Bongo Massive - Pere Cochon (I Like It) (Where Ya Goin? Factory Mix) - Tribal US"
+    - 'Masters Of The Monotonal Groove - To Kill Or Be Killed - 3 Beat Music'
+    - 'Roller Coaster - My Geetar Hertz (Original Mix) - Higher State Records'
+    - 'Way Out West - Montana (Let Yourself Go) - Terra Firma'
+    - 'Nush - U Girls (Shake It Club Mix) - Blunted'
 
 layout: audio
 tags:
   - mix
 ---
 
-So here&#8217;s an MP3 rip of an old mix that I did way back in 1994. I&#8217;d just got a new mixer and I was testing it out so expect plenty of scratching! Enjoy!
+So here's an MP3 rip of an old mix that I did way back in 1994. I'd just got a new mixer and I was testing it out so expect plenty of scratching! Enjoy!

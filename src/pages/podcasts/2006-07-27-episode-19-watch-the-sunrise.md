@@ -1,6 +1,6 @@
 ---
-title: 'Episode #19 &#8211; Watch The Sunrise'
-author: djcruze
+title: 'Episode #19 - Watch The Sunrise'
+
 #permalink: /2006/07/27/episode-19-watch-the-sunrise/
 permalink: /podcasts/episode-19-watch-the-sunrise/
 votio:
@@ -16,28 +16,28 @@ media:
   duration: '4029'
   fileSize: '48347136'
   tracklist:
-    - 'Rockefeller &#8211; Do It Tonight (Ian Carey Mix) &#8211; Spinnin Records'
-    - 'Per QX &#8211; Buffalos Dance &#8211; Nasty Habits'
-    - 'Inner City Playboys &#8211; Jetsetter (Ian Carey Remix) &#8211; Loaded'
-    - 'Starchaser &#8211; Fate &#8211; Ego'
-    - 'Jealousy &#8211; Lucy (K-Klass Remix) &#8211; Purple City'
-    - 'Basement Jaxx &#8211; Hush Boy (Soul Seekerz Remix) &#8211; XL'
-    - 'Soulcast &#8211; Someone Like Me (Dub) &#8211; Oxyd Records'
-    - 'Nuala &#8211; El Sol (Los Ladrones Mix) &#8211; Caitlin Records'
-    - 'Trick &#038; Kubic &#8211; Easy (Original Mix) &#8211; Data'
-    - 'Axwell &#8211; Watch The Sunrise (Extended Vocal Mix) &#8211; Positiva'
-    - 'Janice Robinson &#8211; Children (Explorer Mix) &#8211; Planet Four Communications'
+    - 'Rockefeller - Do It Tonight (Ian Carey Mix) - Spinnin Records'
+    - 'Per QX - Buffalos Dance - Nasty Habits'
+    - 'Inner City Playboys - Jetsetter (Ian Carey Remix) - Loaded'
+    - 'Starchaser - Fate - Ego'
+    - 'Jealousy - Lucy (K-Klass Remix) - Purple City'
+    - 'Basement Jaxx - Hush Boy (Soul Seekerz Remix) - XL'
+    - 'Soulcast - Someone Like Me (Dub) - Oxyd Records'
+    - 'Nuala - El Sol (Los Ladrones Mix) - Caitlin Records'
+    - 'Trick & Kubic - Easy (Original Mix) - Data'
+    - 'Axwell - Watch The Sunrise (Extended Vocal Mix) - Positiva'
+    - 'Janice Robinson - Children (Explorer Mix) - Planet Four Communications'
 
 layout: audio
 tags:
   - podcast
 ---
 
-It&#8217;s been far too long since the last show again, sorry about that. As most of you know, I&#8217;m getting married in a few weeks time (actually nearer to two weeks now) so life is pretty hectic. This show will be the last for a month now so I hope you enjoy it. It&#8217;s full of summery vibes and I&#8217;m loving the tunes. Enjoy!
+It's been far too long since the last show again, sorry about that. As most of you know, I'm getting married in a few weeks time (actually nearer to two weeks now) so life is pretty hectic. This show will be the last for a month now so I hope you enjoy it. It's full of summery vibes and I'm loving the tunes. Enjoy!
 
-Don&#8217;t forget to rate this podcast so I know what you like and don&#8217;t like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it&#8217;s terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 
-As always I love to hear your feed back on the show. [Contact me][16] using the form provided and I&#8217;ll get back to you as soon as I can. I&#8217;m always looking for new tunes to play on the show so if you&#8217;re an up and coming producer who&#8217;s looking for some exposure then let me know and if I like the tunes, I&#8217;ll play them.
+As always I love to hear your feed back on the show. [Contact me][16] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 
 [1]: http://www.ian45carey.com/
 [2]: http://www.spinninrecords.nl/

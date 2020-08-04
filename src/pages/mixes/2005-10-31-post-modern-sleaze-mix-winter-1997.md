@@ -1,6 +1,6 @@
 ---
 title: Post Modern Sleaze Mix (Winter 1997)
-author: djcruze
+
 #permalink: /2005/10/31/post-modern-sleaze-mix-winter-1997/
 permalink: /mixes/post-modern-sleaze-mix-winter-1997/
 'itunes:category':
@@ -34,28 +34,28 @@ media:
   length: '01:04:39'
   keywords: ''
   tracklist:
-    - 'Hoof &#8211; Detroit'
-    - 'Sneaker Pimps &#8211; Post Modern Sleaze (The Phunk Force Mix)'
-    - 'De&#8217;Lacey &#8211; Hideaway (187 Lockdown Mix)'
-    - '187 Lockdown &#8211; Gunman'
-    - 'DJ Supreme vs Rhythm Masters &#8211; Enter The Scene (Klubheads Mix)'
-    - 'Urban Shakedown &#8211; Some Justice'
-    - 'Jimmy Ray &#8211; Are You Jimmy Ray? (Lisa Marie Experience Mix)'
-    - 'Wildchild &#8211; Renegade Master (Fatboy Slim New Skool Mix)'
-    - 'TBA &#8211; Never Give Up On'
-    - 'Laguna &#8211; Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)'
-    - 'Kinane &#8211; Business (K-Klass Club Mix)'
-    - 'Sybil &#8211; Why? (Mark&#8217;s Non-Stop Dub)'
+    - 'Hoof - Detroit'
+    - 'Sneaker Pimps - Post Modern Sleaze (The Phunk Force Mix)'
+    - "De'Lacey - Hideaway (187 Lockdown Mix)"
+    - '187 Lockdown - Gunman'
+    - 'DJ Supreme vs Rhythm Masters - Enter The Scene (Klubheads Mix)'
+    - 'Urban Shakedown - Some Justice'
+    - 'Jimmy Ray - Are You Jimmy Ray? (Lisa Marie Experience Mix)'
+    - 'Wildchild - Renegade Master (Fatboy Slim New Skool Mix)'
+    - 'TBA - Never Give Up On'
+    - 'Laguna - Spiller From Rio (+ accapella of Fatima Rainey "Love is a Wonderful Thing")'
+    - 'Kinane - Business (K-Klass Club Mix)'
+    - "Sybil - Why? (Mark's Non-Stop Dub)"
 
 layout: audio
 tags:
   - mix
 ---
 
-It&#8217;s about time I gave you another old mix isn&#8217;t it?  
+It's about time I gave you another old mix isn't it?  
 My bandwidth may be taking a battering with my podcast show but I know that you all like the old mixes.
 
-Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Sleaze&#8221;. It&#8217;s named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
+Here is a CD mix I did back in the winter of 1997 called 'Post Modern Sleaze'. It's named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
 
 [1]: http://www.sneakerpimps.com/
 [2]: http://www.kingunique.com

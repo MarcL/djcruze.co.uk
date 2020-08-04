@@ -40,7 +40,7 @@ media:
     - 'Axer - 123 - Pryda Records'
     - 'The Modern - Industry (Bimbo Jones Dub) - Mercury'
     - 'Solu Music feat. Kimberlee - Fade (Grant Nelson Big Room Vocal Mix) - Hed Kandi'
-    - 'Shapeshifters - Incredible (Denis The Menace & Jerry Roperoâ€™s Full Vocal Mix) - Positiva'
+    - "Shapeshifters - Incredible (Denis The Menace & Jerry Ropero's Full Vocal Mix) - Positiva"
     - 'Joey Negro - Make A Move On Me - Z Records'
     - 'Cruze classic from 1991: '
     - 'The House Crew - Keep The Fire Burning - Production House'
@@ -50,7 +50,7 @@ tags:
   - podcast
 ---
 
-In the words of Disco Four (from their track &#8220;Get Busy&#8221;):
+In the words of Disco Four (from their track "Get Busy"):
 
 > The scratch. The bass. The congas in your face. The King of the beats gonna rock the place!
 
@@ -64,7 +64,7 @@ As always, here is the tracklisting for the show:
   - Axer - 123 - [Pryda Records][6]
   - The Modern - Industry (Bimbo Jones Dub) - Mercury
   - Solu Music feat. Kimberlee - Fade (Grant Nelson Big Room Vocal Mix) - [Hed Kandi][7]
-  - [Shapeshifters][8] - Incredible (Denis The Menace & Jerry Roperoâ€™s Full Vocal Mix) - [Positiva][9]
+  - [Shapeshifters][8] - Incredible (Denis The Menace & Jerry Ropero's Full Vocal Mix) - [Positiva][9]
   - [Joey Negro][10] - Make A Move On Me - [Z Records][11]
 - **Cruze classic from 1991:**
   - The House Crew - Keep The Fire Burning - Production House

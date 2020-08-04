@@ -34,7 +34,7 @@ tags:
   - podcast
 ---
 
-Now what we're going to do right here is go back&#8230;way back! Back to the mid-90s when ravers had long hair and the drugs were better!
+Now what we're going to do right here is go back...way back! Back to the mid-90s when ravers had long hair and the drugs were better!
 
 Podcast #5 is here featuring my good friend and old DJ'ing partner DJ Vuish. It features my first guest interview and an old school mix from the man himself. Hope you enjoy it.
 

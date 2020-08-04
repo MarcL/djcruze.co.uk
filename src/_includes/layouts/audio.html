@@ -126,13 +126,17 @@ layout: oneColumn
     showAudioButtons(isPlaying);
   };
 
+  {% if media.title %}
   const mediaTitle = '{{media.title}}';
+  {% else %}
+  const mediaTitle = null;
+  {% endif %}
   const mediaAuthor = '{{media.author}}';
   const mediaImage = '{{media.image}}';
   const options = {
     songs: [
       {
-        name: mediaTitle || '{{title}}',
+        name: mediaTitle || '{{title | escape}}',
         artist: mediaAuthor || 'DJ Cruze',
         url: '{{site.mediaFilesUrl}}{{media.content}}',
         cover_art_url: mediaImage || '/images/mixes/default-logo-600x600.jpg',

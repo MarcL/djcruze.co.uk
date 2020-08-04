@@ -35,7 +35,7 @@ tags:
 
 Another podcast so quickly after the last one? Yeah, I don't believe it either.
 
-Here's another slice of quality house tunes for your MP3 player from the DJ Cruze studios. There are some massive tracks on this week's show. I'm loving the cheeky bootleg remix of Eric Prydz &#8220;Pjanoo&#8221; done by one of my favourite Swedish producers [Patrick L][1]. Sinden and Herve go crazy with the drums and horns in their new guise as Machines Don't Care and their wicked track &#8220;Afrojacker&#8221;. Pump that one up loud. And what can I say about the Cruze Classic that is &#8220;Ultra Flava&#8221; by Farley and Heller? AWESOME! That's what!
+Here's another slice of quality house tunes for your MP3 player from the DJ Cruze studios. There are some massive tracks on this week's show. I'm loving the cheeky bootleg remix of Eric Prydz "Pjanoo" done by one of my favourite Swedish producers [Patrick L][1]. Sinden and Herve go crazy with the drums and horns in their new guise as Machines Don't Care and their wicked track "Afrojacker". Pump that one up loud. And what can I say about the Cruze Classic that is "Ultra Flava" by Farley and Heller? AWESOME! That's what!
 
 Enjoy the show and [get in touch][2] if you want a shout out. And don't forget to comment on the show below and tell me what you think.
 

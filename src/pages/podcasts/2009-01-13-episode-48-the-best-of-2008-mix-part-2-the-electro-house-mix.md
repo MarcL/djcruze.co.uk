@@ -34,7 +34,7 @@ tags:
   - podcast
 ---
 
-Here's part 2 of my &#8220;Best Of 2008 Mix&#8221; and it's 70 minutes of electro and progressive house goodness! There were plenty of great tougher house tracks in 2008 and hopefully I've chosen the best ones for you.
+Here's part 2 of my "Best Of 2008 Mix" and it's 70 minutes of electro and progressive house goodness! There were plenty of great tougher house tracks in 2008 and hopefully I've chosen the best ones for you.
 
 ### Best Of 2008 Mix - The Electro House Mix Tracklisting
 
@@ -44,11 +44,11 @@ Tiny Dancer is one of my favourite Elton John tracks and this electro house vers
 
 #### [00:05:39] Pryda - Rafunk - Pryda
 
-Ask most people who the hottest electro house producer of 2008 was and I'd guarantee that a high percentage would say Sweden's Eric Prydz. The Swedish House Mafia producer released so many high quality tracks in 2008, most on his Pryda label, and &#8220;Rafunk&#8221; is no exception. A chunky and funky bassline and some haunting strings make this a winner.
+Ask most people who the hottest electro house producer of 2008 was and I'd guarantee that a high percentage would say Sweden's Eric Prydz. The Swedish House Mafia producer released so many high quality tracks in 2008, most on his Pryda label, and "Rafunk" is no exception. A chunky and funky bassline and some haunting strings make this a winner.
 
 #### [00:10:22] Deadmau5 - Hi Friend (Original Mix) - Mau5trap
 
-Ask the people who didn't say Eric Prydz was the hottest electro house producer of 2008 who it was and they would probably have told you Deadmau5 instead. The hot Canadian producer blew up to be one of the most in-demand DJs and producers in 2008, producing loads of big tracks and remixes. The track &#8220;Hi Friend&#8221; features MC Flipside on vocals and takes hip-house into the 21st century with its dirty beats and bassline. A massive track!
+Ask the people who didn't say Eric Prydz was the hottest electro house producer of 2008 who it was and they would probably have told you Deadmau5 instead. The hot Canadian producer blew up to be one of the most in-demand DJs and producers in 2008, producing loads of big tracks and remixes. The track "Hi Friend" features MC Flipside on vocals and takes hip-house into the 21st century with its dirty beats and bassline. A massive track!
 
 #### [00:15:49] ATFC feat Yasmeen - Tell U Y (New Jack Swing Original) - Strictly
 
@@ -60,15 +60,15 @@ Another big French house producer blew up in 2008 and Sébastien Léger was his 
 
 #### [00:28:07] Passenger 10 - Mirage (EDX's 5un5hine Remix) - White
 
-Swiss producer EDX is another of 2008&#8242;s success stories and last year was the year he became a household name for his remixes and productions. His name appear on remixes for lots of bigger named artists and his productions had a similar feel to Deadmau5&#8242;s production style. Passenger 10&#8242;s &#8220;Mirage&#8221; rocked my floors with its building bassline and awesome strings.
+Swiss producer EDX is another of 2008's success stories and last year was the year he became a household name for his remixes and productions. His name appear on remixes for lots of bigger named artists and his productions had a similar feel to Deadmau5's production style. Passenger 10's "Mirage" rocked my floors with its building bassline and awesome strings.
 
 #### [00:34:35] Buy Now - Body Crash (Laidback Luke's Remix) - La Mode
 
-Dutch producer Laidback Luke had a fantastic year in 2008 and his remix of &#8220;Body Crash&#8221; by Buy Now (aka Steve Angello and Sebastian Ingrosso) was huge. Featuring a disco sample of [&#8220;Let's All Chant&#8221;][4] and a dark and moody bit-crushed bassline it featured in the charts of all of the A-list DJs.
+Dutch producer Laidback Luke had a fantastic year in 2008 and his remix of "Body Crash" by Buy Now (aka Steve Angello and Sebastian Ingrosso) was huge. Featuring a disco sample of ["Let's All Chant"][4] and a dark and moody bit-crushed bassline it featured in the charts of all of the A-list DJs.
 
 #### [00:40:18] Arno Cost & Norman Doray - Apocalypse (Sébastien Léger Remix) - CR2
 
-This is probably one of my favourite tracks of 2008. Young French house producers Arno Cost and Norman Doray gave us &#8220;Apocalypse&#8221; and Sébastien Léger turned it into an anthem! Awesome arpeggiated synths take us to a massive breakdown. A fantastic track.
+This is probably one of my favourite tracks of 2008. Young French house producers Arno Cost and Norman Doray gave us "Apocalypse" and Sébastien Léger turned it into an anthem! Awesome arpeggiated synths take us to a massive breakdown. A fantastic track.
 
 #### [00:48:11] Erick Morillo & DJ DLG - Where Are You Now (Original Mix) - Subliminal
 
@@ -80,9 +80,9 @@ Two of the biggest producers, Dirty South and Axwell, teamed up to bring us this
 
 #### [01:04:25] Sebastian Ingrosso & Laidback Luke - Chaa Chaa (EDX's Marakesh Souk Remix) - Size
 
-EDX gave us another great remix of Sebastian Ingrosso and Laidback Luke's &#8220;Chaa Chaa&#8221;. It ends my electro house mix with a quality progressive house track with EDX's trademark string sound. A great end to a year of quality electronic house music.
+EDX gave us another great remix of Sebastian Ingrosso and Laidback Luke's "Chaa Chaa". It ends my electro house mix with a quality progressive house track with EDX's trademark string sound. A great end to a year of quality electronic house music.
 
-So I hope you enjoyed the tougher &#8220;Best Of 2008&#8243; Electro House Mix as much as the [&#8220;Best Of 2008&#8243; house mix][7] too. Hopefully 2009 will bring us another year of top notch tracks and I look forward to compiling the &#8220;Best Of 2009&#8243; mix next year.
+So I hope you enjoyed the tougher "Best Of 2008" Electro House Mix as much as the ["Best Of 2008" house mix][7] too. Hopefully 2009 will bring us another year of top notch tracks and I look forward to compiling the "Best Of 2009" mix next year.
 
 Awesome picture of a [Moog Little Phatty][8] by [Synhack][9], used under Creative Commons licence.
 

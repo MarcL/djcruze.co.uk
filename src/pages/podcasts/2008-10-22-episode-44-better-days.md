@@ -35,9 +35,9 @@ tags:
 
 Episode #44 of the DJ Cruze Podcast has come a few days later than I promised. Sorry about that. I had a throat infection last week and sounded like a bad Barry White impersonator. I'm sure you'd have pulled your earphones out of your ears had you heard a podcast with that voice on it. So better late than never we've got episode #44 of the podcast with plenty of funky and chunky tunes for your listening pleasure!
 
-Kicking off the show we've got some electro house fun from Spencer and Hill followed by a great new track from Dave Spoon and Funkagenda. Plenty of synth basslines and some lovely piano and strings. Then we've got a great new remix of The Shapeshifter's classic &#8220;Lola's Theme&#8221;. They've taken it into the electro house realm with their 2008 re-edit but I still think it works well.
+Kicking off the show we've got some electro house fun from Spencer and Hill followed by a great new track from Dave Spoon and Funkagenda. Plenty of synth basslines and some lovely piano and strings. Then we've got a great new remix of The Shapeshifter's classic "Lola's Theme". They've taken it into the electro house realm with their 2008 re-edit but I still think it works well.
 
-We've also got a few remixes of old classics from Shakedown and Toni Di Bart, both of which still keep the original vibe but with 2008 production values. Lovely! Ending the show we've got a killer Cruze Classic from Jimi Polo with &#8220;Better Days&#8221;. It's a wicked remix by Sasha, back when he used to make piano tunes rather than his progressive sound of today. An awesome track which I have caned for years! Enjoy!
+We've also got a few remixes of old classics from Shakedown and Toni Di Bart, both of which still keep the original vibe but with 2008 production values. Lovely! Ending the show we've got a killer Cruze Classic from Jimi Polo with "Better Days". It's a wicked remix by Sasha, back when he used to make piano tunes rather than his progressive sound of today. An awesome track which I have caned for years! Enjoy!
 
 If you enjoy the show then [get in touch][2] and tell me what you think or want a shout out. Also, why not consider [donating some money][3] so that I can cover the costs of producing the show. With the amount of downloads I have, it's not cheap! And finally, don't forget to comment on the show below and tell me what you think.
 

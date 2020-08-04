@@ -34,12 +34,12 @@ tags:
   - podcast
 ---
 
-_&#8220;Manchester England, England. Across the Atlantic Sea&#8230;&#8221;_  
+_"Manchester England, England. Across the Atlantic Sea..."_  
 You'll understand when you listen to the podcast!
 
 DJ Cruze is back with more funky house music, more dirty electro, more shout outs and more cheeky bootlegs on Episode #15 of the DJ Cruze Podcast. Make your ears happy and download it now! Here you go:
 
-Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on&#8230; you know you want to vote!
+Don't forget to rate this podcast so I know what you like and don't like. Run your mouse over the stars underneath the title of this podcast and it allows you to rate it. If you like it then give me a big phat 10. If it's terrible then give it a 1. Go on... you know you want to vote!
 
 As always I love to hear your feed back on the show. [Contact me][4] using the form provided and I'll get back to you as soon as I can. I'm always looking for new tunes to play on the show so if you're an up and coming producer who's looking for some exposure then let me know and if I like the tunes, I'll play them.
 

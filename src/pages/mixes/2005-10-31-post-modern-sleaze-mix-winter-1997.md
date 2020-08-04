@@ -43,7 +43,7 @@ media:
     - 'Jimmy Ray - Are You Jimmy Ray? (Lisa Marie Experience Mix)'
     - 'Wildchild - Renegade Master (Fatboy Slim New Skool Mix)'
     - 'TBA - Never Give Up On'
-    - 'Laguna - Spiller From Rio (+ accapella of Fatima Rainey &#8220;Love is a Wonderful Thing&#8221;)'
+    - 'Laguna - Spiller From Rio (+ accapella of Fatima Rainey "Love is a Wonderful Thing")'
     - 'Kinane - Business (K-Klass Club Mix)'
     - "Sybil - Why? (Mark's Non-Stop Dub)"
 
@@ -55,7 +55,7 @@ tags:
 It's about time I gave you another old mix isn't it?  
 My bandwidth may be taking a battering with my podcast show but I know that you all like the old mixes.
 
-Here is a CD mix I did back in the winter of 1997 called &#8220;Post Modern Sleaze&#8221;. It's named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
+Here is a CD mix I did back in the winter of 1997 called 'Post Modern Sleaze'. It's named after the song of the same name by [The Sneaker Pimps][1]. As anyone who has heard me DJ will know, the [Matthew Roberts][2] (aka Phunk Force who now records as King Unique) mix is a classic that I often play. Enjoy the mix and let me know what you think.
 
 [1]: http://www.sneakerpimps.com/
 [2]: http://www.kingunique.com

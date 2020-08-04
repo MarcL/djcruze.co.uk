@@ -35,8 +35,8 @@ tags:
 
 So here I am on Christmas Eve and I'm full of a cold. Isn't it always the way? And the best way to get rid of a cold? Obviously it's a new DJ Cruze podcast!
 
-Here is episode #35 of the DJ Cruze podcast and because of my sneezing and sniffing I'm not doing the shoutouts and track names that I normally do. You don't really need an hour of a sniffly DJ do you? Instead I've given you 60 minutes of funky house tunes and dirty electro without my usual interruptions. As always with the the Christmas Podcast, I am kicking it off with a bootleg. This year I've decided to do a funky house version of Lou Rawls &#8220;Have Yourself A Very Merry Christmas&#8221;. It's funky. It's chunky. So enjoy it!
+Here is episode #35 of the DJ Cruze podcast and because of my sneezing and sniffing I'm not doing the shoutouts and track names that I normally do. You don't really need an hour of a sniffly DJ do you? Instead I've given you 60 minutes of funky house tunes and dirty electro without my usual interruptions. As always with the the Christmas Podcast, I am kicking it off with a bootleg. This year I've decided to do a funky house version of Lou Rawls "Have Yourself A Very Merry Christmas". It's funky. It's chunky. So enjoy it!
 
 Get the podcast downloaded here:
 
-Don't forget that I'll be doing the &#8220;Best of 2007&#8243; podcast before the end of the year and with all of the great tunes that we've had in 2007 it'll be a corker! So a big &#8220;MERRY CHRISTMAS&#8221; from DJ Cruze and here's to another year of the funkiest house tunes.
+Don't forget that I'll be doing the "Best of 2007" podcast before the end of the year and with all of the great tunes that we've had in 2007 it'll be a corker! So a big "MERRY CHRISTMAS" from DJ Cruze and here's to another year of the funkiest house tunes.

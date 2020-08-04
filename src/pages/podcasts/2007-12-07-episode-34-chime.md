@@ -34,7 +34,7 @@ tags:
   - podcast
 ---
 
-As always, it's been a while since the last DJ Cruze podcast but finally I've got a new one online and it's packed with the funkiest house music and chunkiest electro tunes. This week's Cruze classic is an absolute monster. Orbital's classic &#8220;Chime&#8221; needed to be aired as I haven't played it in ages but it's one of the original tunes that got me into house music from my hip-hop roots. A killer tune from the Hartnoll boys and one that still reminds me of the old rave days in Manchester.
+As always, it's been a while since the last DJ Cruze podcast but finally I've got a new one online and it's packed with the funkiest house music and chunkiest electro tunes. This week's Cruze classic is an absolute monster. Orbital's classic "Chime" needed to be aired as I haven't played it in ages but it's one of the original tunes that got me into house music from my hip-hop roots. A killer tune from the Hartnoll boys and one that still reminds me of the old rave days in Manchester.
 
 The audio quality is slightly different on this show as I've moved my studio around a bit and I've started using a new compressor. If you know how compressors are meant to sound then you might find this a bit harsher than the previous shows. I need to tweak some settings until I'm completely happy with it but it still sounds pretty good. Let me know if you think it sounds worse than before!
 

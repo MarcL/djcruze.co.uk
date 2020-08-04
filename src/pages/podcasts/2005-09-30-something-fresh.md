@@ -37,7 +37,7 @@ tags:
   - podcast
 ---
 
-You may remember a while ago that I talked about some ideas I had for the website to keep things fresh. Well finally I've managed to get things up and running in my studio and you'll find something quite exciting happening&#8230;
+You may remember a while ago that I talked about some ideas I had for the website to keep things fresh. Well finally I've managed to get things up and running in my studio and you'll find something quite exciting happening...
 
 **_What is it then?_**
 

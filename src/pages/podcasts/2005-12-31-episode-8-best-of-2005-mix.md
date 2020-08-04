@@ -18,7 +18,7 @@ media:
   tracklist:
     - "Lil' Love - Little Love (Soul Avengerz Mix) - Positiva"
     - 'Jenn Cunetta - Come Rain Come Shine (Stonebridge Mix) - White'
-    - 'Discrete feat. Belle Erskine - Love Me (12&#8243; Mix) - Tokyo Project'
+    - 'Discrete feat. Belle Erskine - Love Me (12" Mix) - Tokyo Project'
     - 'Sex On Monday - Bring Back The Love (Hold Me Down) (Soul Avengerz Mix) - Oxyd / Manifesto Records]'
     - "Supafly vs Fishbowl - Let's Get Down (Full Intention Club Mix) - Eye Industries"
     - 'Sleve and Lowman - So Fine - Freestyle Records'
@@ -35,7 +35,7 @@ tags:
   - podcast
 ---
 
-Here it is. The one you have been waiting for. Episode 8 of the DJ Cruze podcast otherwise known as &#8220;The Best of 2005 Mix&#8221;.  
+Here it is. The one you have been waiting for. Episode 8 of the DJ Cruze podcast otherwise known as "The Best of 2005 Mix".  
 I've got together my favourite tunes from 2005 and stuck them in a bite-sized downloadable MP3 for your listening pleasure. How good is that?
 
 It's a bit longer than normal and comes in at 73 minutes and 30 seconds. A nice fit for a CD if you want to listen to it in the car. Hopefully it won't break my bandwidth limits too much!

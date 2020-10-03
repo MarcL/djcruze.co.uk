@@ -93,19 +93,17 @@ layout: oneColumn
 
   <div class="fl w-100 w-50-ns ph0 ph3-l pt3 pt0-ns">
     {% if media.tracklist %}
-    <h3 class="f4 f3-ns mv0">Tracklist</h3>
+    <h3 class="f4 f3-ns fw4 ttu mv0">Tracklist</h3>
     <ol>
       {% for tracklist in media.tracklist %}
-      <li class="gray f5 pb3">{{tracklist}}</li>
+      <li class="gray f4 f3-ns pb3">{{tracklist}}</li>
       {% endfor %}
     </ol>
     {% endif %}
   </div>
 </div>
 
-<div class="pv2 f4 lh-copy">
-  {{content}}
-</div>
+<div class="pv2 f4 lh-copy">{{content}}</div>
 
 <script>
   let isPlaying = false;

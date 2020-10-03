@@ -1,6 +1,6 @@
 ---
 layout: oneColumn
-title: Homepage
+title: Manchester is in the house
 permalink: /
 headerImage: '/images/headers/djcruze-blue-door.jpg'
 ---

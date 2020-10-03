@@ -34,10 +34,10 @@
 
   {% comment %} Mobile menu {% endcomment %}
   <nav class="dn-ns w-100 center pt3 pb2 ph3">
-    <div class="cf">
-      <div class="fl w-50">
+    <div class="flex items-center">
+      <div class="w-50">
         <a
-          class="dt v-mid link grow w-100 w-25-l tc tl-l mb2 mb0-l"
+          class="link grow"
           href="/"
           title="Home"
         >
@@ -48,10 +48,11 @@
           />
         </a>
       </div>
-      <div class="dtc fr w-50 v-mid tr">
+      <div class="w-50 tr">
         <i class="fa fa-2x fa-bars near-black dn-l" aria-hidden="true" id="navigationButton"></i>
       </div>
     </div>
+
     <div class="dn v-mid w-100 w-75-l tc tr-l ttu" id="mobileNavigation">
       <ul class="list pl0 measure center near-black">
       {% for menuItem in mainMenu %} {% if page.url contains menuItem.url and

@@ -3,7 +3,7 @@ layout: homepage
 title: 'DJ Cruze'
 subtitle: 'Spinning funky house music since 1988'
 permalink: /
-headerImage: '/images/headers/djcruze-blue-door-small-gradient.jpg'
+headerImage: '/images/headers/djcruze-blue-door-small.jpg'
 ---
 
 ## LATEST LIVESTREAM

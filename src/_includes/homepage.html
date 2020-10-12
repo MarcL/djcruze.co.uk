@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<main
+  class="w-90 w-80-l center bg-white mt2 mb5 pv2 ph1 ph3-ns flex flex-wrap items-center justify-center"
+>
+  <div class="w-100 w-40-ns">
+    <h2 class="f2 f1-ns lh-title fw8 mt3 mb1 near-black ttu tc">{{title}}</h2>
+    <h3 class="f3 f2-ns lh-title fw7 mt2 near-black ttu tc">{{subtitle}}</h3>
+    <div class="tc">
+      <a
+        class="f3 link grow br2 ph4 pv3 mb4 mb2-ns dib white bg-near-black shadow-4 ttu tc"
+        href="/about"
+        >ABOUT ME</a
+      >
+    </div>
+  </div>
+  <div class="w-100 w-60-ns">
+    {% if headerImage %}
+    <div class="w-100">
+      <img
+        src="{{headerImage}}"
+        title="{{title}}"
+        alt="{{title}}"
+        class="shadow-4 br3"
+      />
+    </div>
+    {% endif %}
+  </div>
+
+  <div class="w-100">
+    <div class="f4 lh-copy pt4">{{content}}</div>
+  </div>
+</main>

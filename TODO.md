@@ -12,3 +12,4 @@
 - Mixes RSS feed
 - Enable Facebook pixel
 - Open Graph tags
+- Two column pages

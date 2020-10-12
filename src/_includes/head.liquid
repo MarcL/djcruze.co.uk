@@ -1,4 +1,5 @@
 <head>
+    {% include partials/googleAnalytics %}
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
@@ -6,6 +7,8 @@
     <meta name="description" content="{{site.description}}" />
     <meta name="author" content="{{site.author}}" />
 
+    {% include partials/favicons %}
+    
     <link
         rel="stylesheet"
         href="https://unpkg.com/tachyons@4.12.0/css/tachyons.min.css"

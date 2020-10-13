@@ -4,8 +4,9 @@ layout: default
 
 <main class="w-90 w-60-l center bg-white mv2 pv2 ph1 ph3-ns">
   <h2 class="f3 f1-ns lh-title fw8 mt3 mb1 near-black ttu">{{title}}</h2>
-
-  {% if headerImage %}
+  {% if showDate %}
+  <h3 class="f5 f4-ns mt2 mb1 gray ttu">{{page.date | pageDate}}</h3>
+  {% endif %} {% if headerImage %}
   <div class="w-100">
     <img
       src="{{headerImage}}"
@@ -14,8 +15,6 @@ layout: default
       class="shadow-4 br2"
     />
   </div>
-  {% endif %} {% if showDate %}
-  <h3 class="f5 f4-ns mt2 mb1 gray ttu">{{page.date | pageDate}}</h3>
   {% endif %}
 
   <div class="f3 fw4 lh-copy">{{content}}</div>

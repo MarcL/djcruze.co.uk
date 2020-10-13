@@ -49,7 +49,4 @@ media:
     - 'Luvdup - Goodtimes - (U.F.G.)'
     - '?? - ?? - (??)'
     - '?? - ?? - (??)'
-
-tags:
-  - mix
 ---

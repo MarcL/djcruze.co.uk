@@ -50,8 +50,6 @@ media:
     - '[01:09:20] Gus Gus - David (Darren Emerson Underwater Remix) - Underwater Records'
 
 layout: audio
-tags:
-  - podcast
 ---
 
 I'm back again with some more funky and chunky house music for your listening pleasure. A bit later than I expected (come on, you know me well enough by now!) but we'll eventually get back to the regular monthly podcast schedule!

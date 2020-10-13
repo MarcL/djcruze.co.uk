@@ -43,6 +43,4 @@ media:
     - 'Marly - You Never Know (Morjac Remix)'
 
 layout: audio
-tags:
-  - mix
 ---

@@ -47,8 +47,6 @@ media:
     - '[01:02:20] Joe T Vanelli vs Coldplay - Life In Technicolour (Vox Mix Funkfinders Edit) - CDR'
 
 layout: audio
-tags:
-  - mix
 ---
 
 It's been a while since I've done a new mix so I thought I'd make a sequel to last year's progressive and electro house mix [Ibiza Sunset][2]. Many of you commented and emailed to say that you enjoyed the mix a lot and everyone seemed to like the tougher tunes in the mix. I didn't manage to make it over to Ibiza this year but the mix is another hour of dark and pumping house tunes to get you in the mood for going out if you're heading out there.

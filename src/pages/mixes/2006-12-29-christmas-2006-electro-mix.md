@@ -37,8 +37,6 @@ media:
     - "Scissor Sisters - I Don't Feel Like Dancin' (Paper Faces Mix) - Polydor"
 
 layout: audio
-tags:
-  - mix
 ---
 
 Time for the second DJ Cruze Christmas mini-mix and what better way to work off all of the extra Christmas food that you've eaten than with a dirty electro mix. This mix starts off with the dirty electro [Speaker Junk][1] remix of [Basement Jaxx][2]'s "Take Me Back To Your House". It sound like one of the dubbier mixes that the Jaxx boys used to do of their own tunes and it sounds awesome in a club.

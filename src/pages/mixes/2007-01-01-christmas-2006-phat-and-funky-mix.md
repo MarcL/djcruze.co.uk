@@ -37,8 +37,6 @@ media:
     - 'Tyken - Every Word (Triple Dee Rebuild) - Hed Kandi'
 
 layout: audio
-tags:
-  - mix
 ---
 
 To finish off this series of Christmas mini-mixes I decided to mix a few of my favourite funky tunes from the past few months. Kicking off the mix we have a funky little number from [the Jaxx][1] called "Hush Boy". The [Soul Seekerz ][2]have transformed it from a downbeat tune into a funky house number which rocked many of my funky floors last year. We then move onto a mysterious reggae house tune called "Why?" by Lucky 7. I still haven't found out who did this tune but I'm guessing it's one of the big house producers of the moment and they couldn't clear the samples! It's a funky little number in the same vein as [Olav Basoski][3]'s "Waterman" and it rocks!

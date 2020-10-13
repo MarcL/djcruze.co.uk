@@ -48,8 +48,6 @@ media:
     - "Sybil - Why? (Mark's Non-Stop Dub)"
 
 layout: audio
-tags:
-  - mix
 ---
 
 It's about time I gave you another old mix isn't it?  

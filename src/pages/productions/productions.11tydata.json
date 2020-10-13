@@ -1,3 +1,4 @@
 {
-  "showDate": true
+  "showDate": true,
+  "tags": ["production"]
 }

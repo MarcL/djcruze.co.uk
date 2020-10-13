@@ -44,8 +44,6 @@ media:
     - '[01:02:39] David Amo & Julio Navas - La Sagrada Familia (Original Mix) - Lowered Recordings'
 
 layout: audio
-tags:
-  - mix
 ---
 
 It's been an awfully long time since I put a new mix onto my site so I managed to grab a couple of hours the other night and thought I'd do a new mix ready for my trip to Ibiza on Saturday. I'm off on a stag/bachelor weekend with some of the guys from Manchester and because the stag, Will, is a big fan of progressive house I thought I'd do a deep, dark and progressive mix for us to play while we're out there. Obviously I thought you guys might like it too so here it is! I must warn you that it's not my normal style and it gets a bit dark and twisted! It runs a fine line between electro, progressive and tech house but it'll definitely get you in the mood for going out!

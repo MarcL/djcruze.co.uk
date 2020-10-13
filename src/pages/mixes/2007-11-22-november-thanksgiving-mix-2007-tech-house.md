@@ -42,8 +42,6 @@ media:
     - "[01:00:27] - H2 - Somethin' Sik - JFunk"
 
 layout: audio
-tags:
-  - mix
 ---
 
 Ok I'm the first to admit that I'm a bit crap at updating the website. I whipped up a mix for you at the end of October and it has taken me until mid November to find the time to upload it to my webserver. Too many things for Mr. Cruze to do and not enough time to do them in! So without further ado I give you the "Tech House" mix for November 2007.

@@ -3,7 +3,12 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
+    {% if page.url == '/' %}
     <title>{{title}}</title>
+    {% else %}
+    <title>{{title}} | {{site.description}}</title>
+    {% endif %}
+
     <meta name="description" content="{{site.description}}" />
     <meta name="author" content="{{site.author}}" />
 

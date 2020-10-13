@@ -1,5 +1,6 @@
 [
   { "name": "Home", "url": "/", "title": "djcruze.co.uk" },
+  { "name": "News", "url": "/news", "title": "Latest news" },
   { "name": "Mixes", "url": "/mixes", "title": "Latest mixes" },
   { "name": "Podcasts", "url": "/podcasts", "title": "Latest podcasts" },
   {

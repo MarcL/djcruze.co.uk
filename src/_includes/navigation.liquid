@@ -11,18 +11,18 @@
         alt="DJ Cruze logo"
       />
     </a>
-    <div class="db dtc-l v-mid w-100 w-75-l tc tr-l ttu">
+    <div class="db dtc-l v-mid w-100 w-75-l tc tr-l ttu pt3-m">
       {% for menuItem in mainMenu %} {% if page.url contains menuItem.url and
       menuItem.url != "/" or page.url == "/" and menuItem.url == "/" %}
       <a
-        class="link dim near-black f5 f4-l fw8 dib mr3 mr4-l bb bw1 pb1"
+        class="link dim near-black f5 f4-ns fw8 dib mr3 mr4-l bb bw1 pb1"
         href="{{menuItem.url}}"
         title="{{menuItem.title}}"
         >{{menuItem.name}}</a
       >
       {% else %}
       <a
-        class="link dim near-black f5 f4-l fw8 dib mr3 mr4-l"
+        class="link dim near-black f5 f4-ns fw8 dib mr3 mr4-l"
         href="{{menuItem.url}}"
         title="{{menuItem.title}}"
         >{{menuItem.name}}</a
@@ -34,10 +34,10 @@
 
   {% comment %} Mobile menu {% endcomment %}
   <nav class="dn-ns w-100 center pt3 pb2 ph3">
-    <div class="cf">
-      <div class="fl w-50">
+    <div class="flex items-center">
+      <div class="w-50">
         <a
-          class="dt v-mid link grow w-100 w-25-l tc tl-l mb2 mb0-l"
+          class="link grow"
           href="/"
           title="Home"
         >
@@ -48,17 +48,18 @@
           />
         </a>
       </div>
-      <div class="dtc fr w-50 v-mid tr">
+      <div class="w-50 tr">
         <i class="fa fa-2x fa-bars near-black dn-l" aria-hidden="true" id="navigationButton"></i>
       </div>
     </div>
+
     <div class="dn v-mid w-100 w-75-l tc tr-l ttu" id="mobileNavigation">
       <ul class="list pl0 measure center near-black">
       {% for menuItem in mainMenu %} {% if page.url contains menuItem.url and
       menuItem.url != "/" or page.url == "/" and menuItem.url == "/" %}
         <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--black-10">
           <a
-          class="link dim white f5 f4-l dib mr3 mr4-l bg-near-black ph2"
+          class="link dim white f4 fw7 dib mr3 mr4-l bg-near-black ph2"
           href="{{menuItem.url}}"
           title="{{menuItem.title}}"
           >{{menuItem.name}}</a>
@@ -66,7 +67,7 @@
         {% else %}
         <li class="lh-copy pv2 ba bl-0 bt-0 br-0 b--black-10">
           <a
-          class="link dim near-black f5 f4-l dib mr3 mr4-l"
+          class="link dim near-black f4 fw7 dib mr3 mr4-l"
           href="{{menuItem.url}}"
           title="{{menuItem.title}}"
           >{{menuItem.name}}</a>

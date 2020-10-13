@@ -16,10 +16,10 @@ sitemap:
       <uri>{{site.url}}</uri>
     </author>
     <atom:link href="{{ "/feed.xml" | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ collections.post | collectionLastUpdatedDate }}</pubDate>
-    <lastBuildDate>{{ collections.post | collectionLastUpdatedDate }}</lastBuildDate>
+    <pubDate>{{ collections.news | collectionLastUpdatedDate }}</pubDate>
+    <lastBuildDate>{{ collections.news | collectionLastUpdatedDate }}</lastBuildDate>
     <generator>Eleventy</generator>
-    {%- for post in collections.post reversed -%}
+    {%- for post in collections.news reversed -%}
       <item>
         <title>{{ post.data.title | xmlEscape }}</title>
 

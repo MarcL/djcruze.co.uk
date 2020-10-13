@@ -2,7 +2,7 @@
 <div class="w-100 pa2">
     <div class="flex flex-wrap items-center justify-center">
     {%- for item in collection reversed -%}
-    <div class="w-50 w-25-l pa2">
+    <div class="w-100 w-50-m w-25-l pa2">
         <a href="{{item.url}}" class="link dim">
             {%- if item.data.media.image -%}
                 <img src="{{item.data.media.image}}" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-100 black-10 shadow-4"/>

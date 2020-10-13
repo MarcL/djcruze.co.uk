@@ -7,6 +7,7 @@
 - Fix up audio page for larger screens
 - Link to news page
 - Contact page
+- Default mix image
 
 ## Nice to have
 

@@ -6,6 +6,7 @@
 - Livestream video
 - Fix up audio page for larger screens
 - Link to news page
+- Contact page
 
 ## Nice to have
 

@@ -8,6 +8,7 @@
     "name": "Marc Littlemore",
     "email": "info@djcruze.co.uk"
   },
+  "feedPath": "/podcasts/feed.xml",
   "episode": {
     "description": "The latest episode of the DJ Cruze podcast features new and old funky and chunky house music."
   },
@@ -17,6 +18,6 @@
     "google": "TODO",
     "overcast": "https://overcast.fm/itunes89935810",
     "pocketCasts": "https://pca.st/itunes/89935810",
-    "rss": "{{site.url}}/podcasts/feed.xml"
+    "rss": "/podcasts/feed.xml"
   }
 }

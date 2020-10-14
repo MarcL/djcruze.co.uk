@@ -23,6 +23,7 @@ sitemap:
       <itunes:email>{{podcast.owner.email}}</itunes:email>
     </itunes:owner>
     <itunes:category text="{{podcast.category}}" />
+    <itunes:new-feed-url>{{site.url}}{{podcast.feedPath}}</itunes:new-feed-url>
     
     {%- for podcastEpisode in collections.podcast reversed -%}
       <item>

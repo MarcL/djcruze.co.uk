@@ -37,8 +37,6 @@ media:
     - 'Tyken - Every Word (Dave Spoon Remix) - Hed Kandi'
 
 layout: audio
-tags:
-  - mix
 ---
 
 So for the 5th mini mix of Christmas we have something deep, dark and dubby. Imagine it's 4am in a club and you've had way too much of your favourite substance (mine is beer but yours might be something else!) What do you need? Some deep and dirty grooves to chill you out a bit of course!

@@ -13,8 +13,6 @@ media:
   content: '/productions/Empire%20Of%20The%20Sun%20-%20Walking%20On%20A%20Dream%20(Funkfinders%20Discoid%20Remix).mp3'
 
 layout: audio
-tags:
-  - production
 ---
 
 Every now and again I come across a song which really moves me. So I was trawling through the music news on the internet last month and I came across an awesome new tune by Empire Of The Sun called "Walking On A Dream". It's a collaboration between Nick Littlemore (no relation to me!) from the awesome Australian band Pnau and Luke Steele from another great Australian band The Sleepy Jackson. It had a cool 80s vibe about it and I just couldn't get the chorus out of my head. As I had been listening to a lot of French filtered house tracks and remixes I started thinking what a great house track it would make if it was looped up and played around with. So I started doing it.

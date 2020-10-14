@@ -36,8 +36,6 @@ media:
     - 'Cafe Groove - Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) - Hit! Records'
 
 layout: audio
-tags:
-  - mix
 ---
 
 I love piano house. It's that simple. I first got into it in the early 90s when house music moved from the synthesizer based acid house and early techno that people were producing into the Italian "Italo-house" that unsurprisingly came out of Italy! There were hundreds of great tunes that came out and they helped to move the house sound on from bleepy techno to a more soulful sound. A play a lot of funky piano house in my sets so I thought I'd try and play some of the great piano tunes that have come out in 2006.

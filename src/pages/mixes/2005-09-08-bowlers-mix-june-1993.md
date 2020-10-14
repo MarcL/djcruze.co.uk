@@ -49,6 +49,4 @@ media:
     - 'D.O.P. - Here I Go'
 
 layout: audio
-tags:
-  - mix
 ---

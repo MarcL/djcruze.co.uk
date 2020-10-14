@@ -48,8 +48,6 @@ media:
     - 'Geyster - Under The Fuse Of Love (Lifelike Remix) - Shell Records UK'
 
 layout: audio
-tags:
-  - mix
 ---
 
 So as promised on podcast #19, here is an electro mix for you. I actually managed to do the mix before I got married but didn't have time to upload it! I thought I'd do something a bit different for you this time and do a twisted electro-house mix. I've picked up a few dirty tracks, remixes and dubs that I thought went well together so here you go. It's not my normal style of music as I normally play the funkier side of house music. Some of the tunes I am playing now are heading in this direction though so I'm sure you'll love it.

@@ -40,8 +40,6 @@ media:
     - '??? - ???'
 
 layout: audio
-tags:
-  - mix
 ---
 
 As promised last week here is the b side of an old mix I did way back in 1994. You'll find plenty of old tunes here and lots of cutting and scratch. I've tried to master the MP3 as best I could but it's still a bit crackly with some heavy (i.e. distored!) bass in parts.

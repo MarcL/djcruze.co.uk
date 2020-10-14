@@ -4,7 +4,6 @@ permalink: '/new-website-2020/'
 headerImage: '/images/headers/dj-cruze-headphones-red.jpg'
 excerpt: 'After 10 years, the DJ Cruze website finally gets a makeover.'
 layout: oneColumn
-tags: news
 ---
 
 Wow! At long last, the DJ Cruze website is back online and has had an update to bring it into 2020.

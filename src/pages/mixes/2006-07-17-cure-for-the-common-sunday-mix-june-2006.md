@@ -57,8 +57,6 @@ media:
     - 'The Similou - All This Love (The Young Punx Club Mix) - Direction'
 
 layout: audio
-tags:
-  - mix
 ---
 
 As I mentioned a few weeks ago, I did a live mix for my main man DJ Dyslexic for his Cure For The Common Sunday radio show on XTC Radio. It has appeared on his RSS feed for his show so I thought I'd point you to the link. Be warned that it's a rather large download so make sure you're not on a dial-up connection!

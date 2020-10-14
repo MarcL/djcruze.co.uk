@@ -35,8 +35,6 @@ media:
     - 'Soul Seekerz - Party For The Weekend (Vocal Mix) - Positiva Records'
 
 layout: audio
-tags:
-  - mix
 ---
 
 The first mix in my Christmas mini-mix series brings you a warm up mix. It's 10pm. You haven't left the house yet but you want some tunes to get you in the mood. What do you do? Turn on your PC (or your CD player if you've ripped this mix) and turn up the funky warm up mix!

@@ -13,9 +13,6 @@ media:
   author: 'Nelly Furtado'
   image: '/images/productions/nelly-furtado-maneater-dj-cruze-remix.jpg'
   content: '/productions/Nelly Furtado - Man Eater (DJ Cruze Funkfinders Remix).mp3'
-
-tags:
-  - production
 ---
 
 I've had so much good feedback about this tune that I'm going to just have to let it loose to the public. It's finally finished and mastered and, even though I do say so myself, it is sounding awesome! I played this mix out at the Loft Club in Germany at the weekend and it went down really well. People keep asking for it so you can download a nice 192 kbps by clicking on the link above.

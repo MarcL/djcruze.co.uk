@@ -11,8 +11,6 @@ categories:
 media:
   image: '/images/productions/nat-king-cole-the-christmas-song.jpg'
   content: '/productions/Nat%20King%20Cole%20-%20Merry%20Christmas%20(DJ%20Cruze%20Funkfinders%20Mix).mp3'
-tags:
-  - production
 ---
 
 As it is almost Christmas I thought I'd better give you an early Christmas present and post a link to last year's Christmas bootleg. In case you have forgotten, I did a quick and cheeky cut-up version of Nat King Cole's fabulous "The Christmas Song" on last year's [Christmas podcast](/podcasts/episode-7-merry-christmas/) and it seemed to be enjoyed by a lot of you. It is one of my favourite yuletide songs and it reminds me of being young and getting all excited in the run up to Christmas.

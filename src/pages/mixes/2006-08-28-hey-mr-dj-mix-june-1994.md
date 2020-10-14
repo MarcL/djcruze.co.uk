@@ -40,8 +40,6 @@ media:
     - 'Nush - U Girls (Shake It Club Mix) - Blunted'
 
 layout: audio
-tags:
-  - mix
 ---
 
 So here's an MP3 rip of an old mix that I did way back in 1994. I'd just got a new mixer and I was testing it out so expect plenty of scratching! Enjoy!

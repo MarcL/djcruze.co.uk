@@ -99,6 +99,8 @@
 
 # Productions
 /cms/2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/ /productions/nelly-furtado-man-eater-dj-cruze-funkfinders-remix/ 301
+/cms/2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/ /productions/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/ 301
+/cms/2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/ /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/ 301
 
 # Change all other urls from old CMS route
-/cms/:url /:url/ 301
+/cms/* /:splat/ 301

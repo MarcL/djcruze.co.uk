@@ -31,8 +31,6 @@ media:
     - '[01:03:30] C-Mos - 2 Million Ways (Axwell Remix)'
 
 layout: audio
-tags:
-  - podcast
 ---
 
 So... it's been a while hasn't it? Life sometimes gets in the way of letting you do the things you want to.  

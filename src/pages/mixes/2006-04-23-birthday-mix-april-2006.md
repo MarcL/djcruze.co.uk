@@ -43,8 +43,6 @@ media:
     - 'DJ Cruze presents The Funkfinders - Cease! - White'
 
 layout: audio
-tags:
-  - mix
 ---
 
 Today I'm celebrating my 34th birthday (yes, I'm really that old!) Well, strictly speaking I did a lot of celebrating last night and hence I have a rather sore head today. If you're ever in the Manchester area then check out a great little cocktail bar called [Socio Rehab][1] in Manchester's Northern Quarter. It's an awesome, dark and dingy little bar that does fantastic cocktails. Plenty of fun was had by everyone and our wallets are a lot emptier for their London-style drinks prices!

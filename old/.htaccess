@@ -1,0 +1,53 @@
+# BEGIN All In One WP Security
+#AIOWPS_BASIC_HTACCESS_RULES_START
+<files .htaccess>
+order allow,deny
+deny from all
+</files>
+ServerSignature Off
+LimitRequestBody 10240000
+<files wp-config.php>
+order allow,deny
+deny from all
+</files>
+#AIOWPS_BASIC_HTACCESS_RULES_END
+#AIOWPS_PINGBACK_HTACCESS_RULES_START
+<IfModule mod_alias.c>
+RedirectMatch 403 /(.*)/xmlrpc\.php$
+</IfModule>
+#AIOWPS_PINGBACK_HTACCESS_RULES_END
+#AIOWPS_IP_BLACKLIST_START
+Order allow,deny
+Allow from all
+Deny from 108.35.9.0/24
+Deny from 146.0.73.0/24
+Deny from 146.0.74.0/24
+Deny from 146.0.79.0/24
+Deny from 175.126.82.0/24
+Deny from 207.38.191.139
+Deny from 213.238.175.0/24
+Deny from 5.39.218.0/24
+#AIOWPS_IP_BLACKLIST_END
+# END All In One WP Security
+
+# Get podcast feed from FeedBurner now
+RewriteCond %{HTTP_USER_AGENT} !FeedBurner
+RewriteRule ^podcasts/feed/(atom|rss2)/?$ http://feeds.feedburner.com/DJCruzePodcast [R,L]
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /cms/
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /cms/index.php [L]
+</IfModule>
+
+# END WordPress
+
+# FeedBurner should get the proper podcast xml feed (I hope!)
+RewriteCond %{HTTP_USER_AGENT} FeedBurner
+RewriteRule ^podcasts/feed/(atom|rss2)/?$ /cms/index.php?feed=$1&category_name=podcasts [QSA,L]
+
+# Podcast rewrite rules
+RewriteRule ^podcasts/?$ /cms/index.php?category_name=podcasts [QSA,L]

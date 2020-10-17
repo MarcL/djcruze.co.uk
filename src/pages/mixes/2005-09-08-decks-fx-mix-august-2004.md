@@ -1,5 +1,6 @@
 ---
-title: 'Decks & FX Mix (August 2004)'
+title: 'Decks & FX Mix 2004'
+subtitle: 'August 2004'
 
 #permalink: /2005/09/08/decks-fx-mix-august-2004/
 permalink: /mixes/decks-fx-mix-august-2004/

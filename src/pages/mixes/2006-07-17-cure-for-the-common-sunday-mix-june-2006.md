@@ -1,5 +1,6 @@
 ---
-title: Cure For The Common Sunday Mix June 2006
+title: 'Cure For The Common Sunday Mix'
+subtitle: 'June 2006'
 
 #permalink: /2006/07/17/cure-for-the-common-sunday-mix-june-2006/
 permalink: /mixes/cure-for-the-common-sunday-mix-june-2006/

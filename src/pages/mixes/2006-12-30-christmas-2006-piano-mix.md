@@ -1,5 +1,6 @@
 ---
-title: 'Christmas 2006: Piano mix'
+title: 'Piano mix 2006'
+subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/30/christmas-2006-piano-mix/
 permalink: /mixes/christmas-2006-piano-mix/

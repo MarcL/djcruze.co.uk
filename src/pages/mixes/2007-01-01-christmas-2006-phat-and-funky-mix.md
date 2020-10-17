@@ -1,5 +1,6 @@
 ---
-title: 'Christmas 2006: Phat and funky mix'
+title: 'Phat and funky mix 2006'
+subtitle: 'Christmas 2006'
 
 #permalink: /2007/01/01/christmas-2006-phat-and-funky-mix/
 permalink: /mixes/christmas-2006-phat-and-funky-mix/

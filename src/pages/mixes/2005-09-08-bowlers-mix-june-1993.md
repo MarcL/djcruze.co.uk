@@ -1,5 +1,6 @@
 ---
-title: Bowlers Mix (June 1993)
+title: 'Bowlers Mix 1993'
+subtitle: 'June 1993'
 
 #permalink: /2005/09/08/bowlers-mix-june-1993/
 permalink: /mixes/bowlers-mix-june-1993/

@@ -1,5 +1,6 @@
 ---
-title: 'August 2009 Mix - Ibiza Sunset 2009'
+title: 'Ibiza Sunset 2009'
+subtitle: 'August 2009 Mix'
 
 #permalink: /2009/08/25/august-2009-mix-ibiza-sunset-2009/
 permalink: /mixes/august-2009-mix-ibiza-sunset-2009/

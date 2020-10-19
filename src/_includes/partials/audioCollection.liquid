@@ -6,11 +6,13 @@
 
 <div class="w-100">
 <h2 class="mv0 ttu">Latest</h2>
+<div class="w-10 bb bw3 pt2 pb1 mt0 mb3"></div>
 {%- include partials/audioCollectionItem, item: first -%}
 </div>
 
 <div class="w-100">
-<h2 class="mv0 ttu">Earlier {{title}}</h2>
+<h2 class="mv0 ttu">Earlier</h2>
+<div class="w-10 bb bw3 pt2 pb1 mt0 mb3"></div>
 </div>
 
 {%- for item in latestFirstCollection offset:1 -%}

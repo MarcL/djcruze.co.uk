@@ -1,5 +1,7 @@
 ---
-title: 'Empire Of The Sun - Walking On A Dream (Funkfinders Discoid Remix)'
+title: 'Empire Of The Sun - Walking On A Dream'
+subtitle: 'DJ Cruze Funkfinders Discoid Remix'
+
 # permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 'itunes:category':

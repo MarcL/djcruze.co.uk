@@ -21,7 +21,5 @@ layout: default
       class="shadow-4 br2"
     />
   </div>
-  {% endif %}
-
-  <div class="f3 fw4 lh-copy">{{content}}</div>
+  {% endif %} {% include partials/content.liquid, content: content %}
 </main>

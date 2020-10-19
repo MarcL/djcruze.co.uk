@@ -14,7 +14,7 @@ permalink: /news/
             <img class="br1 shadow-4 overflow-hidden" src="{{post.data.headerImage}}" title="{{post.data.title}}">
         </a>
     </div>
-    <div class="w-100 w-60-ns pl4">
+    <div class="w-100 w-60-ns pa0 pl3-m pl4-l">
         <a class="f4 f3-ns fw7 ttu link near-black underline-hover" href="{{post.url}}">{{post.data.title}}</a>
         <div class="f4 f4-ns grey lh-copy">{{post.data.excerpt}}</div>
     </div>

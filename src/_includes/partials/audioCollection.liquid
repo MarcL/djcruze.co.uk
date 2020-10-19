@@ -1,9 +1,23 @@
 <div class="w-100 pa0">
 <div class="flex flex-wrap items-start justify-center pt4">
-{%- for item in collection reversed -%}
+
+{% assign latestFirstCollection = collection | reverse %}
+{% assign first = latestFirstCollection | first %}
+
+<div class="w-100">
+<h2 class="mv0 ttu">Latest</h2>
+{%- include partials/audioCollectionItem, item: first -%}
+</div>
+
+<div class="w-100">
+<h2 class="mv0 ttu">Earlier {{title}}</h2>
+</div>
+
+{%- for item in latestFirstCollection offset:1 -%}
 
 {%- include partials/audioCollectionItem, item: item -%}
 
 {%- endfor -%}
+
 </div>
 </div>

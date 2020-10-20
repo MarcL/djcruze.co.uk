@@ -1,22 +1,32 @@
-<div class="pt2 pb4 ph0 ph1-ns flex flex-wrap justify-center items-center">
+{% if theme == 'light' -%}
+    {%- assign titleColour = 'silver' -%}
+    {%- assign itemColour = 'near-black' -%}
+    {%- assign copyColour = 'near-black' -%}
+{%- else -%}
+    {%- assign titleColour = 'light-silver' -%}
+    {%- assign itemColour = 'near-white' -%}
+    {%- assign copyColour = 'near-white' -%}
+{%- endif -%}
+
+<div class="pv2 pv4-ns ph2 ph0-ns flex flex-wrap justify-center items-center">
     <div class="w-100 w-40-ns">
         <a href="{{item.url}}" class="link dim" title="{{item.data.title}}" alt="{{latestTitle}}">
             {%- if item.data.media.image -%}
-                <img src="{{item.data.media.image}}" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-100 black-10 shadow-4 br1"/>
+                <img class="w-100 shadow-4 br1" src="{{item.data.media.image}}" alt="{{item.data.title}}" title="{{item.data.title}}" />
             {%- else -%}
-                <img src="/images/mixes/default-logo-600x600.jpg" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-100 black-10 shadow-4 br1"/>
+                <img class="w-100 shadow-4 br1" src="/images/mixes/default-logo-600x600.jpg" alt="{{item.data.title}}" title="{{item.data.title}}" />
             {%- endif -%}
         </a>
     </div>
     <div class="w-100 w-60-ns ph0 ph2-ns">
         {%- if latestTitle -%}
-        <h3 class="f4 f3-l fw7 tc ttu near-black pv0 mt2 mt0-ns mb2 silver">{{latestTitle}}</h3>
+        <h3 class="f4 f3-l fw7 tc ttu pv0 mt2 mt0-ns mb2 {{titleColour}}">{{latestTitle}}</h3>
         {%- endif -%}
-        <a href="{{item.url}}" class="link dim" title="{{item.data.title}}" alt="{{latestTitle}}">
-            <h3 class="f3 f1-l fw7 tc ttu near-black pv0 mt2 mt0-ns mb0">{{item.data.title}}</h3>
+        <a href="{{item.url}}" class="link underline-hover {{itemColour}}" title="{{item.data.title}}" alt="{{latestTitle}}">
+            <h3 class="f3 f1-l fw7 tc ttu pv0 mt2 mt0-ns mb0 {{itemColour}}">{{item.data.title}}</h3>
         </a>
         {%- if item.data.excerpt -%}
-        <div class="f4 f3-ns pv1 ph2 lh-copy tc">
+        <div class="f4 f3-ns pv1 ph2 lh-copy tc {{copyColour}}">
             {{item.data.excerpt}}
         </div>
         {%- endif -%}

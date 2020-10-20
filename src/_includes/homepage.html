@@ -3,10 +3,10 @@ layout: default
 ---
 
 <main
-  class="w-100 w-80-ns center bg-white mt2 mb5 pv2 ph2 ph3-ns flex flex-wrap items-center justify-center"
+  class="w-100 w-80-l center bg-white mv2 pv2 ph2 ph3-ns flex flex-wrap items-center justify-center"
 >
   <div
-    class="w-100 br2 shadow-4 pv4"
+    class="w-100 br2 shadow-4 pv5 mv0"
     style="background-image: url({{headerImage}}); background-size: cover; background-position: center center;"
   >
     <div class="w-100 w-50-ns">
@@ -23,20 +23,20 @@ layout: default
       </div>
     </div>
   </div>
+</main>
 
-  <div class="w-100">
+<div class="w-100 mv0 bg-near-white">
+  <div class="w-100 w-80-ns center mt3 mv0 pv0">
     {% assign podcastsReversed = collections.podcast %} {% assign latestPodcast
     = podcastsReversed | first %} {% include partials/latest.liquid, item:
-    latestPodcast, latestTitle: "Latest Podcast" %}
+    latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
   </div>
+</div>
 
-  <div class="w-100">
+<div class="w-100 mv0 pv0 bg-dark-gray">
+  <div class="w-100 w-80-ns center mv0 pv0">
     {% assign mixesReversed = collections.mix %} {% assign latestMix =
     mixesReversed | first %} {% include partials/latest.liquid, item: latestMix,
     latestTitle: "Latest Mix" %}
   </div>
-
-  <div class="w-100">
-    {% include partials/content.liquid, content: content %}
-  </div>
-</main>
+</div>

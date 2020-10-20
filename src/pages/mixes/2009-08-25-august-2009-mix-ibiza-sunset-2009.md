@@ -1,6 +1,7 @@
 ---
 title: 'Ibiza Sunset 2009'
 subtitle: 'August 2009 Mix'
+excerpt: "A deep, dark, and moody progressive house and electro mix which takes you deep into the 3 am sounds of Ibiza's rocking nightlife."
 
 #permalink: /2009/08/25/august-2009-mix-ibiza-sunset-2009/
 permalink: /mixes/august-2009-mix-ibiza-sunset-2009/

@@ -25,18 +25,18 @@ layout: default
   </div>
 </main>
 
-<div class="w-100 mv0 bg-near-white">
-  <div class="w-100 w-80-ns center mt3 mv0 pv0">
-    {% assign podcastsReversed = collections.podcast %} {% assign latestPodcast
-    = podcastsReversed | first %} {% include partials/latest.liquid, item:
-    latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
-  </div>
-</div>
+{%- capture podcastContent -%}
+  {% assign podcastsReversed = collections.podcast %}
+  {% assign latestPodcast = podcastsReversed | first %}
+  {% include partials/latest.liquid, item: latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
+{%- endcapture -%}
 
-<div class="w-100 mv0 pv0 bg-dark-gray">
-  <div class="w-100 w-80-ns center mv0 pv0">
-    {% assign mixesReversed = collections.mix %} {% assign latestMix =
-    mixesReversed | first %} {% include partials/latest.liquid, item: latestMix,
-    latestTitle: "Latest Mix" %}
-  </div>
-</div>
+{%- include section, sectionContent: podcastContent, theme: 'light' -%}
+
+{%- capture mixesContent -%}
+  {% assign mixesReversed = collections.mix %}
+  {% assign latestMix = mixesReversed | first %}
+  {% include partials/latest.liquid, item: latestMix, latestTitle: "Latest Mix" %}
+{%- endcapture -%}
+
+{%- include section, sectionContent: mixesContent, theme: 'dark' -%}

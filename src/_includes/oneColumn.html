@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main class="mw8 center bg-white mv2 pv2 ph1 ph3-ns">
+<main class="w-100 w-80-l center bg-white mv2 pv2 ph1 ph3-ns">
   <div id="pageTitle" class="mb3">
     <h2 class="f2 f1-ns lh-title fw8 ma0 near-black ttu">{{title}}</h2>
     {% if subtitle %}
@@ -21,5 +21,12 @@ layout: default
       class="shadow-4 br2"
     />
   </div>
-  {% endif %} {% include partials/content.liquid, content: content %}
+  {% endif %}  
 </main>
+
+{%- capture sectionContent -%}
+  {% include partials/content.liquid, content: content %}
+{%- endcapture -%}
+
+{%- include section, sectionContent: sectionContent, theme: 'light' -%}
+

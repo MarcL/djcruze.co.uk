@@ -1,0 +1,12 @@
+{% if theme == 'light' -%}
+    {%- assign backgroundColour = 'bg-near-white' -%}
+{%- else -%}
+    {%- assign backgroundColour = 'bg-dark-gray' -%}
+{%- endif -%}
+
+
+<div class="w-100 mv0 {{backgroundColour}}">
+  <div class="w-100 w-80-ns center mt3 mv0 pv0">
+    {{sectionContent}}
+  </div>
+</div>

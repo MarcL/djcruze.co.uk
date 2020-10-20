@@ -25,14 +25,13 @@ layout: default
   </div>
 
   <div class="w-100">
-    {% assign podcastsReversed = collections.podcast | reverse %} {% assign
-    latestPodcast = podcastsReversed | first %} {% include
-    partials/latest.liquid, item: latestPodcast, latestTitle: "Latest Podcast"
-    %}
+    {% assign podcastsReversed = collections.podcast %} {% assign latestPodcast
+    = podcastsReversed | first %} {% include partials/latest.liquid, item:
+    latestPodcast, latestTitle: "Latest Podcast" %}
   </div>
 
   <div class="w-100">
-    {% assign mixesReversed = collections.mix | reverse %} {% assign latestMix =
+    {% assign mixesReversed = collections.mix %} {% assign latestMix =
     mixesReversed | first %} {% include partials/latest.liquid, item: latestMix,
     latestTitle: "Latest Mix" %}
   </div>

@@ -1,25 +1,19 @@
-<div class="w-100 pa0">
-<div class="flex flex-wrap items-start justify-center pt4">
-
 {% assign latestFirstCollection = collection | reverse %}
 {% assign first = latestFirstCollection | first %}
 
-<div class="w-100">
-<h2 class="mv0 ttu">Latest</h2>
-<div class="w-10 bb bw3 pt2 pb1 mt0 mb3"></div>
-{%- include partials/audioCollectionItem, item: first -%}
-</div>
+{%- capture sectionContent -%}
+  {% assign collectionReversed = collection | reverse %}
+  {% assign latestInCollection = collectionReversed | first %}
+  {% include partials/latest.liquid, item: latestInCollection, latestTitle: "Latest", theme: 'light' %}
+{%- endcapture -%}
 
-<div class="w-100">
-<h2 class="mv0 ttu">Earlier</h2>
-<div class="w-10 bb bw3 pt2 pb1 mt0 mb3"></div>
-</div>
+{%- include section, sectionContent: sectionContent, theme: 'light' -%}
 
-{%- for item in latestFirstCollection offset:1 -%}
 
-{%- include partials/audioCollectionItem, item: item -%}
+{%- capture earlierContent -%}
+  {%- for item in latestFirstCollection offset:1 -%}
+    {%- include partials/audioCollectionItem, item: item -%}
+  {%- endfor -%}
+{%- endcapture -%}
 
-{%- endfor -%}
-
-</div>
-</div>
+{%- include section, sectionContent: earlierContent, theme: 'light' -%}

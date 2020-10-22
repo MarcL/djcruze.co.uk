@@ -2,6 +2,7 @@
 layout: oneColumn
 ---
 
+{%- capture sectionContent -%}
 <div class="w-100 cf">
   <div class="fl w-100 w-50-ns" id="audio-player">
     <div class="shadow-4">
@@ -16,7 +17,7 @@ layout: oneColumn
           id="song-played-progress"
         ></progress>
       </div>
-      <div class="cf bg-near-white mid-gray" id="player-controls">
+      <div class="cf bg-white mid-gray" id="player-controls">
         <div class="fl w-50 tc pv4 br bw1 b--moon-gray">
           <i
             class="fa fa-3x fa-play-circle grow-large dib navy"
@@ -96,7 +97,7 @@ layout: oneColumn
     <h3 class="f3 fw6 ttu mv0 tc">Tracklist</h3>
     <ol>
       {% for tracklist in media.tracklist %}
-      <li class="f3 pb3 gray">{{tracklist}}</li>
+      <li class="f3 pb3 dark-gray">{{tracklist}}</li>
       {% endfor %}
     </ol>
     {% endif %}
@@ -104,6 +105,9 @@ layout: oneColumn
 </div>
 
 {% include partials/content.liquid content: content %}
+{%- endcapture -%}
+
+{%- include section, sectionContent: sectionContent, theme: 'light' -%}
 
 <script>
   let isPlaying = false;

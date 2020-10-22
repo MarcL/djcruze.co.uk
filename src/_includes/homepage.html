@@ -26,7 +26,7 @@ layout: default
 </main>
 
 {%- capture podcastContent -%}
-  {% assign podcastsReversed = collections.podcast %}
+  {% assign podcastsReversed = collections.podcast | reverse %}
   {% assign latestPodcast = podcastsReversed | first %}
   {% include partials/latest.liquid, item: latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
 {%- endcapture -%}
@@ -34,7 +34,7 @@ layout: default
 {%- include section, sectionContent: podcastContent, theme: 'light' -%}
 
 {%- capture mixesContent -%}
-  {% assign mixesReversed = collections.mix %}
+  {% assign mixesReversed = collections.mix | reverse %}
   {% assign latestMix = mixesReversed | first %}
   {% include partials/latest.liquid, item: latestMix, latestTitle: "Latest Mix" %}
 {%- endcapture -%}

@@ -1,6 +1,7 @@
 ---
 title: 'Empire Of The Sun - Walking On A Dream'
 subtitle: 'DJ Cruze Funkfinders Discoid Remix'
+excerpt: 'DJ Cruze remix of the Empire Of The Sun classic indie track'
 
 # permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/

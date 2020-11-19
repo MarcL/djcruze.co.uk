@@ -1,5 +1,6 @@
 ---
-title: 'November Thanksgiving Mix 2007 - Tech House'
+title: 'Thanksgiving Mix 2007'
+subtitle: 'November 2007 Mix - Tech House'
 
 #permalink: /2007/11/22/november-thanksgiving-mix-2007-tech-house/
 permalink: /mixes/november-thanksgiving-mix-2007-tech-house/

@@ -1,5 +1,6 @@
 ---
-title: 'July 2008 Mix - Ibiza Sunset'
+title: 'Ibiza Sunset 2008'
+subtitle: 'July 2008 Mix'
 
 #permalink: /2008/07/23/july-2008-mix-ibiza-sunset/
 permalink: /mixes/july-2008-mix-ibiza-sunset/

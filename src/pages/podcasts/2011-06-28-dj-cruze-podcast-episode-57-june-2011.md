@@ -1,5 +1,6 @@
 ---
 title: 'Episode #57 - June 2011'
+excerpt: 'Chunky and funky house music from 2011.'
 
 #permalink: /2011/06/28/dj-cruze-podcast-episode-57-june-2011/
 permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/
@@ -41,7 +42,7 @@ Another hour of funky and chunky house and electro house music of course!
 
 The first part of the show starts with some French sounding house from James Talk and Ridney's remix of Roy Davis Jnr's "Enjoy The Ride". It's very influenced by Alan Braxe and Fred Falke's "Intro" from a few years ago (just listen to the bassline!) but it's still a hot track. I then take it a bit deep and dubby with some cut up disco and tech house from the world's hottest producers like Tim Deluxe, X-Press 2, Marco Lys and Pirupa. There are some awesome tracks around at the moment and they're all in the mix here.
 
-The second part of the show gets dirty with some tougher jacking house grooves from John DahlbÃ¤ck and Axwell. Chunky drums and big synths are the order of the day here. The Cruze classic this month comes from Axwell again with his remix of "2 Million Ways" by C-Mos. Whilst only from 2006, it's not a really old classic but it still worked wonders for me every time I played it. A massive disco-led bassline combined with big strings and a big breakdown makes it a Cruze classic in my books.
+The second part of the show gets dirty with some tougher jacking house grooves from John Dahlbäck and Axwell. Chunky drums and big synths are the order of the day here. The Cruze classic this month comes from Axwell again with his remix of "2 Million Ways" by C-Mos. Whilst only from 2006, it's not a really old classic but it still worked wonders for me every time I played it. A massive disco-led bassline combined with big strings and a big breakdown makes it a Cruze classic in my books.
 
 In the next week or so you should see an update to the website as it's been long overdue. I'm going to take it into 2011 with something a bit more accessible and something less like the original blog template that I created back in 2005! I also want your opinions on where I should go with the show. Do you like the radio show style that I currently do? Or do the voice-overs and shout-outs get on your nerves and you'd just prefer a straight up DJ mix? Please get in touch via the [contact form](/contact) or [follow me on Twitter](https://twitter.com/djcruze) to tell me what you want.
 

@@ -1,6 +1,6 @@
 ---
-title: Tasty Acid Mix (September 1993)
-
+title: 'Tasty Acid Mix 1993'
+subtitle: 'September 1993'
 #permalink: /2005/09/08/tasty-acid-mix-september-1993/
 permalink: /mixes/tasty-acid-mix-september-1993/
 enclosure:

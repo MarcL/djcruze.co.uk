@@ -1,5 +1,6 @@
 ---
-title: 'Hey Mr DJ Mix (Side B) - June 1994'
+title: 'Hey Mr DJ Mix (Side B)'
+subtitle: 'June 1994'
 
 # permalink: /2006/11/15/hey-mr-dj-mix-side-b-june-1994/
 permalink: /mixes/hey-mr-dj-mix-side-b-june-1994/

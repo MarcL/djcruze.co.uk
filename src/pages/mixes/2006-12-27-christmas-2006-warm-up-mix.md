@@ -1,5 +1,6 @@
 ---
-title: 'Christmas 2006: Warm Up Mix'
+title: 'Warm Up Mix 2006'
+subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/27/christmas-2006-warm-up-mix/
 permalink: /mixes/christmas-2006-warm-up-mix/

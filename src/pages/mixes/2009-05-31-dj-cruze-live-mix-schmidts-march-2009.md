@@ -1,5 +1,7 @@
 ---
-title: "DJ Cruze Live Mix - Schmidt's - March 2009"
+title: "Live @ Schmidt's 2009"
+subtitle: 'March 2009 Live Mix'
+
 # permalink: /2009/05/31/dj-cruze-live-mix-schmidts-march-2009/
 permalink: /mixes/dj-cruze-live-mix-schmidts-march-2009/
 'itunes:category':

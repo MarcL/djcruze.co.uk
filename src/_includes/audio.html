@@ -2,6 +2,7 @@
 layout: oneColumn
 ---
 
+{%- capture sectionContent -%}
 <div class="w-100 cf">
   <div class="fl w-100 w-50-ns" id="audio-player">
     <div class="shadow-4">
@@ -16,8 +17,8 @@ layout: oneColumn
           id="song-played-progress"
         ></progress>
       </div>
-      <div class="cf bg-near-white mid-gray" id="player-controls">
-        <div class="fl w-50 tc pv4 br bw1 b--moon-gray">
+      <div class="cf bg-white mid-gray" id="player-controls">
+        <div class="fl w-50 tc pv4 br bw1 b--near-white">
           <i
             class="fa fa-3x fa-play-circle grow-large dib navy"
             aria-hidden="true"
@@ -36,19 +37,19 @@ layout: oneColumn
             ></i
           ></a>
         </div>
-        <div class="fl w-60 tl pl3 pv4 bt bw1 b--moon-gray">
+        <div class="fl w-100 tc pv1 bt bw1 b--near-white mid-gray">
+          <span class="amplitude-current-time"></span> /
+          <span class="amplitude-duration-time"></span>
+        </div>
+        <div class="fl w-100 tc pl3 pv2">
           <div class="mid-gray">
             <div data-amplitude-song-info="name" class="song-name fw6"></div>
             <div data-amplitude-song-info="artist"></div>
           </div>
         </div>
-        <div class="fl w-40 tr pr3 pv4 bt bw1 b--moon-gray mid-gray">
-          <span class="amplitude-current-time"></span> /
-          <span class="amplitude-duration-time"></span>
-        </div>
 
         {% if tags contains "podcast" %}
-        <div class="fl w-100 tc pt2 pb4 bt bw1 b--moon-gray mid-gray">
+        <div class="fl w-100 tc pt1 pb4 bt bw1 b--near-white mid-gray">
           <h3 class="ttu">Subscribe</h3>
           <a
             href="{{podcast.links.iTunes}}"
@@ -91,19 +92,22 @@ layout: oneColumn
     </div>
   </div>
 
-  <div class="fl w-100 w-50-ns ph0 ph3-l pt3 pt0-ns">
+  <div class="fl w-100 w-50-ns ph2 ph3-l pt4 pt0-ns">
     {% if media.tracklist %}
-    <h3 class="f4 f3-ns fw4 ttu mv0">Tracklist</h3>
+    <h3 class="f3 fw6 ttu mv0 tc">Tracklist</h3>
     <ol>
       {% for tracklist in media.tracklist %}
-      <li class="gray f4 f3-ns pb3">{{tracklist}}</li>
+      <li class="f3 pb3 dark-gray">{{tracklist}}</li>
       {% endfor %}
     </ol>
     {% endif %}
   </div>
 </div>
 
-<div class="pv2 pv4-ns f4 lh-copy">{{content}}</div>
+{% include partials/content.liquid content: content %}
+{%- endcapture -%}
+
+{%- include section, sectionContent: sectionContent, theme: 'light' -%}
 
 <script>
   let isPlaying = false;
@@ -160,7 +164,6 @@ layout: oneColumn
 
   // TODO: Add touch handler?
   playPauseButton.addEventListener('click', function (event) {
-    console.log('Clicked play/pause button');
     if (!isPlaying) {
       Amplitude.play();
       isPlaying = true;

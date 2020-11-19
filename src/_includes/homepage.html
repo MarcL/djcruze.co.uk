@@ -3,10 +3,10 @@ layout: default
 ---
 
 <main
-  class="mw8 center bg-white mt2 mb5 pv2 ph1 ph3-ns flex flex-wrap items-center justify-center"
+  class="w-100 w-80-l center bg-white mv2 pv2 ph2 ph3-ns flex flex-wrap items-center justify-center"
 >
   <div
-    class="w-100 br2 shadow-4 pv4"
+    class="w-100 br2 shadow-4 pv5 mv0"
     style="background-image: url({{headerImage}}); background-size: cover; background-position: center center;"
   >
     <div class="w-100 w-50-ns">
@@ -16,15 +16,27 @@ layout: default
       <h3 class="f3 f2-ns lh-title fw7 mt2 washed-blue ttu tc">{{subtitle}}</h3>
       <div class="tc">
         <a
-          class="f3 link grow br2 ph4 pv3 mb4 mb2-ns dib white bg-navy shadow-4 ttu tc"
+          class="f3 f2-l link grow br2 ph4 pv3 mb4 mb2-ns dib white bg-navy shadow-4 ttu tc"
           href="/about"
           >WHO IS DJ CRUZE?</a
         >
       </div>
     </div>
   </div>
-
-  <div class="w-100">
-    <div class="f4 lh-copy pt4">{{content}}</div>
-  </div>
 </main>
+
+{%- capture podcastContent -%}
+  {% assign podcastsReversed = collections.podcast | reverse %}
+  {% assign latestPodcast = podcastsReversed | first %}
+  {% include partials/latest.liquid, item: latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
+{%- endcapture -%}
+
+{%- include section, sectionContent: podcastContent, theme: 'light' -%}
+
+{%- capture mixesContent -%}
+  {% assign mixesReversed = collections.mix | reverse %}
+  {% assign latestMix = mixesReversed | first %}
+  {% include partials/latest.liquid, item: latestMix, latestTitle: "Latest Mix" %}
+{%- endcapture -%}
+
+{%- include section, sectionContent: mixesContent, theme: 'dark' -%}

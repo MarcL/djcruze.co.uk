@@ -1,5 +1,6 @@
 ---
-title: 'Christmas 2006: Dark and dubby mix'
+title: 'Dark and dubby mix 2006'
+subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/31/christmas-2006-dark-and-dubby-mix/
 permalink: /mixes/christmas-2006-dark-and-dubby-mix/

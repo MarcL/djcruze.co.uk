@@ -10,8 +10,10 @@ votio:
 # Media details
 ###################################
 media:
-  title: 'The Best of 2008 Mix Part 1'
+  episode: 47
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
   image: '/images/podcasts/podcast47.jpg'
+  title: 'The Best of 2008 Mix Part 1'
   content: '/podcasts/Cruze_Podcast047_010109.mp3'
   length: '01:15:23'
   duration: '4523'

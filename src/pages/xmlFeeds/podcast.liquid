@@ -5,7 +5,7 @@ sitemap:
   exclude: yes
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>{{podcast.title | xmlEscape}}</title>
     <link>{{site.url}}</link>
@@ -45,7 +45,7 @@ sitemap:
         {% if podcastEpisode.data.media.description %}
           <description>{{ podcastEpisode.data.media.description | xmlEscape }}</description>
         {% else %}
-          <description>{{ podcast.episode.description | xmlEscape }}</description>
+          <description>{{ podcast.episode.defaultDescription | xmlEscape }}</description>
         {% endif %}
         
         <enclosure
@@ -55,7 +55,7 @@ sitemap:
         />
 
         {% comment %} iTunes specific tags {% endcomment %}
-        {% include partials/iTunesTags, episode: podcastEpisode, collection: collections.podcast %}
+        {% include partials/iTunesTags, episode: podcastEpisode %}
         
       </item>
     {%- endfor -%}

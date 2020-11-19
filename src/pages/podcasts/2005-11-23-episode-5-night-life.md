@@ -10,7 +10,9 @@ votio:
 # Media details
 ###################################
 media:
-  image: '/images/podcasts/default-logo-600x600.jpg'
+  episode: 5
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
+  image: '/images/podcasts/dj-cruze-podcast-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast005_191105.mp3'
   length: '00:56:47'
   duration: '3407'

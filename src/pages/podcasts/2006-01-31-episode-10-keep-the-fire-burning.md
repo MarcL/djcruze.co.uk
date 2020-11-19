@@ -28,7 +28,9 @@ categories:
 # Media details
 ###################################
 media:
-  image: '/images/podcasts/default-logo-600x600.jpg'
+  episode: 10
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
+  image: '/images/podcasts/dj-cruze-podcast-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast010_290106.mp3'
   length: '00:50:03'
   duration: '3003'

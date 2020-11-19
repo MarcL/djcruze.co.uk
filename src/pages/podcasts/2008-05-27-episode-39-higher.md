@@ -18,6 +18,7 @@ categories:
 ###################################
 media:
   episode: 39
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
   image: '/images/podcasts/podcast39.jpg'
   content: '/podcasts/Cruze_Podcast039_270508.mp3'
   length: '01:08:02'

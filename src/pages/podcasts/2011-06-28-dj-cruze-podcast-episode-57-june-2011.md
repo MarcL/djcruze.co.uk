@@ -10,6 +10,7 @@ permalink: /podcasts/dj-cruze-podcast-episode-57-june-2011/
 ###################################
 media:
   episode: 57
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
   image: '/images/podcasts/dj-cruze-podcast-episode-57-june-2011.jpg'
   content: '/podcasts/dj-cruze-podcast-episode-57-june-2011.mp3'
   length: '01:10:30'

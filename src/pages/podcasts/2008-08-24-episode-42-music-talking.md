@@ -11,6 +11,7 @@ votio:
 ###################################
 media:
   episode: 42
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
   image: '/images/podcasts/podcast42.jpg'
   content: '/podcasts/Cruze_Podcast042_240808.mp3'
   length: '00:59:43'

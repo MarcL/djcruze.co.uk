@@ -4,8 +4,12 @@
     <itunes:episodeType>full</itunes:episodeType>
 {% endif %}
 
+{% if episode.data.media.podcastImage %}
+    <itunes:image href="{{episode.data.media.podcastImage | prepend: site.url}}" />
+{% else %}
 {% if episode.data.media.image %}
     <itunes:image href="{{episode.data.media.image | prepend: site.url}}" />
+{% endif %}
 {% endif %}
 
 {% if episode.data.media.episode %}

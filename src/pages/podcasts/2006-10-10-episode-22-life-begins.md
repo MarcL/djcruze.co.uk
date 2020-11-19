@@ -11,7 +11,8 @@ votio:
 ###################################
 media:
   episode: 22
-  image: '/images/podcasts/default-logo-600x600.jpg'
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
+  image: '/images/podcasts/dj-cruze-podcast-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast022_101006.mp3'
   length: '01:00:00'
   duration: '3600'

@@ -11,8 +11,9 @@ votio:
 ###################################
 media:
   episode: 1
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
   title: 'Something Fresh'
-  image: '/images/podcasts/default-logo-600x600.jpg'
+  image: '/images/podcasts/dj-cruze-podcast-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast001_250905.mp3'
   length: '00:48:43'
   duration: '2923'

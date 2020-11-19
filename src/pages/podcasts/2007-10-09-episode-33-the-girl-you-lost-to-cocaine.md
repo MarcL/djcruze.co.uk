@@ -11,7 +11,8 @@ votio:
 ###################################
 media:
   episode: 33
-  image: '/images/podcasts/default-logo-600x600.jpg'
+  podcastImage: '/images/podcasts/dj-cruze-podcast-logo-1400x1400.jpg'
+  image: '/images/podcasts/dj-cruze-podcast-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast033_031007.mp3'
   length: '01:06:44'
   duration: '4004'

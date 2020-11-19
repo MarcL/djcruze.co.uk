@@ -9,6 +9,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 55
   image: '/images/podcasts/podcast55.jpg'
   content: '/podcasts/DJCruze_Podcast055_170610.mp3'
   length: '01:17:00'

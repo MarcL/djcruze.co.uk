@@ -10,6 +10,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 38
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast038_170307.mp3'
   length: '01:02:43'

@@ -26,6 +26,7 @@ categories:
 # Media details
 ###################################
 media:
+  episode: 49
   image: '/images/podcasts/podcast49.jpg'
   content: '/podcasts/Cruze_Podcast049_120209.mp3'
   length: '00:59:42'

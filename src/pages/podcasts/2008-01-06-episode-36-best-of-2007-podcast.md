@@ -17,6 +17,7 @@ categories:
 # Media details
 ###################################
 media:
+  episode: 36
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast036_040108.mp3'
   length: '01:14:39'

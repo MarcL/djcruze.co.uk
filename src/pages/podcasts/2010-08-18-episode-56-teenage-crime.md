@@ -26,6 +26,7 @@ categories:
 # Media details
 ###################################
 media:
+  episode: 56
   image: '/images/podcasts/podcast56.jpg'
   content: '/podcasts/DJCruze_Podcast056_180810.mp3'
   length: '01:17:24'

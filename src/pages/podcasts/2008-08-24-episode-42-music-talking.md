@@ -10,6 +10,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 42
   image: '/images/podcasts/podcast42.jpg'
   content: '/podcasts/Cruze_Podcast042_240808.mp3'
   length: '00:59:43'

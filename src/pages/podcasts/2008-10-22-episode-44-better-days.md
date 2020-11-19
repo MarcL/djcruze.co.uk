@@ -10,6 +10,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 44
   image: '/images/podcasts/podcast44.jpg'
   content: '/podcasts/Cruze_Podcast044_221008.mp3'
   length: '01:01:16'

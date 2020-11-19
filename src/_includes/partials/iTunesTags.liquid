@@ -10,8 +10,6 @@
 
 {% if episode.data.media.episode %}
     <itunes:episode>{{episode.data.media.episode}}</itunes:episode>
-{% else %}
-    <itunes:episode>{{collection.length | plus:1 | minus:forloop.index}}</itunes:episode>
 {% endif %}
 
 {% if episode.data.media.season %}

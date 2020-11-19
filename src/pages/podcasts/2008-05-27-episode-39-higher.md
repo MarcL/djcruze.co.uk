@@ -17,6 +17,7 @@ categories:
 # Media details
 ###################################
 media:
+  episode: 39
   image: '/images/podcasts/podcast39.jpg'
   content: '/podcasts/Cruze_Podcast039_270508.mp3'
   length: '01:08:02'

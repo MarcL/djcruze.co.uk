@@ -10,6 +10,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 20
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast020_110806.mp3'
   length: '01:07:04'

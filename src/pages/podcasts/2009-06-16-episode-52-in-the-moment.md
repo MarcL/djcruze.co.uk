@@ -10,6 +10,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 52
   image: '/images/podcasts/podcast52.jpg'
   content: '/podcasts/Cruze_Podcast052_160609.mp3'
   length: '00:59:39'

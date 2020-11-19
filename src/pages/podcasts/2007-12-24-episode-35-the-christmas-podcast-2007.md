@@ -10,6 +10,7 @@ votio:
 # Media details
 ###################################
 media:
+  episode: 35
   image: '/images/podcasts/default-logo-600x600.jpg'
   content: '/podcasts/Cruze_Podcast035_241207.mp3'
   length: '00:59:04'

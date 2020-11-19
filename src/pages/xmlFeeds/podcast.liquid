@@ -45,7 +45,7 @@ sitemap:
         {% if podcastEpisode.data.media.description %}
           <description>{{ podcastEpisode.data.media.description | xmlEscape }}</description>
         {% else %}
-          <description>{{ podcast.episode.description | xmlEscape }}</description>
+          <description>{{ podcast.episode.defaultDescription | xmlEscape }}</description>
         {% endif %}
         
         <enclosure
@@ -55,7 +55,7 @@ sitemap:
         />
 
         {% comment %} iTunes specific tags {% endcomment %}
-        {% include partials/iTunesTags, episode: podcastEpisode, collection: collections.podcast %}
+        {% include partials/iTunesTags, episode: podcastEpisode %}
         
       </item>
     {%- endfor -%}

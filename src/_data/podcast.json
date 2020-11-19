@@ -10,7 +10,7 @@
   },
   "feedPath": "/podcasts/feed.xml",
   "episode": {
-    "description": "The latest episode of the DJ Cruze podcast features new and old funky and chunky house music."
+    "defaultDescription": "The latest episode of the DJ Cruze podcast features new and old funky and chunky house music."
   },
   "links": {
     "iTunes": "https://podcasts.apple.com/us/podcast/podcasts-dj-cruze/id89935810?mt=2&app=podcast",

@@ -6,5 +6,6 @@ permalink: /contact/
 headerImage: '/images/headers/contact-loft-club.jpg'
 ---
 
-Sorry, I've not created the contact form yet.
-It'll be coming soon.
+Sorry, I've not created the contact form yet. It'll be coming soon.
+
+For now just email me at [info@djcruze.co.uk](mailto:info@djcruze.co.uk)

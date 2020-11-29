@@ -1,23 +1,5 @@
 # DJ Cruze Website
 
-## Good example sites
+Update for my DJ website using [Eleventy](https://11ty.dev)
 
-- https://mozo.vamtam.com/
-- https://mixtape.qodeinteractive.com/ - https://preview.themeforest.net/item/mixtape-a-fresh-music-theme-for-artists-bands-and-festivals/full_screen_preview/19984384
-
-## Fonts
-
-- https://fonts.google.com/specimen/Poppins
-
-## TODO
-
-- Thumbnails
-- Favicons
-- Bundle JS
-- OpenGraph images
-- Podcast feed
-
-## Podcasts
-
-- Add a per-podcast description for RSS feed
-- Calculate podcast lengths
+https://djcruze.co.uk

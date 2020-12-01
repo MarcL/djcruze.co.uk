@@ -190,3 +190,25 @@ Ludwigshafen
 I’ll be back in my favourite club in Germany. I know you guys are ready to party so I’ll see you there. I’ll be helped along the way by Mr. Alex Harmony and hopefully we will make your legs fall off with all of the tunes that we’ll be playing!
 
 See you there…
+
+# From the web archives
+
+https://web.archive.org/web/20050315000115/http://www.djcruze.co.uk/
+
+## January 8th 2005
+
+All I can say is "danke schÃ¶n" to everyone who came to the Loft Club on Saturday night. The party was excellent as always and there were so many cool people there! I thought that it may be empty because it was straight after "Silvester" but you guys all turned up. I hope you all enjoyed it. I did but I've managed to lose my copy of Outrage "Tall and Handsome"! Too many jaegermeisters! I think it will turn up somewhere in my box...hopefully!
+
+Check the photos here - thanks Kosta!)
+
+Big thanks to Kai (with his cool new bar - thanks for the food!), Alex Harmony, Nico (check his record label "Amused 8-bit" for some funky house tunes), Beth (Karlsruhe posse I), Thorsten, Kosta, DJane Simone, Andre, Cyps, Cathy & Swen (Karlsruhe posse II), Stefan & Nicole (thanks for the sekt and the other present!) and all the other funky people that were there. Looking forward to seeing you all in Karlsruhe on 18th February.
+
+Ok, so now my promise to you all. I will DEFINITELY get my old mixes online this year. I have them all from the past few years and I know you all want them. I'll try and put a new one on each month and see how that goes. I'll get the first one done this week if I can. Shout at me if I don't!
+
+## 18th February 2005, Madame Pompadour in Karlsruhe
+
+Hey guys! Thanks to all of the people who turned up to the gig at Madame Pompadour on 18th February. It was a great night. The club was pretty cool but they need to do something about the sound system. It wasn't easy to mix when all you can hear is bass. Hopefully we'll do some more parties there and they will sort it out.
+
+## Loft Club, 9th April 2005
+
+Loft Club for 9th April. It should be rocking as always. Alex Harmony and I will be in the studio before that so we should have something good to play for you. That's if we finish it hey Alex!!

@@ -104,3 +104,4 @@
 
 # Change all other urls from old CMS route
 /cms/* /:splat/ 301
+/cms /index.html 301

@@ -104,8 +104,8 @@
 
 # Change all other urls from old CMS route
 
-# This route has to before before the splat one
-# otherwise it matches the wildcard and we end up with // as the final path
+# This default route has to come before the splat one otherwise
+# it matches the wildcard and we end up with // as the final path
 # Netlify seems to not like this
 /cms / 301
 /cms/* /:splat/ 301

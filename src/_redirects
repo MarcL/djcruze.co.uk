@@ -103,4 +103,4 @@
 /cms/2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/ /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/ 301
 
 # Change all other urls from old CMS route
-/cms/* /:splat/ 301
+/cms* /:splat/ 301

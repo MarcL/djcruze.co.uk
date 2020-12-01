@@ -212,3 +212,5 @@ Hey guys! Thanks to all of the people who turned up to the gig at Madame Pompado
 ## Loft Club, 9th April 2005
 
 Loft Club for 9th April. It should be rocking as always. Alex Harmony and I will be in the studio before that so we should have something good to play for you. That's if we finish it hey Alex!!
+
+DJane Simone too

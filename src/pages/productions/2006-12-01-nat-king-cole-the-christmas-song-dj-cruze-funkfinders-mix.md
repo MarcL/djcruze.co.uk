@@ -1,6 +1,7 @@
 ---
 title: 'Nat King Cole - The Christmas Song'
 subtitle: 'DJ Cruze Funkfinders Mix'
+excerpt: 'DJ Cruze remix an old Nat King Cole classic'
 
 layout: audio
 # permalink: /2006/12/01/nat-king-cole-the-christmas-song-dj-cruze-funkfinders-mix/

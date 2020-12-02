@@ -17,7 +17,7 @@ sitemap:
     <itunes:author>{{podcast.author}} </itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
-    <itunes:image>{{podcast.channelImage | prepend: site.url}}</itunes:image>
+    <itunes:image href="{{podcast.channelImage | prepend: site.url}}" />
     <itunes:owner>
       <itunes:name>{{podcast.owner.name}}</itunes:name>
       <itunes:email>{{podcast.owner.email}}</itunes:email>

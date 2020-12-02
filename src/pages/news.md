@@ -4,6 +4,7 @@ date: '2020-08-06T20:00:00.00Z'
 layout: oneColumn
 permalink: /news/
 headerImage: '/images/headers/news-crowd.jpg'
+description: 'The latest news from DJ Cruze'
 ---
 
 <div class="w-100 pa0 ma0">

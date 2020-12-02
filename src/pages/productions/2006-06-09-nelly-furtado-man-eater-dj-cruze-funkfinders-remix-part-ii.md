@@ -1,6 +1,7 @@
 ---
 title: 'Nelly Furtado - Man Eater'
 subtitle: 'DJ Cruze Funkfinders Remix'
+excerpt: "DJ Cruze's funky house remix of Nelly Furtado's - Man Eater"
 
 layout: audio
 # permalink: /2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/

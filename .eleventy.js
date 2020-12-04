@@ -23,7 +23,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
   eleventyConfig.addPassthroughCopy({ 'src/favicons': 'favicons' });
-  eleventyConfig.addPassthroughCopy({ 'src/amplitude.css': 'amplitude.css' });
+  eleventyConfig.addPassthroughCopy({ 'src/css': 'css' });
+  eleventyConfig.addPassthroughCopy({ 'src/fonts': 'fonts' });
 
   eleventyConfig.addShortcode('version', function () {
     return String(Date.now());

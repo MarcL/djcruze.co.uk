@@ -109,3 +109,6 @@
 # Netlify seems to not like this
 /cms / 301
 /cms/* /:splat/ 301
+
+# Proxy functions to a nicer url path
+/api/* /.netlify/functions/:splat 200

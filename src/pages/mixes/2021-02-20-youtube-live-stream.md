@@ -18,7 +18,7 @@ media:
     - Gusto - Disco's Revenge (Tom Moulton's Meccano Remix)
     - EBTG vs Soul Vision - Tracey In My Room (Lazy Dog Bootleg Vocal)
     - Fused - Saving Mary (Bob Sinclar Vocal Mix)
-    - Banda Sonaora - Guitarra G (G Club Original Mix)
+    - Banda Sonora - Guitarra G (G Club Original Mix)
     - Full Intention - You Are Somebody (Sugar Daddy Mix)
     - Mr Roy - Something About U
     - The Disco Dudes - Good Times
@@ -27,7 +27,7 @@ media:
     - Agent Sumo - 24 Hours
     - Sneaker Pimps - Post Modern Sleaze (The Phunk Phorce Mix)
     - Dubstar - I Will Be Your Girlfriend (Sol Brothers Brokout Dub)
-    - Mutiny - Secrets (Rhytm Masters' Club Vocal Mix)
+    - Mutiny - Secrets (Rhythm Masters' Club Vocal Mix)
     - Junior Jack - Thrill Me
     - Empire Of The Sun - Walkin' On A Dream (DJ Cruze Funkfinders Remix)
     - Bob Marley - Jammin' (Olav Basoski Remix)

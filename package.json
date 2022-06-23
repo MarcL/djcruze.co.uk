@@ -18,7 +18,7 @@
     "@11ty/eleventy": "^0.11.0",
     "dotenv": "^8.2.0",
     "eleventy-plugin-youtube-embed": "^1.4.3",
-    "got": "^11.5.1",
+    "got": "^11.8.5",
     "liquidjs": "^9.16.1",
     "lodash.escape": "^4.0.1",
     "rfc822-date": "^0.0.3"

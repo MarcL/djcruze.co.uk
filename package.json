@@ -19,7 +19,6 @@
     "dotenv": "^16.0.3",
     "eleventy-plugin-youtube-embed": "^1.7.1",
     "got": "^12.5.3",
-    "liquidjs": "^10.2.0",
     "lodash.escape": "^4.0.1",
     "rfc822-date": "^0.0.3"
   }

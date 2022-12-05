@@ -7,14 +7,17 @@ const { Liquid } = require('liquidjs');
 
 module.exports = (eleventyConfig) => {
   // TODO: Remove this once 11ty updates to the latest
-  const liquidOptions = {
-    root: ['_includes'],
-    extname: '.liquid',
-    dynamicPartials: false,
-    strictFilters: true,
-  };
+  // const liquidOptions = {
+  //   root: ['_includes'],
+  //   extname: '.liquid',
+  //   dynamicPartials: false,
+  //   strictFilters: true,
+  // };
 
-  eleventyConfig.setLibrary('liquid', new Liquid(liquidOptions));
+  // eleventyConfig.setLibrary('liquid', new Liquid(liquidOptions));
+  eleventyConfig.setLiquidOptions({
+    dynamicPartials: false,
+  });
 
   // Plugins
   eleventyConfig.addPlugin(embedYouTube);

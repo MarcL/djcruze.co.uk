@@ -3,18 +3,11 @@ require('dotenv').config();
 const escape = require('lodash.escape');
 const embedYouTube = require('eleventy-plugin-youtube-embed');
 const rfc822Date = require('rfc822-date');
-const { Liquid } = require('liquidjs');
 
 module.exports = (eleventyConfig) => {
-  // TODO: Remove this once 11ty updates to the latest
-  const liquidOptions = {
-    root: ['_includes'],
-    extname: '.liquid',
+  eleventyConfig.setLiquidOptions({
     dynamicPartials: false,
-    strictFilters: true,
-  };
-
-  eleventyConfig.setLibrary('liquid', new Liquid(liquidOptions));
+  });
 
   // Plugins
   eleventyConfig.addPlugin(embedYouTube);

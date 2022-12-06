@@ -11,6 +11,7 @@
 
     <meta name="description" content="{{site.description}}" />
     <meta name="author" content="{{site.author}}" />
+    <meta name="generator" content="{{eleventy.generator}}" />
 
     {% include partials/favicons %}
     
@@ -24,7 +25,7 @@
         rel="stylesheet"
     />
 
-    {% comment %} <link href="/css/style.css" rel="stylesheet"> {% endcomment %}
+    <link href="/css/style.css" rel="stylesheet">
     
     <script
         src="https://kit.fontawesome.com/d38990851e.js"
@@ -38,10 +39,4 @@
         type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/amplitudejs@5.2.0/dist/amplitude.js"
     ></script>
-
-    <style>
-        body {
-            font-family: 'Source Sans Pro', sans-serif;
-        }
-    </style>
 </head>

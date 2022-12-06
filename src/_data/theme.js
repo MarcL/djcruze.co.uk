@@ -1,0 +1,14 @@
+module.exports = {
+    navigation: {
+        background: 'bg-white',
+        text: 'text-slate-900',
+        selected: 'border-slate-900',
+        button: 'fill-slate-900',
+    },
+    main: {
+        background: 'bg-white',
+        text: 'text-slate-900',
+        secondary: 'text-slate-600',
+        date: 'text-slate-400'
+    }
+};

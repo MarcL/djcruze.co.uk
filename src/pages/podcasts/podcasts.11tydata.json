@@ -1,5 +1,6 @@
 {
   "showDate": true,
   "description": "Another selection of funky house music in the DJ Cruze podcast",
-  "tags": ["podcast"]
+  "tags": ["podcast"],
+  "layout": "audio"
 }

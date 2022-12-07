@@ -1,7 +1,7 @@
 ---
 title: 'About DJ Cruze'
 date: '2018-10-17T20:00:00.00Z'
-layout: oneColumn
+layout: post
 permalink: /about/
 headerImage: '/images/headers/dj-cruze-graffiti-header.jpg'
 description: 'Learn more about DJ Cruze'

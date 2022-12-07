@@ -115,5 +115,8 @@ dist
 .yarn/install-state.gz
 .pnp.*
 
+# Build artefacts
 _site
 _tmp
+src/css/styles.css
+

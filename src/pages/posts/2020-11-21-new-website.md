@@ -3,7 +3,6 @@ title: 'Manchester is back in the house'
 permalink: '/dj-cruze-new-website-2020/'
 headerImage: '/images/headers/dj-cruze-headphones-red.jpg'
 excerpt: 'After 10 years, DJ Cruze is back in the house and the DJ Cruze website gets a makeover!'
-layout: oneColumn
 ---
 
 Hello! How are you? It's been a long time hasn't it?

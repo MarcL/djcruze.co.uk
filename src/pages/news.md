@@ -7,13 +7,13 @@ headerImage: '/images/headers/news-crowd.jpg'
 description: 'The latest news from DJ Cruze'
 ---
 
-<div class="w-100 pa0 ma0">
+<div class="w-full">
 {%- for post in collections.news reversed -%}
 
 <article class="w-100 flex flex-wrap items-start pv2">
     <div class="w-100 w-40-ns">
         <a class="link dim" href="{{post.url}}">
-            <img class="br1 shadow-4 overflow-hidden" src="{{post.data.headerImage}}" title="{{post.data.title}}">
+            <img class="shadow-md rounded-md" src="{{post.data.headerImage}}" title="{{post.data.title}}">
         </a>
     </div>
     <div class="w-100 w-60-ns pa0 pl3-m pl4-l">

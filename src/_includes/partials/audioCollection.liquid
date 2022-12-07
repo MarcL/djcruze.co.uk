@@ -10,10 +10,8 @@
 {%- include section, sectionContent: sectionContent, theme: 'light' -%}
 
 
-{%- capture earlierContent -%}
-  {%- for item in latestFirstCollection offset:1 -%}
-    {%- include partials/audioCollectionItem, item: item -%}
-  {%- endfor -%}
-{%- endcapture -%}
-
-{%- include section, sectionContent: earlierContent, theme: 'light' -%}
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-start">
+{%- for item in latestFirstCollection offset:1 -%}
+  {%- include partials/audioCollectionItem, item: item -%}
+{%- endfor -%}
+</div>

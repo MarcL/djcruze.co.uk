@@ -1,11 +1,3 @@
-{% if theme == 'light' -%}
-    {%- assign backgroundColour = 'bg-near-white' -%}
-{%- else -%}
-    {%- assign backgroundColour = 'bg-dark-gray' -%}
-{%- endif -%}
-
-<div class="w-100 mv0 {{backgroundColour}}">
-  <div class="w-100 w-80-ns center mt3 mv0 pv2 ph1 ph3-ns flex flex-wrap">
-    {{sectionContent}}
-  </div>
+<div class="w-full max-w-7xl mx-auto {{theme.main.background}} pt-4 pb-8">
+  {{sectionContent}}
 </div>

@@ -104,8 +104,10 @@ layout: oneColumn
   </div>
 </div>
 
-{% include partials/content.liquid content: content %}
-{%- endcapture -%}
+<div class="prose prose-2xl mx-auto">
+  {% include partials/content.liquid content: content %}
+  {%- endcapture -%}
+</div>
 
 {%- include section, sectionContent: sectionContent, theme: 'light' -%}
 

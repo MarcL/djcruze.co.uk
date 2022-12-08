@@ -1,3 +1,29 @@
+<div class="py-2 flex flex-wrap justify-center items-center">
+    <div class="w-full lg:w-2/5">
+        <a href="{{item.url}}" class="" title="{{item.data.title}}" alt="{{latestTitle}}">
+            {%- if item.data.media.image -%}
+                <img class="w-100 shadow-4 br1" src="{{item.data.media.image}}" alt="{{item.data.title}}" title="{{item.data.title}}" />
+            {%- else -%}
+                <img class="w-100 shadow-4 br1" src="/images/mixes/" alt="{{item.data.title}}" title="{{item.data.title}}" />
+            {%- endif -%}
+        </a>
+    </div>
+    <div class="w-full lg:1/5">
+        {%- if latestTitle -%}
+        <h3 class="f4 f3-l fw7 tc ttu pv0 mt2 mt0-ns mb2 {{titleColour}} lh-title">{{latestTitle}}</h3>
+        {%- endif -%}
+        <a href="{{item.url}}" class="link underline-hover {{itemColour}}" title="{{item.data.title}}" alt="{{latestTitle}}">
+            <h3 class="f3 f1-l fw7 tc ttu pv0 mt2 mt0-ns mb0 {{itemColour}} lh-title">{{item.data.title}}</h3>
+        </a>
+        {%- if item.data.excerpt -%}
+        <div class="f4 f3-ns pv1 ph2 lh-copy tc {{copyColour}}">
+            {{item.data.excerpt}}
+        </div>
+        {%- endif -%}
+    </div>
+</div>
+
+
 {% if theme == 'light' -%}
     {%- assign titleColour = 'silver' -%}
     {%- assign itemColour = 'near-black' -%}

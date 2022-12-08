@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<main class="w-full max-w-7xl mx-auto {{theme.main.background}} py-2">
+<main class="w-full max-w-7xl mx-auto {{theme.main.background}}">
   <div id="pageTitle" class="py-2 text-center space-y-2">
     <h2 class="uppercase {{theme.main.text}} text-6xl font-extrabold">{{title}}</h2>
     {% if subtitle %}
@@ -14,12 +14,12 @@ layout: default
   </div>
 
   {% if headerImage %}
-  <div class="w-full py-2">
+  <div class="w-full py-2 px-0">
     <img
       src="{{headerImage}}"
       title="{{title}}"
       alt="{{title}}"
-      class="rounded-md shadow-md"
+      class="rounded-none md:rounded-md shadow-md"
     />
   </div>
   {% endif %}  

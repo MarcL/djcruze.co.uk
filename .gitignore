@@ -118,5 +118,5 @@ dist
 # Build artefacts
 _site
 _tmp
-src/css/styles.css
+src/css/style.css
 

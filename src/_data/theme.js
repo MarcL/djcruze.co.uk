@@ -8,7 +8,11 @@ module.exports = {
     main: {
         background: 'bg-white',
         text: 'text-slate-900',
-        secondary: 'text-slate-600',
-        date: 'text-slate-400'
+        secondary: 'text-slate-800',
+        date: 'text-slate-700'
+    },
+    homepage: {
+        text: 'text-white',
+        buttonBackground: 'bg-blue-900',
     }
 };

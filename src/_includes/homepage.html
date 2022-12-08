@@ -3,21 +3,21 @@ layout: default
 ---
 
 <main
-  class="w-100 w-80-l center bg-white mv2 pv2 ph2 ph3-ns flex flex-wrap items-center justify-center"
+  class="{{theme.main.background}} w-full max-w-7xl mx-auto flex flex-wrap items-center justify-center"
 >
   <div
-    class="w-100 br2 shadow-4 pv5 mv0"
+    class="w-full rounded-none md:rounded-md shadow-xl py-8"
     style="background-image: url({{headerImage}}); background-size: cover; background-position: center center;"
   >
-    <div class="w-100 w-50-ns">
-      <h2 class="f2 f1-ns lh-title fw8 mt3 mb1 washed-blue ttu tc">
+    <div class="w-full lg:w-1/2 space-y-8">
+      <h2 class="{{theme.homepage.text}} text-5xl font-extrabold uppercase text-center">
         {{title}}
       </h2>
-      <h3 class="f3 f2-ns lh-title fw7 mt2 washed-blue ttu tc">{{subtitle}}</h3>
-      <div class="tc">
+      <h3 class="{{theme.homepage.text}} text-4xl font-bold uppercase text-center">{{subtitle}}</h3>
+      <div class="text-center">
         <a
-          class="f3 f2-l link grow br2 ph4 pv3 mb4 mb2-ns dib white bg-navy shadow-4 ttu tc"
-          href="/about"
+          class="{{theme.homepage.text}} {{theme.homepage.buttonBackground}} block text-4xl font-bold uppercase text-center rounded-md w-2/3 mx-auto p-8 shadow-md"
+          href="/about/"
           >WHO IS DJ CRUZE?</a
         >
       </div>
@@ -31,12 +31,56 @@ layout: default
   {% include partials/latest.liquid, item: latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
 {%- endcapture -%}
 
-{%- include section, sectionContent: podcastContent, theme: 'light' -%}
+<!-- {%- include section, sectionContent: podcastContent, theme: 'light' -%} -->
 
 {%- capture mixesContent -%}
   {% assign mixesReversed = collections.mix | reverse %}
   {% assign latestMix = mixesReversed | first %}
-  {% include partials/latest.liquid, item: latestMix, latestTitle: "Latest Mix" %}
+  {% include partials/latest.liquid, item: latestMix, latestTitle: "Latest Mix", theme: 'light' %}
 {%- endcapture -%}
 
-{%- include section, sectionContent: mixesContent, theme: 'dark' -%}
+<!-- {%- include section, sectionContent: mixesContent, theme: 'light' -%} -->
+
+<section class="w-full max-w-7xl mx-auto py-8">
+  <h2 class="text-4xl font-semibold {{theme.main.secondary}} uppercase text-center py-4">Featured Episodes</h2>
+  <div class="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-8">
+    <div class="">
+      <div class="">
+        <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2">Latest Podcast</h3>
+        <a href="{{latestPodcast.url}}" class="group" title="{{latestPodcast.data.title}}" alt="{{latestTitle}}">
+            {%- if latestPodcast.data.media.image -%}
+                <img class="w-full shadow-md rounded-md group-hover:brightness-75" src="{{latestPodcast.data.media.image}}" alt="{{latestPodcast.data.title}}" title="{{latestPodcast.data.title}}" />
+            {%- else -%}
+                <img class="w-full shadow-md rounded-md group-hover:brightness-75" src="/images/mixes/" alt="{{latestPodcast.data.title}}" title="{{latestPodcast.data.title}}" />
+            {%- endif -%}
+            <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2 group-hover:underline">{{latestPodcast.data.title}}</h3>
+        </a>
+        {%- if latestPodcast.data.excerpt -%}
+          <div class="{{theme.main.secondary}} text-xl font-normal text-center">
+            {{latestPodcast.data.excerpt}}
+          </div>
+        {%- endif -%}
+      </div>
+    </div>
+    <div class="">
+      <div class="">
+        <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2">Latest Mix</h3>
+        <a href="{{latestMix.url}}" class="group" title="{{latestMix.data.title}}" alt="{{latestTitle}}">
+            {%- if latestMix.data.media.image -%}
+                <img class="w-100 shadow-4 br1 group-hover:brightness-75" src="{{latestMix.data.media.image}}" alt="{{latestMix.data.title}}" title="{{latestMix.data.title}}" />
+            {%- else -%}
+                <img class="w-100 shadow-4 br1 group-hover:brightness-75" src="/images/mixes/" alt="{{latestMix.data.title}}" title="{{latestMix.data.title}}" />
+            {%- endif -%}
+            <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2 group-hover:underline">{{latestMix.data.title}}</h3>
+        </a>
+        {%- if latestMix.data.excerpt -%}
+          <div class="{{theme.main.secondary}} text-xl font-normal text-center">
+            {{latestMix.data.excerpt}}
+          </div>
+        {%- endif -%}
+      </div>
+    </div>
+  </div>
+</section>
+
+

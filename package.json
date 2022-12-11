@@ -8,7 +8,7 @@
   "scripts": {
     "build": "yarn build:all",
     "build:all": "yarn build:site && yarn build:css",
-    "build:css": "npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/styles.css --minify",
+    "build:css": "npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --minify",
     "build:site": "eleventy",
     "build:js": "parcel build src/clientjs/index.js --out-dir src/distjs --out-file bundle.js",
     "link-check": "blc http://localhost:4000 -ro",

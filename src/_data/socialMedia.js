@@ -1,4 +1,4 @@
-const sizeAndFill = 'fill="currentColor" class="w-8 md:w-16 h-8 m:h-16"';
+const sizeAndFill = 'class="w-8 md:w-16 h-8 m:h-16 fill-current"';
 module.exports = [
   {
     name: "RSS Feed",

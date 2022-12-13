@@ -1,17 +1,5 @@
-{% assign latestFirstCollection = collection | reverse %}
-{% assign first = latestFirstCollection | first %}
-
-{%- capture sectionContent -%}
-  {% assign collectionReversed = collection | reverse %}
-  {% assign latestInCollection = collectionReversed | first %}
-  {% include partials/latest.liquid, item: latestInCollection, latestTitle: "Latest", theme: 'light' %}
-{%- endcapture -%}
-
-{%- include section, sectionContent: sectionContent, theme: 'light' -%}
-
-
-<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-start">
-{%- for item in latestFirstCollection offset:1 -%}
-  {%- include partials/audioCollectionItem, item: item -%}
-{%- endfor -%}
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-start py-8">
+  {%- for item in collection reversed -%}
+    {%- include partials/audioCollectionItem, item: item -%}
+  {%- endfor -%}
 </div>

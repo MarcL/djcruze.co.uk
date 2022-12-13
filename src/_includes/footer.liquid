@@ -1,23 +1,22 @@
-<footer class="w-100 center bg-black white pv2 ph4">
-    <div class="tc center pt4 white">
-        <img src="/images/logo/dj-cruze-logo-white.svg" width="228" height="62" title="DJ Cruze" alt="DJ Cruze logo" class="h3" />
+<footer class="w-full text-center {{theme.footer.background}} {{theme.footer.main}} py-8 px-4 flex flex-col flex-auto gap-y-4">
+    <div class="">
+        <img src="/images/logo/dj-cruze-logo-white.svg" width="228" height="62" title="DJ Cruze" alt="DJ Cruze logo" class="block mx-auto" />
     </div>
 
-    <div class="w-100 center pt3 pb2 tc">
-    {% for socialItem in socialMedia %}
-    {% if socialItem.external %}
-    <a href="{{ socialItem.url }}" target="_blank" rel="noreferrer" title="{{ socialItem.title }}" class="link grow-large white hover-yellow dib h2 w2 mr3" aria-label="{{socialItem.name}} icon">
-    {% else %}
-    <a href="{{ socialItem.url }}" title="{{ socialItem.title }}" class="link grow-large white hover-yellow dib h2 w2 mr3" aria-label="{{socialItem.name}} icon">
-    {% endif %}
-        <span class="fa-stack fa-lg">
-            <i class="fa fa-stack-1x"></i>
-            <i class="fa {{socialItem.icon}} fa-stack-1x"></i>
-        </span>
-    </a>
-    {% endfor %}
+    <div class="w-full mx-auto py-2 text-center flex justify-center items-center gap-x-8 flex-auto">
+        {% for socialItem in socialMedia %}
+        {% if socialItem.external %}
+        <a href="{{ socialItem.url }}" target="_blank" rel="noreferrer" title="{{ socialItem.title }}" class="transition ease-in-out hover:scale-110 {{theme.footer.hover}} block" aria-label="{{socialItem.name}} icon">
+        {% else %}
+        <a href="{{ socialItem.url }}" title="{{ socialItem.title }}" class="transition ease-in-out hover:scale-110 {{theme.footer.hover}} block" aria-label="{{socialItem.name}} icon">
+        {% endif %}
+        {% if socialItem.svg %}
+        {{ socialItem.svg }}
+        {% endif %}
+        </a>
+        {% endfor %}
     </div>
-    <div class="w-100 center pv1 tc">
-        <p class="white ttu">&copy; Copyright 2003 - {{"now" | date: "%Y"}}</p>
+    <div class="w-full mx-auto text-center">
+        <p class="uppercase text-xl">&copy; Copyright 2003 - {{"now" | date: "%Y"}}</p>
     </div>
 </footer>

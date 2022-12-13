@@ -14,5 +14,10 @@ module.exports = {
     homepage: {
         text: 'text-white',
         buttonBackground: 'bg-blue-900',
+    },
+    footer: {
+        background: 'bg-slate-900',
+        main: 'text-white',
+        hover: 'hover:text-yellow-500'
     }
 };

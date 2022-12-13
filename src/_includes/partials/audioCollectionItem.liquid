@@ -1,9 +1,9 @@
 <div class="w-full px-4 xl:px-0">
     <a href="{{item.url}}" class="group block">
         {%- if item.data.media.image -%}
-            <img src="{{item.data.media.image}}" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-100 shadow-md rounded-sm group-hover:brightness-75"/>
+            <img src="{{item.data.media.image}}" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-full shadow-md rounded-sm group-hover:brightness-75"/>
         {%- else -%}
-            <img src="/images/mixes/dj-cruze-mix-logo-600x600.jpg" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-100 shadow-md rounded-sm group-hover:brightness-75"/>
+            <img src="/images/mixes/dj-cruze-mix-logo-600x600.jpg" alt="{{item.data.title}}" title="{{item.data.title}}" class="w-full shadow-md rounded-sm group-hover:brightness-75"/>
         {%- endif -%}
 
         <div class="w-full pt-4">

@@ -28,18 +28,12 @@ layout: default
 {%- capture podcastContent -%}
   {% assign podcastsReversed = collections.podcast | reverse %}
   {% assign latestPodcast = podcastsReversed | first %}
-  {% include partials/latest.liquid, item: latestPodcast, latestTitle: "Latest Podcast", theme: 'light' %}
 {%- endcapture -%}
-
-<!-- {%- include section, sectionContent: podcastContent, theme: 'light' -%} -->
 
 {%- capture mixesContent -%}
   {% assign mixesReversed = collections.mix | reverse %}
   {% assign latestMix = mixesReversed | first %}
-  {% include partials/latest.liquid, item: latestMix, latestTitle: "Latest Mix", theme: 'light' %}
 {%- endcapture -%}
-
-<!-- {%- include section, sectionContent: mixesContent, theme: 'light' -%} -->
 
 <section class="w-full max-w-7xl mx-auto py-8">
   <h2 class="text-4xl font-semibold {{theme.main.secondary}} uppercase text-center py-4">Featured Episodes</h2>

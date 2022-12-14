@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "build": "yarn build:all",
-    "build:all": "yarn build:site && yarn build:css",
+    "build:all": "yarn build:css && yarn build:site",
     "build:css": "npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --minify",
     "build:site": "eleventy",
     "build:js": "parcel build src/clientjs/index.js --out-dir src/distjs --out-file bundle.js",

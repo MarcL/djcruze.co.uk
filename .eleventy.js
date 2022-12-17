@@ -76,6 +76,52 @@ module.exports = (eleventyConfig) => {
     );
   });
 
+  eleventyConfig.addFilter('tracklistToJson', (tracklistArray) => {
+    if (!Array.isArray(tracklistArray)) {
+      return [{}];
+    }
+
+    const tracklist = tracklistArray.map((track) => {
+      const timestampRegex = /\[([0-9]{2}:[0-9]{2}:[0-9]{2})\]/;
+      const hasTimestamp = track.match(timestampRegex);
+
+      let parsedData = {};
+      if (hasTimestamp) {
+        const [timestampArtist, title, label] = track.split(' -');
+        const [timestamp, artist] = timestampArtist.split('] ');
+  
+        const timestampWithoutBrackets = timestamp.replace('[', '').replace(']', '');
+        const [hours, minutes, seconds] = timestampWithoutBrackets.split(':');
+        const timestampInSeconds = Number(hours) * 3600 + Number(minutes) * 60 + Number(seconds);
+
+        parsedData = {
+          timestamp,
+          timestampInSeconds,
+          artist,
+          title,
+          label
+        };
+      } else {
+        const [artist, title, label] = track.split(' -');
+
+        parsedData = {
+          timestamp: null,
+          timestampInSeconds: null,
+          artist,
+          title,
+          label
+        };
+      }
+
+
+      return {
+        ...parsedData,
+      };
+    });
+    
+    return tracklist;
+  });
+
   eleventyConfig.setDataDeepMerge(true);
 
   return {

@@ -2,5 +2,7 @@
   "showDate": true,
   "description": "Another selection of funky house music in the DJ Cruze podcast",
   "tags": ["podcast"],
-  "layout": "audio"
+  "layout": "audio",
+  "subscribe": true,
+  "download": true
 }

@@ -19,5 +19,14 @@ module.exports = {
         background: 'bg-slate-900',
         main: 'text-white',
         hover: 'hover:text-yellow-500'
+    },
+    audioPlayer: {
+        background: 'bg-white',
+        controls: {
+            hover: 'hover:fill-blue-500'
+        },
+        tracklist: {
+            hover: 'hover:bg-blue-500 hover:text-white'
+        }
     }
 };

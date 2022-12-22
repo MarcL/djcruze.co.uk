@@ -18,7 +18,7 @@ module.exports = {
     footer: {
         background: 'bg-slate-900',
         main: 'text-white',
-        hover: 'hover:text-yellow-500'
+        hover: 'hover:text-cyan-500'
     },
     audioPlayer: {
         background: 'bg-white',

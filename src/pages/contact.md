@@ -6,6 +6,33 @@ permalink: /contact/
 headerImage: '/images/headers/contact-loft-club.jpg'
 ---
 
-Sorry, I've not created the contact form yet. It'll be coming soon.
+Do you want to contact me? No problem!
 
-For now just email me at [info@djcruze.co.uk](mailto:info@djcruze.co.uk)
+Send me a message using the form below.
+
+<form class="w-full" data-netlify="true" netlify-honeypot="bot-field">
+    <div class="mt-8">
+        <div class="hidden">
+            <input name="bot-field" />
+        </div>
+        <div class="grid grid-cols-1 gap-6">
+            <label class="block">
+                <span class="text-gray-700">Your name</span>
+                <input type="text" class="{{theme.form.input}}" placeholder="Write your name here...">
+            </label>
+            <label class="block">
+                <span class="text-gray-700">Email address</span>
+                <input type="email" class="{{theme.form.input}}" placeholder="test@example.com">
+            </label>
+            <label class="block">
+                <span class="text-gray-700">Your message</span>
+                <textarea class="{{theme.form.textarea}}" placeholder="Write your message here..."
+                    rows="6"
+                    spellcheck="false"></textarea>
+            </label>
+        </div>
+    </div>
+    <button type="submit" class="{{theme.components.button}} w-full my-8 uppercase p-4 rounded-md font-semibold">
+        Send message
+    </button>
+</form>

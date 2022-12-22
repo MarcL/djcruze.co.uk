@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
+    "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.8",
     "dotenv": "^16.0.3",
     "eleventy-plugin-youtube-embed": "^1.7.1",

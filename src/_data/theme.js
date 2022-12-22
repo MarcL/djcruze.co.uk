@@ -28,5 +28,12 @@ module.exports = {
         tracklist: {
             hover: 'hover:bg-blue-500 hover:text-white'
         }
+    },
+    components: {
+        button: 'bg-indigo-800 hover:bg-indigo-600 text-white',
+    },
+    form: {
+        input: 'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50',
+        textarea: 'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50'
     }
 };

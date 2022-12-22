@@ -3,6 +3,7 @@ require('dotenv').config();
 const escape = require('lodash.escape');
 const embedYouTube = require('eleventy-plugin-youtube-embed');
 const rfc822Date = require('rfc822-date');
+const externalLinks = require("@aloskutov/eleventy-plugin-external-links");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setLiquidOptions({
@@ -11,6 +12,7 @@ module.exports = (eleventyConfig) => {
 
   // Plugins
   eleventyConfig.addPlugin(embedYouTube);
+  eleventyConfig.addPlugin(externalLinks);
 
   // Copy
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });

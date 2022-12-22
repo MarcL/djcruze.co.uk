@@ -16,6 +16,7 @@
   },
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
+    "@aloskutov/eleventy-plugin-external-links": "^1.4.3",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.8",
     "dotenv": "^16.0.3",

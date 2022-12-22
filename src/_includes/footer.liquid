@@ -5,13 +5,9 @@
 
     <div class="w-full mx-auto py-2 text-center flex justify-center items-center gap-x-8 flex-auto">
         {% for socialItem in socialMedia %}
-        {% if socialItem.external %}
-        <a href="{{ socialItem.url }}" target="_blank" rel="noreferrer" title="{{ socialItem.title }}" class="transition ease-in-out hover:scale-110 {{theme.footer.hover}} block" aria-label="{{socialItem.name}} icon">
-        {% else %}
         <a href="{{ socialItem.url }}" title="{{ socialItem.title }}" class="transition ease-in-out hover:scale-110 {{theme.footer.hover}} block" aria-label="{{socialItem.name}} icon">
-        {% endif %}
-        {% if socialItem.svg %}
-        {{ socialItem.svg }}
+        {% if socialItem.icon %}
+        {{ socialItem.icon }}
         {% endif %}
         </a>
         {% endfor %}

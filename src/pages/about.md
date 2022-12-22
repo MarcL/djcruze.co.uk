@@ -57,3 +57,7 @@ Some of the clubs where DJ Cruze has played. There are more but his memory isn't
 - Stockwerk, Karlsruhe
 - The Loft Club, Ludwigshafen
 - Madame Pompadour, Karlsruhe
+
+## Want to get in touch?
+
+Send me a message via the [contact page](/contact/).

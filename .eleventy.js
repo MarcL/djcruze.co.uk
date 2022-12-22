@@ -97,9 +97,9 @@ module.exports = (eleventyConfig) => {
         parsedData = {
           timestamp,
           timestampInSeconds,
-          artist,
-          title,
-          label
+          artist: artist?.trim(),
+          title: title?.trim(),
+          label: label?.trim(),
         };
       } else {
         const [artist, title, label] = track.split(' -');
@@ -107,19 +107,23 @@ module.exports = (eleventyConfig) => {
         parsedData = {
           timestamp: null,
           timestampInSeconds: null,
-          artist,
-          title,
-          label
+          artist: artist?.trim(),
+          title: title?.trim(),
+          label: label?.trim(),
         };
       }
-
 
       return {
         ...parsedData,
       };
     });
     
-    return tracklist;
+    // Count the number of labels in the tracklist
+    const labels = tracklist.map((track) => track.label).filter((label) => label);
+    return {
+      tracklist,
+      hasLabels: labels.length > 0,
+    };
   });
 
   eleventyConfig.setDataDeepMerge(true);

@@ -13,7 +13,7 @@ module.exports = {
     },
     homepage: {
         text: 'text-white',
-        buttonBackground: 'bg-blue-900',
+        buttonBackground: 'bg-cyan-900',
     },
     footer: {
         background: 'bg-slate-900',
@@ -23,14 +23,14 @@ module.exports = {
     audioPlayer: {
         background: 'bg-white',
         controls: {
-            hover: 'hover:fill-blue-500'
+            hover: 'hover:fill-cyan-500'
         },
         tracklist: {
-            hover: 'hover:bg-blue-500 hover:text-white'
+            hover: 'hover:bg-cyan-500 hover:text-white'
         }
     },
     components: {
-        button: 'bg-indigo-800 hover:bg-indigo-600 text-white',
+        button: 'bg-cyan-800 hover:bg-cyan-900 text-white',
     },
     form: {
         input: 'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50',

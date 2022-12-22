@@ -10,7 +10,13 @@ Do you want to contact me? No problem!
 
 Send me a message using the form below.
 
-<form class="w-full" data-netlify="true" netlify-honeypot="bot-field" name="contact">
+<form
+    class="w-full"
+    data-netlify="true"
+    netlify-honeypot="bot-field"
+    name="contact"
+    action="/contact/thank-you/"
+    >
     <div class="mt-8">
         <div class="hidden">
             <input name="bot-field" />

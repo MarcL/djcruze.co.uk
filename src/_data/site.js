@@ -1,0 +1,12 @@
+module.exports = {
+  'title': 'DJ Cruze',
+  'headerImage': '/images/headers/dj-cruze-headphones-red.jpg',
+  'email': 'info@djcruze.co.uk',
+  'description': 'DJ Cruze - Manchester is in the house!',
+  'url': 'https://www.djcruze.co.uk',
+  'googleAnalyticsId': 'UA-810717-1',
+  'twitterUsername': 'djcruze',
+  'author': 'https://www.facebook.com/housedjcruze',
+  'facebookAppId': '',
+  'mediaFilesUrl': 'https://f001.backblazeb2.com/file/djcruzemedia'
+}

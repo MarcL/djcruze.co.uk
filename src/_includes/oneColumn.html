@@ -2,31 +2,30 @@
 layout: default
 ---
 
-<main class="w-100 w-80-l center bg-white mv2 pv2 ph1 ph3-ns">
-  <div id="pageTitle" class="mb3">
-    <h2 class="f2 f1-ns lh-title fw8 ma0 near-black ttu">{{title}}</h2>
+<main class="w-full max-w-7xl mx-auto {{theme.main.background}}">
+  <div id="pageTitle" class="py-2 text-center space-y-2">
+    <h2 class="uppercase {{theme.main.text}} text-6xl font-extrabold">{{title}}</h2>
     {% if subtitle %}
-    <h3 class="f3 f2-ns fw6 ma0 mb2 mb3-ns dark-gray ttu">{{subtitle}}</h3>
-    {% endif %} {% if showDate %}
-    <h3 class="f5 f4-ns ma0 silver ttu">{{page.date | pageDate}}</h3>
+    <h3 class="uppercase {{theme.main.secondary}} text-4xl font-semibold">{{subtitle}}</h3>
+    {% endif %}
+    {% if showDate %}
+    <h3 class="uppercase {{theme.main.date}} text-2xl font-semibold">{{page.date | pageDate}}</h3>
     {% endif %}
   </div>
 
   {% if headerImage %}
-  <div class="w-100">
+  <div class="w-full py-2 px-0">
     <img
       src="{{headerImage}}"
       title="{{title}}"
       alt="{{title}}"
-      class="shadow-4 br2"
+      class="rounded-none 2xl:rounded-md shadow-md "
     />
   </div>
   {% endif %}  
 </main>
 
-{%- capture sectionContent -%}
-  {% include partials/content.liquid, content: content %}
-{%- endcapture -%}
-
-{%- include section, sectionContent: sectionContent, theme: 'light' -%}
+<div class="w-full max-w-7xl mx-auto {{theme.main.background}} py-8 px-4 2xl:px-0">
+  {{content}}
+</div>
 

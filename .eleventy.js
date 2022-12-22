@@ -3,6 +3,7 @@ require('dotenv').config();
 const escape = require('lodash.escape');
 const embedYouTube = require('eleventy-plugin-youtube-embed');
 const rfc822Date = require('rfc822-date');
+const externalLinks = require("@aloskutov/eleventy-plugin-external-links");
 
 module.exports = (eleventyConfig) => {
   eleventyConfig.setLiquidOptions({
@@ -11,6 +12,7 @@ module.exports = (eleventyConfig) => {
 
   // Plugins
   eleventyConfig.addPlugin(embedYouTube);
+  eleventyConfig.addPlugin(externalLinks);
 
   // Copy
   eleventyConfig.addPassthroughCopy({ 'src/_redirects': '_redirects' });
@@ -74,6 +76,56 @@ module.exports = (eleventyConfig) => {
         )
       )
     );
+  });
+
+  eleventyConfig.addFilter('tracklistToJson', (tracklistArray) => {
+    if (!Array.isArray(tracklistArray)) {
+      return [{}];
+    }
+
+    const tracklist = tracklistArray.map((track) => {
+      const timestampRegex = /\[([0-9]{2}:[0-9]{2}:[0-9]{2})\]/;
+      const hasTimestamp = track.match(timestampRegex);
+
+      let parsedData = {};
+      if (hasTimestamp) {
+        const [timestampArtist, title, label] = track.split(' -');
+        const [timestamp, artist] = timestampArtist.split('] ');
+  
+        const timestampWithoutBrackets = timestamp.replace('[', '').replace(']', '');
+        const [hours, minutes, seconds] = timestampWithoutBrackets.split(':');
+        const timestampInSeconds = Number(hours) * 3600 + Number(minutes) * 60 + Number(seconds);
+
+        parsedData = {
+          timestamp,
+          timestampInSeconds,
+          artist: artist?.trim(),
+          title: title?.trim(),
+          label: label?.trim(),
+        };
+      } else {
+        const [artist, title, label] = track.split(' -');
+
+        parsedData = {
+          timestamp: null,
+          timestampInSeconds: null,
+          artist: artist?.trim(),
+          title: title?.trim(),
+          label: label?.trim(),
+        };
+      }
+
+      return {
+        ...parsedData,
+      };
+    });
+    
+    // Count the number of labels in the tracklist
+    const labels = tracklist.map((track) => track.label).filter((label) => label);
+    return {
+      tracklist,
+      hasLabels: labels.length > 0,
+    };
   });
 
   eleventyConfig.setDataDeepMerge(true);

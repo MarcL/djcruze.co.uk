@@ -2,125 +2,147 @@
 layout: oneColumn
 ---
 
-{%- capture sectionContent -%}
-<div class="w-100 cf">
-  <div class="fl w-100 w-50-ns" id="audio-player">
-    <div class="shadow-4">
-      <div class="w-100">
-        <img
-          data-amplitude-song-info="cover_art_url"
-          title="{{media.title}}"
-          alt="{{media.title}}"
-        />
+<div class="w-full max-w-6xl mx-auto {{theme.audioPlayer.background}} py-8 px-4">
+
+<div class="grid grid-cols-1 md:grid-cols-6 gap-x-4 items-start">
+  <!-- Image -->
+  <div class="col-span-2 justify-self-center md:justify-self-end" id="audio-player">
+    <div class="w-full">
+      <img
+        data-amplitude-song-info="cover_art_url"
+        title="{{media.title}}"
+        alt="{{media.title}}"
+        class="rounded-sm mx-auto w-80 h-80"
+      />
+    </div>
+  </div>
+  
+  <div class="col-span-4 grid grid-cols-1 gap-y-4" id="player-controls">
+    <div class="text-xl font-semibold text-left">
+      <div class="">
+        <div data-amplitude-song-info="name" class="text-xl font-semibold uppercase"></div>
+        <div data-amplitude-song-info="artist" class="text-2xl font-bold uppercase"></div>
+        <div class="text-base {{theme.main.secondary}} font-medium uppercase">{{page.date | pageDate}}</div>
+      </div>
+    </div>
+
+    <!-- Controls -->
+    <div class="flex gap-x-4 items-center">
+      <div class="flex-none">
+        <div class="col-span-1 cursor-pointer" id="playButton">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-16 h-16 fill-current {{theme.audioPlayer.controls.hover}}"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M512 256c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM188.3 147.1c-7.6 4.2-12.3 12.3-12.3 20.9V344c0 8.7 4.7 16.7 12.3 20.9s16.8 4.1 24.3-.5l144-88c7.1-4.4 11.5-12.1 11.5-20.5s-4.4-16.1-11.5-20.5l-144-88c-7.4-4.5-16.7-4.7-24.3-.5z"/></svg>
+        </div>
+        <div class="hidden col-span-1 cursor-pointer" id="pauseButton">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-16 h-16 fill-current {{theme.audioPlayer.controls.hover}}"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM224 192V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32zm128 0V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32z"/></svg>
+        </div>
+      </div>
+
+      <!-- Progress bar -->
+      <div class="flex-initial w-full">
         <progress
-          class="amplitude-song-played-progress"
+          class="amplitude-song-played-progress h-4"
           id="song-played-progress"
         ></progress>
-      </div>
-      <div class="cf bg-white mid-gray" id="player-controls">
-        <div class="fl w-50 tc pv4 br bw1 b--near-white">
-          <i
-            class="fa fa-3x fa-play-circle grow-large dib navy"
-            aria-hidden="true"
-            id="play-pause-button"
-          ></i>
-        </div>
-        <div class="fl w-50 tc pv4">
-          <a
-            href="{{site.mediaFilesUrl}}{{media.content}}"
-            title="{{media.title}}"
-            class="mid-gray"
-            download
-            ><i
-              class="fa fa-3x fa-arrow-circle-down grow-large dib navy"
-              aria-hidden="true"
-            ></i
-          ></a>
-        </div>
-        <div class="fl w-100 tc pv1 bt bw1 b--near-white mid-gray">
+        <!-- Time -->
+        <div class="text-base font-medium text-right">
           <span class="amplitude-current-time"></span> /
           <span class="amplitude-duration-time"></span>
         </div>
-        <div class="fl w-100 tc pl3 pv2">
-          <div class="mid-gray">
-            <div data-amplitude-song-info="name" class="song-name fw6"></div>
-            <div data-amplitude-song-info="artist"></div>
-          </div>
-        </div>
 
-        {% if tags contains "podcast" %}
-        <div class="fl w-100 tc pt1 pb4 bt bw1 b--near-white mid-gray">
-          <h3 class="ttu">Subscribe</h3>
-          <a
-            href="{{podcast.links.iTunes}}"
-            target="_blank"
-            rel="noopener"
-            class="dib grow"
-            ><img
-              src="/images/podcasts/feed/icon-applepodcasts.svg"
-              class="h2 h3-l pr2"
-          /></a>
-
-          <a
-            href="{{podcast.links.overcast}}"
-            target="_blank"
-            rel="noopener"
-            class="dib grow"
-            ><img
-              src="/images/podcasts/feed/icon-overcast.svg"
-              class="h2 h3-l pr2"
-          /></a>
-          <a
-            href="{{podcast.links.pocketCasts}}"
-            target="_blank"
-            rel="noopener"
-            class="dib grow"
-            ><img
-              src="/images/podcasts/feed/icon-pocketcasts.svg"
-              class="h2 h3-l pr2"
-          /></a>
-          <a
-            href="{{site.url}}{{podcast.links.rss}}"
-            target="_blank"
-            rel="noopener"
-            class="dib grow"
-            ><img src="/images/podcasts/feed/icon-rss.svg" class="h2 h3-l"
-          /></a>
-        </div>
-        {% endif %}
       </div>
     </div>
+    
+    <!-- Subscribe -->
+    {% if subscribe %}
+    <div class="text-xl font-semibold text-center">
+      <h3 class="uppercase py-2">Subscribe</h3>
+      <div class="flex flex-auto items-center justify-center justify-items-center gap-x-4">
+        {% for podcastItem in podcast.links %}
+        <a
+          href="{{podcastItem.url}}"
+          target="_blank"
+          rel="noopener"
+          class="block hover:scale-125"
+          ><img
+            src="{{podcastItem.icon}}"
+            class="w-10 h-10 rounded-sm"
+        /></a>
+        {% endfor %}
+      </div>
+
+    </div>
+    {% endif %}
+
   </div>
 
-  <div class="fl w-100 w-50-ns ph2 ph3-l pt4 pt0-ns">
-    {% if media.tracklist %}
-    <h3 class="f3 fw6 ttu mv0 tc">Tracklist</h3>
-    <ol>
-      {% for tracklist in media.tracklist %}
-      <li class="f3 pb3 dark-gray">{{tracklist}}</li>
-      {% endfor %}
-    </ol>
-    {% endif %}
-  </div>
 </div>
 
-{% include partials/content.liquid content: content %}
-{%- endcapture -%}
+{% if media.tracklist %}
+<div class="col-span-4 md:col-span-6 py-8 w-full mx-auto">
+  <h2 class="text-2xl font-bold text-center uppercase py-4">Tracklist</h2>
+  {% assign jsonTracklist = media.tracklist | tracklistToJson %}
+  <table class="table-auto w-full text-lg">
+    <thead class="uppercase">
+      <tr>
+        <th>Artist</th>
+        <th>Title</th>
+        {% if jsonTracklist.hasLabels %}
+        <th class="hidden md:block">Label</th>
+        {% endif %}
+      </tr>
+    </thead>
+    <tbody class="uppercase">
+    {% for track in jsonTracklist.tracklist %}
+      <tr class="text-center {{theme.audioPlayer.tracklist.hover}} h-10" data-timestamp="{{track.timestampInSeconds}}">
+        <td>{{track.artist}}</td>
+        <td>{{track.title}}</td>
+        {% if jsonTracklist.hasLabels %}
+          {% if track.label %}
+          <td class="hidden md:block">{{track.label}}</td>
+          {% else %}
+          <td class="hidden md:block">-</td>
+          {% endif %}
+        {% endif %}
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+</div>
+{% endif %}
 
-{%- include section, sectionContent: sectionContent, theme: 'light' -%}
+  <!-- Download -->
+  {% if download %}
+  <div class="py-4">
+    <div class="w-1/2 p-4 rounded-md shadow-md mx-auto text-center {{theme.components.button}}" id="downloadButton">
+      <a
+        href="{{site.mediaFilesUrl}}{{media.content}}"
+        title="{{media.title}}"
+        class="text-xl font-semibold uppercase"
+        alt="Download"
+        download
+        >
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="inline w-7 h-7 fill-current hover:fill-blue-500 align-top"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M144 480C64.5 480 0 415.5 0 336c0-62.8 40.2-116.2 96.2-135.9c-.1-2.7-.2-5.4-.2-8.1c0-88.4 71.6-160 160-160c59.3 0 111 32.2 138.7 80.2C409.9 102 428.3 96 448 96c53 0 96 43 96 96c0 12.2-2.3 23.8-6.4 34.6C596 238.4 640 290.1 640 352c0 70.7-57.3 128-128 128H144zm79-167l80 80c9.4 9.4 24.6 9.4 33.9 0l80-80c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-39 39V184c0-13.3-10.7-24-24-24s-24 10.7-24 24V318.1l-39-39c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9z"/></svg>
+        Download
+      </a>
+    </div>
+  </div>
+  {% endif %}
+
+</div>
+
+
+<div class="prose prose-xl mx-auto">
+  {{content}}
+</div>
 
 <script>
   let isPlaying = false;
-  const playPauseButton = document.getElementById('play-pause-button');
+  const playButton = document.getElementById('playButton');
+  const pauseButton = document.getElementById('pauseButton');
 
   const showAudioButtons = (playing = true) => {
-    if (playing) {
-      playPauseButton.classList.add('fa-pause-circle');
-      playPauseButton.classList.remove('fa-play-circle');
-    } else {
-      playPauseButton.classList.add('fa-play-circle');
-      playPauseButton.classList.remove('fa-pause-circle');
-    }
+    playButton.classList.toggle('hidden');
+    pauseButton.classList.toggle('hidden');
   };
 
   const audioFinishedPlaying = () => {
@@ -147,23 +169,30 @@ layout: oneColumn
     callbacks: {
       stop: audioFinishedPlaying,
     },
+    waveforms: {
+      sample_rate: 500,
+    }
   };
   Amplitude.init(options);
 
   // Handle a click on the song played progress bar.
-  document
-    .getElementById('song-played-progress')
-    .addEventListener('click', function (event) {
-      const offset = this.getBoundingClientRect();
+  const progressBarElement = document.getElementById('song-played-progress');
+
+  const setProgressBar = (event) => {
+    const offset = progressBarElement.getBoundingClientRect();
+      const offsetWidth = progressBarElement.offsetWidth;
       const x = event.pageX - offset.left;
 
       Amplitude.setSongPlayedPercentage(
-        (parseFloat(x) / parseFloat(this.offsetWidth)) * 100
+        (parseFloat(x) / parseFloat(offsetWidth)) * 100
       );
-    });
+  };
 
-  // TODO: Add touch handler?
-  playPauseButton.addEventListener('click', function (event) {
+  ['click', 'touchend'].forEach((event) => {
+    progressBarElement.addEventListener(event, setProgressBar);
+  });
+
+  const togglePlaying = () =>{
     if (!isPlaying) {
       Amplitude.play();
       isPlaying = true;
@@ -172,5 +201,8 @@ layout: oneColumn
       isPlaying = false;
     }
     showAudioButtons(isPlaying);
-  });
+  };
+
+  playButton.addEventListener('click', togglePlaying);
+  pauseButton.addEventListener('click', togglePlaying);
 </script>

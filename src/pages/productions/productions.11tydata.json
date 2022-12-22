@@ -1,5 +1,6 @@
 {
   "showDate": true,
   "description": "Latest productions from DJ Cruze",
-  "tags": ["production"]
+  "tags": ["production"],
+  "download": true
 }

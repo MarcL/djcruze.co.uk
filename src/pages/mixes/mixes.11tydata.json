@@ -1,5 +1,7 @@
 {
-  "showDate": true,
+  "showDate": false,
   "description": "A funky house music mix from DJ Cruze",
-  "tags": ["mix"]
+  "tags": ["mix"],
+  "layout": "audio",
+  "download": true
 }

@@ -25,9 +25,7 @@ layout: default
   {% endif %}  
 </main>
 
-{%- capture sectionContent -%}
-  {% include partials/content.liquid, content: content %}
-{%- endcapture -%}
-
-{%- include section, sectionContent: sectionContent, theme: 'light' -%}
+<div class="w-full max-w-7xl mx-auto {{theme.main.background}} py-8 px-4 2xl:px-0">
+  {{content}}
+</div>
 

@@ -26,7 +26,7 @@ module.exports = {
             hover: 'hover:fill-cyan-500'
         },
         tracklist: {
-            hover: 'hover:bg-cyan-500 hover:text-white'
+            hover: 'hover:bg-cyan-800 hover:text-white'
         }
     },
     components: {

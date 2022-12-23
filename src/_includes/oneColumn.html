@@ -4,12 +4,12 @@ layout: default
 
 <main class="w-full max-w-7xl mx-auto {{theme.main.background}}">
   <div id="pageTitle" class="py-2 text-center space-y-2">
-    <h2 class="uppercase {{theme.main.text}} text-6xl font-extrabold">{{title}}</h2>
+    <h1 class="uppercase {{theme.main.text}} text-4xl md:text-6xl font-extrabold">{{title}}</h1>
     {% if subtitle %}
-    <h3 class="uppercase {{theme.main.secondary}} text-4xl font-semibold">{{subtitle}}</h3>
+    <h2 class="uppercase {{theme.main.secondary}} text-2xl md:text-4xl font-semibold">{{subtitle}}</h2>
     {% endif %}
     {% if showDate %}
-    <h3 class="uppercase {{theme.main.date}} text-2xl font-semibold">{{page.date | pageDate}}</h3>
+    <h3 class="uppercase {{theme.main.date}} text-base md:text-2xl font-semibold">{{page.date | pageDate}}</h3>
     {% endif %}
   </div>
 
@@ -19,13 +19,16 @@ layout: default
       src="{{headerImage}}"
       title="{{title}}"
       alt="{{title}}"
-      class="rounded-none 2xl:rounded-md shadow-md "
+      class="rounded-none 2xl:rounded-md shadow-md object-cover"
+      fetchpriority="high"
+      width="1280"
+      height="600"
     />
   </div>
   {% endif %}  
 </main>
 
-<div class="w-full max-w-7xl mx-auto {{theme.main.background}} py-8 px-4 2xl:px-0">
+<div class="w-full max-w-7xl mx-auto {{theme.main.background}} py-0 md:py-8 px-4 2xl:px-0">
   {{content}}
 </div>
 

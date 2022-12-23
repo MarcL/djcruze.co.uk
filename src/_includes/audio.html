@@ -2,9 +2,9 @@
 layout: oneColumn
 ---
 
-<div class="w-full max-w-6xl mx-auto {{theme.audioPlayer.background}} py-8 px-4">
+<div class="w-full max-w-6xl mx-auto {{theme.audioPlayer.background}} py-2 md:py-8 px-4">
 
-<div class="grid grid-cols-1 md:grid-cols-6 gap-x-4 items-start">
+<div class="grid grid-cols-1 md:grid-cols-6 gap-x-0 md:gap-x-4 items-start">
   <!-- Image -->
   <div class="col-span-2 justify-self-center md:justify-self-end" id="audio-player">
     <div class="w-full">
@@ -12,13 +12,13 @@ layout: oneColumn
         data-amplitude-song-info="cover_art_url"
         title="{{media.title}}"
         alt="{{media.title}}"
-        class="rounded-sm mx-auto w-80 h-80"
+        class="rounded-sm mx-auto w-80 h-80 aspect-square object-cover"
       />
     </div>
   </div>
   
   <div class="col-span-4 grid grid-cols-1 gap-y-4" id="player-controls">
-    <div class="text-xl font-semibold text-left">
+    <div class="text-xl font-semibold text-center md:text-left">
       <div class="">
         <div data-amplitude-song-info="name" class="text-xl font-semibold uppercase"></div>
         <div data-amplitude-song-info="artist" class="text-2xl font-bold uppercase"></div>
@@ -78,10 +78,10 @@ layout: oneColumn
 </div>
 
 {% if media.tracklist %}
-<div class="col-span-4 md:col-span-6 py-8 w-full mx-auto">
-  <h2 class="text-2xl font-bold text-center uppercase py-4">Tracklist</h2>
+<div class="col-span-4 md:col-span-6 py-2 md:py-8 w-full mx-auto">
+  <h2 class="text-lg md:text-2xl font-bold text-center uppercase py-4">Tracklist</h2>
   {% assign jsonTracklist = media.tracklist | tracklistToJson %}
-  <table class="table-auto w-full text-lg">
+  <table class="table-auto w-full text-base md:text-lg">
     <thead class="uppercase">
       <tr>
         <th>Artist</th>
@@ -91,7 +91,7 @@ layout: oneColumn
         {% endif %}
       </tr>
     </thead>
-    <tbody class="uppercase">
+    <tbody class="uppercase text-sm md:text-lg">
     {% for track in jsonTracklist.tracklist %}
       <tr class="text-center {{theme.audioPlayer.tracklist.hover}} h-10" data-timestamp="{{track.timestampInSeconds}}">
         <td>{{track.artist}}</td>
@@ -113,7 +113,7 @@ layout: oneColumn
   <!-- Download -->
   {% if download %}
   <div class="py-4">
-    <div class="w-1/2 p-4 rounded-md shadow-md mx-auto text-center {{theme.components.button}}" id="downloadButton">
+    <div class="w-full md:w-1/2 p-4 rounded-md shadow-md mx-auto text-center {{theme.components.button}}" id="downloadButton">
       <a
         href="{{site.mediaFilesUrl}}{{media.content}}"
         title="{{media.title}}"

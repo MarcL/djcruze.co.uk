@@ -93,7 +93,7 @@ layout: oneColumn
     </thead>
     <tbody class="uppercase text-sm md:text-lg">
     {% for track in jsonTracklist.tracklist %}
-      <tr class="text-center {{theme.audioPlayer.tracklist.hover}} h-10" data-timestamp="{{track.timestampInSeconds}}">
+      <tr class="text-center {{theme.audioPlayer.tracklist.hover}} h-10 align-top" data-timestamp="{{track.timestampInSeconds}}">
         <td>{{track.artist}}</td>
         <td>{{track.title}}</td>
         {% if jsonTracklist.hasLabels %}

@@ -15,7 +15,7 @@
     "serve": "eleventy --serve & npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --watch"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.2",
+    "@11ty/eleventy": "2.0.0-canary.23",
     "@aloskutov/eleventy-plugin-external-links": "^1.4.3",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.8",

@@ -10,8 +10,8 @@ layout: oneColumn
     <div class="w-full">
       <img
         data-amplitude-song-info="cover_art_url"
-        title="{{media.title}}"
-        alt="{{media.title}}"
+        title="{{title}}"
+        alt="{%- if media.title -%}{{media.title}}{%- else -%}DJ Cruze Audio{%- endif -%}"
         class="rounded-sm mx-auto w-80 h-80 aspect-square object-cover"
       />
     </div>
@@ -66,6 +66,8 @@ layout: oneColumn
           ><img
             src="{{podcastItem.icon}}"
             class="w-10 h-10 rounded-sm"
+            title="{{podcastItem.name}}"
+            alt="Subscribe with {{podcastItem.name}}"
         /></a>
         {% endfor %}
       </div>

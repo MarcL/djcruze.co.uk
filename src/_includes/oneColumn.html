@@ -15,17 +15,9 @@ layout: default
 
   {% if headerImage %}
   <div class="w-full py-2 px-0">
-    <img
-      src="{{headerImage}}"
-      title="{{title}}"
-      alt="{{title}}"
-      class="rounded-none 2xl:rounded-md shadow-md object-cover"
-      fetchpriority="high"
-      width="1280"
-      height="600"
-    />
+    {% image headerImage "rounded-none 2xl:rounded-md shadow-md object-cover" title "(min-width: 30em) 50vw, 100vw" true %}
   </div>
-  {% endif %}  
+  {% endif %}
 </main>
 
 <div class="w-full max-w-7xl mx-auto {{theme.main.background}} py-0 md:py-8 px-4 2xl:px-0">

@@ -13,7 +13,7 @@ description: 'The latest news from DJ Cruze'
 <article class="w-full grid grid-cols-1 md:grid-cols-6 items-start py-2 gap-x-8 gap-y-4 group">
     <div class="col-span-1 md:col-span-2">
         <a class="" href="{{post.url}}">
-            <img class="shadow-md rounded-md" src="{{post.data.headerImage}}" title="{{post.data.title}}">
+            {% image post.data.headerImage "shadow-md rounded-md" post.data.title "(min-width: 1280px) 25vw, (min-width: 768px) 50vw, 100vw" %}
         </a>
     </div>
     <div class="col-span-1 md:col-span-4 {{theme.main.text}} space-y-2">

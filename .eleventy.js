@@ -4,8 +4,46 @@ const escape = require('lodash.escape');
 const embedYouTube = require('eleventy-plugin-youtube-embed');
 const rfc822Date = require('rfc822-date');
 const externalLinks = require("@aloskutov/eleventy-plugin-external-links");
+const Image = require("@11ty/eleventy-img");
+const path = require('path');
+
 
 module.exports = (eleventyConfig) => {
+  async function imageShortcode(src, className = 'rounded-none 2xl:rounded-md shadow-md object-cover', alt, sizes, highPriority = false) {
+    // Is it a local or internet source?
+    const imageSource = /^http[s]*/.test(src) ? src : `./src${src}`;
+  
+    const urlPath = '/images/generated/';
+    let metadata = await Image(imageSource, {
+      widths: [300, 600, 1024, 1280],
+      formats: ['avif', 'jpeg', 'webp'],
+      urlPath,
+      outputDir: path.join(eleventyConfig.dir.output, urlPath),
+      filenameFormat: function (id, src, width, format) {
+        const extension = path.extname(src);
+        const name = path.basename(src, extension);
+    
+        return `${name}-${width}.${format}`;
+      }
+    });
+  
+    let imageAttributes = {
+      class: className,
+      alt,
+      sizes,
+      loading: 'lazy',
+      decoding: 'async',
+    };
+  
+    if (highPriority) {
+      imageAttributes.fetchpriority = 'high';
+      delete imageAttributes.loading;
+      delete imageAttributes.decoding;
+    }
+
+    return Image.generateHTML(metadata, imageAttributes);
+  };
+
   eleventyConfig.setLiquidOptions({
     dynamicPartials: false,
   });
@@ -21,6 +59,7 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addPassthroughCopy({ 'src/css': 'css' });
   eleventyConfig.addPassthroughCopy({ 'src/fonts': 'fonts' });
 
+  // Shortcodes
   eleventyConfig.addShortcode('version', function () {
     return String(Date.now());
   });
@@ -28,6 +67,8 @@ module.exports = (eleventyConfig) => {
   eleventyConfig.addShortcode('buildDate', function () {
     return rfc822Date(new Date());
   });
+
+  eleventyConfig.addShortcode('image', imageShortcode);
 
   const dateToISO = (dateValue) => new Date(dateValue).toISOString();
 

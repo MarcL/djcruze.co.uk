@@ -41,11 +41,7 @@ layout: default
     <div>
       <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2">Latest Podcast</h3>
       <a href="{{latestPodcast.url}}" class="group" title="{{latestPodcast.data.title}}" alt="{{latestTitle}}">
-          {%- if latestPodcast.data.media.image -%}
-              <img class="w-full shadow-md rounded-md group-hover:brightness-75" src="{{latestPodcast.data.media.image}}" alt="{{latestPodcast.data.title}}" title="{{latestPodcast.data.title}}" />
-          {%- else -%}
-              <img class="w-full shadow-md rounded-md group-hover:brightness-75" src="/images/mixes/" alt="{{latestPodcast.data.title}}" title="{{latestPodcast.data.title}}" />
-          {%- endif -%}
+          {% image latestPodcast.data.media.image "w-full shadow-md rounded-md group-hover:brightness-75" latestPodcast.data.title "(min-width: 30em) 50vw, 100vw" %}
           <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2 group-hover:underline">{{latestPodcast.data.title}}</h3>
       </a>
       {%- if latestPodcast.data.excerpt -%}
@@ -58,11 +54,7 @@ layout: default
     <div>
       <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2">Latest Mix</h3>
       <a href="{{latestMix.url}}" class="group" title="{{latestMix.data.title}}" alt="{{latestTitle}}">
-          {%- if latestMix.data.media.image -%}
-              <img class="w-full shadow-md rounded-md group-hover:brightness-75" src="{{latestMix.data.media.image}}" alt="{{latestMix.data.title}}" title="{{latestMix.data.title}}" />
-          {%- else -%}
-              <img class="w-full shadow-md rounded-md group-hover:brightness-75" src="/images/mixes/" alt="{{latestMix.data.title}}" title="{{latestMix.data.title}}" />
-          {%- endif -%}
+          {% image latestMix.data.media.image "w-full shadow-md rounded-md group-hover:brightness-75" latestMix.data.title "(min-width: 30em) 50vw, 100vw" %}
           <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2 group-hover:underline">{{latestMix.data.title}}</h3>
       </a>
       {%- if latestMix.data.excerpt -%}

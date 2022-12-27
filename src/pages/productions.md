@@ -1,6 +1,6 @@
 ---
 layout: oneColumn
-title: 'Productions'
+title: 'DJ Cruze Productions'
 permalink: '/productions/'
 headerImage: '/images/headers/touchpad.jpg'
 description: 'Latest productions from DJ Cruze'

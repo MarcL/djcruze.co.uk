@@ -1,3 +1,9 @@
+{% if text %}
+<div class="prose prose-xl mx-auto">
+  {{audioText}}
+</div>
+{% endif %}
+
 <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 items-start py-8">
   {%- for item in collection reversed -%}
     {%- include partials/audioCollectionItem, item: item -%}

@@ -29,8 +29,10 @@
     
     {% include partials/openGraph %}
 
+    {% if loadAudioPlayer %}
     <script
         type="text/javascript"
         src="https://cdn.jsdelivr.net/npm/amplitudejs@5.2.0/dist/amplitude.js"
     ></script>
+    {% endif %}
 </head>

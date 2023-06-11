@@ -32,9 +32,9 @@ media:
     - 'Screen II - Mr DJ (Dasilva / McCreary Remix) - Cleveland City Records'
     - 'Banging From The Bedroom - Let Me In (To Your Life) (Xen Mantra Revamp) - Gash Records'
     - 'Tonja Dantzler - In And Out Of My Life (Original Mix) - Lady Bird Records'
-    - "??? - ??? *Another one to look up! It's either Xen Mantra or D.O.P.*"
-    - '??? - ???'
+    - 'Fabritzio - Deep Emotions'
     - "Pascal's Bongo Massive - Pere Cochon (I Like It) (Where Ya Goin? Factory Mix) - Tribal US"
+    - 'Fabritzio - Emotions'
     - 'Masters Of The Monotonal Groove - To Kill Or Be Killed - 3 Beat Music'
     - 'Roller Coaster - My Geetar Hertz (Original Mix) - Higher State Records'
     - 'Way Out West - Montana (Let Yourself Go) - Terra Firma'

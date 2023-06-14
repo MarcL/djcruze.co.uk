@@ -36,7 +36,7 @@ media:
     - 'God Within - The Phoenix - White label'
     - 'Jazz Ma Ass - Kitsch In Sync'
     - 'The Cotton Club - Just Play The Music - Fantastic Records'
-    - 'Bubbleman - Theme'
+    - 'Bubbleman - Theme (Luvdup presents Theme Meets Get On) - Stress Records'
     - 'Stretch Boys - Versatile'
     - 'Screen II - Let The Record Spin - Cleveland City Records'
     - "New State Crew - Can't Stop, Don't Stop"

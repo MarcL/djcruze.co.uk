@@ -7,11 +7,11 @@ headerImage: '/images/headers/dj-cruze-graffiti-header.jpg'
 description: 'Learn more about DJ Cruze'
 ---
 
-DJ Cruze is the alter ego of house music DJ and producer Marc Littlemore.
+DJ Cruze is the alter ego of UK house music DJ and producer Marc Littlemore.
 
 He's been rocking dancefloors since 1988 with his blend of funky house music, electro and breakbeats all topped with his scratching skills.
 
-He's played all over the UK and Germany and has held residencies at some of Manchester's finest clubs including Vibration and The Loft Club in Germany and DNA and 2Kinky in Manchester, UK.
+He's played all over the UK and Germany and has held residencies at some of the finest clubs including Vibration and The Loft Club in Germany, and DNA and 2Kinky in Manchester, UK.
 
 ## The early days
 
@@ -21,19 +21,21 @@ Listening to Radio 1's Jeff Young, the predecessor to Pete Tong, on Friday eveni
 
 On a belt-driven pair of Soundlab turntables and a Radioshack mixer he started to learn to mix and scratch. Surprisingly he became quite good and his mixtapes got passed around the schoolyard.
 
-## Manchester is in the house
+## "Manchester is in the House!"
 
 A move to Manchester in 1990 to study at the university gave Marc a new found freedom to party. Manchester's thriving club scene, and the acid house explosion, allowed him to spend all of his money on vinyl and parties. He DJ'ed at various student bars and clubs in the city and these parties helped him to learn his crowd-pleasing skills.
 
 In 1992, a chance meeting of mutual girlfriends introduced Marc to his long-term friend and DJ'ing partner Mark Wyss, aka [DJ Vuish](https://mixcloud.com/vuish).
 
-As Wyss was studying in Mannheim, it proved the perfect opportunity for DJ Cruze mixtapes to enter the Germany and for Mannheim's clubbers to be introduced to **"Manchester House"** a fine blend of early-90s funky UK and US house.
+As Wyss was studying in Mannheim, it proved the perfect opportunity for DJ Cruze mixtapes to enter Germany and for Mannheim's clubbers to be introduced to **"Manchester House"** - a fine blend of early-90s funky UK, Italian, and US house music.
 
 ## And so to Germany
 
 Germany loved the funky house sounds and in August 1993, DJ Cruze was invited to perform at his first gigs in Germany; the XS Club in Frankfurt and the legendary Milk! Club in Mannheim.
 
-He returned in February 1994 to play at the Om Club in Heilbronn where he played a 5-hour set. From these early German DJ gigs, the partnership of DJ Cruze and DJ Vuish was born and from 1994, it began a 5 year residency at the legendary Vibration Club in Forst.
+He returned in February 1994 to play at the Om Club in Heilbronn where he played a 5-hour set. From these early German DJ gigs, the partnership of DJ Cruze and DJ Vuish was born and from 1994, it began a 5 year residency for the pair at the legendary Vibration Club in Forst.
+
+Those parties were wild with 1000+ clubbers packing the dancefloor each week. The pair played a mix of funky house, hip house, progressive house, and old-school breakbeats and the crowd loved it.
 
 They both continued to DJ in the UK and held various residencies and guest spots in some of Manchester's finest venues including The Haçienda, DNA, 2Kinky and Home.
 
@@ -47,7 +49,7 @@ However, DJ Cruze has house music in his blood and he's always ready to rock a p
 
 ## Residencies and guest appearances
 
-Some of the clubs where DJ Cruze has played. There are probably many more but his memory isn't great and camera phones didn't exist to record the photos!
+Here's a list of some of the clubs where DJ Cruze has played. There are probably many more but his memory isn't great and camera phones didn't exist to record the photos!
 
 ### UK
 

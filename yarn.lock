@@ -616,10 +616,10 @@ deep-extend@^0.6.0:
   resolved "https://registry.yarnpkg.com/deep-extend/-/deep-extend-0.6.0.tgz#c4fa7c95404a17a9c3e8ca7e1537312b736330ac"
   integrity sha512-LOHxIOaPYdHlJRtCQfDIVZtfw/ufM8+rVj649RIHzcm/vGwQRXFt6OPqIFWsm2XEMrNIEtWR64sY1LEKD2vAOA==
 
-deepmerge@^4.2.2:
-  version "4.2.2"
-  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.2.2.tgz#44d2ea3679b8f4d4ffba33f03d865fc1e7bf4955"
-  integrity sha512-FJ3UgI4gIl+PHZm53knsuSFpE+nESMr7M4v9QcgB7S63Kj/6WqMiFQJpBBYz1Pt+66bZpP3Q7Lye0Oo9MPKEdg==
+deepmerge@^4.3.1:
+  version "4.3.1"
+  resolved "https://registry.yarnpkg.com/deepmerge/-/deepmerge-4.3.1.tgz#44b5f2147cd3b00d4b56137685966f26fd25dd4a"
+  integrity sha512-3sUqbMEc77XqpdNO7FRyRog+eW3ph+GYCbj+rK+uYyRMuwsVy0rMiVtPn+QJlKFvWP/1PYpapqYn0Me2knFn+A==
 
 defer-to-connect@^2.0.1:
   version "2.0.1"
@@ -730,11 +730,11 @@ ejs@^3.1.9:
     jake "^10.8.5"
 
 eleventy-plugin-youtube-embed@^1.7.1:
-  version "1.7.1"
-  resolved "https://registry.yarnpkg.com/eleventy-plugin-youtube-embed/-/eleventy-plugin-youtube-embed-1.7.1.tgz#88d73a86ea3e5436f1f7494c10be6e358b9f53c2"
-  integrity sha512-KzK83RTkIfykxN3yAv7PaRVl/b4TocuHNz6mKKVM0z9cybwJReneRSisjZtMg703SOGKteTSM3M7S+nMTLRj/g==
+  version "1.9.1"
+  resolved "https://registry.yarnpkg.com/eleventy-plugin-youtube-embed/-/eleventy-plugin-youtube-embed-1.9.1.tgz#e62939ff16d14795d6b3cc8d2b933e34580394c9"
+  integrity sha512-qGNKnWu3h7nXrm7kdSALiJQIuqNu8PiNwAkteoGgHTVoeM1smHtuKSEJWfApio7x76bDEZBQJpu+qa9ibTG2sQ==
   dependencies:
-    deepmerge "^4.2.2"
+    deepmerge "^4.3.1"
     lite-youtube-embed "^0.2.0"
 
 encodeurl@~1.0.2:

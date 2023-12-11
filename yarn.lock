@@ -1612,9 +1612,9 @@ neo-async@^2.6.2:
   integrity sha512-Yd3UES5mWCSqR+qNT93S3UoYUkqAZ9lLg8a7g9rimsWmYGK8cVToA4/sF3RrshdyV3sAGMXVUmpMYOw+dLpOuw==
 
 node-abi@^3.3.0:
-  version "3.51.0"
-  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.51.0.tgz#970bf595ef5a26a271307f8a4befa02823d4e87d"
-  integrity sha512-SQkEP4hmNWjlniS5zdnfIXTk1x7Ome85RDzHlTbBtzE97Gfwz/Ipw4v/Ryk20DWIy3yCNVLVlGKApCnmvYoJbA==
+  version "3.52.0"
+  resolved "https://registry.yarnpkg.com/node-abi/-/node-abi-3.52.0.tgz#ffba0a85f54e552547e5849015f40f9514d5ba7c"
+  integrity sha512-JJ98b02z16ILv7859irtXn4oUaFWADtvkzy2c0IAatNVX2Mc9Yoh8z6hZInn3QwvMEYhHuQloYi+TTQy67SIdQ==
   dependencies:
     semver "^7.3.5"
 
@@ -2560,9 +2560,9 @@ wrappy@1:
   integrity sha512-l4Sp/DRseor9wL6EvV2+TuQn63dMkPjZ/sp9XkghTEbV9KlPS1xUsZ3u7/IQO4wxtcFB4bgpQPRcR3QCvezPcQ==
 
 ws@^8.13.0:
-  version "8.14.2"
-  resolved "https://registry.yarnpkg.com/ws/-/ws-8.14.2.tgz#6c249a806eb2db7a20d26d51e7709eab7b2e6c7f"
-  integrity sha512-wEBG1ftX4jcglPxgFCMJmZ2PLtSbJ2Peg6TmpJFTbe9GZYOQCDPdMYu/Tm0/bGZkw8paZnJY45J4K2PZrLYq8g==
+  version "8.15.0"
+  resolved "https://registry.yarnpkg.com/ws/-/ws-8.15.0.tgz#db080a279260c5f532fc668d461b8346efdfcf86"
+  integrity sha512-H/Z3H55mrcrgjFwI+5jKavgXvwQLtfPCUEp6pi35VhoB0pfcHnSoyuTzkBEZpzq49g1193CUEwIvmsjcotenYw==
 
 xml-name-validator@^4.0.0:
   version "4.0.0"

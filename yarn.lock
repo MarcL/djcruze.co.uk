@@ -34,16 +34,6 @@
     node-fetch "^2.6.7"
     p-queue "^6.6.2"
 
-"@11ty/eleventy-fetch@^4.0.0":
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/@11ty/eleventy-fetch/-/eleventy-fetch-4.0.0.tgz#500d69b9ec336d8e4fd1e618cabb9a262c7a333f"
-  integrity sha512-wGAd0r+8DUWr22fK5r07dOKuNY6ltA7hX+sJzngGZL1yJmuUVdM/xPQZ+iq0BFgf/ZeRdpVEzf2D0cpVZUuiTg==
-  dependencies:
-    debug "^4.3.4"
-    flat-cache "^3.0.4"
-    node-fetch "^2.6.7"
-    p-queue "^6.6.2"
-
 "@11ty/eleventy-img@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@11ty/eleventy-img/-/eleventy-img-2.0.1.tgz#21ae62a8b252ca857af01282a00139e91feb317d"
@@ -806,14 +796,12 @@ ejs@^3.1.9:
     jake "^10.8.5"
 
 eleventy-plugin-youtube-embed@^1.7.1:
-  version "1.10.0"
-  resolved "https://registry.yarnpkg.com/eleventy-plugin-youtube-embed/-/eleventy-plugin-youtube-embed-1.10.0.tgz#0fe7a9cfe8554d7d95e5d34b2e07534df078f0b7"
-  integrity sha512-lmAh+bnYN6+/TYBpuJAh6/MWeuxvdZzx9WpKdfGVTm7Ok9QP1vlDyJ+aYMHDSkF3MyeXFZeNknmRsh5ZqWk5YQ==
+  version "1.10.1"
+  resolved "https://registry.yarnpkg.com/eleventy-plugin-youtube-embed/-/eleventy-plugin-youtube-embed-1.10.1.tgz#204312b18cb034f0e24a45684deca594f5a601c8"
+  integrity sha512-8A5OKrayK9A2afScBms/xxYK4VwgDBbnBKUVcUf1yzoD9KlPgqXt6QG+UA3bdiHwxqEq+9B/PKzdmQ7PzgiFLg==
   dependencies:
-    "@11ty/eleventy-fetch" "^4.0.0"
     deepmerge "^4.3.1"
     lite-youtube-embed "^0.3.0"
-    string-replace-async "2.0.0"
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2397,11 +2385,6 @@ statuses@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"
   integrity sha512-RwNA9Z/7PrK06rYLIzFMlaF+l73iwpzsqRIFgbMLbTcLD6cOao82TaWefPXQvB2fOC4AjuYSEndS7N/mTCbkdQ==
-
-string-replace-async@2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/string-replace-async/-/string-replace-async-2.0.0.tgz#c3224e89d1216d6116e6e229cf74223cd84a733b"
-  integrity sha512-AHMupZscUiDh07F1QziX7PLoB1DQ/pzu19vc8Xa8LwZcgnOXaw7yCgBuSYrxVEfaM2d8scc3Gtp+i+QJZV+spw==
 
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
   name string-width-cjs

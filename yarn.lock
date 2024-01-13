@@ -34,6 +34,16 @@
     node-fetch "^2.6.7"
     p-queue "^6.6.2"
 
+"@11ty/eleventy-fetch@^4.0.0":
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/@11ty/eleventy-fetch/-/eleventy-fetch-4.0.0.tgz#500d69b9ec336d8e4fd1e618cabb9a262c7a333f"
+  integrity sha512-wGAd0r+8DUWr22fK5r07dOKuNY6ltA7hX+sJzngGZL1yJmuUVdM/xPQZ+iq0BFgf/ZeRdpVEzf2D0cpVZUuiTg==
+  dependencies:
+    debug "^4.3.4"
+    flat-cache "^3.0.4"
+    node-fetch "^2.6.7"
+    p-queue "^6.6.2"
+
 "@11ty/eleventy-img@^2.0.1":
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/@11ty/eleventy-img/-/eleventy-img-2.0.1.tgz#21ae62a8b252ca857af01282a00139e91feb317d"
@@ -796,12 +806,14 @@ ejs@^3.1.9:
     jake "^10.8.5"
 
 eleventy-plugin-youtube-embed@^1.7.1:
-  version "1.10.1"
-  resolved "https://registry.yarnpkg.com/eleventy-plugin-youtube-embed/-/eleventy-plugin-youtube-embed-1.10.1.tgz#204312b18cb034f0e24a45684deca594f5a601c8"
-  integrity sha512-8A5OKrayK9A2afScBms/xxYK4VwgDBbnBKUVcUf1yzoD9KlPgqXt6QG+UA3bdiHwxqEq+9B/PKzdmQ7PzgiFLg==
+  version "1.10.2"
+  resolved "https://registry.yarnpkg.com/eleventy-plugin-youtube-embed/-/eleventy-plugin-youtube-embed-1.10.2.tgz#20b52400de0a88f8446c3f4b3c1f9786f17a2256"
+  integrity sha512-N0068hshDe+sG50SEk4zLbwClaTeyl000WiqmNACRG2Iwb2/iTVV4IGTv7d1yWz/5DGVpsHMniboHJSyChvc9w==
   dependencies:
+    "@11ty/eleventy-fetch" "^4.0.0"
     deepmerge "^4.3.1"
     lite-youtube-embed "^0.3.0"
+    string-replace-async "^3.0.2"
 
 emoji-regex@^8.0.0:
   version "8.0.0"
@@ -2386,7 +2398,13 @@ statuses@2.0.1:
   resolved "https://registry.yarnpkg.com/statuses/-/statuses-2.0.1.tgz#55cb000ccf1d48728bd23c685a063998cf1a1b63"
   integrity sha512-RwNA9Z/7PrK06rYLIzFMlaF+l73iwpzsqRIFgbMLbTcLD6cOao82TaWefPXQvB2fOC4AjuYSEndS7N/mTCbkdQ==
 
+string-replace-async@^3.0.2:
+  version "3.0.2"
+  resolved "https://registry.yarnpkg.com/string-replace-async/-/string-replace-async-3.0.2.tgz#5aaa94b38dc57a3fd05a2d83cb4c989ba33663dd"
+  integrity sha512-s6hDtXJ7FKyRap/amefqrOMpkEQvxUDueyvJygQeHxCK5Za90dOMgdibCCrPdfdAYAkr8imrZ1PPXW7DOf0RzQ==
+
 "string-width-cjs@npm:string-width@^4.2.0", string-width@^4.1.0:
+  name string-width-cjs
   version "4.2.3"
   resolved "https://registry.yarnpkg.com/string-width/-/string-width-4.2.3.tgz#269c7117d27b05ad2e536830a8ec895ef9c6d010"
   integrity sha512-wKyQRQpjJ0sIp62ErSZdGsjMJWsap5oRNihHhu6G7JVO/9jIB6UyevL+tXuOqrng8j/cxKTWyWUwvSTriiZz/g==
@@ -2412,6 +2430,7 @@ string_decoder@^1.1.1:
     safe-buffer "~5.2.0"
 
 "strip-ansi-cjs@npm:strip-ansi@^6.0.1", strip-ansi@^6.0.0, strip-ansi@^6.0.1:
+  name strip-ansi-cjs
   version "6.0.1"
   resolved "https://registry.yarnpkg.com/strip-ansi/-/strip-ansi-6.0.1.tgz#9e26c63d30f53443e9489495b2105d37b67a85d9"
   integrity sha512-Y38VPSHcqkFrCpFnQ9vuSXmquuv5oXOKpGeT6aGrr3o3Gc9AlVa6JBfUSOCnbxGGZF+/0ooI7KrPuUSztUdU5A==

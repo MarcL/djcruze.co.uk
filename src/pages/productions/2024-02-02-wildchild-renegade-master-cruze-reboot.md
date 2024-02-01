@@ -19,11 +19,11 @@ layout: audio
 
 If you've ever been to see me DJ since 1995 then you'll have heard me spin the Renegade Master Mix of this Wildchild track. It's become a bit of a signature tune for me and I've played it at loads of gigs over the years.
 
-I was a big fan of Wildchild as he fused hip-hop samples with tough and skippy house beats and chunky basslines. All of his tunes were big for me and I played loads of them in my DJ sets over the years.
+I was a big fan of Wildchild as he fused hip-hop samples with tough and skippy house beats and chunky basslines. All of his tunes were big for me and I played loads of them in my DJ sets.
 
-His "Legends of the Dark Black - Part 2" EP was released in 1995 on the Loaded Records label and featured the classic Renegade Master Mix. Most people now know it as "Renegade Master" and it's a huge track.
+His "Legends of the Dark Black - Part 2" EP was released in 1995 on the Loaded Records label and featured this classic Renegade Master Mix. It sampled the A.D.O.R. track "One for the Trouble" and he cut up the vocal into the track you know and love. Most people now know it as "Renegade Master" and it's a huge track. 🙌
 
-For the gig at GM Warehouse on 27th January 2024, I knew I was going to play this track but I wanted to give it a bit of a cheeky reboot to tease the crowd. I love the old Incredible Bongo Band track "Apache" and its classic hip-hop breakbeat, and decided to fuse the two tracks for a cheeky breakbeat breakdown.
+For the gig at GM Warehouse on 27th January 2024, I knew I was going to play this track but I wanted to give it a bit of a cheeky reboot to tease the crowd. I love the old Incredible Bongo Band track "Apache" and its classic hip-hop breakbeat, and decided to fuse the two tracks for a horn-filled breakbeat breakdown.
 
 Please download it and put it into your mixes. It's a 320 kbps MP3 so it should be good quality but if you need a WAV version then let me know.
 

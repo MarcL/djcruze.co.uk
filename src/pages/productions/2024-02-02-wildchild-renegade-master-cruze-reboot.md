@@ -27,5 +27,12 @@ For the gig at GM Warehouse on 27th January 2024, I knew I was going to play thi
 
 Please download it and put it into your mixes. It's a 320 kbps MP3 so it should be good quality but if you need a WAV version then let me know.
 
-Enjoy! 🎉
+Here's the original track on YouTube:
 
+https://www.youtube.com/watch?v=2P9P2-XEKwY
+
+And here's the A.D.O.R. track that Wildchild sampled:
+
+https://www.youtube.com/watch?v=jFzJ5EXTJFk
+
+Enjoy! 🎉

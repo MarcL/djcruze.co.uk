@@ -3,7 +3,7 @@ title: 'Wildchild - Legends of the Dark Black (Renegade Master Mix)'
 subtitle: 'DJ Cruze Apache Reboot'
 excerpt: 'DJ Cruze remix of the classic house track - Legends of the Dark Black (Renegade Master Mix) by Wildchild'
 
-permalink: /productions/wildchild-renegade-master-dj-cruze-reboot/
+permalink: /productions/wildchild-renegade-master-dj-cruze-apache-reboot/
 'itunes:category':
   - Music
 categories:

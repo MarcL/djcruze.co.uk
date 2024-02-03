@@ -28,4 +28,8 @@ progress.amplitude-song-played-progress {
     background-color: rgb(59 130 246);
   }
   
-  
+  div.amplitude-wave-form svg {
+    height: 100px;
+    width: 100%;
+    stroke-width: .5px;
+  }

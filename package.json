@@ -15,7 +15,7 @@
     "serve": "ELEVENTY_ENV=dev eleventy --serve & npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --watch"
   },
   "devDependencies": {
-    "@11ty/eleventy": "2.0.1",
+    "@11ty/eleventy": "3.0.0",
     "@11ty/eleventy-img": "^3.1.8",
     "@aloskutov/eleventy-plugin-external-links": "^2.1.0",
     "@tailwindcss/forms": "^0.5.3",

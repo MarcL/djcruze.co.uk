@@ -15,14 +15,14 @@
     "serve": "ELEVENTY_ENV=dev eleventy --serve & npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --watch"
   },
   "devDependencies": {
-    "@11ty/eleventy": "2.0.1",
-    "@11ty/eleventy-img": "^3.1.8",
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^5.0.0",
     "@aloskutov/eleventy-plugin-external-links": "^2.1.0",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.8",
     "dotenv": "^16.0.3",
     "eleventy-plugin-youtube-embed": "^1.7.1",
-    "got": "^12.5.3",
+    "got": "^14.4.3",
     "lodash.escape": "^4.0.1",
     "rfc822-date": "^0.0.3",
     "tailwindcss": "^3.2.4"

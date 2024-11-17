@@ -3,24 +3,36 @@ layout: default
 ---
 
 <main class="w-full max-w-7xl mx-auto {{theme.main.background}}">
-  <div id="pageTitle" class="py-2 text-center space-y-2">
-    <h1 class="uppercase {{theme.main.text}} text-4xl md:text-6xl font-extrabold">{{title}}</h1>
-    {% if subtitle %}
-    <h2 class="uppercase {{theme.main.secondary}} text-2xl md:text-4xl font-semibold">{{subtitle}}</h2>
-    {% endif %}
-    {% if showDate %}
-    <h3 class="uppercase {{theme.main.date}} text-base md:text-2xl font-semibold">{{page.date | pageDate}}</h3>
-    {% endif %}
-  </div>
+    <div id="pageTitle" class="py-2 text-center space-y-2">
+        <h1
+            class="uppercase {{theme.main.text}} text-4xl md:text-6xl font-extrabold"
+        >
+            {{title}}
+        </h1>
+        {% if subtitle %}
+        <h2
+            class="uppercase {{theme.main.secondary}} text-2xl md:text-4xl font-semibold"
+        >
+            {{subtitle}}
+        </h2>
+        {% endif %} {% if showDate %}
+        <h3
+            class="uppercase {{theme.main.date}} text-base md:text-2xl font-semibold"
+        >
+            {{page.date | pageDate}}
+        </h3>
+        {% endif %}
+    </div>
 
-  {% if headerImage %}
-  <div class="w-full py-2 px-0">
-    {% image headerImage "rounded-none 2xl:rounded-md shadow-md object-cover" title "(min-width: 30em) 50vw, 100vw" true %}
-  </div>
-  {% endif %}
+    {% if headerImage %}
+    <div class="w-full py-2 px-0">
+        {% image headerImage "rounded-none 2xl:rounded-md shadow-md object-cover" title "(min-width: 30em) 50vw, 100vw" true %}
+    </div>
+    {% endif %}
 </main>
 
-<div class="w-full max-w-7xl mx-auto {{theme.main.background}} py-0 md:py-8 px-4 2xl:px-0">
-  {{content}}
+<div
+    class="w-full max-w-7xl mx-auto {{theme.main.background}} py-0 md:py-8 px-4 2xl:px-0"
+>
+    {{content}}
 </div>
-

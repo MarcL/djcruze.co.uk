@@ -3,210 +3,232 @@ layout: oneColumn
 loadAudioPlayer: true
 ---
 
-<div class="w-full max-w-6xl mx-auto {{theme.audioPlayer.background}} py-2 md:py-8 px-4">
-
-<div class="grid grid-cols-1 md:grid-cols-6 gap-x-0 md:gap-x-4 items-start">
-  <!-- Image -->
-  <div class="col-span-2 justify-self-center md:justify-self-end" id="audio-player">
-    <div class="w-full">
-      <img
-        data-amplitude-song-info="cover_art_url"
-        title="{{title}}"
-        alt="{%- if media.title -%}{{media.title}}{%- else -%}DJ Cruze Audio{%- endif -%}"
-        class="rounded-sm mx-auto w-80 h-80 aspect-square object-cover"
-      />
-    </div>
-    <!-- Download button -->
-    {% if download %}
-    <div class="py-4">
-      <div class="w-full p-4 rounded-sm shadow-md mx-auto text-center {{theme.components.button}}" id="downloadButton">
-        <a
-          href="{{site.mediaFilesUrl}}{{media.content}}"
-          title="{{media.title}}"
-          class="text-xl font-semibold uppercase"
-          alt="Download"
-          download
-          >
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="inline w-7 h-7 fill-current hover:fill-blue-500 align-top"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M144 480C64.5 480 0 415.5 0 336c0-62.8 40.2-116.2 96.2-135.9c-.1-2.7-.2-5.4-.2-8.1c0-88.4 71.6-160 160-160c59.3 0 111 32.2 138.7 80.2C409.9 102 428.3 96 448 96c53 0 96 43 96 96c0 12.2-2.3 23.8-6.4 34.6C596 238.4 640 290.1 640 352c0 70.7-57.3 128-128 128H144zm79-167l80 80c9.4 9.4 24.6 9.4 33.9 0l80-80c9.4-9.4 9.4-24.6 0-33.9s-24.6-9.4-33.9 0l-39 39V184c0-13.3-10.7-24-24-24s-24 10.7-24 24V318.1l-39-39c-9.4-9.4-24.6-9.4-33.9 0s-9.4 24.6 0 33.9z"/></svg>
-          Download
-        </a>
-      </div>
-    </div>
-    {% endif %}
-  </div>
-  
-  <div class="col-span-4 grid grid-cols-1 gap-y-4" id="player-controls">
-    <div class="text-xl font-semibold text-center md:text-left">
-      <div class="">
-        <div data-amplitude-song-info="artist" class="text-2xl font-bold uppercase"></div>
-        <div data-amplitude-song-info="name" class="text-xl font-semibold uppercase"></div>
-        <div class="text-base {{theme.main.secondary}} font-medium uppercase">{{page.date | pageDate}}</div>
-      </div>
-    </div>
-
-    <!-- Waveform -->
-    <!-- <div class="amplitude-wave-form h-16 stroke-current mb-8"></div> -->
-
-    <!-- Controls -->
-    <div class="flex gap-x-4 items-center">
-      <div class="flex-none">
-        <div class="col-span-1 cursor-pointer" id="playButton">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-16 h-16 fill-current {{theme.audioPlayer.controls.hover}}"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M512 256c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM188.3 147.1c-7.6 4.2-12.3 12.3-12.3 20.9V344c0 8.7 4.7 16.7 12.3 20.9s16.8 4.1 24.3-.5l144-88c7.1-4.4 11.5-12.1 11.5-20.5s-4.4-16.1-11.5-20.5l-144-88c-7.4-4.5-16.7-4.7-24.3-.5z"/></svg>
+<div class="grid grid-cols-1 md:grid-cols-5 gap-0 md:gap-4 pb-8">
+    <div class="col-span-2">
+        <div id="cover-image">
+            <img
+                data-amplitude-song-info="cover_art_url"
+                title="{{title}}"
+                alt="{%- if media.title -%}{{media.title}}{%- else -%}DJ Cruze Audio{%- endif -%}"
+                class="rounded-sm mx-auto aspect-square object-cover shadow-lg"
+            />
         </div>
-        <div class="hidden col-span-1 cursor-pointer" id="pauseButton">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="w-16 h-16 fill-current {{theme.audioPlayer.controls.hover}}"><!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM224 192V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32zm128 0V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32z"/></svg>
+        {% if subscribe %}
+        <div class="text-xl font-semibold text-center py-4">
+            <h3 class="uppercase py-2">Subscribe</h3>
+            <div
+                class="flex flex-auto items-center justify-center justify-items-center gap-x-4"
+            >
+                {% for podcastItem in podcast.links %}
+                <a
+                    href="{{podcastItem.url}}"
+                    target="_blank"
+                    rel="noopener"
+                    class="block hover:scale-125"
+                    ><img
+                        src="{{podcastItem.icon}}"
+                        class="w-20 h-20 rounded-sm"
+                        title="{{podcastItem.name}}"
+                        alt="Subscribe with {{podcastItem.name}}"
+                /></a>
+                {% endfor %}
+            </div>
         </div>
-      </div>
-
-      <!-- Progress bar -->
-      <div class="flex-initial w-full">
-        <progress
-          class="amplitude-song-played-progress h-4"
-          id="song-played-progress"
-        ></progress>
-        <!-- Time -->
-        <div class="text-base font-medium text-right">
-          <span class="amplitude-current-time"></span> /
-          <span class="amplitude-duration-time"></span>
-        </div>
-
-      </div>
-    </div>
-    
-    <!-- Subscribe -->
-    {% if subscribe %}
-    <div class="text-xl font-semibold text-center">
-      <h3 class="uppercase py-2">Subscribe</h3>
-      <div class="flex flex-auto items-center justify-center justify-items-center gap-x-4">
-        {% for podcastItem in podcast.links %}
-        <a
-          href="{{podcastItem.url}}"
-          target="_blank"
-          rel="noopener"
-          class="block hover:scale-125"
-          ><img
-            src="{{podcastItem.icon}}"
-            class="w-10 h-10 rounded-sm"
-            title="{{podcastItem.name}}"
-            alt="Subscribe with {{podcastItem.name}}"
-        /></a>
-        {% endfor %}
-      </div>
-
-    </div>
-    {% endif %}
-
-  </div>
-
-</div>
-
-{% if media.tracklist %}
-<div class="col-span-4 md:col-span-6 py-2 md:py-8 w-full mx-auto">
-  <h2 class="text-lg md:text-2xl font-bold text-left uppercase py-4">Tracklist</h2>
-  {% assign jsonTracklist = media.tracklist | tracklistToJson %}
-  <table class="table-auto w-full text-base md:text-lg">
-    <thead class="uppercase text-left">
-      <tr>
-        <th>Artist</th>
-        <th>Title</th>
-        {% if jsonTracklist.hasLabels %}
-        <th class="hidden md:block">Label</th>
         {% endif %}
-      </tr>
-    </thead>
-    <tbody class="uppercase text-sm md:text-lg">
-    {% for track in jsonTracklist.tracklist %}
-      <tr class="text-left {{theme.audioPlayer.tracklist.hover}} h-10 align-top" data-timestamp="{{track.timestampInSeconds}}">
-        <td>{{track.artist}}</td>
-        <td>{{track.title}}</td>
-        {% if jsonTracklist.hasLabels %}
-          {% if track.label %}
-          <td class="hidden md:block">{{track.label}}</td>
-          {% else %}
-          <td class="hidden md:block">-</td>
-          {% endif %}
+    </div>
+    <div class="col-span-3">
+        <div id="audio-metadata" class="grid grid-cols-1 space-y-2">
+            <div class="flex justify-between">
+                <div>
+                    <div
+                        data-amplitude-song-info="artist"
+                        class="text-2xl font-bold uppercase"
+                    ></div>
+                    <div
+                        data-amplitude-song-info="name"
+                        class="text-xl font-semibold uppercase"
+                    ></div>
+                    <div
+                        class="text-base {{theme.main.secondary}} font-medium uppercase"
+                    >
+                        {{page.date | pageDate}}
+                    </div>
+                </div>
+                <div id="audio-buttons">
+                    <div
+                        class="col-span-1 cursor-pointer text-slate-800"
+                        id="playButton"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 512 512"
+                            class="w-16 h-16 fill-current {{theme.audioPlayer.controls.hover}}"
+                        >
+                            <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                            <path
+                                d="M512 256c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM188.3 147.1c-7.6 4.2-12.3 12.3-12.3 20.9V344c0 8.7 4.7 16.7 12.3 20.9s16.8 4.1 24.3-.5l144-88c7.1-4.4 11.5-12.1 11.5-20.5s-4.4-16.1-11.5-20.5l-144-88c-7.4-4.5-16.7-4.7-24.3-.5z"
+                            />
+                        </svg>
+                    </div>
+                    <div
+                        class="hidden col-span-1 cursor-pointer"
+                        id="pauseButton"
+                    >
+                        <svg
+                            xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 512 512"
+                            class="w-16 h-16 fill-current {{theme.audioPlayer.controls.hover}}"
+                        >
+                            <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+                            <path
+                                d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM224 192V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32zm128 0V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32z"
+                            />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+            <div id="audio-progress-bar">
+                <div>
+                    <!-- Progress bar -->
+                    <div class="flex-initial w-full">
+                        <progress
+                            class="amplitude-song-played-progress h-4"
+                            id="song-played-progress"
+                        ></progress>
+                        <!-- Time -->
+                        <div class="text-base font-medium text-right">
+                            <span class="amplitude-current-time"></span> /
+                            <span class="amplitude-duration-time"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            {% if download %}
+            <div>
+                <a
+                    href="{{site.mediaFilesUrl}}{{media.content}}"
+                    title="{{media.title}}"
+                    download
+                    class="inline-flex items-center justify-center w-full {{theme.audioPlayer.downloadButton}} font-semibold py-4 px-6 rounded-xl shadow-lg transition-all duration-300 hover:scale-[1.02] space-x-2 uppercase"
+                >
+                    <svg
+                        class="w-6 h-6"
+                        fill="none"
+                        viewBox="0 0 24 24"
+                        stroke="currentColor"
+                    >
+                        <path
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="2"
+                            d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
+                        />
+                    </svg>
+                    <span>Download Mix</span>
+                </a>
+            </div>
+            {% endif %}
+        </div>
+        {% if media.tracklist %}
+        <details class="py-4">
+          <summary class="text-xl tmd:text-2xl font-extrabold text-left uppercase">Tracklist</summary>
+          <div class="">
+              {% assign jsonTracklist = media.tracklist | tracklistToJson %}
+              <table class="table-auto w-full text-base md:text-base">
+                  <tbody class="uppercase text-md md:text-lg">
+                      {% for track in jsonTracklist.tracklist %}
+                      <tr
+                          class="text-left {{theme.audioPlayer.tracklist.hover}} align-top"
+                          data-timestamp="{{track.timestampInSeconds}}"
+                      >
+                          <td>{{track.artist}}</td>
+                          <td>{{track.title}}</td>
+                          {% if jsonTracklist.hasLabels %} {% if track.label %}
+                          <td class="hidden md:block">{{track.label}}</td>
+                          {% else %}
+                          <td class="hidden md:block">-</td>
+                          {% endif %} {% endif %}
+                      </tr>
+                      {% endfor %}
+                  </tbody>
+              </table>
+          </div>
+        </details>
         {% endif %}
-      </tr>
-    {% endfor %}
-    </tbody>
-  </table>
-</div>
-{% endif %}
+    </div>
 </div>
 
-
-<div class="prose prose-xl mx-auto">
-  {{content}}
-</div>
+<div class="prose prose-xl mx-auto">{{content}}</div>
 
 <script>
-  let isPlaying = false;
-  const playButton = document.getElementById('playButton');
-  const pauseButton = document.getElementById('pauseButton');
+    let isPlaying = false;
+    const playButton = document.getElementById('playButton');
+    const pauseButton = document.getElementById('pauseButton');
 
-  const showAudioButtons = (playing = true) => {
-    playButton.classList.toggle('hidden');
-    pauseButton.classList.toggle('hidden');
-  };
+    const showAudioButtons = (playing = true) => {
+      playButton.classList.toggle('hidden');
+      pauseButton.classList.toggle('hidden');
+    };
 
-  const audioFinishedPlaying = () => {
-    isPlaying = false;
-    showAudioButtons(isPlaying);
-  };
-
-  {% if media.title %}
-  const mediaTitle = '{{media.title}}';
-  {% else %}
-  const mediaTitle = null;
-  {% endif %}
-  const mediaAuthor = '{{media.author}}';
-  const mediaImage = '{{media.image}}';
-  const options = {
-    songs: [
-      {
-        name: mediaTitle || '{{title | escape}}',
-        artist: mediaAuthor || 'DJ Cruze',
-        url: '{{site.mediaFilesUrl}}{{media.content}}',
-        cover_art_url: mediaImage || '/images/mixes/dj-cruze-mix-logo-600x600.jpg',
-      },
-    ],
-    callbacks: {
-      stop: audioFinishedPlaying,
-    },
-    waveforms: {
-      sample_rate: 200,
-    }
-  };
-  Amplitude.init(options);
-
-  // Handle a click on the song played progress bar.
-  const progressBarElement = document.getElementById('song-played-progress');
-
-  const setProgressBar = (event) => {
-    const offset = progressBarElement.getBoundingClientRect();
-      const offsetWidth = progressBarElement.offsetWidth;
-      const x = event.pageX - offset.left;
-
-      Amplitude.setSongPlayedPercentage(
-        (parseFloat(x) / parseFloat(offsetWidth)) * 100
-      );
-  };
-
-  ['click', 'touchend'].forEach((event) => {
-    progressBarElement.addEventListener(event, setProgressBar);
-  });
-
-  const togglePlaying = () =>{
-    if (!isPlaying) {
-      Amplitude.play();
-      isPlaying = true;
-    } else {
-      Amplitude.pause();
+    const audioFinishedPlaying = () => {
       isPlaying = false;
-    }
-    showAudioButtons(isPlaying);
-  };
+      showAudioButtons(isPlaying);
+    };
 
-  playButton.addEventListener('click', togglePlaying);
-  pauseButton.addEventListener('click', togglePlaying);
+    {% if media.title %}
+    const mediaTitle = '{{media.title}}';
+    {% else %}
+    const mediaTitle = null;
+    {% endif %}
+    const mediaAuthor = '{{media.author}}';
+    const mediaImage = '{{media.image}}';
+    const options = {
+      songs: [
+        {
+          name: mediaTitle || '{{title | escape}}',
+          artist: mediaAuthor || 'DJ Cruze',
+          url: '{{site.mediaFilesUrl}}{{media.content}}',
+          cover_art_url: mediaImage || '/images/mixes/dj-cruze-mix-logo-600x600.jpg',
+        },
+      ],
+      callbacks: {
+        stop: audioFinishedPlaying,
+      },
+      waveforms: {
+        sample_rate: 200,
+      }
+    };
+    Amplitude.init(options);
+
+    // Handle a click on the song played progress bar.
+    const progressBarElement = document.getElementById('song-played-progress');
+
+    const setProgressBar = (event) => {
+      const offset = progressBarElement.getBoundingClientRect();
+        const offsetWidth = progressBarElement.offsetWidth;
+        const x = event.pageX - offset.left;
+
+        Amplitude.setSongPlayedPercentage(
+          (parseFloat(x) / parseFloat(offsetWidth)) * 100
+        );
+    };
+
+    ['click', 'touchend'].forEach((event) => {
+      progressBarElement.addEventListener(event, setProgressBar);
+    });
+
+    const togglePlaying = () =>{
+      if (!isPlaying) {
+        Amplitude.play();
+        isPlaying = true;
+      } else {
+        Amplitude.pause();
+        isPlaying = false;
+      }
+      showAudioButtons(isPlaying);
+    };
+
+    playButton.addEventListener('click', togglePlaying);
+    pauseButton.addEventListener('click', togglePlaying);
 </script>

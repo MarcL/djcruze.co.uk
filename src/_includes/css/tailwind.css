@@ -11,25 +11,25 @@ progress.amplitude-song-played-progress {
     display: block;
     cursor: pointer;
     border: none;
-  }
-  progress.amplitude-song-played-progress:not([value]) {
+}
+progress.amplitude-song-played-progress:not([value]) {
     background-color: rgb(15 23 42);
-  }
-  
-  progress[value]::-webkit-progress-bar {
+}
+
+progress[value]::-webkit-progress-bar {
     background-color: rgb(15 23 42);
-  }
-  
-  progress[value]::-moz-progress-bar {
+}
+
+progress[value]::-moz-progress-bar {
     background-color: rgb(59 130 246);
-  }
-  
-  progress[value]::-webkit-progress-value {
+}
+
+progress[value]::-webkit-progress-value {
     background-color: rgb(59 130 246);
-  }
-  
-  div.amplitude-wave-form svg {
+}
+
+div.amplitude-wave-form svg {
     height: 100px;
     width: 100%;
-    stroke-width: .5px;
-  }
+    stroke-width: 0.5px;
+}

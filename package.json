@@ -20,7 +20,7 @@
     "@aloskutov/eleventy-plugin-external-links": "^2.1.0",
     "@tailwindcss/forms": "^0.5.3",
     "@tailwindcss/typography": "^0.5.8",
-    "dotenv": "^16.0.3",
+    "dotenv": "^17.0.0",
     "eleventy-plugin-youtube-embed": "^1.7.1",
     "got": "^14.4.3",
     "lodash.escape": "^4.0.1",

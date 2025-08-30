@@ -24,6 +24,9 @@ sitemap:
     </itunes:owner>
     <itunes:category text="{{podcast.category}}" />
     <itunes:new-feed-url>{{site.url}}{{podcast.feedPath}}</itunes:new-feed-url>
+    {%- if podcast.applePodcastVerifyToken -%}
+    <itunes:applepodcastsverify>{{ podcast.applePodcastVerifyToken }}</itunes:applepodcastsverify>
+    {%- endif -%}
     
     {%- for podcastEpisode in collections.podcast reversed -%}
       <item>

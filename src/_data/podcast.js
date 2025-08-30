@@ -35,5 +35,6 @@ module.exports = {
     }
     // spotify: 'TODO',
     // google: 'TODO',
-  ]
+  ],
+  applePodcastVerifyToken: '16282ae0-85a3-11f0-8acf-79214989a92e'
 };

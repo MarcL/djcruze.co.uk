@@ -31,6 +31,7 @@ categories:
 # Media details
 ###################################
 media:
+  image: '/images/mixes/dj-cruze-tasty-acid-mix-september-1993.jpg'
   content: '/mixes/djcruze_sept1993_mix.mp3'
   length: '00:47:36'
   keywords: ''

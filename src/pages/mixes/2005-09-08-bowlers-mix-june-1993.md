@@ -31,6 +31,7 @@ categories:
 # Media details
 ###################################
 media:
+  image: '/images/mixes/dj-cruze-bowlers-mix-june-1993.jpg'
   content: '/mixes/djcruze_june1993_mix.mp3'
   length: '00:47:30'
   keywords: ''

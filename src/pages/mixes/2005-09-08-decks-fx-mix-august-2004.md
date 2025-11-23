@@ -25,6 +25,7 @@ categories:
 # Media details
 ###################################
 media:
+  image: '/images/mixes/dj-cruze-decks-and-fx-mix-2004.jpg'
   content: '/mixes/djcruze_august2004_mix.mp3'
   length: '01:14:16'
   keywords: ''

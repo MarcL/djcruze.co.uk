@@ -5,17 +5,7 @@ subtitle: 'August 2004'
 #permalink: /2005/09/08/decks-fx-mix-august-2004/
 permalink: /mixes/decks-fx-mix-august-2004/
 date: 2004-08-15
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/mixes/djcruze_august2004_mix.mp3
-        71307264
-        audio/mpeg
 
-'itunes:category':
-  - Music
-votio:
-  - 9.4523809523809,42,
 ###################################
 # Podcast
 ###################################

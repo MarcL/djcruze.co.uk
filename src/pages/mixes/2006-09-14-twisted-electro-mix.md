@@ -3,23 +3,8 @@ title: Twisted Electro Mix
 
 #permalink: /2006/09/14/twisted-electro-mix/
 permalink: /mixes/twisted-electro-mix/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 01:08:36
-MixSize:
-  - 62.8
-MixLength:
-  - 1:10:12
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_august2006electro_mix.mp3
-        65863680
-        audio/mpeg
+date: 2006-08-15
 
-votio:
-  - 7.7777777777778,9,
 ###################################
 # Podcast
 ###################################

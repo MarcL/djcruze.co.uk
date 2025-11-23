@@ -4,17 +4,8 @@ subtitle: 'Christmas 2006'
 
 #permalink: /2007/01/01/christmas-2006-phat-and-funky-mix/
 permalink: /mixes/christmas-2006-phat-and-funky-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_phatandfunkymix.mp3
-        3627008
-        audio/mpeg
+date: 2007-01-01
 
-votio:
-  - 8.0579710144925,69,
 ###################################
 # Podcast
 ###################################

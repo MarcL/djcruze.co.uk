@@ -4,17 +4,7 @@ subtitle: 'July 2008 Mix'
 
 #permalink: /2008/07/23/july-2008-mix-ibiza-sunset/
 permalink: /mixes/july-2008-mix-ibiza-sunset/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruzemix_july2008.mp3
-        67111782
-        audio/mpeg
-
-votio:
-  - 8.5079365079365,63,
+date: 2008-07-23
 
 ###################################
 # Podcast

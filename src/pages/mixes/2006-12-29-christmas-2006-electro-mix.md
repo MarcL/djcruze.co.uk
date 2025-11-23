@@ -4,17 +4,8 @@ subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/29/christmas-2006-electro-mix/
 permalink: /mixes/christmas-2006-electro-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_electromix.mp3
-        778240
-        audio/mpeg
+date: 2006-12-39
 
-votio:
-  - 8.2368421052631,38,
 ###################################
 # Podcast
 ###################################

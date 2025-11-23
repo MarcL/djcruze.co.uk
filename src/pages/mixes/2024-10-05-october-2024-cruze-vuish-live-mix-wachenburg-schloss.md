@@ -3,6 +3,7 @@ title: 'Cruze & Vuish October 2024'
 subtitle: 'Cruze & Vuish Live at Wachenburg Schloss'
 excerpt: 'DJ Cruze and DJ Vuish live in the mix at Wachenburg Schloss on October 5th 2024.'
 permalink: /mixes/october-2024-cruze-and-vuish-wachenburg-schloss/
+date: 2024-10-05
 categories:
     - Mixes
 media:

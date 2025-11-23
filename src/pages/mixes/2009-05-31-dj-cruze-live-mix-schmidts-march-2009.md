@@ -4,17 +4,8 @@ subtitle: 'March 2009 Live Mix'
 
 # permalink: /2009/05/31/dj-cruze-live-mix-schmidts-march-2009/
 permalink: /mixes/dj-cruze-live-mix-schmidts-march-2009/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_alexharmony_luke45_schmidts_07032009.mp3
-        174629603
-        audio/mpeg
+date: 2009-03-07
 
-votio:
-  - 8.657894736842,38,
 ###################################
 # Podcast
 ###################################

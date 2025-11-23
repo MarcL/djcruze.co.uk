@@ -5,23 +5,7 @@ subtitle: 'June 1993'
 #permalink: /2005/09/08/bowlers-mix-june-1993/
 permalink: /mixes/bowlers-mix-june-1993/
 date: 1993-06-15
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/mixes/djcruze_june1993_mix.mp3
-        45615104
-        audio/mpeg
 
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_june1993_mix.mp3
-        45615104
-        audio/mpeg
-
-'itunes:category':
-  - Music
-votio:
-  - 8.725,40,
 ###################################
 # Podcast
 ###################################

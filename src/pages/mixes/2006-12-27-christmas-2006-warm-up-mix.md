@@ -4,17 +4,8 @@ subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/27/christmas-2006-warm-up-mix/
 permalink: /mixes/christmas-2006-warm-up-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_warmupmix.mp3
-        2994176
-        audio/mpeg
+date: 2006-12-27
 
-votio:
-  - 9.0333333333332,30,
 ###################################
 # Podcast
 ###################################

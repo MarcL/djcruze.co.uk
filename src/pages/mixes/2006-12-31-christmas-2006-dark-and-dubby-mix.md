@@ -4,17 +4,8 @@ subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/31/christmas-2006-dark-and-dubby-mix/
 permalink: /mixes/christmas-2006-dark-and-dubby-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_darkanddubbymix.mp3
-        1990656
-        audio/mpeg
+date: 2006-12-31
 
-votio:
-  - 8.2857142857144,56,
 ###################################
 # Podcast
 ###################################

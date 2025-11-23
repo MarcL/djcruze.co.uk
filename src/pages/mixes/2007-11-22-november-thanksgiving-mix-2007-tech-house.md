@@ -4,17 +4,7 @@ subtitle: 'November 2007 Mix - Tech House'
 
 #permalink: /2007/11/22/november-thanksgiving-mix-2007-tech-house/
 permalink: /mixes/november-thanksgiving-mix-2007-tech-house/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_november2007mix.mp3
-        65792000
-        audio/mpeg
-
-votio:
-  - 7.7222222222222,36,
+date: 2007-11-22
 
 ###################################
 # Podcast

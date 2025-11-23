@@ -4,17 +4,8 @@ subtitle: 'June 1994'
 
 # permalink: /2006/11/15/hey-mr-dj-mix-side-b-june-1994/
 permalink: /mixes/hey-mr-dj-mix-side-b-june-1994/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_june1994_sideb.mp3
-        45346816
-        audio/mpeg
+date: 1994-06-15
 
-votio:
-  - 9.1470588235295,34,
 ###################################
 # Podcast
 ###################################

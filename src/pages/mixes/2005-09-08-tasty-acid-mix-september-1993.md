@@ -4,23 +4,7 @@ subtitle: 'September 1993'
 #permalink: /2005/09/08/tasty-acid-mix-september-1993/
 permalink: /mixes/tasty-acid-mix-september-1993/
 date: 1993-09-15
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/mixes/djcruze_sept1993_mix.mp3
-        45699072
-        audio/mpeg
 
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_sept1993_mix.mp3
-        45699072
-        audio/mpeg
-
-'itunes:category':
-  - Music
-votio:
-  - 8.4571428571428,35,
 ###################################
 # Podcast
 ###################################

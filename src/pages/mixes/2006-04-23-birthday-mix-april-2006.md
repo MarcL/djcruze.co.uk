@@ -3,19 +3,8 @@ title: 'Birthday Mix - April 2006'
 
 #permalink: /2006/04/23/birthday-mix-april-2006/
 permalink: /mixes/birthday-mix-april-2006/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_april2006_mix.mp3
-        4076980
-        audio/mpeg
+date: 2006-04-23
 
-'itunes:duration':
-  - 01:10:12
-votio:
-  - 8.5981308411211,107,
 ###################################
 # Podcast
 ###################################

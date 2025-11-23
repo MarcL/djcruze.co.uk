@@ -4,23 +4,7 @@ subtitle: 'June 2006'
 
 #permalink: /2006/07/17/cure-for-the-common-sunday-mix-june-2006/
 permalink: /mixes/cure-for-the-common-sunday-mix-june-2006/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://djdyslexic.protonage.net/Cure_For_The_Common_Sunday-DJ_CRUZE.mp3
-        119547904
-        audio/mpeg
-
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/Cure_For_The_Common_Sunday-DJCruze-250606.mp3
-        119547904
-        audio/mpeg
-
-votio:
-  - 8.8823529411766,68,
+date: 2006-06-25
 
 ###################################
 # Podcast

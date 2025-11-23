@@ -5,17 +5,7 @@ excerpt: "A deep, dark, and moody progressive house and electro mix which takes 
 
 #permalink: /2009/08/25/august-2009-mix-ibiza-sunset-2009/
 permalink: /mixes/august-2009-mix-ibiza-sunset-2009/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruzemix_ibiza_sunset_august2009.mp3
-        65916207
-        audio/mpeg
-
-votio:
-  - 8.7499999999999,32,
+date: 2009-08-25
 
 ###################################
 # Podcast

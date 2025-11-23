@@ -4,23 +4,8 @@ subtitle: 'Winter 1997'
 
 #permalink: /2005/10/31/post-modern-sleaze-mix-winter-1997/
 permalink: /mixes/post-modern-sleaze-mix-winter-1997/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruze.acm-edv.de/mixes/djcruze_winter1997_mix.mp3
-        62078976
-        audio/mpeg
+date: 1997-12-15
 
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_winter1997_mix.mp3
-        62078976
-        audio/mpeg
-
-votio:
-  - 8.8409090909092,44,
 ###################################
 # Podcast
 ###################################

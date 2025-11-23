@@ -4,17 +4,8 @@ subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/30/christmas-2006-piano-mix/
 permalink: /mixes/christmas-2006-piano-mix/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/mixes/djcruze_december2006_pianomix.mp3
-        25513984
-        audio/mpeg
+date: 2006-12-30
 
-votio:
-  - 8.3454545454545,55,
 ###################################
 # Podcast
 ###################################

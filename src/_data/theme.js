@@ -8,17 +8,28 @@ module.exports = {
     main: {
         background: 'bg-white',
         text: 'text-slate-900',
-        secondary: 'text-slate-800',
-        date: 'text-slate-700',
+        secondary: 'text-slate-600',
+        date: 'text-slate-500',
     },
     homepage: {
         text: 'text-white',
-        buttonBackground: 'bg-cyan-900',
+        heroOverlay: 'bg-slate-900/60',
+        sectionHeading: 'text-slate-900',
+        sectionSubtext: 'text-slate-500',
+        cardBackground: 'bg-white',
+        cardBorder: 'border border-slate-100',
+        cardShadow: 'shadow-sm hover:shadow-md',
+        cardTitle: 'text-slate-900',
+        cardSubtitle: 'text-slate-500',
+        aboutBackground: 'bg-slate-50',
+        aboutText: 'text-slate-700',
+        primaryButton: 'bg-slate-900 hover:bg-slate-800 text-white',
+        secondaryButton: 'border border-slate-300 hover:border-slate-400 text-slate-700 hover:text-slate-900',
     },
     footer: {
         background: 'bg-slate-900',
         main: 'text-white',
-        hover: 'hover:text-cyan-500',
+        hover: 'hover:text-sky-400',
     },
     audioPlayer: {
         background: 'bg-white',
@@ -28,14 +39,14 @@ module.exports = {
         tracklist: {
             hover: 'hover:bg-sky-100 hover:text-slate-800',
         },
-        downloadButton: 'bg-sky-600 hover:bg-sky-700 text-white',
+        downloadButton: 'bg-slate-900 hover:bg-slate-800 text-white',
     },
     components: {
-        button: 'bg-cyan-800 hover:bg-cyan-900 text-white',
+        button: 'bg-slate-900 hover:bg-slate-800 text-white',
     },
     form: {
-        input: 'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50',
+        input: 'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-sky-300 focus:ring focus:ring-sky-200 focus:ring-opacity-50',
         textarea:
-            'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-indigo-300 focus:ring focus:ring-indigo-200 focus:ring-opacity-50',
+            'mt-1 block w-full rounded-md border-slate-300 shadow-sm focus:border-sky-300 focus:ring focus:ring-sky-200 focus:ring-opacity-50',
     },
 };

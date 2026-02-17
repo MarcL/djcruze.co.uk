@@ -26,6 +26,18 @@ module.exports = {
         primaryButton: 'bg-slate-900 hover:bg-slate-800 text-white',
         secondaryButton: 'border border-slate-300 hover:border-slate-400 text-slate-700 hover:text-slate-900',
     },
+    audioCard: {
+        background: 'bg-white',
+        border: 'border border-slate-100',
+        shadow: 'shadow-sm',
+        shadowHover: 'hover:shadow-lg',
+        title: 'text-slate-900',
+        titleHover: 'group-hover:text-sky-600',
+        subtitle: 'text-slate-600',
+        metadata: 'text-slate-600',
+        metadataIcon: 'text-slate-500',
+        excerpt: 'text-slate-600',
+    },
     footer: {
         background: 'bg-slate-900',
         main: 'text-white',

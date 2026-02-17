@@ -6,7 +6,6 @@ layout: default
 {%- assign podcastsReversed = collections.podcast | reverse -%}
 {%- assign productionsReversed = collections.production | reverse -%}
 
-{%- comment -%} Hero {%- endcomment -%}
 <section class="relative w-full overflow-hidden">
   <div class="absolute inset-0 hero-image-container">
     {% image headerImage "w-full h-full object-cover object-top" title "100vw" true %}
@@ -36,7 +35,6 @@ layout: default
   </div>
 </section>
 
-{%- comment -%} Latest Mixes {%- endcomment -%}
 <section class="w-full max-w-6xl mx-auto px-6 py-12 md:py-16">
   <div class="text-center mb-8">
     <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">
@@ -75,7 +73,6 @@ layout: default
   </div>
 </section>
 
-{%- comment -%} Latest Podcasts {%- endcomment -%}
 <section class="w-full {{theme.homepage.aboutBackground}}">
   <div class="max-w-6xl mx-auto px-6 py-12 md:py-16">
     <div class="text-center mb-8">
@@ -116,7 +113,6 @@ layout: default
   </div>
 </section>
 
-{%- comment -%} Productions {%- endcomment -%}
 <section class="w-full max-w-6xl mx-auto px-6 py-12 md:py-16">
   <div class="text-center mb-8">
     <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">
@@ -146,7 +142,6 @@ layout: default
   </div>
 </section>
 
-{%- comment -%} About / CTA {%- endcomment -%}
 <section class="w-full {{theme.homepage.aboutBackground}}">
   <div class="max-w-4xl mx-auto px-6 py-12 md:py-16 text-center">
     <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">

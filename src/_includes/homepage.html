@@ -2,68 +2,169 @@
 layout: default
 ---
 
-<main
-  class="{{theme.main.background}} w-full max-w-7xl mx-auto flex flex-wrap items-center justify-center"
->
-  <div
-    class="w-full rounded-none md:rounded-md shadow-xl py-8"
-    style="background-image: url({{headerImage}}); background-size: cover; background-position: center center;"
-  >
-    <div class="w-full lg:w-1/2 space-y-8">
-      <h2 class="{{theme.homepage.text}} text-5xl font-extrabold uppercase text-center">
-        {{title}}
-      </h2>
-      <h3 class="{{theme.homepage.text}} text-4xl font-bold uppercase text-center">{{subtitle}}</h3>
-      <div class="text-center">
-        <a
-          class="{{theme.homepage.text}} {{theme.components.button}} block text-4xl font-bold uppercase text-center rounded-md w-2/3 mx-auto p-8 shadow-md"
-          href="/about/"
-          >WHO IS DJ CRUZE?</a
-        >
-      </div>
-    </div>
+{%- assign mixesReversed = collections.mix | reverse -%}
+{%- assign podcastsReversed = collections.podcast | reverse -%}
+{%- assign productionsReversed = collections.production | reverse -%}
+
+<section class="relative w-full overflow-hidden">
+  <div class="absolute inset-0 hero-image-container">
+    {% image headerImage "w-full h-full object-cover object-top" title "100vw" true %}
   </div>
-</main>
-
-{%- capture podcastContent -%}
-  {% assign podcastsReversed = collections.podcast | reverse %}
-  {% assign latestPodcast = podcastsReversed | first %}
-{%- endcapture -%}
-
-{%- capture mixesContent -%}
-  {% assign mixesReversed = collections.mix | reverse %}
-  {% assign latestMix = mixesReversed | first %}
-{%- endcapture -%}
-
-<section class="w-full max-w-7xl mx-auto py-8">
-  <h2 class="text-4xl font-semibold {{theme.main.secondary}} uppercase text-center py-4">Featured Episodes</h2>
-  <div class="grid grid-cols-1 lg:grid-cols-2 gap-0 lg:gap-8">
-    <div>
-      <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2">Latest Podcast</h3>
-      <a href="{{latestPodcast.url}}" class="group" title="{{latestPodcast.data.title}}" alt="{{latestTitle}}">
-          {% image latestPodcast.data.media.image "w-full shadow-md rounded-md group-hover:brightness-75" latestPodcast.data.title "(min-width: 30em) 50vw, 100vw" %}
-          <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2 group-hover:underline">{{latestPodcast.data.title}}</h3>
+  <div class="absolute inset-0 {{theme.homepage.heroOverlay}}"></div>
+  <div class="relative w-full max-w-5xl mx-auto px-6 py-20 md:py-28 lg:py-36 text-center">
+    <h1 class="{{theme.homepage.text}} text-5xl md:text-7xl font-extrabold tracking-tight uppercase">
+      {{title}}
+    </h1>
+    <p class="{{theme.homepage.text}} text-xl md:text-2xl font-medium mt-4 opacity-90">
+      {{subtitle}}
+    </p>
+    <div class="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
+      <a
+        href="/mixes/"
+        class="{{theme.homepage.primaryButton}} inline-block px-8 py-3 rounded-full text-base font-semibold tracking-wide uppercase transition-colors duration-200"
+      >
+        Listen to Mixes
       </a>
-      {%- if latestPodcast.data.excerpt -%}
-        <div class="{{theme.main.secondary}} text-xl font-normal text-center">
-          {{latestPodcast.data.excerpt}}
-        </div>
-      {%- endif -%}
-    </div>
-
-    <div>
-      <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2">Latest Mix</h3>
-      <a href="{{latestMix.url}}" class="group" title="{{latestMix.data.title}}" alt="{{latestTitle}}">
-          {% image latestMix.data.media.image "w-full shadow-md rounded-md group-hover:brightness-75" latestMix.data.title "(min-width: 30em) 50vw, 100vw" %}
-          <h3 class="{{theme.main.secondary}} text-3xl font-semibold uppercase text-center py-2 group-hover:underline">{{latestMix.data.title}}</h3>
+      <a
+        href="/about/"
+        class="{{theme.homepage.secondaryButton}} bg-white/90 backdrop-blur-sm inline-block px-8 py-3 rounded-full text-base font-semibold tracking-wide uppercase transition-colors duration-200"
+      >
+        About DJ Cruze
       </a>
-      {%- if latestMix.data.excerpt -%}
-        <div class="{{theme.main.secondary}} text-xl font-normal text-center">
-          {{latestMix.data.excerpt}}
-        </div>
-      {%- endif -%}
     </div>
   </div>
 </section>
 
+<section class="w-full max-w-6xl mx-auto px-6 py-12 md:py-16">
+  <div class="text-center mb-8">
+    <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">
+      Latest Mixes
+    </h2>
+    <p class="{{theme.homepage.sectionSubtext}} text-lg font-medium mt-3">
+      A selection of DJ mixes from the archives
+    </p>
+  </div>
 
+  <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+    {%- for mix in mixesReversed limit:3 -%}
+      <a href="{{mix.url}}" class="group block {{theme.homepage.cardBackground}} {{theme.homepage.cardBorder}} {{theme.homepage.cardShadow}} rounded-xl overflow-hidden transition-all duration-300">
+        <div class="aspect-square overflow-hidden">
+          {% image mix.data.media.image "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" mix.data.title "(min-width: 768px) 33vw, 100vw" %}
+        </div>
+        <div class="p-5">
+          <h3 class="{{theme.homepage.cardTitle}} text-xl font-bold group-hover:text-sky-600 transition-colors duration-200">
+            {{mix.data.title}}
+          </h3>
+          {%- if mix.data.subtitle -%}
+            <p class="{{theme.homepage.cardSubtitle}} text-sm mt-1">{{mix.data.subtitle}}</p>
+          {%- endif -%}
+        </div>
+      </a>
+    {%- endfor -%}
+  </div>
+
+  <div class="text-center mt-8">
+    <a
+      href="/mixes/"
+      class="{{theme.homepage.secondaryButton}} inline-block px-6 py-2.5 rounded-full text-sm font-semibold tracking-wide uppercase transition-colors duration-200"
+    >
+      See All Mixes
+    </a>
+  </div>
+</section>
+
+<section class="w-full {{theme.homepage.aboutBackground}}">
+  <div class="max-w-6xl mx-auto px-6 py-12 md:py-16">
+    <div class="text-center mb-8">
+      <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">
+        Latest Podcasts
+      </h2>
+      <p class="{{theme.homepage.sectionSubtext}} text-lg font-medium mt-3">
+        Funky house music podcast episodes
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+      {%- for podcast in podcastsReversed limit:3 -%}
+        <a href="{{podcast.url}}" class="group block {{theme.homepage.cardBackground}} {{theme.homepage.cardBorder}} {{theme.homepage.cardShadow}} rounded-xl overflow-hidden transition-all duration-300">
+          <div class="aspect-square overflow-hidden">
+            {% image podcast.data.media.image "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" podcast.data.title "(min-width: 768px) 33vw, 100vw" %}
+          </div>
+          <div class="p-5">
+            <h3 class="{{theme.homepage.cardTitle}} text-xl font-bold group-hover:text-sky-600 transition-colors duration-200">
+              {{podcast.data.title}}
+            </h3>
+            {%- if podcast.data.excerpt -%}
+              <p class="{{theme.homepage.cardSubtitle}} text-sm mt-1 line-clamp-2">{{podcast.data.excerpt}}</p>
+            {%- endif -%}
+          </div>
+        </a>
+      {%- endfor -%}
+    </div>
+
+    <div class="text-center mt-8">
+      <a
+        href="/podcasts/"
+        class="{{theme.homepage.secondaryButton}} inline-block px-6 py-2.5 rounded-full text-sm font-semibold tracking-wide uppercase transition-colors duration-200"
+      >
+        See All Podcasts
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="w-full max-w-6xl mx-auto px-6 py-12 md:py-16">
+  <div class="text-center mb-8">
+    <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">
+      Productions
+    </h2>
+    <p class="{{theme.homepage.sectionSubtext}} text-lg font-medium mt-3">
+      Original remixes and reboots
+    </p>
+  </div>
+
+  <div class="grid grid-cols-2 md:grid-cols-4 gap-6">
+    {%- for production in productionsReversed -%}
+      <a href="{{production.url}}" class="group block">
+        <div class="aspect-square overflow-hidden rounded-lg {{theme.homepage.cardShadow}} transition-all duration-300">
+          {% image production.data.media.image "w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" production.data.title "(min-width: 768px) 25vw, 50vw" %}
+        </div>
+        <div class="mt-3">
+          <h3 class="{{theme.homepage.cardTitle}} text-base md:text-lg font-bold group-hover:text-sky-600 transition-colors duration-200 leading-snug">
+            {{production.data.title}}
+          </h3>
+          {%- if production.data.subtitle -%}
+            <p class="{{theme.homepage.cardSubtitle}} text-sm md:text-base mt-0.5">{{production.data.subtitle}}</p>
+          {%- endif -%}
+        </div>
+      </a>
+    {%- endfor -%}
+  </div>
+</section>
+
+<section class="w-full {{theme.homepage.aboutBackground}}">
+  <div class="max-w-4xl mx-auto px-6 py-12 md:py-16 text-center">
+    <h2 class="{{theme.homepage.sectionHeading}} text-3xl md:text-4xl font-extrabold tracking-tight">
+      About DJ Cruze
+    </h2>
+    <p class="{{theme.homepage.aboutText}} text-lg md:text-xl font-medium leading-relaxed mt-6 max-w-2xl mx-auto">
+      DJ Cruze is the alter ego of UK house music DJ and producer Marc Littlemore.
+      He's been rocking dancefloors since 1988 with his blend of funky house music,
+      electro, and breakbeats across the UK and Germany.
+    </p>
+    <div class="mt-8 flex flex-col sm:flex-row items-center justify-center gap-4">
+      <a
+        href="/about/"
+        class="{{theme.homepage.primaryButton}} inline-block px-8 py-3 rounded-full text-base font-semibold tracking-wide uppercase transition-colors duration-200"
+      >
+        Read More
+      </a>
+      <a
+        href="/contact/"
+        class="{{theme.homepage.secondaryButton}} inline-block px-8 py-3 rounded-full text-base font-semibold tracking-wide uppercase transition-colors duration-200"
+      >
+        Get in Touch
+      </a>
+    </div>
+  </div>
+</section>

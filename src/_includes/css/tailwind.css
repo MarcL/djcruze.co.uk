@@ -12,29 +12,49 @@
 }
 
 progress.amplitude-song-played-progress {
-    background-color: rgb(15 23 42);
+    background-color: rgb(226 232 240); /* slate-200 */
     -webkit-appearance: none;
-    /* appearance: none; */
+    appearance: none;
     width: 100%;
-    /* height: 8px; */
+    height: 8px;
     display: block;
     cursor: pointer;
     border: none;
+    border-radius: 4px;
 }
+
 progress.amplitude-song-played-progress:not([value]) {
-    background-color: rgb(15 23 42);
+    background-color: rgb(226 232 240); /* slate-200 */
 }
 
 progress[value]::-webkit-progress-bar {
-    background-color: rgb(15 23 42);
+    background-color: rgb(226 232 240); /* slate-200 */
+    border-radius: 4px;
 }
 
 progress[value]::-moz-progress-bar {
-    background-color: rgb(59 130 246);
+    background-color: rgb(14 165 233); /* sky-500 */
+    border-radius: 4px;
 }
 
 progress[value]::-webkit-progress-value {
-    background-color: rgb(59 130 246);
+    background-color: rgb(14 165 233); /* sky-500 */
+    border-radius: 4px;
+}
+
+/* Active track highlighting in tracklist */
+.tracklist-row-active {
+    background-color: rgb(240 249 255); /* sky-50 */
+    border-left: 4px solid rgb(14 165 233); /* sky-500 */
+}
+
+.tracklist-row-active .tracklist-number {
+    color: rgb(14 165 233); /* sky-500 */
+    font-weight: 800;
+}
+
+.tracklist-row-active .tracklist-timestamp {
+    color: rgb(14 165 233); /* sky-500 */
 }
 
 div.amplitude-wave-form svg {

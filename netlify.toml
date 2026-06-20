@@ -1,0 +1,12 @@
+[build]
+  publish = "_site"
+  command = "npm run build"
+
+# Proxy media files through djcruze.co.uk to enable the HTML download attribute.
+# The download attribute only works for same-origin files — without this proxy,
+# Chrome on Android (and other browsers) ignore it and play the file instead.
+[[redirects]]
+  from = "/media/*"
+  to = "https://f001.backblazeb2.com/file/djcruzemedia/:splat"
+  status = 200
+  force = true

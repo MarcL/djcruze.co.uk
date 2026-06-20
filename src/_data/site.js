@@ -19,5 +19,9 @@ module.exports = {
   twitterUsername: 'djcruze',
   author: 'https://www.facebook.com/housedjcruze',
   facebookAppId: '',
-  mediaFilesUrl: 'https://f001.backblazeb2.com/file/djcruzemedia'
+  // Use a same-origin proxy path in production so the HTML download attribute
+  // works correctly on mobile browsers (e.g. Chrome on Android).
+  // Netlify rewrites /media/* → https://f001.backblazeb2.com/file/djcruzemedia/*
+  // See netlify.toml for the redirect rule.
+  mediaFilesUrl: isDevelopmentBuild ? 'https://f001.backblazeb2.com/file/djcruzemedia' : '/media'
 }

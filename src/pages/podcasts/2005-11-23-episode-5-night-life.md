@@ -16,18 +16,36 @@ media:
   duration: '3407'
   fileSize: '40882176'
   tracklist:
-    - 'DJ Cruze exclusive: '
-    - "Armin van Buuren - Who's Watching? (Mischa Daniels Mix) - Supra Recordings"
-    - 'Top 10 rundown: '
-    - 'Meck - Thunder In My Heart - CDR'
-    - "Aaron Smith featuring Luvli - Dancin' - Boss Records"
-    - 'Interview and retro mix with DJ Vuish: '
-    - 'Kim English - Night Life (Big Bump Mix) - Hi Life (1994)'
-    - "The Flavour - No Matter What You Do (I'm Gonna Get With U) (The Corporation Express Dub Mix) - U-Bahn Records (1993)"
-    - 'Coldcut - Feeling Strong (Well Hung Parliament Adventure) - Arista (1993)'
-    - 'Tanya Louise - Deep In You (Stone club mix) - UMM (1996)'
-    - "70s Age - Reach For The Sky (Grant Nelson's club mix) - Evoke (1998)"
-    - "Jocelyn Brown - Ain't No Mountain High Enough (Dronez Mix) - White (1998)"
+    - section: 'DJ Cruze exclusive'
+    - artist: 'Armin van Buuren'
+      title: 'Who''s Watching? (Mischa Daniels Mix)'
+      label: 'Supra Recordings'
+    - section: 'Top 10 rundown'
+    - artist: 'Meck'
+      title: 'Thunder In My Heart'
+      label: 'CDR'
+    - artist: 'Aaron Smith featuring Luvli'
+      title: 'Dancin'''
+      label: 'Boss Records'
+    - section: 'Interview and retro mix with DJ Vuish'
+    - artist: 'Kim English'
+      title: 'Night Life (Big Bump Mix)'
+      label: 'Hi Life (1994)'
+    - artist: 'The Flavour'
+      title: 'No Matter What You Do (I''m Gonna Get With U) (The Corporation Express Dub Mix)'
+      label: 'U-Bahn Records (1993)'
+    - artist: 'Coldcut'
+      title: 'Feeling Strong (Well Hung Parliament Adventure)'
+      label: 'Arista (1993)'
+    - artist: 'Tanya Louise'
+      title: 'Deep In You (Stone club mix)'
+      label: 'UMM (1996)'
+    - artist: '70s Age'
+      title: 'Reach For The Sky (Grant Nelson''s club mix)'
+      label: 'Evoke (1998)'
+    - artist: 'Jocelyn Brown'
+      title: 'Ain''t No Mountain High Enough (Dronez Mix)'
+      label: 'White (1998)'
 
 layout: audio
 tags:

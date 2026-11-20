@@ -16,18 +16,38 @@ media:
   duration: '3803'
   fileSize: '45689228'
   tracklist:
-    - 'DJ Disciple - Work It Out (Ruff and Tort Mix) - Xtravaganza'
-    - "Bump - I'm Rushing (Dave Spoon Vocal Mix) - Art & Craft"
-    - 'DJ Cruze chart rundown:'
-    - 'Mika - Grace Kelly (Bimbo Jones Remix) - Casablanca'
-    - "Erick E - The Beat Is Rockin' (Simmons & Christopher Remix) - Gusto Records"
-    - 'JoJo - Too Little Too Late (Raul Rincon Vocal Version) - Mercury Records'
-    - "Shanie - Don't Give Me Your Life (M-Factor Dub) - AATW"
-    - "Stu Allen - Music's Got Me (Fonzerelli Remix) - UMM"
-    - 'Eric Prydz vs Pink Floyd - Proper Education - Data Records'
-    - 'Freemasons - Raining Down Love (2006 Dub Vox) - Loaded Records'
-    - 'Cruze classic from 1992:'
-    - "M.A.N.I.C. - I'm Coming Hardcore (Original Mix) - Union City Recording"
+    - artist: 'DJ Disciple'
+      title: 'Work It Out (Ruff and Tort Mix)'
+      label: 'Xtravaganza'
+    - artist: 'Bump'
+      title: 'I''m Rushing (Dave Spoon Vocal Mix)'
+      label: 'Art & Craft'
+    - section: 'DJ Cruze chart rundown'
+    - artist: 'Mika'
+      title: 'Grace Kelly (Bimbo Jones Remix)'
+      label: 'Casablanca'
+    - artist: 'Erick E'
+      title: 'The Beat Is Rockin'' (Simmons & Christopher Remix)'
+      label: 'Gusto Records'
+    - artist: 'JoJo'
+      title: 'Too Little Too Late (Raul Rincon Vocal Version)'
+      label: 'Mercury Records'
+    - artist: 'Shanie'
+      title: 'Don''t Give Me Your Life (M-Factor Dub)'
+      label: 'AATW'
+    - artist: 'Stu Allen'
+      title: 'Music''s Got Me (Fonzerelli Remix)'
+      label: 'UMM'
+    - artist: 'Eric Prydz vs Pink Floyd'
+      title: 'Proper Education'
+      label: 'Data Records'
+    - artist: 'Freemasons'
+      title: 'Raining Down Love (2006 Dub Vox)'
+      label: 'Loaded Records'
+    - section: 'Cruze classic from 1992'
+    - artist: 'M.A.N.I.C.'
+      title: 'I''m Coming Hardcore (Original Mix)'
+      label: 'Union City Recording'
 
 layout: audio
 tags:

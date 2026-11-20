@@ -42,7 +42,7 @@ layout: oneColumn
                 <span class="js-now-playing uppercase"></span>
             </div>
 
-            <!-- Actions: download + subscribe -->
+            <!-- Actions: download -->
             <div class="flex items-center justify-center sm:justify-start gap-4 flex-wrap pt-1">
                 {% if download %}
                 <a
@@ -57,26 +57,14 @@ layout: oneColumn
                     <span>Download</span>
                 </a>
                 {% endif %}
-
-                {% if subscribe %}
-                <div class="flex items-center gap-2">
-                    <span class="text-xs font-medium uppercase {{theme.main.secondary}}">Subscribe</span>
-                    {% for podcastItem in podcast.links %}
-                    <a
-                        href="{{podcastItem.url}}"
-                        target="_blank"
-                        rel="noopener"
-                        title="{{podcastItem.name}}"
-                        class="block transition-transform duration-150 hover:scale-110"
-                    ><img
-                        src="{{podcastItem.icon}}"
-                        class="w-6 h-6 rounded-sm"
-                        alt="Subscribe with {{podcastItem.name}}"
-                    /></a>
-                    {% endfor %}
-                </div>
-                {% endif %}
             </div>
+
+            {% if subscribe %}
+            <div class="pt-2">
+                <div class="text-xs font-semibold uppercase {{theme.main.secondary}} pb-2">Subscribe to the podcast</div>
+                {% include partials/subscribeLinks %}
+            </div>
+            {% endif %}
         </div>
     </div>
 

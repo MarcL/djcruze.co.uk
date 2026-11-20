@@ -19,4 +19,4 @@ Here's an archive of all of the shows from 2005 to 2011. I hope you enjoy them. 
 
 {% endcapture %}
 
-{% include partials/audioCollection, collection: collections.podcast text: audioText %}
+{% include partials/audioCollection, collection: collections.podcast text: audioText, showSubscribe: true %}

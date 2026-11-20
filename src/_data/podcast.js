@@ -14,7 +14,7 @@ module.exports = {
   },
   links: [
     {
-      name: 'iTunes',
+      name: 'Apple Podcasts',
       url: 'https://podcasts.apple.com/us/podcast/podcasts-dj-cruze/id89935810?mt=2&app=podcast',
       icon: '/images/podcasts/feed/icon-applepodcasts.svg'
     },

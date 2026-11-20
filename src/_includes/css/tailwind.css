@@ -11,35 +11,10 @@
     object-position: top;
 }
 
-progress.amplitude-song-played-progress {
-    background-color: rgb(226 232 240); /* slate-200 */
-    -webkit-appearance: none;
-    appearance: none;
-    width: 100%;
-    height: 8px;
-    display: block;
-    cursor: pointer;
-    border: none;
-    border-radius: 4px;
-}
-
-progress.amplitude-song-played-progress:not([value]) {
-    background-color: rgb(226 232 240); /* slate-200 */
-}
-
-progress[value]::-webkit-progress-bar {
-    background-color: rgb(226 232 240); /* slate-200 */
-    border-radius: 4px;
-}
-
-progress[value]::-moz-progress-bar {
-    background-color: rgb(14 165 233); /* sky-500 */
-    border-radius: 4px;
-}
-
-progress[value]::-webkit-progress-value {
-    background-color: rgb(14 165 233); /* sky-500 */
-    border-radius: 4px;
+/* Waveform colours, read by src/js/audioPlayer.js */
+.waveform {
+    --wave-color: rgb(203 213 225); /* slate-300 */
+    --progress-color: rgb(14 165 233); /* sky-500 */
 }
 
 /* Active track highlighting in tracklist */
@@ -57,8 +32,3 @@ progress[value]::-webkit-progress-value {
     color: rgb(14 165 233); /* sky-500 */
 }
 
-div.amplitude-wave-form svg {
-    height: 100px;
-    width: 100%;
-    stroke-width: 0.5px;
-}

@@ -1,88 +1,49 @@
 ---
 layout: oneColumn
-loadAudioPlayer: true
 ---
 
-<!-- Audio player card -->
-<div class="bg-slate-50 rounded-2xl p-4 md:p-6 shadow-sm border border-slate-100 mb-8">
-    <div class="flex flex-col md:flex-row gap-4 md:gap-6">
-        <!-- Cover art -->
-        <div id="cover-image" class="shrink-0 mx-auto md:mx-0">
-            <img
-                data-amplitude-song-info="cover_art_url"
-                title="{{title}}"
-                alt="{%- if media.title -%}{{media.title}}{%- else -%}DJ Cruze Audio{%- endif -%}"
-                class="rounded-lg aspect-square object-cover shadow-md w-48 md:w-40"
-            />
-        </div>
+{% assign jsonTracklist = media.tracklist | tracklistToJson %}
+{% assign waveform = media.content | waveform %}
+{% if media.image %}{% assign coverImage = media.image %}{% else %}{% assign coverImage = '/images/mixes/dj-cruze-mix-logo-600x600.jpg' %}{% endif %}
+{% if media.author %}{% assign mediaArtist = media.author %}{% else %}{% assign mediaArtist = 'DJ Cruze' %}{% endif %}
+{% if media.title %}{% assign mediaName = media.title %}{% else %}{% assign mediaName = title %}{% endif %}
 
-        <!-- Player content -->
-        <div class="flex-1 min-w-0 flex flex-col justify-center gap-3">
-            <!-- Track info -->
-            <div id="audio-metadata">
-                <div
-                    data-amplitude-song-info="artist"
-                    class="text-lg font-bold uppercase leading-tight"
-                ></div>
-                <div
-                    data-amplitude-song-info="name"
-                    class="text-base font-semibold uppercase leading-tight"
-                ></div>
+{% capture playIcon %}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="js-play-icon w-full h-full fill-current" aria-hidden="true">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M512 256c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM188.3 147.1c-7.6 4.2-12.3 12.3-12.3 20.9V344c0 8.7 4.7 16.7 12.3 20.9s16.8 4.1 24.3-.5l144-88c7.1-4.4 11.5-12.1 11.5-20.5s-4.4-16.1-11.5-20.5l-144-88c-7.4-4.5-16.7-4.7-24.3-.5z"/>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" class="js-pause-icon hidden w-full h-full fill-current" aria-hidden="true">
+    <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
+    <path d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM224 192V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32zm128 0V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32z"/>
+</svg>
+{% endcapture %}
+
+<!-- Audio player card -->
+<div id="audio-player" class="bg-slate-50 rounded-2xl p-4 md:p-6 shadow-sm border border-slate-100 mb-8">
+    <div class="flex flex-col sm:flex-row gap-4 md:gap-6">
+        <img
+            src="{{coverImage}}"
+            alt="{{mediaName | escape}}"
+            class="rounded-lg aspect-square object-cover shadow-md w-40 sm:w-32 md:w-40 shrink-0 mx-auto sm:mx-0"
+        />
+
+        <div class="flex-1 min-w-0 flex flex-col justify-center gap-2 text-center sm:text-left">
+            <div>
+                <div class="text-lg font-bold uppercase leading-tight">{{mediaArtist}}</div>
+                <div class="text-base font-semibold uppercase leading-tight">{{mediaName}}</div>
                 <div class="text-xs {{theme.main.secondary}} font-medium uppercase pt-1">
                     {{page.date | pageDate}}
                 </div>
             </div>
 
-            <!-- Player controls + progress bar -->
-            <div id="audio-progress-bar">
-                <div class="flex items-center gap-3">
-                    <div id="audio-buttons" class="shrink-0">
-                        <div
-                            class="cursor-pointer text-slate-800"
-                            id="playButton"
-                        >
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 512 512"
-                                class="w-10 h-10 fill-current {{theme.audioPlayer.controls.hover}}"
-                            >
-                                <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
-                                <path
-                                    d="M512 256c0 141.4-114.6 256-256 256S0 397.4 0 256S114.6 0 256 0S512 114.6 512 256zM188.3 147.1c-7.6 4.2-12.3 12.3-12.3 20.9V344c0 8.7 4.7 16.7 12.3 20.9s16.8 4.1 24.3-.5l144-88c7.1-4.4 11.5-12.1 11.5-20.5s-4.4-16.1-11.5-20.5l-144-88c-7.4-4.5-16.7-4.7-24.3-.5z"
-                                />
-                            </svg>
-                        </div>
-                        <div
-                            class="hidden cursor-pointer"
-                            id="pauseButton"
-                        >
-                            <svg
-                                xmlns="http://www.w3.org/2000/svg"
-                                viewBox="0 0 512 512"
-                                class="w-10 h-10 fill-current {{theme.audioPlayer.controls.hover}}"
-                            >
-                                <!--! Font Awesome Pro 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. -->
-                                <path
-                                    d="M256 512c141.4 0 256-114.6 256-256S397.4 0 256 0S0 114.6 0 256S114.6 512 256 512zM224 192V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32zm128 0V320c0 17.7-14.3 32-32 32s-32-14.3-32-32V192c0-17.7 14.3-32 32-32s32 14.3 32 32z"
-                                />
-                            </svg>
-                        </div>
-                    </div>
-                    <div class="flex-1 min-w-0">
-                        <progress
-                            class="amplitude-song-played-progress"
-                            id="song-played-progress"
-                        ></progress>
-                        <div class="text-xs {{theme.main.secondary}} font-medium text-right font-mono pt-1">
-                            <span class="amplitude-current-time"></span> /
-                            <span class="amplitude-duration-time"></span>
-                        </div>
-                    </div>
-                </div>
+            <div class="js-now-playing-container hidden text-sm" aria-live="polite">
+                <span class="font-semibold uppercase text-sky-600">Now playing:</span>
+                <span class="js-now-playing uppercase"></span>
             </div>
 
             <!-- Actions: download + subscribe -->
-            <div class="flex items-center gap-4 flex-wrap">
+            <div class="flex items-center justify-center sm:justify-start gap-4 flex-wrap pt-1">
                 {% if download %}
                 <a
                     href="{{site.mediaFilesUrl}}{{media.content}}"
@@ -90,18 +51,8 @@ loadAudioPlayer: true
                     download
                     class="inline-flex items-center {{theme.audioPlayer.downloadButton}} font-semibold py-1.5 px-3 rounded-lg transition-all duration-300 hover:scale-[1.02] space-x-1.5 uppercase text-xs"
                 >
-                    <svg
-                        class="w-3.5 h-3.5"
-                        fill="none"
-                        viewBox="0 0 24 24"
-                        stroke="currentColor"
-                    >
-                        <path
-                            stroke-linecap="round"
-                            stroke-linejoin="round"
-                            stroke-width="2"
-                            d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4"
-                        />
+                    <svg class="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
                     </svg>
                     <span>Download</span>
                 </a>
@@ -128,10 +79,53 @@ loadAudioPlayer: true
             </div>
         </div>
     </div>
+
+    <!-- Play button + waveform -->
+    <div class="flex items-center gap-3 mt-4">
+        <button type="button" class="js-play-toggle w-12 h-12 shrink-0 text-slate-800 {{theme.audioPlayer.controls.hover}}" aria-label="Play">
+            {{playIcon}}
+        </button>
+        <div class="flex-1 min-w-0">
+            <div
+                id="waveform"
+                class="waveform h-20 md:h-24 cursor-pointer rounded focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                role="slider"
+                tabindex="0"
+                aria-label="Seek"
+                aria-valuemin="0"
+                aria-valuemax="0"
+                aria-valuenow="0"
+            ></div>
+            <div class="text-xs {{theme.main.secondary}} font-medium text-right font-mono pt-1">
+                <span class="js-current-time">0:00</span> / <span class="js-duration">0:00</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Sticky mini player, shown when the main player scrolls off screen during playback -->
+<div id="mini-player" class="hidden fixed inset-x-0 bottom-0 z-50 bg-slate-900 text-white shadow-lg">
+    <div id="mini-progress-track" class="h-1.5 bg-slate-700 cursor-pointer">
+        <div id="mini-progress" class="h-full bg-sky-500" style="width: 0"></div>
+    </div>
+    <div class="max-w-7xl mx-auto flex items-center gap-3 px-4 py-2">
+        <button type="button" class="js-play-toggle w-10 h-10 shrink-0 hover:text-sky-400" aria-label="Play">
+            {{playIcon}}
+        </button>
+        <img src="{{coverImage}}" alt="" class="w-10 h-10 rounded object-cover shrink-0" />
+        <div class="flex-1 min-w-0">
+            <div class="text-sm font-bold uppercase truncate">{{mediaArtist}} - {{mediaName}}</div>
+            <div class="js-now-playing-container hidden text-xs text-slate-300 uppercase truncate">
+                <span class="js-now-playing"></span>
+            </div>
+        </div>
+        <div class="hidden sm:block text-xs font-mono text-slate-300 shrink-0">
+            <span class="js-current-time">0:00</span> / <span class="js-duration">0:00</span>
+        </div>
+    </div>
 </div>
 
 {% if media.tracklist %}
-{% assign jsonTracklist = media.tracklist | tracklistToJson %}
 <div class="pt-6 pb-2">
     <h3 class="text-xl md:text-2xl font-extrabold text-left uppercase pb-4">Tracklist</h3>
     <ol id="tracklist" class="space-y-0">
@@ -141,14 +135,11 @@ loadAudioPlayer: true
             {{track.section}}
         </li>
         {% else %}
-        <li
-            class="tracklist-row flex items-baseline gap-3 py-2 px-3 rounded-lg {{theme.audioPlayer.tracklist.hover}} transition-colors duration-150{% if track.timestampInSeconds != null %} cursor-pointer{% endif %}"
-            {% if track.timestampInSeconds != null %}data-timestamp="{{track.timestampInSeconds}}"{% endif %}
-        >
+        {% capture trackContent %}
             <span class="tracklist-number text-sm font-bold {{theme.main.secondary}} w-6 text-right shrink-0">
                 {{track.number}}
             </span>
-            <div class="flex-1 min-w-0">
+            <span class="flex-1 min-w-0">
                 {% if track.artist %}
                 <span class="font-semibold uppercase text-base md:text-lg">{{track.artist}}</span>
                 {% endif %}
@@ -161,11 +152,23 @@ loadAudioPlayer: true
                 {% if track.note %}
                 <span class="block text-sm italic {{theme.main.secondary}}">{{track.note}}</span>
                 {% endif %}
-            </div>
+            </span>
             {% if track.timestampInSeconds != null %}
             <span class="tracklist-timestamp text-sm {{theme.main.secondary}} shrink-0 font-mono">
                 {{track.timestamp}}
             </span>
+            {% endif %}
+        {% endcapture %}
+        <li class="tracklist-row rounded-lg {{theme.audioPlayer.tracklist.hover}} transition-colors duration-150" data-track-number="{{track.number}}">
+            {% if track.timestampInSeconds != null %}
+            <button
+                type="button"
+                class="tracklist-seek w-full flex items-baseline gap-3 py-2 px-3 text-left rounded-lg focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-500"
+                data-timestamp="{{track.timestampInSeconds}}"
+                aria-label="Play from {{track.timestamp}}: {{track.artist | escape}} {{track.title | escape}}"
+            >{{trackContent}}</button>
+            {% else %}
+            <div class="flex items-baseline gap-3 py-2 px-3">{{trackContent}}</div>
             {% endif %}
         </li>
         {% endif %}
@@ -180,166 +183,11 @@ loadAudioPlayer: true
 </div>
 {% endif %}
 
-<script>
-    let isPlaying = false;
-    const playButton = document.getElementById('playButton');
-    const pauseButton = document.getElementById('pauseButton');
-
-    const showAudioButtons = (playing = true) => {
-      playButton.classList.toggle('hidden');
-      pauseButton.classList.toggle('hidden');
-    };
-
-    const audioFinishedPlaying = () => {
-      isPlaying = false;
-      showAudioButtons(isPlaying);
-    };
-
-    // Active track highlighting setup (must be before Amplitude.init)
-    const ACTIVE_TRACK_CLASS = 'tracklist-row-active';
-    const tracklistElement = document.getElementById('tracklist');
-    let trackTimestamps = [];
-
-    if (tracklistElement) {
-        const tracklistRowsWithTimestamps = tracklistElement.querySelectorAll('.tracklist-row[data-timestamp]');
-        trackTimestamps = Array.from(tracklistRowsWithTimestamps).map((row) => ({
-            element: row,
-            timestampInSeconds: parseInt(row.dataset.timestamp, 10),
-        })).filter((track) => !isNaN(track.timestampInSeconds))
-          .sort((trackA, trackB) => trackA.timestampInSeconds - trackB.timestampInSeconds);
-    }
-
-    const highlightActiveTrack = () => {
-        if (trackTimestamps.length === 0) return;
-
-        const currentTimeInSeconds = Amplitude.getSongPlayedSeconds();
-        let activeTrackIndex = -1;
-
-        // Find the last track whose timestamp is at or before the current time
-        for (let index = trackTimestamps.length - 1; index >= 0; index--) {
-            if (trackTimestamps[index].timestampInSeconds <= currentTimeInSeconds) {
-                activeTrackIndex = index;
-                break;
-            }
-        }
-
-        trackTimestamps.forEach((track, index) => {
-            if (index === activeTrackIndex) {
-                track.element.classList.add(ACTIVE_TRACK_CLASS);
-            } else {
-                track.element.classList.remove(ACTIVE_TRACK_CLASS);
-            }
-        });
-    };
-
-    const clearActiveTrackHighlighting = () => {
-        trackTimestamps.forEach((track) => {
-            track.element.classList.remove(ACTIVE_TRACK_CLASS);
-        });
-    };
-
-    // Polling fallback for active track highlighting
-    const HIGHLIGHT_UPDATE_INTERVAL_MILLISECONDS = 1000;
-    let highlightingIntervalId = null;
-
-    const startHighlightPolling = () => {
-        if (!highlightingIntervalId && trackTimestamps.length > 0) {
-            highlightingIntervalId = setInterval(highlightActiveTrack, HIGHLIGHT_UPDATE_INTERVAL_MILLISECONDS);
-        }
-    };
-
-    const stopHighlightPolling = () => {
-        if (highlightingIntervalId) {
-            clearInterval(highlightingIntervalId);
-            highlightingIntervalId = null;
-        }
-        clearActiveTrackHighlighting();
-    };
-
-    {% if media.title %}
-    const mediaTitle = '{{media.title}}';
-    {% else %}
-    const mediaTitle = null;
-    {% endif %}
-    const mediaAuthor = '{{media.author}}';
-    const mediaImage = '{{media.image}}';
-    const options = {
-      songs: [
-        {
-          name: mediaTitle || '{{title | escape}}',
-          artist: mediaAuthor || 'DJ Cruze',
-          url: '{{site.mediaFilesUrl}}{{media.content}}',
-          cover_art_url: mediaImage || '/images/mixes/dj-cruze-mix-logo-600x600.jpg',
-        },
-      ],
-      callbacks: {
-        stop: () => {
-            audioFinishedPlaying();
-            stopHighlightPolling();
-        },
-        timeupdate: () => {
-            highlightActiveTrack();
-        },
-      },
-      waveforms: {
-        sample_rate: 200,
-      }
-    };
-    Amplitude.init(options);
-
-    // Handle a click on the song played progress bar.
-    const progressBarElement = document.getElementById('song-played-progress');
-
-    const setProgressBar = (event) => {
-      const offset = progressBarElement.getBoundingClientRect();
-        const offsetWidth = progressBarElement.offsetWidth;
-        const x = event.pageX - offset.left;
-
-        Amplitude.setSongPlayedPercentage(
-          (parseFloat(x) / parseFloat(offsetWidth)) * 100
-        );
-    };
-
-    ['click', 'touchend'].forEach((event) => {
-      progressBarElement.addEventListener(event, setProgressBar);
-    });
-
-    const togglePlaying = () =>{
-      if (!isPlaying) {
-        Amplitude.play();
-        isPlaying = true;
-        startHighlightPolling();
-      } else {
-        Amplitude.pause();
-        isPlaying = false;
-        stopHighlightPolling();
-      }
-      showAudioButtons(isPlaying);
-    };
-
-    playButton.addEventListener('click', togglePlaying);
-    pauseButton.addEventListener('click', togglePlaying);
-
-    // Click-to-seek on tracklist rows with timestamps
-    if (tracklistElement) {
-        const seekableRows = tracklistElement.querySelectorAll('.tracklist-row[data-timestamp]');
-
-        const seekToTrackTimestamp = (event) => {
-            const clickedRow = event.currentTarget;
-            const timestampInSeconds = parseInt(clickedRow.dataset.timestamp, 10);
-
-            if (isNaN(timestampInSeconds)) return;
-
-            // Calculate percentage of total duration and seek
-            const songDurationInSeconds = Amplitude.getSongDuration();
-            if (songDurationInSeconds > 0) {
-                const seekPercentage = (timestampInSeconds / songDurationInSeconds) * 100;
-                Amplitude.setSongPlayedPercentage(seekPercentage);
-            }
-        };
-
-        seekableRows.forEach((row) => {
-            row.addEventListener('click', seekToTrackTimestamp);
-        });
-    }
+<script type="application/json" id="audio-player-data">
+{
+    "url": {{ site.mediaFilesUrl | append: media.content | scriptJson }},
+    "waveform": {{ waveform | scriptJson }},
+    "tracks": {{ jsonTracklist.tracklist | scriptJson }}
+}
 </script>
+<script type="module" src="/js/audioPlayer.js"></script>

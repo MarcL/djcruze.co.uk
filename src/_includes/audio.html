@@ -136,28 +136,39 @@ loadAudioPlayer: true
     <h3 class="text-xl md:text-2xl font-extrabold text-left uppercase pb-4">Tracklist</h3>
     <ol id="tracklist" class="space-y-0">
         {% for track in jsonTracklist.tracklist %}
+        {% if track.section %}
+        <li class="tracklist-section pt-4 pb-1 px-3 text-sm font-bold uppercase tracking-wide {{theme.main.secondary}}">
+            {{track.section}}
+        </li>
+        {% else %}
         <li
             class="tracklist-row flex items-baseline gap-3 py-2 px-3 rounded-lg {{theme.audioPlayer.tracklist.hover}} transition-colors duration-150{% if track.timestampInSeconds != null %} cursor-pointer{% endif %}"
             {% if track.timestampInSeconds != null %}data-timestamp="{{track.timestampInSeconds}}"{% endif %}
         >
             <span class="tracklist-number text-sm font-bold {{theme.main.secondary}} w-6 text-right shrink-0">
-                {{forloop.index}}
+                {{track.number}}
             </span>
             <div class="flex-1 min-w-0">
+                {% if track.artist %}
                 <span class="font-semibold uppercase text-base md:text-lg">{{track.artist}}</span>
+                {% endif %}
                 {% if track.title %}
-                <span class="uppercase text-base md:text-lg"> - {{track.title}}</span>
+                <span class="uppercase text-base md:text-lg">{% if track.artist %} - {% endif %}{{track.title}}</span>
                 {% endif %}
                 {% if jsonTracklist.hasLabels and track.label %}
                 <span class="hidden md:inline text-sm {{theme.main.secondary}}"> [{{track.label}}]</span>
                 {% endif %}
+                {% if track.note %}
+                <span class="block text-sm italic {{theme.main.secondary}}">{{track.note}}</span>
+                {% endif %}
             </div>
             {% if track.timestampInSeconds != null %}
             <span class="tracklist-timestamp text-sm {{theme.main.secondary}} shrink-0 font-mono">
-                {{track.timestamp | replace: "[", "" | replace: "]", ""}}
+                {{track.timestamp}}
             </span>
             {% endif %}
         </li>
+        {% endif %}
         {% endfor %}
     </ol>
 </div>

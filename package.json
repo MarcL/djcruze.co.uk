@@ -12,7 +12,8 @@
     "build:site": "eleventy",
     "build:js": "parcel build src/clientjs/index.js --out-dir src/distjs --out-file bundle.js",
     "link-check": "blc http://localhost:4000 -ro",
-    "serve": "ELEVENTY_ENV=dev eleventy --serve & npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --watch"
+    "serve": "ELEVENTY_ENV=dev eleventy --serve & npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --watch",
+    "test": "node --test"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",

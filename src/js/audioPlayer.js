@@ -40,8 +40,8 @@ const wavesurfer = WaveSurfer.create({
     waveColor,
     progressColor,
     cursorColor: progressColor,
-    barWidth: 2,
-    barGap: 1,
+    barWidth: 4,
+    barGap: 2,
     barRadius: 2,
     dragToSeek: true,
     plugins: [regions],
@@ -49,16 +49,28 @@ const wavesurfer = WaveSurfer.create({
 
 const trackLabel = (track) => [track.artist, track.title].filter(Boolean).join(' - ');
 
+// A thin, faint line centred in a wider transparent strip so it is still easy to hover and click.
+const MARKER_HIT_WIDTH_PIXELS = 9;
+const markerBackground = (opacity) =>
+    `linear-gradient(to right, transparent 4px, rgba(14, 165, 233, ${opacity}) 4px, rgba(14, 165, 233, ${opacity}) 5px, transparent 5px)`;
+
 const addTrackMarkers = () => {
     regions.clearRegions();
     timedTracks.forEach((track) => {
         const marker = regions.addRegion({
             start: track.timestampInSeconds,
-            content: String(track.number),
-            color: 'rgba(15, 23, 42, 0.6)',
             drag: false,
             resize: false,
         });
+        Object.assign(marker.element.style, {
+            borderLeft: 'none',
+            width: `${MARKER_HIT_WIDTH_PIXELS}px`,
+            marginLeft: `-${Math.floor(MARKER_HIT_WIDTH_PIXELS / 2)}px`,
+            background: markerBackground(0.4),
+            cursor: 'pointer',
+        });
+        marker.element.addEventListener('mouseenter', () => (marker.element.style.background = markerBackground(1)));
+        marker.element.addEventListener('mouseleave', () => (marker.element.style.background = markerBackground(0.4)));
         marker.element.title = `${track.number}. ${trackLabel(track)} (${formatTime(track.timestampInSeconds)})`;
     });
 };

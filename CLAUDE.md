@@ -43,7 +43,7 @@ src/
 - **Theme**: Tailwind utility classes stored as data in `src/_data/theme.js`, referenced in templates as `{{theme.section.property}}`
 - **Images**: Optimized via `@11ty/eleventy-img` — generates AVIF, WebP, JPEG at multiple widths (300, 600, 1024, 1280)
 - **Audio hosting**: Media files served from Backblaze B2 (`site.mediaFilesUrl`)
-- **Audio player**: `src/_includes/audio.html` + `src/js/audioPlayer.js` (wavesurfer.js from jsDelivr). Waveform peaks are pre-generated into `src/waveforms/<media path, slugified>.json`, so browsers and Netlify never download whole MP3s. Production builds fail if a page's `media.content` has no waveform JSON.
+- **Audio player**: `src/_includes/audio.html` + `src/js/audioPlayer.js` (wavesurfer.js self-hosted from npm into `/js/vendor/`). Waveform peaks are pre-generated into `src/waveforms/<media path, slugified>.json`, so browsers and Netlify never download whole MP3s. Production builds fail if a page's `media.content` has no waveform JSON, unless the page sets `media.skipWaveform: true` (only for missing MP3s).
 - **Custom filters/shortcodes**: Defined in `.eleventy.js` — `image`, `pageDate`, `rfc822Date`, `tracklistToJson` (see `lib/tracklist.js`), etc.
 
 ## Content Collections

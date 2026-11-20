@@ -1,6 +1,7 @@
-import WaveSurfer from 'https://cdn.jsdelivr.net/npm/wavesurfer.js@8.1.0/dist/wavesurfer.esm.js';
-import RegionsPlugin from 'https://cdn.jsdelivr.net/npm/wavesurfer.js@8.1.0/dist/plugins/regions.esm.js';
-import { findActiveTrackIndex, formatTime } from './playerUtils.mjs';
+// Self-hosted from the wavesurfer.js npm package (copied by .eleventy.js).
+import WaveSurfer from './vendor/wavesurfer.esm.js';
+import RegionsPlugin from './vendor/regions.esm.js';
+import { findActiveTrackIndex, findAdjacentTrackStart, formatTime } from './playerUtils.mjs';
 
 const SEEK_STEP_SECONDS = 10;
 const ACTIVE_TRACK_CLASS = 'tracklist-row-active';
@@ -10,6 +11,7 @@ const playerCard = document.getElementById('audio-player');
 const waveformElement = document.getElementById('waveform');
 const miniPlayer = document.getElementById('mini-player');
 const miniProgressTrack = document.getElementById('mini-progress-track');
+const seekSliders = [waveformElement, miniProgressTrack];
 const miniProgress = document.getElementById('mini-progress');
 const toggleButtons = document.querySelectorAll('.js-play-toggle');
 const currentTimeElements = document.querySelectorAll('.js-current-time');
@@ -32,6 +34,8 @@ const progressColor = getComputedStyle(waveformElement).getPropertyValue('--prog
 const regions = RegionsPlugin.create();
 const wavesurfer = WaveSurfer.create({
     container: waveformElement,
+    // preload="none": the duration comes from the waveform JSON, so nothing downloads until play.
+    media: document.getElementById('audio-element'),
     url: data.url,
     // Pre-generated peaks mean the browser never downloads the whole file to draw the waveform.
     peaks: data.waveform ? [data.waveform.peaks] : undefined,
@@ -80,6 +84,52 @@ regions.on('region-clicked', (marker, event) => {
     wavesurfer.setTime(marker.start);
 });
 
+// Lock screen, Control Centre and headphone controls.
+const hasMediaSession = 'mediaSession' in navigator;
+const coverUrl = new URL(data.cover, window.location.href).href;
+
+const updateMediaSessionMetadata = (trackName) => {
+    if (!hasMediaSession) return;
+    navigator.mediaSession.metadata = new MediaMetadata({
+        title: trackName || data.name,
+        artist: data.artist,
+        album: trackName ? data.name : '',
+        artwork: [{ src: coverUrl }],
+    });
+};
+
+const updateMediaSessionPosition = (position, duration) => {
+    if (!hasMediaSession || !navigator.mediaSession.setPositionState || !(duration > 0)) return;
+    navigator.mediaSession.setPositionState({ duration, position: Math.min(position, duration), playbackRate: 1 });
+};
+
+const seekTo = (time) => wavesurfer.setTime(Math.min(wavesurfer.getDuration(), Math.max(0, time)));
+
+if (hasMediaSession) {
+    const actionHandlers = {
+        play: () => wavesurfer.play(),
+        pause: () => wavesurfer.pause(),
+        seekbackward: (details) => seekTo(wavesurfer.getCurrentTime() - (details.seekOffset || SEEK_STEP_SECONDS)),
+        seekforward: (details) => seekTo(wavesurfer.getCurrentTime() + (details.seekOffset || SEEK_STEP_SECONDS)),
+        seekto: (details) => seekTo(details.seekTime),
+    };
+    if (timedTracks.length > 0) {
+        actionHandlers.previoustrack = () =>
+            seekTo(findAdjacentTrackStart(trackStartTimes, wavesurfer.getCurrentTime(), 'previous') ?? 0);
+        actionHandlers.nexttrack = () => {
+            const nextStart = findAdjacentTrackStart(trackStartTimes, wavesurfer.getCurrentTime(), 'next');
+            if (nextStart !== null) seekTo(nextStart);
+        };
+    }
+    Object.entries(actionHandlers).forEach(([action, handler]) => {
+        try {
+            navigator.mediaSession.setActionHandler(action, handler);
+        } catch {
+            // Older browsers throw for actions they don't support.
+        }
+    });
+}
+
 let activeTrackIndex = null;
 const updateActiveTrack = (currentTime) => {
     const index = findActiveTrackIndex(trackStartTimes, currentTime);
@@ -94,20 +144,24 @@ const updateActiveTrack = (currentTime) => {
         element.textContent = label;
         element.closest('.js-now-playing-container')?.classList.toggle('hidden', !label);
     });
+    updateMediaSessionMetadata(label);
 };
 
 const updateTime = (currentTime) => {
     const duration = wavesurfer.getDuration();
     currentTimeElements.forEach((element) => (element.textContent = formatTime(currentTime)));
     miniProgress.style.width = duration > 0 ? `${(currentTime / duration) * 100}%` : '0';
-    waveformElement.setAttribute('aria-valuenow', String(Math.floor(currentTime)));
-    waveformElement.setAttribute('aria-valuetext', formatTime(currentTime));
+    seekSliders.forEach((slider) => {
+        slider.setAttribute('aria-valuenow', String(Math.floor(currentTime)));
+        slider.setAttribute('aria-valuetext', formatTime(currentTime));
+    });
     updateActiveTrack(currentTime);
+    updateMediaSessionPosition(currentTime, duration);
 };
 
 const updateDuration = (duration) => {
     durationElements.forEach((element) => (element.textContent = formatTime(duration)));
-    waveformElement.setAttribute('aria-valuemax', String(Math.floor(duration)));
+    seekSliders.forEach((slider) => slider.setAttribute('aria-valuemax', String(Math.floor(duration))));
 };
 
 const updatePlayingState = (isPlaying) => {
@@ -154,8 +208,8 @@ miniProgressTrack.addEventListener('click', (event) => {
     wavesurfer.seekTo(Math.min(1, Math.max(0, (event.clientX - bounds.left) / bounds.width)));
 });
 
-// Keyboard seeking on the waveform (it has role="slider").
-waveformElement.addEventListener('keydown', (event) => {
+// Keyboard seeking on the waveform and the mini player bar (both have role="slider").
+const handleSeekKeys = (event) => {
     const currentTime = wavesurfer.getCurrentTime();
     const seekTargets = {
         ArrowLeft: currentTime - SEEK_STEP_SECONDS,
@@ -168,9 +222,10 @@ waveformElement.addEventListener('keydown', (event) => {
         wavesurfer.playPause();
     } else if (event.key in seekTargets) {
         event.preventDefault();
-        wavesurfer.setTime(Math.min(wavesurfer.getDuration(), Math.max(0, seekTargets[event.key])));
+        seekTo(seekTargets[event.key]);
     }
-});
+};
+seekSliders.forEach((slider) => slider.addEventListener('keydown', handleSeekKeys));
 
 // Click a timestamped track to jump to it and start playing.
 document.querySelectorAll('.tracklist-seek').forEach((button) => {

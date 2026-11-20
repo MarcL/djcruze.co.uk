@@ -69,6 +69,10 @@ module.exports = (eleventyConfig) => {
     eleventyConfig.addPassthroughCopy({ 'src/fonts': 'fonts' });
     eleventyConfig.addPassthroughCopy({ 'src/js': 'js' });
     eleventyConfig.addPassthroughCopy({ 'lib/playerUtils.mjs': 'js/playerUtils.mjs' });
+    eleventyConfig.addPassthroughCopy({
+        'node_modules/wavesurfer.js/dist/wavesurfer.esm.js': 'js/vendor/wavesurfer.esm.js',
+        'node_modules/wavesurfer.js/dist/plugins/regions.esm.js': 'js/vendor/regions.esm.js',
+    });
 
     // Shortcodes
     eleventyConfig.addShortcode('version', function () {

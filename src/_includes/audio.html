@@ -3,7 +3,7 @@ layout: oneColumn
 ---
 
 {% assign jsonTracklist = media.tracklist | tracklistToJson %}
-{% assign waveform = media.content | waveform %}
+{% unless media.skipWaveform %}{% assign waveform = media.content | waveform %}{% endunless %}
 {% if media.image %}{% assign coverImage = media.image %}{% else %}{% assign coverImage = '/images/mixes/dj-cruze-mix-logo-600x600.jpg' %}{% endif %}
 {% if media.author %}{% assign mediaArtist = media.author %}{% else %}{% assign mediaArtist = 'DJ Cruze' %}{% endif %}
 {% if media.title %}{% assign mediaName = media.title %}{% else %}{% assign mediaName = title %}{% endif %}
@@ -80,6 +80,8 @@ layout: oneColumn
         </div>
     </div>
 
+    <audio id="audio-element" preload="none"></audio>
+
     <!-- Play button + waveform -->
     <div class="flex items-center gap-3 mt-4">
         <button type="button" class="js-play-toggle w-12 h-12 shrink-0 text-slate-800 {{theme.audioPlayer.controls.hover}}" aria-label="Play">
@@ -105,7 +107,16 @@ layout: oneColumn
 
 <!-- Sticky mini player, shown when the main player scrolls off screen during playback -->
 <div id="mini-player" class="hidden fixed inset-x-0 bottom-0 z-50 bg-slate-900 text-white shadow-lg">
-    <div id="mini-progress-track" class="h-1.5 bg-slate-700 cursor-pointer">
+    <div
+        id="mini-progress-track"
+        class="h-1.5 bg-slate-700 cursor-pointer focus:outline-none focus-visible:ring-2 focus-visible:ring-sky-400"
+        role="slider"
+        tabindex="0"
+        aria-label="Seek"
+        aria-valuemin="0"
+        aria-valuemax="0"
+        aria-valuenow="0"
+    >
         <div id="mini-progress" class="h-full bg-sky-500" style="width: 0"></div>
     </div>
     <div class="max-w-7xl mx-auto flex items-center gap-3 px-4 py-2">
@@ -186,6 +197,9 @@ layout: oneColumn
 <script type="application/json" id="audio-player-data">
 {
     "url": {{ site.mediaFilesUrl | append: media.content | scriptJson }},
+    "name": {{ mediaName | scriptJson }},
+    "artist": {{ mediaArtist | scriptJson }},
+    "cover": {{ coverImage | scriptJson }},
     "waveform": {{ waveform | scriptJson }},
     "tracks": {{ jsonTracklist.tracklist | scriptJson }}
 }

@@ -3,8 +3,6 @@ title: 'Episode #15 - The Game'
 
 #permalink: /2006/05/04/episode-15-the-game/
 permalink: /podcasts/episode-15-the-game/
-votio:
-  - 8.1290322580643,124,
 
 ###################################
 # Media details

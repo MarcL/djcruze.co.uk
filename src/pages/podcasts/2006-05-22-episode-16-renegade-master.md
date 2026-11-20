@@ -3,8 +3,6 @@ title: 'Episode #16 - Renegade Master'
 
 #permalink: /2006/05/22/episode-16-renegade-master/
 permalink: /podcasts/episode-16-renegade-master/
-votio:
-  - 8.4076923076923,130,
 
 ###################################
 # Media details

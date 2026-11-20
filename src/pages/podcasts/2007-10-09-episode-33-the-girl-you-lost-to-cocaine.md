@@ -3,8 +3,6 @@ title: 'Episode #33 - The Girl You Lost To Cocaine'
 
 #permalink: /2007/10/09/episode-33-the-girl-you-lost-to-cocaine/
 permalink: /podcasts/episode-33-the-girl-you-lost-to-cocaine/
-votio:
-  - 8.9577464788732,71,
 
 ###################################
 # Media details

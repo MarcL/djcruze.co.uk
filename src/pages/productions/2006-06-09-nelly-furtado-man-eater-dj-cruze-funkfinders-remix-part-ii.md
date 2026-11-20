@@ -6,8 +6,6 @@ excerpt: "DJ Cruze's funky house remix of Nelly Furtado's - Man Eater"
 layout: audio
 # permalink: /2006/06/09/nelly-furtado-man-eater-dj-cruze-funkfinders-remix-part-ii/
 permalink: /productions/nelly-furtado-man-eater-dj-cruze-funkfinders-remix/
-'itunes:category':
-  - Music
 categories:
   - Studio
 media:

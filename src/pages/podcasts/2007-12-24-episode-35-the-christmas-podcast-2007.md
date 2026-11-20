@@ -3,8 +3,6 @@ title: 'Episode #35 - The Christmas Podcast 2007'
 
 #permalink: /2007/12/24/episode-35-the-christmas-podcast-2007/
 permalink: /podcasts/episode-35-the-christmas-podcast-2007/
-votio:
-  - 9.1290322580645,31,
 
 ###################################
 # Media details

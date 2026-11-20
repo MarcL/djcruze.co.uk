@@ -3,8 +3,6 @@ title: 'Episode #54 - Way In My Brain'
 
 #permalink: /2009/09/26/episode-54-way-in-my-brain/
 permalink: /podcasts/episode-54-way-in-my-brain/
-votio:
-  - 9.0967741935482,31,
 
 ###################################
 # Media details

@@ -3,19 +3,6 @@ title: 'Episode #10 - Keep The Fire Burning'
 
 #permalink: /2006/01/31/episode-10-keep-the-fire-burning/
 permalink: /podcasts/episode-10-keep-the-fire-burning/
-'itunes:category':
-  - Music
-'itunes:duration':
-  - 00:50:02
-enclosure:
-  - |
-    |
-        http://ripple.radiotail.com/211/Cruze_Podcast010_290106.mp3
-        36036608
-        audio/mpeg
-
-votio:
-  - 8.7368421052631,76,
 
 ###################################
 # Podcast

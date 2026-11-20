@@ -3,8 +3,6 @@ title: 'Episode #41 - Neon Lights'
 
 #permalink: /2008/07/20/episode-41-neon-lights/
 permalink: /podcasts/episode-41-neon-lights/
-votio:
-  - 9.1212121212121,33,
 
 ###################################
 # Media details

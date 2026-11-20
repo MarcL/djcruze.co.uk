@@ -4,7 +4,7 @@ subtitle: 'Christmas 2006'
 
 #permalink: /2006/12/29/christmas-2006-electro-mix/
 permalink: /mixes/christmas-2006-electro-mix/
-date: 2006-12-39
+date: 2006-12-29
 
 ###################################
 # Podcast

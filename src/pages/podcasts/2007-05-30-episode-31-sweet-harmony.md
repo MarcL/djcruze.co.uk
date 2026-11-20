@@ -3,8 +3,6 @@ title: 'Episode #31 - Sweet Harmony'
 
 #permalink: /2007/05/30/episode-31-sweet-harmony/
 permalink: /podcasts/episode-31-sweet-harmony/
-votio:
-  - 8.728813559322,59,
 
 ###################################
 # Media details

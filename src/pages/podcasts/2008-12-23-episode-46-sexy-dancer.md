@@ -3,8 +3,6 @@ title: 'Episode #46 - Sexy Dancer'
 
 #permalink: /2008/12/23/episode-46-sexy-dancer/
 permalink: /podcasts/episode-46-sexy-dancer/
-votio:
-  - 9.2333333333333,30,
 
 ###################################
 # Media details

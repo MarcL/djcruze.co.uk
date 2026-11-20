@@ -3,17 +3,6 @@ title: 'Episode #49 - Flashback'
 
 #permalink: /2009/02/12/episode-49-flashback/
 permalink: /podcasts/episode-49-flashback/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/Cruze_Podcast049_120209.mp3
-        57550444
-        audio/mpeg
-
-votio:
-  - 9.1034482758621,29,
 
 ###################################
 # Podcast

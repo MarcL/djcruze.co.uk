@@ -3,8 +3,6 @@ title: 'Episode #42 - Music Talking'
 
 #permalink: /2008/08/24/episode-42-music-talking/
 permalink: /podcasts/episode-42-music-talking/
-votio:
-  - 8.4,35,
 
 ###################################
 # Media details

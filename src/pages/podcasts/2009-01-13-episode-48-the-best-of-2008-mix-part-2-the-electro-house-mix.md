@@ -3,8 +3,6 @@ title: 'Episode #48 - The Best Of 2008 Mix Part 2 - The Electro House Mix'
 
 #permalink: /2009/01/13/episode-48-the-best-of-2008-mix-part-2-the-electro-house-mix/
 permalink: /podcasts/episode-48-the-best-of-2008-mix-part-2-the-electro-house-mix/
-votio:
-  - 8.125,40,
 
 ###################################
 # Media details

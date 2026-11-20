@@ -3,8 +3,6 @@ title: 'Episode #32 - Is Anyone Still Subscribed?!'
 
 #permalink: /2007/09/02/episode-32-is-anyone-still-subscribed/
 permalink: /podcasts/episode-32-is-anyone-still-subscribed/
-votio:
-  - 8.6800000000001,25,
 
 ###################################
 # Media details

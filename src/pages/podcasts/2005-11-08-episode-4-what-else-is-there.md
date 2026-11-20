@@ -3,8 +3,6 @@ title: 'Episode #4 - What Else Is There?'
 
 #permalink: /2005/11/08/episode-4-what-else-is-there/
 permalink: /podcasts/episode-4-what-else-is-there/
-votio:
-  - 9.2903225806451,31,
 
 ###################################
 # Media details

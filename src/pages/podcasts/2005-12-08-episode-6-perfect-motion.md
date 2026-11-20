@@ -3,8 +3,6 @@ title: 'Episode #6 - Perfect Motion'
 
 #permalink: /2005/12/08/episode-6-perfect-motion/
 permalink: /podcasts/episode-6-perfect-motion/
-votio:
-  - 9.4594594594596,37,
 
 ###################################
 # Media details

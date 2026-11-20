@@ -3,8 +3,6 @@ title: 'Episode #7 - Merry Christmas!'
 
 #permalink: /2005/12/22/episode-7-merry-christmas/
 permalink: /podcasts/episode-7-merry-christmas/
-votio:
-  - 8.9111111111111,45,
 
 ###################################
 # Media details

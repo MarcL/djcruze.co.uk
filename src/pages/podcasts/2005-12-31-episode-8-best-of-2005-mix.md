@@ -3,8 +3,6 @@ title: 'Episode #8 - Best of 2005 Mix'
 
 #permalink: /2005/12/31/episode-8-best-of-2005-mix/
 permalink: /podcasts/episode-8-best-of-2005-mix/
-votio:
-  - 9.0612244897959,49,
 
 ###################################
 # Media details

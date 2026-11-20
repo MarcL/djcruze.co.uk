@@ -3,8 +3,6 @@ title: 'Episode #52 - In The Moment'
 
 #permalink: /2009/06/16/episode-52-in-the-moment/
 permalink: /podcasts/episode-52-in-the-moment/
-votio:
-  - 9.4285714285715,28,
 
 ###################################
 # Media details

@@ -3,8 +3,6 @@ title: 'Episode #9 - La Rock 01'
 
 #permalink: /2006/01/18/episode-9-la-rock-01/
 permalink: /podcasts/episode-9-la-rock-01/
-votio:
-  - 7.7413793103449,58,
 
 ###################################
 # Media details

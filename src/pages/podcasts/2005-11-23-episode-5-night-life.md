@@ -3,8 +3,6 @@ title: 'Episode #5 - Night Life'
 
 #permalink: /2005/11/23/episode-4-night-life/
 permalink: /podcasts/episode-4-night-life/
-votio:
-  - 9.125,32,
 
 ###################################
 # Media details

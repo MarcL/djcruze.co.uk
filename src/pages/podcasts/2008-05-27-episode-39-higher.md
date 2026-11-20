@@ -3,8 +3,6 @@ title: 'Episode #39 - Higher'
 
 #permalink: /2008/05/27/episode-39-higher/
 permalink: /podcasts/episode-39-higher/
-votio:
-  - 8.6052631578948,38,
 
 ###################################
 # Podcast

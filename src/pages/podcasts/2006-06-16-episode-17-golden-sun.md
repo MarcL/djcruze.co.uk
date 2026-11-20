@@ -3,8 +3,6 @@ title: 'Episode #17 - Golden Sun'
 
 #permalink: /2006/06/16/episode-17-golden-sun/
 permalink: /podcasts/episode-17-golden-sun/
-votio:
-  - 8.9917355371898,121,
 
 ###################################
 # Media details

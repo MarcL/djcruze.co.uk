@@ -3,8 +3,6 @@ title: 'Episode #19 - Watch The Sunrise'
 
 #permalink: /2006/07/27/episode-19-watch-the-sunrise/
 permalink: /podcasts/episode-19-watch-the-sunrise/
-votio:
-  - 8.6800000000001,125,
 
 ###################################
 # Media details

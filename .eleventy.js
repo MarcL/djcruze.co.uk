@@ -8,7 +8,7 @@ const Image = require('@11ty/eleventy-img');
 const path = require('path');
 const { parseTracklist } = require('./lib/tracklist');
 const { loadWaveform } = require('./lib/waveform');
-const { metaDescription } = require('./lib/seo');
+const { metaDescription, podcastSeriesSchema, podcastEpisodeSchema } = require('./lib/seo');
 
 const isProductionBuild = process.env.ELEVENTY_ENV === 'production';
 
@@ -157,6 +157,14 @@ module.exports = (eleventyConfig) => {
 
     eleventyConfig.addFilter('metaDescription', (excerpt, description, fallback, tracklist) =>
         metaDescription({ excerpt, description, fallback, tracklist })
+    );
+
+    eleventyConfig.addFilter('podcastSeriesSchema', (podcast, siteUrl) =>
+        podcastSeriesSchema(podcast, siteUrl)
+    );
+
+    eleventyConfig.addFilter('podcastEpisodeSchema', (podcast, siteUrl, title, url, date, description, media, mediaUrl) =>
+        podcastEpisodeSchema({ podcast, siteUrl, title, url, date, description, media, mediaUrl })
     );
 
     // JSON that is safe to embed inside a <script> element.

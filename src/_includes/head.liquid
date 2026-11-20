@@ -26,6 +26,12 @@
     }
     </script>
 
+    {% if page.url == '/podcasts/' %}
+    <script type="application/ld+json">{{ podcast | podcastSeriesSchema: site.url | scriptJson }}</script>
+    {% elsif tags contains 'podcast' %}
+    <script type="application/ld+json">{{ podcast | podcastEpisodeSchema: site.url, title, page.url, page.date, pageDescription, media, site.mediaFilesUrl | scriptJson }}</script>
+    {% endif %}
+
     {% include partials/favicons %}
 
     <link rel="preconnect" href="https://fonts.googleapis.com">

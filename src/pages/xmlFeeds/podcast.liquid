@@ -52,7 +52,7 @@ sitemap:
         {% endif %}
         
         <enclosure
-          url="{{podcastEpisode.data.media.content | prepend: site.mediaFilesUrl}}"
+          url="{{podcastEpisode.data.media.content | prepend: site.mediaOriginUrl}}"
           length="{{podcastEpisode.data.media.fileSize}}"
           type="audio/mpeg"
         />

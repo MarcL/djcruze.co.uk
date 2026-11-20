@@ -51,7 +51,7 @@ module.exports = {
         tracklist: {
             hover: 'hover:bg-sky-100 hover:text-slate-800',
         },
-        downloadButton: 'bg-slate-900 hover:bg-slate-800 text-white',
+        downloadButton: 'bg-white border border-slate-300 hover:border-slate-400 text-slate-700 hover:text-slate-900',
     },
     components: {
         button: 'bg-slate-900 hover:bg-slate-800 text-white',

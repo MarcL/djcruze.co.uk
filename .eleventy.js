@@ -6,6 +6,7 @@ const rfc822Date = require('rfc822-date');
 const externalLinks = require('@aloskutov/eleventy-plugin-external-links');
 const Image = require('@11ty/eleventy-img');
 const path = require('path');
+const { parseTracklist } = require('./lib/tracklist');
 
 module.exports = (eleventyConfig) => {
     async function imageShortcode(
@@ -124,62 +125,12 @@ module.exports = (eleventyConfig) => {
         );
     });
 
-    eleventyConfig.addFilter('tracklistToJson', (tracklistArray) => {
-        if (!Array.isArray(tracklistArray)) {
-            return [{}];
+    eleventyConfig.addFilter('tracklistToJson', function (tracklist) {
+        try {
+            return parseTracklist(tracklist);
+        } catch (error) {
+            throw new Error(`${this.page?.inputPath}: ${error.message}`);
         }
-
-        const tracklist = tracklistArray.map((track) => {
-            const timestampRegex = /\[([0-9]{2}:[0-9]{2}:[0-9]{2})\]/;
-            const hasTimestamp = track.match(timestampRegex);
-
-            let parsedData = {};
-            if (hasTimestamp) {
-                const [timestampArtist, title, label] = track.split(' -');
-                const [timestamp, artist] = timestampArtist.split('] ');
-
-                const timestampWithoutBrackets = timestamp
-                    .replace('[', '')
-                    .replace(']', '');
-                const [hours, minutes, seconds] =
-                    timestampWithoutBrackets.split(':');
-                const timestampInSeconds =
-                    Number(hours) * 3600 +
-                    Number(minutes) * 60 +
-                    Number(seconds);
-
-                parsedData = {
-                    timestamp,
-                    timestampInSeconds,
-                    artist: artist?.trim(),
-                    title: title?.trim(),
-                    label: label?.trim(),
-                };
-            } else {
-                const [artist, title, label] = track.split(' -');
-
-                parsedData = {
-                    timestamp: null,
-                    timestampInSeconds: null,
-                    artist: artist?.trim(),
-                    title: title?.trim(),
-                    label: label?.trim(),
-                };
-            }
-
-            return {
-                ...parsedData,
-            };
-        });
-
-        // Count the number of labels in the tracklist
-        const labels = tracklist
-            .map((track) => track.label)
-            .filter((label) => label);
-        return {
-            tracklist,
-            hasLabels: labels.length > 0,
-        };
     });
 
     eleventyConfig.setDataDeepMerge(true);

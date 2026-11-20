@@ -12,48 +12,90 @@ media:
     image: '/images/mixes/cruze-and-vuish-wachenburg-schloss-october-2024.png'
     content: '/mixes/2024-10-05-cruze-vuish-wachenburg-schloss.mp3'
     tracklist:
-        - DJ Cruze - Check It!
-        - Rhyme Time Productions - Go Back
-        - Wild Child - Keep It Going (Original Mix)
-        - Oppidan - Circles Bootleg
-        - Kredential Productions - Nitty Gritty
-        - Greed - Pump Up The Volume (Friend Within Mix)
-        - Baauer - Chaaachaaaa
-        - Mr Jay - Get Love
-        - Sandy B - Make The World Go Round (Deep Dish Extended Mix)
-        - Framewerk vs Gat Decor - Pacha (Do You Want It Right Now?)
-        - Brothers Love Dubs - The Mighty Ming (DJ Nipper Remix)
-        - Claptone - The Drums (Din Daa Daa) feat. George Kranz
-        - Double 99 - Ripgroove (Original Mix)
-        - Baby D - Let Me Be Your Fantasy (Jamie Hai Remix)
-        - DJ Cruze - The Siren
-        - Grand Larceny - No Time For Playin (Full On Mix)
-        - Wildchild - Renegade Master (DJ Cruze Apache Reboot)
-        - Louise - All That Matters (DJ Tonka Remix)
-        - Deadly Sins - We Are Going On Down (Bottom Dollar Club Mix)
-        - Gat Decor - Passion (Naked Mix)
-        - All Boxed In - (These Things) Happen (Tolley's Stressed Mix)
-        - Size 9 - I'm Ready (Eats Everything Remix)
-        - Cassius - Go Up (Butch Remix)
-        - Florence & The Machine - You've Got The Love (Mark Knight Remix)
-        - Mory Kanté - Yeke Yeke (Hardfloor Mix)
-        - DJ Edge - Compnded (Clarke + East Remix)
-        - Goldcoast - Better Vibes
-        - Mr Jay - I Need a Lover
-        - Sunscreem - Perfect Motion (Boys Own Mix)
-        - Amos - Let Love Shine (Rhyme Time Production Dub Mix)
-        - Liquid - Sweet Harmony (DJ Cruze Preacher Reboot)
-        - Rhyme Time Productions - You And Me (Hard Mix)
-        - Tony Di Bart - The Real Thing (Dance Mix)
-        - Faithless - Insomnia (Armand's European Vacation Mix)
-        - Awesome 3 - Don't Go (Kicks Like A Mule Mix)
-        - Urban Shakedown - Some Justice
-        - Gypsy - I Trance You (Richie Blacker Rave Spirit Remix)
-        - Energy 52 - Café Del Mar (Three 'n One 2002 Update Remix)
-        - DJ Zeus - Shiftin' Gears (Grand Prix Mix)
-        - The Prodigy - Fire (Sunrise Version)
-        - The Fog vs Chus & Ceballos - Been A Long Time (Mark Knight Remix)
-        - Blast - Crazy Man (F.O.S. In Progress Mix)
+        - artist: 'DJ Cruze'
+          title: 'Check It!'
+        - artist: 'Rhyme Time Productions'
+          title: 'Go Back'
+        - artist: 'Wild Child'
+          title: 'Keep It Going (Original Mix)'
+        - artist: 'Oppidan'
+          title: 'Circles Bootleg'
+        - artist: 'Kredential Productions'
+          title: 'Nitty Gritty'
+        - artist: 'Greed'
+          title: 'Pump Up The Volume (Friend Within Mix)'
+        - artist: 'Baauer'
+          title: 'Chaaachaaaa'
+        - artist: 'Mr Jay'
+          title: 'Get Love'
+        - artist: 'Sandy B'
+          title: 'Make The World Go Round (Deep Dish Extended Mix)'
+        - artist: 'Framewerk vs Gat Decor'
+          title: 'Pacha (Do You Want It Right Now?)'
+        - artist: 'Brothers Love Dubs'
+          title: 'The Mighty Ming (DJ Nipper Remix)'
+        - artist: 'Claptone'
+          title: 'The Drums (Din Daa Daa) feat. George Kranz'
+        - artist: 'Double 99'
+          title: 'Ripgroove (Original Mix)'
+        - artist: 'Baby D'
+          title: 'Let Me Be Your Fantasy (Jamie Hai Remix)'
+        - artist: 'DJ Cruze'
+          title: 'The Siren'
+        - artist: 'Grand Larceny'
+          title: 'No Time For Playin (Full On Mix)'
+        - artist: 'Wildchild'
+          title: 'Renegade Master (DJ Cruze Apache Reboot)'
+        - artist: 'Louise'
+          title: 'All That Matters (DJ Tonka Remix)'
+        - artist: 'Deadly Sins'
+          title: 'We Are Going On Down (Bottom Dollar Club Mix)'
+        - artist: 'Gat Decor'
+          title: 'Passion (Naked Mix)'
+        - artist: 'All Boxed In'
+          title: '(These Things) Happen (Tolley''s Stressed Mix)'
+        - artist: 'Size 9'
+          title: 'I''m Ready (Eats Everything Remix)'
+        - artist: 'Cassius'
+          title: 'Go Up (Butch Remix)'
+        - artist: 'Florence & The Machine'
+          title: 'You''ve Got The Love (Mark Knight Remix)'
+        - artist: 'Mory Kanté'
+          title: 'Yeke Yeke (Hardfloor Mix)'
+        - artist: 'DJ Edge'
+          title: 'Compnded (Clarke + East Remix)'
+        - artist: 'Goldcoast'
+          title: 'Better Vibes'
+        - artist: 'Mr Jay'
+          title: 'I Need a Lover'
+        - artist: 'Sunscreem'
+          title: 'Perfect Motion (Boys Own Mix)'
+        - artist: 'Amos'
+          title: 'Let Love Shine (Rhyme Time Production Dub Mix)'
+        - artist: 'Liquid'
+          title: 'Sweet Harmony (DJ Cruze Preacher Reboot)'
+        - artist: 'Rhyme Time Productions'
+          title: 'You And Me (Hard Mix)'
+        - artist: 'Tony Di Bart'
+          title: 'The Real Thing (Dance Mix)'
+        - artist: 'Faithless'
+          title: 'Insomnia (Armand''s European Vacation Mix)'
+        - artist: 'Awesome 3'
+          title: 'Don''t Go (Kicks Like A Mule Mix)'
+        - artist: 'Urban Shakedown'
+          title: 'Some Justice'
+        - artist: 'Gypsy'
+          title: 'I Trance You (Richie Blacker Rave Spirit Remix)'
+        - artist: 'Energy 52'
+          title: 'Café Del Mar (Three ''n One 2002 Update Remix)'
+        - artist: 'DJ Zeus'
+          title: 'Shiftin'' Gears (Grand Prix Mix)'
+        - artist: 'The Prodigy'
+          title: 'Fire (Sunrise Version)'
+        - artist: 'The Fog vs Chus & Ceballos'
+          title: 'Been A Long Time (Mark Knight Remix)'
+        - artist: 'Blast'
+          title: 'Crazy Man (F.O.S. In Progress Mix)'
 
 layout: audio
 ---

@@ -20,12 +20,20 @@ media:
   length: '00:40:03'
   keywords: ''
   tracklist:
-    - "Antoine Clamaran - Keep On Tryin' (Hott 22 Remix)"
-    - 'George Duke - Brazilian Love Affair (Mike Perry Extended Vocal Mix)'
-    - 'Wi-Fi - Be Without You (Raul Rincon Remix)'
-    - "Tune Brothers - I Like It (Ian Carey's Ghetto Fabulous Mix)"
-    - 'Simmons & Christopher - Weekend (Raul Rincon Remix) - AATW'
-    - 'Cafe Groove - Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix) - Hit! Records'
+    - artist: 'Antoine Clamaran'
+      title: 'Keep On Tryin'' (Hott 22 Remix)'
+    - artist: 'George Duke'
+      title: 'Brazilian Love Affair (Mike Perry Extended Vocal Mix)'
+    - artist: 'Wi-Fi'
+      title: 'Be Without You (Raul Rincon Remix)'
+    - artist: 'Tune Brothers'
+      title: 'I Like It (Ian Carey''s Ghetto Fabulous Mix)'
+    - artist: 'Simmons & Christopher'
+      title: 'Weekend (Raul Rincon Remix)'
+      label: 'AATW'
+    - artist: 'Cafe Groove'
+      title: 'Why U Wanna Do Me Wrong? (Soul Avengerz Vocal Mix)'
+      label: 'Hit! Records'
 
 layout: audio
 ---

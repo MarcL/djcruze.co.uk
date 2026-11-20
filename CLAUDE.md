@@ -42,7 +42,7 @@ src/
 - **Theme**: Tailwind utility classes stored as data in `src/_data/theme.js`, referenced in templates as `{{theme.section.property}}`
 - **Images**: Optimized via `@11ty/eleventy-img` — generates AVIF, WebP, JPEG at multiple widths (300, 600, 1024, 1280)
 - **Audio hosting**: Media files served from Backblaze B2 (`site.mediaFilesUrl`)
-- **Custom filters/shortcodes**: Defined in `.eleventy.js` — `image`, `pageDate`, `rfc822Date`, `tracklistToJson`, etc.
+- **Custom filters/shortcodes**: Defined in `.eleventy.js` — `image`, `pageDate`, `rfc822Date`, `tracklistToJson` (see `lib/tracklist.js`), etc.
 
 ## Content Collections
 
@@ -58,6 +58,6 @@ Each collection has a `.11tydata.json` file setting default layout and tags:
 ## Conventions
 
 - Content filenames follow `YYYY-MM-DD-slug.md` format
-- No test framework — use `npm run link-check` for validation
+- Unit tests use `node:test`: run `npm test` (tests live next to code in `lib/`). Use `npm run link-check` for link validation
 - Renovate Bot manages dependency updates (see `renovate.json`)
 - Environment-aware URLs: `ELEVENTY_ENV=dev` for localhost, `CONTEXT=production` for Netlify production

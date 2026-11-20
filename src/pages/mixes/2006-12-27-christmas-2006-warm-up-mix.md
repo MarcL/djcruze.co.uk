@@ -20,11 +20,19 @@ media:
   length: '00:34:41'
   keywords: ''
   tracklist:
-    - 'Mischa Daniels - Take Me Higher (Stonebridge Mix) - Boss Records'
-    - 'Just Jack - Starz In Their Eyes (Trophy Twins Mix) - '
-    - 'The Energies - Life Begins (Raul Rincon Dub) -'
-    - 'Kingpinz - Need You Tonight (Original Mix) - Cayenne Records'
-    - 'Soul Seekerz - Party For The Weekend (Vocal Mix) - Positiva Records'
+    - artist: 'Mischa Daniels'
+      title: 'Take Me Higher (Stonebridge Mix)'
+      label: 'Boss Records'
+    - artist: 'Just Jack'
+      title: 'Starz In Their Eyes (Trophy Twins Mix)'
+    - artist: 'The Energies'
+      title: 'Life Begins (Raul Rincon Dub)'
+    - artist: 'Kingpinz'
+      title: 'Need You Tonight (Original Mix)'
+      label: 'Cayenne Records'
+    - artist: 'Soul Seekerz'
+      title: 'Party For The Weekend (Vocal Mix)'
+      label: 'Positiva Records'
 
 layout: audio
 ---

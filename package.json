@@ -13,7 +13,8 @@
     "build:js": "parcel build src/clientjs/index.js --out-dir src/distjs --out-file bundle.js",
     "link-check": "blc http://localhost:4000 -ro",
     "serve": "ELEVENTY_ENV=dev eleventy --serve & npx tailwindcss -i ./src/_includes/css/tailwind.css -o ./src/css/style.css --watch",
-    "test": "node --test"
+    "test": "node --test",
+    "waveforms": "node scripts/generateWaveforms.js"
   },
   "devDependencies": {
     "@11ty/eleventy": "^3.0.0",
@@ -26,6 +27,7 @@
     "got": "^14.4.3",
     "lodash.escape": "^4.0.1",
     "rfc822-date": "^0.0.3",
-    "tailwindcss": "^3.2.4"
+    "tailwindcss": "^3.2.4",
+    "wavesurfer.js": "^8.1.0"
   }
 }

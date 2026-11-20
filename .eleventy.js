@@ -7,6 +7,9 @@ const externalLinks = require('@aloskutov/eleventy-plugin-external-links');
 const Image = require('@11ty/eleventy-img');
 const path = require('path');
 const { parseTracklist } = require('./lib/tracklist');
+const { loadWaveform } = require('./lib/waveform');
+
+const isProductionBuild = process.env.ELEVENTY_ENV === 'production';
 
 module.exports = (eleventyConfig) => {
     async function imageShortcode(
@@ -64,6 +67,12 @@ module.exports = (eleventyConfig) => {
     eleventyConfig.addPassthroughCopy({ 'src/favicons': 'favicons' });
     eleventyConfig.addPassthroughCopy({ 'src/css': 'css' });
     eleventyConfig.addPassthroughCopy({ 'src/fonts': 'fonts' });
+    eleventyConfig.addPassthroughCopy({ 'src/js': 'js' });
+    eleventyConfig.addPassthroughCopy({ 'lib/playerUtils.mjs': 'js/playerUtils.mjs' });
+    eleventyConfig.addPassthroughCopy({
+        'node_modules/wavesurfer.js/dist/wavesurfer.esm.js': 'js/vendor/wavesurfer.esm.js',
+        'node_modules/wavesurfer.js/dist/plugins/regions.esm.js': 'js/vendor/regions.esm.js',
+    });
 
     // Shortcodes
     eleventyConfig.addShortcode('version', function () {
@@ -132,6 +141,23 @@ module.exports = (eleventyConfig) => {
             throw new Error(`${this.page?.inputPath}: ${error.message}`);
         }
     });
+
+    // Pre-generated waveform peaks (see scripts/generateWaveforms.js). Production builds fail
+    // when they are missing so a new mix or podcast can't ship without them.
+    eleventyConfig.addFilter('waveform', function (mediaContent) {
+        const waveform = loadWaveform(mediaContent);
+        if (!waveform) {
+            const message = `${this.page?.inputPath}: no waveform for ${mediaContent}. Run "npm run waveforms" and commit the JSON in src/waveforms/.`;
+            if (isProductionBuild) throw new Error(message);
+            console.warn(`[waveform] ${message}`);
+        }
+        return waveform;
+    });
+
+    // JSON that is safe to embed inside a <script> element.
+    eleventyConfig.addFilter('scriptJson', (value) =>
+        JSON.stringify(value ?? null).replace(/</g, '\\u003c')
+    );
 
     eleventyConfig.setDataDeepMerge(true);
 

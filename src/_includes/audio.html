@@ -58,13 +58,6 @@ layout: oneColumn
                 </a>
                 {% endif %}
             </div>
-
-            {% if subscribe %}
-            <div class="pt-2">
-                <div class="text-sm font-bold uppercase {{theme.main.text}} pb-2">Subscribe to the podcast</div>
-                {% include partials/subscribeLinks, align: 'justify-center sm:justify-start' %}
-            </div>
-            {% endif %}
         </div>
     </div>
 
@@ -92,6 +85,13 @@ layout: oneColumn
         </div>
     </div>
 </div>
+
+{% if subscribe %}
+<div class="pb-2">
+    <h3 class="text-xl md:text-2xl font-extrabold text-left uppercase pb-4">Subscribe to the podcast</h3>
+    {% include partials/subscribeLinks %}
+</div>
+{% endif %}
 
 <!-- Sticky mini player, shown when the main player scrolls off screen during playback -->
 <div id="mini-player" class="hidden fixed inset-x-0 bottom-0 z-50 bg-slate-900 text-white shadow-lg">

@@ -30,9 +30,9 @@ media:
     - artist: 'Andrea T Mendoza'
       title: 'Can''t Fake It (Kurd Maverick Mix)'
       label: 'Adhesive'
-    - artist: 'Unknown Artist'
+    - artist: 'Korn'
       title: 'Twisted Transistor (Kupper''s Electro-tec Mix)'
-      label: 'White Label'
+      label: 'Virgin'
     - artist: 'Braund Reynolds'
       title: 'Rocket'
       label: 'Ten Records'
@@ -63,7 +63,7 @@ Here is the tracklisting for this week's show:
   - [The Soul Seekerz][6] - Electrick Shock 2005 - Instinct Records
 - **Top 10 rundown:**
   - [Andrea T Mendoza][7] - Can't Fake It (Kurd Maverick Mix) - Adhesive
-  - Unknown Artist - Twisted Transistor (Kupper's Electro-tec Mix) - White Label
+  - Korn - Twisted Transistor (Kupper's Electro-tec Mix) - Virgin
   - [Braund Reynolds][8] - Rocket - Ten Records
   - Deep Dish - Sacramento (Raul Rincon Remix) -[ Positiva][9]
   - Royksopp - What Else Is There? ([Thin White Duke][10] Mix) - [Wall Of Sound][11]

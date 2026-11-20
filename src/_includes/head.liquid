@@ -7,6 +7,8 @@
     <meta name="author" content="{{site.author}}" />
     <meta name="generator" content="{{eleventy.generator}}" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ podcast.title }}" href="{{ podcast.feedPath | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} news" href="{{ '/feed.xml' | prepend: site.url }}">
 
     {% if page.url == '/' %}
     <title>{{title}}</title>

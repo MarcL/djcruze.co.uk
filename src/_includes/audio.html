@@ -61,8 +61,8 @@ layout: oneColumn
 
             {% if subscribe %}
             <div class="pt-2">
-                <div class="text-xs font-semibold uppercase {{theme.main.secondary}} pb-2">Subscribe to the podcast</div>
-                {% include partials/subscribeLinks %}
+                <div class="text-sm font-bold uppercase {{theme.main.text}} pb-2">Subscribe to the podcast</div>
+                {% include partials/subscribeLinks, align: 'justify-center sm:justify-start' %}
             </div>
             {% endif %}
         </div>

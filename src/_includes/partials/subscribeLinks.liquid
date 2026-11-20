@@ -1,6 +1,6 @@
 {%- comment -%} Keep each tag on one line: this partial is also rendered inside Markdown pages, where blank or indented lines break the HTML. {%- endcomment -%}
-<ul class="flex flex-wrap items-center justify-center sm:justify-start gap-2" aria-label="Subscribe to the {{podcast.title}}">
+<ul class="flex flex-wrap items-center {{ align | default: 'justify-start' }} gap-2" aria-label="Subscribe to the {{podcast.title}}">
 {%- for podcastLink in podcast.links -%}
-<li><a href="{{podcastLink.url}}"{% unless podcastLink.url contains '://' %} type="application/rss+xml" title="Copy this link into your podcast app"{% endunless %} class="{{theme.homepage.secondaryButton}} inline-flex items-center gap-2 min-h-[44px] px-4 py-2 rounded-full text-xs font-semibold tracking-wide uppercase transition-colors duration-200"><img src="{{podcastLink.icon}}" class="w-6 h-6 rounded-sm" alt="" /><span>{{podcastLink.name}}</span></a></li>
+<li><a href="{{podcastLink.url}}"{% unless podcastLink.url contains '://' %} type="application/rss+xml" title="Copy this link into your podcast app"{% endunless %} class="{{theme.homepage.secondaryButton}} inline-flex items-center gap-2 min-h-[44px] px-4 py-2 rounded-full text-sm font-bold uppercase transition-colors duration-200"><img src="{{podcastLink.icon}}" class="w-6 h-6 rounded-sm" alt="" /><span>{{podcastLink.name}}</span></a></li>
 {%- endfor -%}
 </ul>

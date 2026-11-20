@@ -3,8 +3,6 @@ title: 'Episode #21 - Seasons Of Love'
 
 #permalink: /2006/09/23/episode-21-seasons-of-love/
 permalink: /podcasts/episode-21-seasons-of-love/
-votio:
-  - 8.3592233009708,103,
 
 ###################################
 # Media details

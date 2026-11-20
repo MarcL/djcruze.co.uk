@@ -3,8 +3,6 @@ title: 'Episode #13 - Return Of The Vigilante'
 
 #permalink: /2006/03/22/episode-13-return-of-the-vigilante/
 permalink: /podcasts/episode-13-return-of-the-vigilante/
-votio:
-  - 8.2427184466017,103,
 
 ###################################
 # Media details

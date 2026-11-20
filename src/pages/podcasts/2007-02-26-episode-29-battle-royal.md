@@ -7,8 +7,6 @@ excerpt: |
   Here is episode #29 of the DJ Cruze podcast and it has been a long time coming, I know, I know! I've been whizzing down the mountain in sunny (and snowy) Sainte Foy in the French Alps. I then came home and took my lovely wife Clare off to Prague for a few days of sight seeing, beer drinking (...that was mainly me!) and good, cheap food eating fun! So now that I'm back I've had to catch up and find some time to get the DJ Cruze podcast sorted. So here it is...
 #permalink: /2007/02/26/episode-29-battle-royal/
 permalink: /mixes/episode-29-battle-royal/
-votio:
-  - 8.1739130434783,46,
 
 ###################################
 # Media details

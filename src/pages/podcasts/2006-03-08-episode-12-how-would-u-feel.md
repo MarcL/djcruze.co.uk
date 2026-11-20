@@ -3,8 +3,6 @@ title: 'Episode #12 - How Would U Feel'
 
 #permalink: /2006/03/08/episode-12-how-would-u-feel/
 permalink: /podcasts/episode-12-how-would-u-feel/
-votio:
-  - 8.3118279569891,93,
 
 ###################################
 # Media details

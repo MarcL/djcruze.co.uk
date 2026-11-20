@@ -3,8 +3,6 @@ title: 'Episode #14 - Cease!'
 
 #permalink: /2006/04/21/episode-14-cease/
 permalink: /podcasts/episode-14-cease/
-votio:
-  - 8.6636363636363,110,
 
 ###################################
 # Media details

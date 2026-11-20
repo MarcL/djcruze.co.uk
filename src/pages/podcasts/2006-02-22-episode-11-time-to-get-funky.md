@@ -3,8 +3,6 @@ title: 'Episode #11 - Time To Get Funky'
 
 #permalink: /2006/02/22/episode-11-time-to-get-funky/
 permalink: /podcasts/episode-11-time-to-get-funky/
-votio:
-  - 8.7741935483867,93,
 
 ###################################
 # Media details

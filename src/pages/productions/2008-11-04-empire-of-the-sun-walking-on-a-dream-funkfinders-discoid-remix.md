@@ -5,8 +5,6 @@ excerpt: 'DJ Cruze remix of the Empire Of The Sun classic indie track'
 
 # permalink: /2008/11/04/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
 permalink: /productions/empire-of-the-sun-walking-on-a-dream-funkfinders-discoid-remix/
-'itunes:category':
-  - Music
 categories:
   - Studio
 media:

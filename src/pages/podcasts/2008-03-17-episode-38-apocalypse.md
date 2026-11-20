@@ -3,8 +3,6 @@ title: 'Episode #38 - Apocalypse'
 
 #permalink: /2008/03/17/episode-38-apocalypse/
 permalink: /podcasts/episode-38-apocalypse/
-votio:
-  - 8.6363636363634,44,
 
 ###################################
 # Media details

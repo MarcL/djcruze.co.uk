@@ -3,8 +3,6 @@ title: 'Episode #22 - Life Begins'
 
 #permalink: /2006/10/10/episode-22-life-begins/
 permalink: /podcasts/episode-22-life-begins/
-votio:
-  - 9.031914893617,94,
 
 ###################################
 # Media details

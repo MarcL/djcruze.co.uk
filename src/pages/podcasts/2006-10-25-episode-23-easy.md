@@ -3,8 +3,6 @@ title: 'Episode #23 - Easy'
 
 #permalink: /2006/10/25/episode-23-easy/
 permalink: /podcasts/episode-23-easy/
-votio:
-  - 8.7692307692308,104,
 
 ###################################
 # Media details

@@ -3,8 +3,6 @@ title: 'Episode #37 - Change'
 
 #permalink: /2008/02/04/episode-37-change/
 permalink: /podcasts/episode-37-change/
-votio:
-  - 9.3333333333333,24,
 
 ###################################
 # Media details

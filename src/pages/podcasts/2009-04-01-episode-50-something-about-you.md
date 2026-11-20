@@ -3,8 +3,6 @@ title: 'Episode #50 - Something About You'
 
 #permalink: /2009/04/01/episode-50-something-about-you/
 permalink: /podcasts/episode-50-something-about-you/
-votio:
-  - 9.236842105263,38,
 
 ###################################
 # Media details

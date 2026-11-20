@@ -3,8 +3,6 @@ title: 'Episode #43 - Walking On A Dream'
 
 #permalink: /2008/09/21/episode-43-walking-on-a-dream/
 permalink: /podcasts/episode-43-walking-on-a-dream/
-votio:
-  - 9.7142857142856,14,
 
 ###################################
 # Media details

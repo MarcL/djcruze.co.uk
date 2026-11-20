@@ -3,8 +3,6 @@ title: 'Episode #36 - Best of 2007 Podcast'
 
 #permalink: /2008/01/06/episode-36-best-of-2007-podcast/
 permalink: /podcasts/episode-36-best-of-2007-podcast/
-votio:
-  - 8.4545454545456,22,
 
 ###################################
 # Podcast

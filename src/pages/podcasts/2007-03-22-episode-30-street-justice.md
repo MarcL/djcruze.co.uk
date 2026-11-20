@@ -3,8 +3,6 @@ title: 'Episode #30 - Street Justice'
 
 #permalink: /2007/03/22/episode-30-street-justice/
 permalink: /mixes/episode-30-street-justice/
-votio:
-  - 9.4347826086955,23,
 
 ###################################
 # Media details

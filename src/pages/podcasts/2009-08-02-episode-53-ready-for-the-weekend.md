@@ -3,8 +3,6 @@ title: 'Episode #53 - Ready For The Weekend'
 
 #permalink: /2009/08/02/episode-53-ready-for-the-weekend/
 permalink: /podcasts/episode-53-ready-for-the-weekend/
-votio:
-  - 9.2307692307692,26,
 
 ###################################
 # Media details

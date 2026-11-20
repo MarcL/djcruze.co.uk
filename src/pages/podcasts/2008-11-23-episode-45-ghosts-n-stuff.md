@@ -3,8 +3,6 @@ title: 'Episode #45 - Ghosts N Stuff'
 
 #permalink: /2008/11/23/episode-45-ghosts-n-stuff/
 permalink: /podcasts/episode-45-ghosts-n-stuff/
-votio:
-  - 9.2564102564103,39,
 
 ###################################
 # Media details

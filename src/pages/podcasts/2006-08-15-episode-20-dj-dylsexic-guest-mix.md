@@ -3,8 +3,6 @@ title: 'Episode #20 - DJ Dylsexic guest mix'
 
 #permalink: /2006/08/15/episode-20-dj-dylsexic-guest-mix/
 permalink: /podcasts/episode-20-dj-dylsexic-guest-mix/
-votio:
-  - 8.0612244897957,98,
 
 ###################################
 # Media details

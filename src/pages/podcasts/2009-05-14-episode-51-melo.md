@@ -3,8 +3,6 @@ title: 'Episode #51 - Melo'
 
 #permalink: /2009/05/14/episode-51-melo/
 permalink: /podcasts/episode-51-melo/
-votio:
-  - 8.5757575757576,33,
 
 ###################################
 # Media details

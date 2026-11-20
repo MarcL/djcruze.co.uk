@@ -4,8 +4,6 @@ title: 'Episode #25 - Santa Baby'
 excerpt: "Ho! Ho! Ho! Merry Christmas! It's that time of year again when I bring some funky house tunes and dirty electro and leave it under the Christmas tree. Episode #25 of the DJ Cruze podcast will be appearing in your podcatcher on Christmas morning. It's a lot better than that lump of coal you received last year for being a naughty boy or girl!"
 #permalink: /2006/12/24/episode-25-santa-baby/
 permalink: /podcasts/episode-25-santa-baby/
-votio:
-  - 8.421052631579,57,
 
 ###################################
 # Media details

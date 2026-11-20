@@ -4,8 +4,6 @@ title: 'Episode #27 - Ghetto Girl'
 excerpt: "Christmas is over and it's time to get back to work so what better way to start off the year than a new DJ Cruze podcast. Episode #27 brings you lots of funky tunes and plenty of dirty electro as always."
 #permalink: /2007/01/14/episode-27-ghetto-girl/
 permalink: /podcasts/episode-27-ghetto-girl/
-votio:
-  - 7.8169014084504,71,
 
 ###################################
 # Media details

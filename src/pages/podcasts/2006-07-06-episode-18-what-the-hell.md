@@ -3,8 +3,6 @@ title: 'Episode #18 - What The Hell'
 
 #permalink: /2006/07/06/episode-18-what-the-hell/
 permalink: /podcasts/episode-18-what-the-hell/
-votio:
-  - 8.442477876106,113,
 
 ###################################
 # Media details

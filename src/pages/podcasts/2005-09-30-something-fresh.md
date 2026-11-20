@@ -3,8 +3,6 @@ title: 'Episode #1 - Something Fresh'
 
 #permalink: /2005/09/30/something-fresh/
 permalink: /podcasts/episode-1-something-fresh/
-votio:
-  - 8.7142857142857,21,
 
 ###################################
 # Media details

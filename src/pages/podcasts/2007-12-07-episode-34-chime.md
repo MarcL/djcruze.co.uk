@@ -3,8 +3,6 @@ title: 'Episode #34 - Chime'
 
 #permalink: /2007/12/07/episode-34-chime/
 permalink: /podcasts/episode-34-chime/
-votio:
-  - 8.955882352941,68,
 
 ###################################
 # Media details

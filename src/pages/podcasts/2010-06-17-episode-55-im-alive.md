@@ -2,8 +2,6 @@
 title: "Episode #55 - I'm Alive"
 #permalink: /2010/06/17/episode-55-im-alive/
 permalink: /podcasts/episode-55-im-alive/
-votio:
-  - 8.5652173913042,23,
 
 ###################################
 # Media details

@@ -3,8 +3,6 @@ title: 'Episode #40 - Afrojacker'
 
 #permalink: /2008/06/22/episode-40-afrojacker/
 permalink: /podcasts/episode-40-afrojacker/
-votio:
-  - 9.7142857142857,28,
 
 ###################################
 # Media details

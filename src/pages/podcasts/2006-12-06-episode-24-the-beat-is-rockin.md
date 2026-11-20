@@ -3,8 +3,6 @@ title: 'Episode #24 - The Beat Is Rockin'
 
 #permalink: /2006/12/06/episode-24-the-beat-is-rockin/
 permalink: /podcasts/episode-24-the-beat-is-rockin/
-votio:
-  - 8.9294117647059,85,
 
 ###################################
 # Media details

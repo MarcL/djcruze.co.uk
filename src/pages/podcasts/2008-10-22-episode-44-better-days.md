@@ -3,8 +3,6 @@ title: 'Episode #44 - Better Days'
 
 #permalink: /2008/10/22/episode-44-better-days/
 permalink: /podcasts/episode-44-better-days/
-votio:
-  - 9.2399999999999,25,
 
 ###################################
 # Media details

@@ -3,17 +3,6 @@ title: 'Episode #56 - Teenage Crime'
 
 #permalink: /2010/08/18/episode-56-teenage-crime/
 permalink: /podcasts/episode-56-teenage-crime/
-'itunes:category':
-  - Music
-enclosure:
-  - |
-    |
-        http://www.djcruzeaudio.co.uk/podcasts/DJCruze_Podcast056_180810.mp3
-        74415281
-        audio/mpeg
-
-votio:
-  - 9.2962962962964,27,
 
 ###################################
 # Podcast

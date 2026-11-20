@@ -14,7 +14,12 @@ module.exports = {
   },
   links: [
     {
-      name: 'iTunes',
+      name: 'RSS',
+      url: '/podcasts/feed.xml',
+      icon: '/images/podcasts/feed/icon-rss.svg'
+    },
+    {
+      name: 'Apple Podcasts',
       url: 'https://podcasts.apple.com/us/podcast/podcasts-dj-cruze/id89935810?mt=2&app=podcast',
       icon: '/images/podcasts/feed/icon-applepodcasts.svg'
     },
@@ -27,11 +32,6 @@ module.exports = {
       name: 'Pocket Casts',
       url: 'https://pca.st/itunes/89935810',
       icon: '/images/podcasts/feed/icon-pocketcasts.svg'
-    },
-    {
-      name: 'RSS',
-      url: '/podcasts/feed.xml',
-      icon: '/images/podcasts/feed/icon-rss.svg'
     }
     // spotify: 'TODO',
     // google: 'TODO',

@@ -1,6 +1,10 @@
-{% if text %}
+{% if text or showSubscribe %}
 <div class="prose prose-xl mx-auto">
   {{text}}
+  {% if showSubscribe %}
+  <h2>Subscribe to the podcast</h2>
+  <div class="not-prose">{% include partials/subscribeLinks %}</div>
+  {% endif %}
 </div>
 {% endif %}
 

@@ -1,11 +1,4 @@
-{% assign pageDescription = site.description %}
-{%if description %}
-{% assign pageDescription = description %}
-{% endif %}
-{%if excerpt %}
-{% assign pageDescription = excerpt %}
-{% endif %}
-
+{% comment %} pageDescription is set in head.liquid {% endcomment %}
 {% assign imageUrl = site.headerImage %}
 {% if headerImage %}
 {% assign imageUrl = headerImage %}
@@ -20,7 +13,7 @@
 <meta property="og:site_name" content="{{ site.title }}" />
 <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.url }}" />
 <meta property="og:title" content="{{ title }}" />
-<meta property="og:description" content="{{ pageDescription }}" />
+<meta property="og:description" content="{{ pageDescription | escape }}" />
 
 <meta property="og:image" content="{{ site.url }}{{ imageUrl }}" />
 <meta property="og:type" content="article" />
@@ -30,14 +23,14 @@
 
 <!-- Schema.org markup for Google+ -->
 <meta itemprop="name" content="{{ title }}">
-<meta itemprop="description" content="{{ pageDescription }}">
+<meta itemprop="description" content="{{ pageDescription | escape }}">
 <meta itemprop="image" content="{{ site.url }}{{ imageUrl }}">
 
 <!-- Twitter Card data -->
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:site" content="@{{site.twitterUsername}}">
 <meta name="twitter:title" content="{{ title }}">
-<meta name="twitter:description" content="{{ pageDescription }}">
+<meta name="twitter:description" content="{{ pageDescription | escape }}">
 <meta name="twitter:creator" content="@{{site.twitterUsername}}">
 <!-- Twitter summary card with large image must be at least 280x150px -->
 <meta name="twitter:image:src" content="{{ site.url }}{{ imageUrl }}">

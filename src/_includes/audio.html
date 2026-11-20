@@ -42,7 +42,7 @@ layout: oneColumn
                 <span class="js-now-playing uppercase"></span>
             </div>
 
-            <!-- Actions: download + subscribe -->
+            <!-- Actions: download -->
             <div class="flex items-center justify-center sm:justify-start gap-4 flex-wrap pt-1">
                 {% if download %}
                 <a
@@ -56,25 +56,6 @@ layout: oneColumn
                     </svg>
                     <span>Download</span>
                 </a>
-                {% endif %}
-
-                {% if subscribe %}
-                <div class="flex items-center gap-2">
-                    <span class="text-xs font-medium uppercase {{theme.main.secondary}}">Subscribe</span>
-                    {% for podcastItem in podcast.links %}
-                    <a
-                        href="{{podcastItem.url}}"
-                        target="_blank"
-                        rel="noopener"
-                        title="{{podcastItem.name}}"
-                        class="block transition-transform duration-150 hover:scale-110"
-                    ><img
-                        src="{{podcastItem.icon}}"
-                        class="w-6 h-6 rounded-sm"
-                        alt="Subscribe with {{podcastItem.name}}"
-                    /></a>
-                    {% endfor %}
-                </div>
                 {% endif %}
             </div>
         </div>
@@ -104,6 +85,13 @@ layout: oneColumn
         </div>
     </div>
 </div>
+
+{% if subscribe %}
+<div class="pb-2">
+    <h3 class="text-xl md:text-2xl font-extrabold text-left uppercase pb-4">Subscribe to the podcast</h3>
+    {% include partials/subscribeLinks %}
+</div>
+{% endif %}
 
 <!-- Sticky mini player, shown when the main player scrolls off screen during playback -->
 <div id="mini-player" class="hidden fixed inset-x-0 bottom-0 z-50 bg-slate-900 text-white shadow-lg">

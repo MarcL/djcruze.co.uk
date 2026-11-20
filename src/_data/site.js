@@ -1,4 +1,5 @@
 const CANONICAL_URL = 'https://www.djcruze.co.uk';
+const MEDIA_ORIGIN_URL = 'https://f001.backblazeb2.com/file/djcruzemedia';
 const isDevelopmentBuild = process.env.ELEVENTY_ENV === 'dev';
 const isNetlifyProductionDeployment = process.env.CONTEXT === 'production';
 
@@ -23,5 +24,7 @@ module.exports = {
   // works correctly on mobile browsers (e.g. Chrome on Android).
   // Netlify rewrites /media/* → https://f001.backblazeb2.com/file/djcruzemedia/*
   // See netlify.toml for the redirect rule.
-  mediaFilesUrl: isDevelopmentBuild ? 'https://f001.backblazeb2.com/file/djcruzemedia' : '/media'
+  mediaFilesUrl: isDevelopmentBuild ? MEDIA_ORIGIN_URL : '/media',
+  // Podcast feeds need absolute media URLs, so they point straight at B2.
+  mediaOriginUrl: MEDIA_ORIGIN_URL
 }

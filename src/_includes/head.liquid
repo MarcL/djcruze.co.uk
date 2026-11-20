@@ -3,10 +3,13 @@
 
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content="{{site.description}}" />
+    {% assign pageDescription = excerpt | metaDescription: description, site.description, media.tracklist %}
+    <meta name="description" content="{{ pageDescription | escape }}" />
     <meta name="author" content="{{site.author}}" />
     <meta name="generator" content="{{eleventy.generator}}" />
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ podcast.title }}" href="{{ podcast.feedPath | prepend: site.url }}">
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }} news" href="{{ '/feed.xml' | prepend: site.url }}">
 
     {% if page.url == '/' %}
     <title>{{title}}</title>
@@ -22,6 +25,12 @@
         "url" : "{{site.url}}"
     }
     </script>
+
+    {% if page.url == '/podcasts/' %}
+    <script type="application/ld+json">{{ podcast | podcastSeriesSchema: site.url | scriptJson }}</script>
+    {% elsif tags contains 'podcast' %}
+    <script type="application/ld+json">{{ podcast | podcastEpisodeSchema: site.url, title, page.url, page.date, pageDescription, media, site.mediaFilesUrl | scriptJson }}</script>
+    {% endif %}
 
     {% include partials/favicons %}
 
